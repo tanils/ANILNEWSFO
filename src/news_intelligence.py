@@ -3,6 +3,7 @@
 from __future__ import annotations
 import hashlib, re
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from typing import Any
 import feedparser
 
@@ -14,9 +15,10 @@ FEEDS = {
 }
 HIGH_IMPACT_TERMS = ("order","contract","acquisition","merger","stake","results","profit","loss","guidance","approval","ban","penalty","rbi","sebi","government","tariff","duty","regulation","court","default","downgrade","upgrade","fraud","investigation","capex","dividend","buyback","funding","ipo","block deal","promoter","resignation","forecast","rate cut","rate hike","policy")
 SYMBOL_MAP = {"reliance industries":"RELIANCE","hdfc bank":"HDFCBANK","icici bank":"ICICIBANK","state bank of india":"SBIN","axis bank":"AXISBANK","tata motors":"TATAMOTORS","tata steel":"TATASTEEL","tata power":"TATAPOWER","infosys":"INFY","persistent systems":"PERSISTENT","bel":"BEL","bharat electronics":"BEL","adani ports":"ADANIPORTS","adani power":"ADANIPOWER","lupin":"LUPIN","shriram finance":"SHRIRAMFIN","hfcl":"HFCL","nykaa":"NYKAA","pb fintech":"POLICYBZR","policybazaar":"POLICYBZR","hero motocorp":"HEROMOTOCO","bse":"BSE"}
+MAX_NEWS_AGE_HOURS = 72
 
 def _norm(value: str) -> str:
-    return re.sub(r"\\s+", " ", re.sub(r"[^a-z0-9]+", " ", (value or "").lower())).strip()
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", (value or "").lower())).strip()
 
 def _symbols(text: str) -> list[str]:
     normalized = _norm(text); found=[]
@@ -32,18 +34,51 @@ def _materiality(title: str, summary: str, symbols: list[str]) -> int:
 def _published(entry: Any) -> str:
     return str(getattr(entry,"published","") or getattr(entry,"updated","")).strip()
 
+def _published_dt(value: str) -> datetime | None:
+    if not value:
+        return None
+    try:
+        dt = parsedate_to_datetime(value)
+        return dt.astimezone(timezone.utc) if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        try:
+            return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            return None
+
+def _clean_summary(value: str) -> str:
+    value = re.sub(r"<[^>]+>", " ", value or "")
+    return re.sub(r"\s+", " ", value).strip()
+
+def _freshness_from_age(published: str, now: datetime) -> tuple[str, float | None]:
+    dt = _published_dt(published)
+    if not dt:
+        return "unknown", None
+    age_hours = max(0.0, (now - dt).total_seconds() / 3600)
+    if age_hours <= 24:
+        return "new", round(age_hours, 1)
+    if age_hours <= MAX_NEWS_AGE_HOURS:
+        return "recent", round(age_hours, 1)
+    return "stale", round(age_hours, 1)
+
 def collect_fresh_news(limit: int=40) -> list[dict[str,Any]]:
-    dedup={}; fetched_at=datetime.now(timezone.utc).isoformat()
+    dedup={}; now=datetime.now(timezone.utc); fetched_at=now.isoformat()
     for source,url in FEEDS.items():
         try: parsed=feedparser.parse(url)
         except Exception: continue
         for entry in getattr(parsed,"entries",[]):
-            title=str(getattr(entry,"title","") or "").strip(); summary=str(getattr(entry,"summary","") or "").strip(); link=str(getattr(entry,"link","") or "").strip()
+            title=str(getattr(entry,"title","") or "").strip()
+            summary=_clean_summary(str(getattr(entry,"summary","") or "").strip())
+            link=str(getattr(entry,"link","") or "").strip()
             if not title: continue
-            key=hashlib.sha1(_norm(title).encode()).hexdigest(); symbols=_symbols(f"{title} {summary}"); score=_materiality(title,summary,symbols)
-            item={"headline":title,"summary":re.sub(r"<[^>]+>"," ",summary).strip(),"source":source,"url":link,"published":_published(entry),"symbols":symbols,"materiality_score":score,"fetched_at":fetched_at}
+            published=_published(entry)
+            freshness, age_hours = _freshness_from_age(published, now)
+            if freshness == "stale": continue
+            key=hashlib.sha1(_norm(title).encode()).hexdigest()
+            symbols=_symbols(f"{title} {summary}"); score=_materiality(title,summary,symbols)
+            item={"headline":title,"summary":summary[:1200],"source":source,"url":link,"published":published,"symbols":symbols,"materiality_score":score,"fetched_at":fetched_at,"freshness":freshness,"age_hours":age_hours}
             if key not in dedup or score>dedup[key]["materiality_score"]: dedup[key]=item
-    return sorted(dedup.values(),key=lambda x:(x["materiality_score"],x["published"]),reverse=True)[:limit]
+    return sorted(dedup.values(),key=lambda x:(x["materiality_score"],-(x.get("age_hours") if x.get("age_hours") is not None else 999999)),reverse=True)[:limit]
 
 def build_ai_payload(news:list[dict[str,Any]],phase:str)->dict[str,Any]:
     return {"phase":phase,"generated_at_utc":datetime.now(timezone.utc).isoformat(),"items":news}
