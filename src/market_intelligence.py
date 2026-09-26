@@ -9,6 +9,7 @@ from src.market_data import snapshot, option_chain_summary
 from src.news_intelligence import build_ai_payload, collect_fresh_news
 
 STATE_FILE = Path("data/news_intelligence_state.json")
+APP_FEED_FILE = Path("data/app_feed.json")
 
 # Liquid NSE F&O universe used for candidate discovery. The AI may reject every
 # candidate; this is deliberately a discovery universe, not a recommendation list.
@@ -289,6 +290,76 @@ def save_state(phase, payload, result, report):
         encoding="utf-8",
     )
 
+def save_app_feed(phase, payload, result):
+    """Write a public, secret-free feed consumed by the Android app."""
+    APP_FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+    news = []
+    for item in payload.get("items", [])[:15]:
+        news.append({
+            "headline": item.get("headline", ""),
+            "summary": (item.get("summary") or "")[:1200],
+            "source": item.get("source", "Unknown"),
+            "url": item.get("url", ""),
+            "published": item.get("published", ""),
+            "freshness": item.get("freshness", "unknown"),
+            "news_type": item.get("news_type", "context"),
+            "symbols": ", ".join(item.get("symbols") or ["MARKET/SECTOR"]),
+        })
+
+    fno = []
+    market = payload.get("market_data") or {}
+    for item in payload.get("fno_option_candidates", [])[:3]:
+        symbol = item.get("symbol")
+        chain = market.get(symbol, {}).get("option_chain") or {}
+        stats = chain.get("stats") or {}
+        calls = (chain.get("calls") or [])[:5]
+        puts = (chain.get("puts") or [])[:5]
+        option_summary = (
+            f"Expiry: {chain.get('expiry', 'n/a')} | "
+            f"PCR OI: {stats.get('pcr_oi', 'n/a')} | "
+            f"Call OI: {stats.get('total_call_oi', 'n/a')} | "
+            f"Put OI: {stats.get('total_put_oi', 'n/a')} | "
+            f"Highest Call OI: {stats.get('highest_call_oi', 'n/a')} | "
+            f"Highest Put OI: {stats.get('highest_put_oi', 'n/a')}"
+        )
+        fno.append({
+            "rank": item.get("rank"),
+            "symbol": symbol,
+            "price": item.get("price"),
+            "change_pct": item.get("change_pct"),
+            "setup_quality_score": item.get("setup_quality_score"),
+            "option_chain_available": item.get("option_chain_available", False),
+            "expiry": chain.get("expiry"),
+            "option_summary": option_summary,
+            "calls": calls,
+            "puts": puts,
+            "chain_source": chain.get("source"),
+            "chain_fetched_at_utc": chain.get("fetched_at_utc"),
+            "chain_provider_timestamp": chain.get("provider_timestamp"),
+            "chain_warning": chain.get("warning"),
+        })
+
+    analyses = [
+        {"provider": x.get("provider", "AI"), "analysis": x.get("analysis", "")}
+        for x in result.get("analyses", [])
+    ]
+
+    APP_FEED_FILE.write_text(
+        json.dumps({
+            "app_version": 1,
+            "phase": phase,
+            "generated_at_utc": payload.get("generated_at_utc"),
+            "news": news,
+            "fno_candidates": fno,
+            "breakouts": [],
+            "ai_analyses": analyses,
+            "ai_status": result.get("status", "unknown"),
+            "available_models": result.get("available_models", []),
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def run(phase):
     news = remember(collect_fresh_news())
     payload = dict(build_ai_payload(news, phase))
@@ -296,6 +367,7 @@ def run(phase):
     result = cross_check(_ai_evidence_payload(payload), phase)
     report = final_report(phase, payload, result)
     save_state(phase, payload, result, report)
+    save_app_feed(phase, payload, result)
     send_telegram(report)
     return report
 
