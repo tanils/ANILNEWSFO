@@ -48,9 +48,7 @@ def final_report(phase,payload,result):
         "final_session":"🏁 FINAL SESSION INTELLIGENCE"
     }.get(phase,"📊 MARKET INTELLIGENCE")
 
-    cache=_market_cache(payload)
-    payload=dict(payload)
-    payload["market_data"]=cache
+    cache=payload.get("market_data") or _market_cache(payload)
     lines=[
         header,
         "━━━━━━━━━━━━━━━━━━",
@@ -128,6 +126,8 @@ def save_state(phase,payload,result,report):
 def run(phase):
     news=remember(collect_fresh_news())
     payload=build_ai_payload(news,phase)
+    payload=dict(payload)
+    payload["market_data"]=_market_cache(payload)
     result=cross_check(payload,phase)
     report=final_report(phase,payload,result)
     save_state(phase,payload,result,report)
