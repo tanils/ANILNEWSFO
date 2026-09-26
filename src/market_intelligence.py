@@ -96,6 +96,26 @@ def _market_cache(payload):
     ]
     return cache
 
+def _ai_evidence_payload(payload):
+    """Keep the reasoning prompt compact enough for free AI provider limits."""
+    evidence = dict(payload)
+    evidence["items"] = payload.get("items", [])[:15]
+    market = payload.get("market_data") or {}
+    compact = {}
+    for symbol, data in market.items():
+        item = dict(data)
+        chain = item.get("option_chain")
+        if isinstance(chain, dict):
+            chain = dict(chain)
+            chain["calls"] = (chain.get("calls") or [])[:11]
+            chain["puts"] = (chain.get("puts") or [])[:11]
+            item["option_chain"] = chain
+        compact[symbol] = item
+    evidence["market_data"] = compact
+    evidence["fno_candidate_universe"] = payload.get("fno_candidate_universe", [])[:20]
+    evidence["fno_option_candidates"] = payload.get("fno_option_candidates", [])[:12]
+    return evidence
+
 def final_report(phase, payload, result):
     header = {
         "night": "🌙 NIGHT MARKET INTELLIGENCE",
@@ -110,6 +130,8 @@ def final_report(phase, payload, result):
         "━━━━━━━━━━━━━━━━━━",
         "📖 CONTEXT-FIRST NEWS + F&O ANALYSIS",
         "F&O candidate scan covers a liquid NSE universe plus NIFTY/BANK NIFTY.",
+        "News freshness gate: only current/recent items up to 72 hours are used; older items are excluded.",
+        "Each important item includes the report summary so the user can see key numbers/context.",
         "Only options with sufficient chain evidence can become qualified CE/PE setups.",
         "",
     ]
@@ -125,6 +147,9 @@ def final_report(phase, payload, result):
             f"Published: {item.get('published', 'Unknown')}",
             f"Freshness: {item.get('freshness', 'unknown')}",
         ])
+        summary = (item.get("summary") or "").strip()
+        if summary:
+            lines.append(f"📝 WHAT THE REPORT SAYS: {summary[:700]}")
         m = cache.get(symbol, {}) if symbol != "MARKET/SECTOR" else {}
         if m.get("available"):
             lines.append(
@@ -203,7 +228,7 @@ def run(phase):
     news = remember(collect_fresh_news())
     payload = dict(build_ai_payload(news, phase))
     payload["market_data"] = _market_cache(payload)
-    result = cross_check(payload, phase)
+    result = cross_check(_ai_evidence_payload(payload), phase)
     report = final_report(phase, payload, result)
     save_state(phase, payload, result, report)
     send_telegram(report)
