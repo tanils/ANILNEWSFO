@@ -1,11 +1,211 @@
 {
   "app_version": 1,
-  "phase": "pipeline_pending",
-  "generated_at_utc": "2026-09-26T15:45:46.166Z",
-  "news": [],
-  "fno_candidates": [],
+  "phase": "night",
+  "generated_at_utc": "2026-09-26T18:44:00.897446+00:00",
+  "news": [
+    {
+      "headline": "Sebi bans Omaxe, 5 others for violating minimum public shareholding norms",
+      "summary": "The Securities and Exchange Board of India (Sebi) has taken decisive action against Omaxe and five associated entities for breaching public shareholding regulations. Omaxe and its promoters were accused of creating a deceptive public shareholding framework, involving funds used to repurchase its shares via various means. As a result, Omaxe faces a three-month market access ban, while the others have a one-year restriction, alongside a hefty fine totaling Rs 1.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-omaxe-5-others-for-violating-minimum-public-shareholding-norms/articleshow/134488287.cms",
+      "published": "Fri, 25 Sep 2026 20:35:20 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India bonds slide for sixth week as global rout deepens",
+      "summary": "Indian government bonds continue to struggle amidst escalating global borrowing rates and soaring oil prices. As market participants strategize for a potential rate hike by the Reserve Bank of India, the 10-year bond yield has surged to a four-month pinnacle, instilling investor apprehension. However, Indian bonds have proven surprisingly resilient, buoyed by robust liquidity. Most analysts now foresee an impending rate increase in the next policy meeting.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-for-sixth-week-as-global-rout-deepens/articleshow/134485311.cms",
+      "published": "Fri, 25 Sep 2026 17:49:51 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sensex rises 315 points, Nifty closes above 23,100 as market recovers some losses a day after crash. What lies ahead?",
+      "summary": "On Friday, the Indian stock market made a comeback, with Sensex rising by 315 points to close at 73,896 and Nifty gaining 77 points to reach 23,140.50. Axis Bank took the lead with a notable increase of about 3%, while Trent and Infosys saw declines. Despite persistent concerns regarding inflation and global yields, the market's ability to remain above 23,000 suggests underlying strength in local support.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-trades-flat-a-day-after-crash-nifty-below-23050-amid-multiple-headwinds-what-lies-ahead/articleshow/134475514.cms",
+      "published": "Fri, 25 Sep 2026 10:23:04 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "AXISBANK, INFY"
+    },
+    {
+      "headline": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
+      "summary": "PGIM India’s Puneet Pal expects India’s rate-cut cycle to end and policy rates to rise 50-75 basis points by FY27 amid higher crude and sticky inflation. He sees rising yields creating opportunities in high-quality corporate bond and target-maturity funds.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
+      "published": "Sat, 26 Sep 2026 12:40:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
+      "summary": "Realty firm Prestige Estates has withdrawn its IPO plan for its hotel business amid uncertain market conditions. The company initially aimed to raise Rs 2,700 crore through this public issue. A subsidiary, Prestige Hospitality Ventures Ltd, had filed a Draft Red Herring Prospectus with Sebi last year. The firm may consider reapplying for an IPO in the future based on market dynamics and necessary approvals.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
+      "published": "Sat, 26 Sep 2026 12:11:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
+      "summary": "Upcoming reports on employment and inflation are poised to influence expectations around interest rate hikes, subsequently impacting the US stock market. Rising Treasury yields spark concerns about potential downturns if this trend persists. Analysts anticipate the payrolls report will indicate job growth, which could directly sway Federal Reserve policy. Should job numbers surpass predictions, immediate market reactions may reflect rate hike anxieties.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms",
+      "published": "Sat, 26 Sep 2026 10:33:46 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt",
+      "summary": "Embassy Office Parks REIT has effectively secured Rs 1,000 crore via non-convertible debentures, aimed at refinancing its existing debts and boosting its financial position. This notable transaction highlights a pivotal moment in the evolution of India's REIT market and was fully subscribed by a reputable European bank, showcasing substantial international interest and the ongoing regulatory support from SEBI and RBI for the sector.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-raises-rs-1000-cr-via-debentures-to-refinance-debt/articleshow/134485342.cms",
+      "published": "Fri, 25 Sep 2026 17:52:53 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
+      "summary": "Jefferies has shared an optimistic forecast for six logistics stocks, highlighting anticipated price hikes. Among them, Adani Ports is projected to rise by 20% from its present valuation. TCI Express is notably positioned for a remarkable 59% upside, while both JSW Infrastructure and Delhivery exhibit attractive investment prospects with moderate increases expected. This report reflects a broader growth trend in Indian port volumes, significantly influenced by government-operated Major Ports.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bullish-on-adani-ports-and-5-other-logistics-sector-stocks-how-many-do-you-have/slideshow/134474925.cms",
+      "published": "Fri, 25 Sep 2026 09:35:35 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "ADANIPORTS"
+    },
+    {
+      "headline": "FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months",
+      "summary": "FIIs and mutual funds raised holdings in several Nifty 500 stocks during the June 2026 quarter. Seven stocks subsequently gained 15%-41%, highlighting increased institutional interest across sectors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-10-stocks-shares-gain-up-to-40-in-3-months/slideshow/134500775.cms",
+      "published": "Sat, 26 Sep 2026 13:58:34 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "Vishal Nirmiti IPO to open on Sep 30; price band fixed at Rs 208-220",
+      "summary": "Vishal Nirmiti Ltd is gearing up for its initial public offering, setting a price range of Rs 208 to 220. The IPO is scheduled to commence on September 30 and conclude by October 5, featuring both a fresh issue and an offer for sale. The proceeds will be allocated toward enhancing working capital and addressing corporate requirements.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-to-open-on-sep-30-price-band-fixed-at-rs-208-220/articleshow/134500328.cms",
+      "published": "Sat, 26 Sep 2026 13:44:34 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India’s bond market performed well, equities to become attractive again: RBI’s Poonam Gupta",
+      "summary": "India's bond market is exhibiting notable strength, outpacing its historical performance and standing firm against global trends. The Deputy Governor of the Reserve Bank of India highlighted the promising fiscal commitments that are bolstering market dynamics. Meanwhile, Indian equity markets have faced challenges, partially due to rapid advancements in AI abroad.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-bond-market-performed-well-equities-to-become-attractive-again-rbis-poonam-gupta/articleshow/134499695.cms",
+      "published": "Sat, 26 Sep 2026 12:49:14 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Deon Energy files draft papers with Sebi to raise funds via IPO",
+      "summary": "Deon Energy, an Ahmedabad-based solar EPC firm, is set to launch an IPO to gather capital. This offering will feature a fresh equity share issue coupled with a promoter's sale of shares. The funds raised aim to establish a 30 MW solar power plant in Gujarat while also boosting working capital and covering essential corporate expenses.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/deon-energy-files-draft-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134499658.cms",
+      "published": "Sat, 26 Sep 2026 12:47:18 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "JSW One Platforms files draft papers for Rs 3,054 crore IPO",
+      "summary": "JSW One Platforms Ltd has submitted its draft documents to SEBI for a substantial IPO, targeting to generate Rs 3,054 crore. This offering comprises a fresh share issue of Rs 1,300 crore alongside an Offer for Sale totaling Rs 1,754.01 crore. Funds raised will enhance marketing, boost capital, upgrade technology, and support various corporate initiatives.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-one-platforms-files-draft-papers-for-rs-3054-crore-ipo/articleshow/134498412.cms",
+      "published": "Sat, 26 Sep 2026 11:22:15 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
+      "summary": "HRV Pharma CEO Hari Kiran Chereddi says investing in capacity at partner facilities, exploring acquisitions for market access; forecasts Rs 1,000 crore revenue in FY28",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms",
+      "published": "Sat, 26 Sep 2026 00:49:32 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+      "summary": "Joe Lonsdale, an investor in Anthropic, expresses concerns about AI companies influencing public policy and regulation. He warns against the dangers of allowing a few companies to dictate industry rules. Lonsdale acknowledges the talent at Anthropic and its leadership role in AI development, highlighting his support for the company. In addition, he discusses potential acquisitions in Ukrainian defense technology amid ongoing conflict.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-to-sway-policy/articleshow/134491575.cms",
+      "published": "Sat, 26 Sep 2026 00:36:32 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    }
+  ],
+  "fno_candidates": [
+    {
+      "rank": 1,
+      "symbol": "POLICYBZR",
+      "price": 1166.0,
+      "change_pct": -3.41,
+      "setup_quality_score": 60.12,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-26T18:44:12.465461+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "ADANIPORTS",
+      "price": 1788.0,
+      "change_pct": 0.15,
+      "setup_quality_score": 52.73,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-26T18:44:12.831960+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "INFY",
+      "price": 1000.2000122070312,
+      "change_pct": -1.41,
+      "setup_quality_score": 49.72,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-26T18:44:13.321782+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    }
+  ],
   "breakouts": [],
   "ai_analyses": [],
-  "ai_status": "pipeline_pending",
+  "ai_status": "NO_AI_AVAILABLE",
   "available_models": []
 }
