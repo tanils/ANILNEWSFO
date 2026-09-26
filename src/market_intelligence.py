@@ -35,15 +35,36 @@ def send_telegram(message: str) -> None:
         r.raise_for_status()
 
 def _candidate_score(symbol: str, market: dict, news_items: list[dict]) -> float:
+    """Score setup quality for shortlist selection; never means probability of profit."""
     news_score = max(
         (float(x.get("materiality_score", 0)) for x in news_items
          if symbol in (x.get("symbols") or [])),
         default=0,
     )
-    move = abs(float(market.get("change_pct") or 0))
-    # News relevance is weighted more than raw movement; movement alone cannot
-    # create a trade setup.
-    return news_score * 2.0 + min(move, 10.0)
+    technical = market.get("technical") or {}
+    score = min(news_score * 2.0, 20.0)
+    score += min(abs(float(market.get("change_pct") or 0)) * 1.5, 15.0)
+    volume_ratio = technical.get("volume_vs_20d_avg")
+    if volume_ratio is not None:
+        score += min(max(float(volume_ratio) - 1.0, 0.0) * 10.0, 15.0)
+    price = market.get("price")
+    ema20, ema50, ema200 = technical.get("ema20"), technical.get("ema50"), technical.get("ema200")
+    if price is not None:
+        if ema20 is not None and ((float(price) > ema20) or (float(price) < ema20)): score += 4
+        if ema50 is not None and ((float(price) > ema50) or (float(price) < ema50)): score += 4
+        if ema200 is not None and ((float(price) > ema200) or (float(price) < ema200)): score += 4
+    rsi = technical.get("rsi14")
+    if rsi is not None and 45 <= float(rsi) <= 70: score += 6
+    if technical.get("atr14") is not None: score += 5
+    if technical.get("previous_day_high") is not None and technical.get("previous_day_low") is not None: score += 5
+    available_fields = sum(x is not None for x in (
+        market.get("price"), market.get("volume"), market.get("change_pct"),
+        technical.get("atr14"), technical.get("rsi14"), technical.get("ema20"),
+        technical.get("ema50"), technical.get("previous_day_high"), technical.get("previous_day_low"),
+    ))
+    score += min(available_fields, 10)
+    return round(min(score, 100.0), 2)
+
 
 def _market_cache(payload):
     news_items = payload.get("items", [])
@@ -74,7 +95,7 @@ def _market_cache(payload):
 
     # Always include the indices; add the most relevant liquid stock candidates.
     chain_symbols = ["NIFTY", "BANKNIFTY"]
-    for symbol, _ in ranked[:8]:
+    for symbol, _ in ranked[:3]:
         if symbol not in chain_symbols:
             chain_symbols.append(symbol)
 
@@ -85,14 +106,16 @@ def _market_cache(payload):
     payload["fno_candidate_universe"] = discovery_symbols
     payload["fno_option_candidates"] = [
         {
+            "rank": rank,
             "symbol": symbol,
             "price": cache[symbol].get("price"),
             "change_pct": cache[symbol].get("change_pct"),
             "technical": cache[symbol].get("technical"),
             "option_chain_available": bool(cache[symbol].get("option_chain", {}).get("available")),
-            "candidate_score": round(_candidate_score(symbol, cache[symbol], news_items), 2),
+            "setup_quality_score": _candidate_score(symbol, cache[symbol], news_items),
+            "deep_chain_checked": symbol in chain_symbols,
         }
-        for symbol, _ in ranked[:12]
+        for rank, (symbol, _) in enumerate(ranked[:3], 1)
     ]
     return cache
 
@@ -102,7 +125,7 @@ def _ai_evidence_payload(payload):
     evidence["items"] = payload.get("items", [])[:15]
     market = payload.get("market_data") or {}
     allowed = {"NIFTY", "BANKNIFTY"} | {
-        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:12] if x.get("symbol")
+        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:3] if x.get("symbol")
     }
     compact = {}
     for symbol in allowed:
@@ -150,7 +173,8 @@ def final_report(phase, payload, result):
         header,
         "━━━━━━━━━━━━━━━━━━",
         "📖 CONTEXT-FIRST NEWS + F&O ANALYSIS",
-        "F&O candidate scan covers a liquid NSE universe plus NIFTY/BANK NIFTY.",
+        "Market is screened broadly, but deep F&O analysis is limited to the top 3 setup-quality candidates plus NIFTY/BANK NIFTY.",
+        "Setup-quality score is an evidence score, NOT a probability of profit.",
         "News freshness gate: only current/recent items up to 72 hours are used; older items are excluded.",
         "Each important item includes the report summary so the user can see key numbers/context.",
         "Only options with sufficient chain evidence can become qualified CE/PE setups.",
@@ -183,13 +207,16 @@ def final_report(phase, payload, result):
 
     # Make the actual option-selection section visible even when an AI provider
     # is unavailable. It shows data availability, not a guessed recommendation.
-    lines += ["━━━━━━━━━━━━━━━━━━", "🔎 F&O OPTION CANDIDATE SCAN"]
-    for item in payload.get("fno_option_candidates", [])[:12]:
+    lines += ["━━━━━━━━━━━━━━━━━━", "🔥 TOP 3 SUPER-SETUP SCREEN"]
+    for item in payload.get("fno_option_candidates", [])[:3]:
         status = "CHAIN READY" if item.get("option_chain_available") else "CHAIN UNAVAILABLE"
+        score = item.get("setup_quality_score", 0)
+        tier = "🔥 SUPER SETUP CANDIDATE" if float(score) >= 90 else "🟡 DEVELOPING CANDIDATE"
         lines.append(
-            f"{item['symbol']}: ₹{item.get('price', 'n/a')} | "
-            f"{item.get('change_pct', 0):+.2f}% | {status}"
+            f"#{item.get('rank')} {item['symbol']}: ₹{item.get('price', 'n/a')} | "
+            f"{item.get('change_pct', 0):+.2f}% | SCORE {score}/100 | {tier} | {status}"
         )
+    lines.append("Only one qualified trade may be returned; if none clears all evidence gates, the result is NO TRADE.")
 
     analyses = result.get("analyses", [])
     if analyses:
