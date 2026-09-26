@@ -67,8 +67,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           PYTHONPATH: .
         run: python -m src.market_intelligence --phase "${{ steps.phase.outputs.phase }}"
-      - name: Persist state
-        uses: stefanzweifel/git-auto-commit-action@v7
+      - name: Upload intelligence state
+        uses: actions/upload-artifact@v4
         with:
-          commit_message: "Update market intelligence state [skip ci]"
-          file_pattern: "data/*.json"
+          name: market-intelligence-state-${{ steps.phase.outputs.phase }}
+          path: data/*.json
+          if-no-files-found: warn
+          retention-days: 14
