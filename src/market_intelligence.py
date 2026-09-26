@@ -101,15 +101,36 @@ def _ai_evidence_payload(payload):
     evidence = dict(payload)
     evidence["items"] = payload.get("items", [])[:15]
     market = payload.get("market_data") or {}
+    allowed = {"NIFTY", "BANKNIFTY"} | {
+        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:12] if x.get("symbol")
+    }
     compact = {}
-    for symbol, data in market.items():
-        item = dict(data)
-        chain = item.get("option_chain")
+    for symbol in allowed:
+        data = market.get(symbol)
+        if not data:
+            continue
+        item = {
+            "symbol": symbol,
+            "price": data.get("price"),
+            "previous_close": data.get("previous_close"),
+            "volume": data.get("volume"),
+            "change_pct": data.get("change_pct"),
+            "source": data.get("source"),
+            "fetched_at_utc": data.get("fetched_at_utc"),
+            "technical": data.get("technical"),
+        }
+        chain = data.get("option_chain")
         if isinstance(chain, dict):
-            chain = dict(chain)
-            chain["calls"] = (chain.get("calls") or [])[:11]
-            chain["puts"] = (chain.get("puts") or [])[:11]
-            item["option_chain"] = chain
+            item["option_chain"] = {
+                "expiry": chain.get("expiry"),
+                "source": chain.get("source"),
+                "fetched_at_utc": chain.get("fetched_at_utc"),
+                "provider_timestamp": chain.get("provider_timestamp"),
+                "stats": chain.get("stats"),
+                "calls": (chain.get("calls") or [])[:9],
+                "puts": (chain.get("puts") or [])[:9],
+                "warning": chain.get("warning"),
+            }
         compact[symbol] = item
     evidence["market_data"] = compact
     evidence["fno_candidate_universe"] = payload.get("fno_candidate_universe", [])[:20]
