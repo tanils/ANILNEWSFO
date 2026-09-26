@@ -3,7 +3,8 @@ from __future__ import annotations
 import json, os
 from typing import Any
 from openai import OpenAI
-from google import genai
+import time
+import requests
 
 OPENAI_MODEL=os.getenv("OPENAI_MODEL","gpt-5-mini")
 GEMINI_MODEL=os.getenv("GEMINI_MODEL","gemini-3.8-flash")
@@ -73,13 +74,44 @@ def call_openai(payload,phase):
         return f"OPENAI_ERROR: {type(e).__name__}: {e}"
 
 def call_gemini(payload,phase):
+    """Call Gemini through REST so a closed SDK client cannot break the run."""
     key=os.getenv("GEMINI_API_KEY")
     if not key:return None
-    try:
-        r=genai.Client(api_key=key).models.generate_content(model=GEMINI_MODEL,contents=build_prompt(payload,phase))
-        return (r.text or "").strip() or None
-    except Exception as e:
-        return f"GEMINI_ERROR: {type(e).__name__}: {e}"
+    url=f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    body={
+        "contents":[{"parts":[{"text":build_prompt(payload,phase)}]}],
+        "generationConfig":{"temperature":0.2,"maxOutputTokens":12000}
+    }
+    last_error=None
+    for attempt in range(1,4):
+        try:
+            r=requests.post(
+                url,
+                headers={"x-goog-api-key":key,"Content-Type":"application/json"},
+                json=body,
+                timeout=90
+            )
+            if r.status_code >= 400:
+                last_error=f"HTTP {r.status_code}: {r.text[:1000]}"
+                if r.status_code in (429,500,502,503,504) and attempt < 3:
+                    time.sleep(attempt * 2)
+                    continue
+                return f"GEMINI_ERROR: {last_error}"
+            data=r.json()
+            parts=[]
+            for candidate in data.get("candidates",[]):
+                for part in candidate.get("content",{}).get("parts",[]):
+                    if part.get("text"):
+                        parts.append(part["text"])
+            text="\n".join(parts).strip()
+            return text or "GEMINI_ERROR: Empty response"
+        except Exception as e:
+            last_error=f"{type(e).__name__}: {e}"
+            if attempt < 3:
+                time.sleep(attempt * 2)
+            else:
+                return f"GEMINI_ERROR: {last_error}"
+    return f"GEMINI_ERROR: {last_error or 'Unknown error'}"
 
 def cross_check(payload,phase):
     o=call_openai(payload,phase)
