@@ -5,7 +5,7 @@ from typing import Any
 from openai import OpenAI
 from google import genai
 OPENAI_MODEL=os.getenv("OPENAI_MODEL","gpt-5-mini")
-GEMINI_MODEL=os.getenv("GEMINI_MODEL","gemini-2.5-flash")
+GEMINI_MODEL=os.getenv("GEMINI_MODEL","gemini-3.8-flash")
 PROMPT="""You are a neutral Indian-market intelligence analyst. Analyze only supplied evidence. Never invent live price, volume, OI, option-chain, earnings, targets, stop losses or probabilities. Separate FACT, MARKET OBSERVATION, AI INTERPRETATION and TRADE ASSESSMENT. Explain cause -> business -> earnings/cost/order-book -> sector -> stock. Check freshness and priced-in only when evidence supports it. Check contradictions and alternative explanations. State what to watch and conditional invalidation. Trade status may only be TRADEABLE, WAIT, AVOID or NO TRADE. Never recommend a CE/PE contract from news alone. Prefer Telugu for trader-facing explanation."""
 def build_prompt(payload:dict[str,Any],phase:str)->str:
     return f"{PROMPT}\n\nPHASE: {phase}\n{json.dumps(payload,ensure_ascii=False,indent=2)}"
