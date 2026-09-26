@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from src.ai_crosscheck import cross_check
 from src.event_memory import remember
-from src.market_data import snapshot
+from src.market_data import snapshot, option_chain_summary
 from src.news_intelligence import build_ai_payload,collect_fresh_news
 STATE_FILE=Path("data/news_intelligence_state.json")
 
@@ -23,10 +23,14 @@ def send_telegram(message:str)->None:
 
 def _market_cache(payload):
     cache={}
+    symbols=["NIFTY","BANKNIFTY"]
     for item in payload.get("items",[]):
-        for symbol in item.get("symbols",[])[:3]:
-            if symbol not in cache:
-                cache[symbol]=snapshot(symbol)
+        symbols.extend(item.get("symbols",[])[:2])
+    for symbol in list(dict.fromkeys(symbols))[:18]:
+        market=snapshot(symbol)
+        if symbol not in ("NIFTY","BANKNIFTY"):
+            market["option_chain"]=option_chain_summary(symbol)
+        cache[symbol]=market
     return cache
 
 def _ai_section(title,analysis):
@@ -45,6 +49,8 @@ def final_report(phase,payload,result):
     }.get(phase,"📊 MARKET INTELLIGENCE")
 
     cache=_market_cache(payload)
+    payload=dict(payload)
+    payload["market_data"]=cache
     lines=[
         header,
         "━━━━━━━━━━━━━━━━━━",
