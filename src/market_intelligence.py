@@ -96,6 +96,47 @@ def _market_cache(payload):
     ]
     return cache
 
+def _ai_evidence_payload(payload):
+    """Keep the reasoning prompt compact enough for free AI provider limits."""
+    evidence = dict(payload)
+    evidence["items"] = payload.get("items", [])[:15]
+    market = payload.get("market_data") or {}
+    allowed = {"NIFTY", "BANKNIFTY"} | {
+        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:12] if x.get("symbol")
+    }
+    compact = {}
+    for symbol in allowed:
+        data = market.get(symbol)
+        if not data:
+            continue
+        item = {
+            "symbol": symbol,
+            "price": data.get("price"),
+            "previous_close": data.get("previous_close"),
+            "volume": data.get("volume"),
+            "change_pct": data.get("change_pct"),
+            "source": data.get("source"),
+            "fetched_at_utc": data.get("fetched_at_utc"),
+            "technical": data.get("technical"),
+        }
+        chain = data.get("option_chain")
+        if isinstance(chain, dict):
+            item["option_chain"] = {
+                "expiry": chain.get("expiry"),
+                "source": chain.get("source"),
+                "fetched_at_utc": chain.get("fetched_at_utc"),
+                "provider_timestamp": chain.get("provider_timestamp"),
+                "stats": chain.get("stats"),
+                "calls": (chain.get("calls") or [])[:9],
+                "puts": (chain.get("puts") or [])[:9],
+                "warning": chain.get("warning"),
+            }
+        compact[symbol] = item
+    evidence["market_data"] = compact
+    evidence["fno_candidate_universe"] = payload.get("fno_candidate_universe", [])[:20]
+    evidence["fno_option_candidates"] = payload.get("fno_option_candidates", [])[:12]
+    return evidence
+
 def final_report(phase, payload, result):
     header = {
         "night": "🌙 NIGHT MARKET INTELLIGENCE",
@@ -110,6 +151,8 @@ def final_report(phase, payload, result):
         "━━━━━━━━━━━━━━━━━━",
         "📖 CONTEXT-FIRST NEWS + F&O ANALYSIS",
         "F&O candidate scan covers a liquid NSE universe plus NIFTY/BANK NIFTY.",
+        "News freshness gate: only current/recent items up to 72 hours are used; older items are excluded.",
+        "Each important item includes the report summary so the user can see key numbers/context.",
         "Only options with sufficient chain evidence can become qualified CE/PE setups.",
         "",
     ]
@@ -125,6 +168,9 @@ def final_report(phase, payload, result):
             f"Published: {item.get('published', 'Unknown')}",
             f"Freshness: {item.get('freshness', 'unknown')}",
         ])
+        summary = (item.get("summary") or "").strip()
+        if summary:
+            lines.append(f"📝 WHAT THE REPORT SAYS: {summary[:700]}")
         m = cache.get(symbol, {}) if symbol != "MARKET/SECTOR" else {}
         if m.get("available"):
             lines.append(
@@ -203,7 +249,7 @@ def run(phase):
     news = remember(collect_fresh_news())
     payload = dict(build_ai_payload(news, phase))
     payload["market_data"] = _market_cache(payload)
-    result = cross_check(payload, phase)
+    result = cross_check(_ai_evidence_payload(payload), phase)
     report = final_report(phase, payload, result)
     save_state(phase, payload, result, report)
     send_telegram(report)
