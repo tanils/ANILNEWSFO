@@ -72,36 +72,30 @@ def final_report(phase,payload,result):
             lines.append("Market: unavailable")
         lines.append("")
 
-    if result.get("status")=="DUAL_AI_AVAILABLE":
-        lines += [
-            "━━━━━━━━━━━━━━━━━━",
-            "🤖 OPENAI — CONTEXT ANALYSIS",
-            result.get("openai_analysis") or "Unavailable",
-            "",
-            "━━━━━━━━━━━━━━━━━━",
-            "🤖 GEMINI — INDEPENDENT CONTEXT ANALYSIS",
-            result.get("gemini_analysis") or "Unavailable",
-            "",
-            "━━━━━━━━━━━━━━━━━━",
-            "🔎 CROSS-CHECK",
-            "Two independent AI analyses were generated. Read their factual agreement/disagreement; do not treat AI disagreement as a trading signal."
-        ]
-    elif result.get("status")=="SINGLE_AI_AVAILABLE":
-        available=result.get("available_models",["AI"])[0]
-        analysis=result.get("openai_analysis") or result.get("gemini_analysis") or "Unavailable"
-        lines += [
-            "━━━━━━━━━━━━━━━━━━",
-            f"🤖 {available} — CONTEXT ANALYSIS",
-            analysis,
-            "",
-            "⚠️ Only one AI model was available for this run."
-        ]
+    analyses=result.get("analyses",[])
+    if analyses:
+        lines += ["━━━━━━━━━━━━━━━━━━"]
+        for item in analyses:
+            lines += [
+                f"🤖 {item.get('provider')} — CONTEXT ANALYSIS",
+                item.get("analysis") or "Unavailable",
+                ""
+            ]
+        if len(analyses) >= 2:
+            lines += [
+                "🔎 CROSS-CHECK",
+                "Two independent AI analyses were generated. Compare factual agreement/disagreement; AI disagreement is not a trading signal."
+            ]
+        else:
+            lines += ["⚠️ Only one AI model was available for this run."]
     else:
         lines += [
             "━━━━━━━━━━━━━━━━━━",
             "⚠️ AI ANALYSIS UNAVAILABLE",
-            "Source facts were collected, but no AI key/model responded. No trade interpretation is generated."
+            "Source facts were collected, but no configured AI provider responded. No trade interpretation is generated.",
         ]
+        if result.get("errors"):
+            lines.append("Provider errors: " + " | ".join(f"{k}: {v}" for k,v in result["errors"].items()))
 
     lines += [
         "",

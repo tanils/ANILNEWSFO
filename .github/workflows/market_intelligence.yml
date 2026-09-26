@@ -52,11 +52,16 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          test -n "$OPENAI_API_KEY" || { echo "OPENAI_API_KEY is not configured"; exit 1; }
-          test -n "$GEMINI_API_KEY" || { echo "GEMINI_API_KEY is not configured"; exit 1; }
+          test -n "$OPENAI_API_KEY" || echo "OPENAI_API_KEY not configured (optional fallback)"
+          test -n "$GEMINI_API_KEY" || echo "GEMINI_API_KEY not configured (optional fallback)"
+          test -n "$OPENROUTER_API_KEY" || echo "OPENROUTER_API_KEY not configured (optional fallback)"
+          test -n "$GROQ_API_KEY" || echo "GROQ_API_KEY not configured (optional fallback)"
+          if [ -z "$OPENAI_API_KEY" ] && [ -z "$GEMINI_API_KEY" ] && [ -z "$OPENROUTER_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then echo "At least one AI API key is required"; exit 1; fi
           test -n "$TELEGRAM_BOT_TOKEN" || { echo "TELEGRAM_BOT_TOKEN is not configured"; exit 1; }
           test -n "$TELEGRAM_CHAT_ID" || { echo "TELEGRAM_CHAT_ID is not configured"; exit 1; }
       - name: Run market intelligence
