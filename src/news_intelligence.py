@@ -61,6 +61,14 @@ def _freshness_from_age(published: str, now: datetime) -> tuple[str, float | Non
         return "recent", round(age_hours, 1)
     return "stale", round(age_hours, 1)
 
+LOW_VALUE_PATTERNS = ("share price highlights", "share price history", "stock price history", "market wrap", "top gainers and losers")
+
+def _news_type(title: str, summary: str) -> str:
+    text = _norm(f"{title} {summary}")
+    if any(term in text for term in LOW_VALUE_PATTERNS): return "low_value"
+    if any(term in text for term in HIGH_IMPACT_TERMS): return "catalyst"
+    return "context"
+
 def collect_fresh_news(limit: int=40) -> list[dict[str,Any]]:
     dedup={}; now=datetime.now(timezone.utc); fetched_at=now.isoformat()
     for source,url in FEEDS.items():
@@ -76,9 +84,12 @@ def collect_fresh_news(limit: int=40) -> list[dict[str,Any]]:
             if freshness == "stale": continue
             key=hashlib.sha1(_norm(title).encode()).hexdigest()
             symbols=_symbols(f"{title} {summary}"); score=_materiality(title,summary,symbols)
-            item={"headline":title,"summary":summary[:1200],"source":source,"url":link,"published":published,"symbols":symbols,"materiality_score":score,"fetched_at":fetched_at,"freshness":freshness,"age_hours":age_hours}
+            item={"headline":title,"summary":summary[:1200],"source":source,"url":link,"published":published,"symbols":symbols,"materiality_score":score,"news_type":_news_type(title, summary),"fetched_at":fetched_at,"freshness":freshness,"age_hours":age_hours}
             if key not in dedup or score>dedup[key]["materiality_score"]: dedup[key]=item
-    return sorted(dedup.values(),key=lambda x:(x["materiality_score"],-(x.get("age_hours") if x.get("age_hours") is not None else 999999)),reverse=True)[:limit]
+    items=list(dedup.values())
+    # Keep catalysts first, then useful market context; suppress generic stock-page articles.
+    items=[x for x in items if x.get("news_type") != "low_value"]
+    return sorted(items,key=lambda x:(x.get("news_type")=="catalyst", x["materiality_score"], -(x.get("age_hours") if x.get("age_hours") is not None else 999999)),reverse=True)[:limit]
 
 def build_ai_payload(news:list[dict[str,Any]],phase:str)->dict[str,Any]:
     return {"phase":phase,"generated_at_utc":datetime.now(timezone.utc).isoformat(),"items":news}

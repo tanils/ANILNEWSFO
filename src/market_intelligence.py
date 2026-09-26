@@ -42,27 +42,44 @@ def _candidate_score(symbol: str, market: dict, news_items: list[dict]) -> float
         default=0,
     )
     technical = market.get("technical") or {}
-    score = min(news_score * 2.0, 20.0)
-    score += min(abs(float(market.get("change_pct") or 0)) * 1.5, 15.0)
+    score = min(news_score * 1.5, 15.0)
+    change = float(market.get("change_pct") or 0)
+    score += min(abs(change) * 1.5, 12.0)
     volume_ratio = technical.get("volume_vs_20d_avg")
     if volume_ratio is not None:
-        score += min(max(float(volume_ratio) - 1.0, 0.0) * 10.0, 15.0)
+        score += min(max(float(volume_ratio) - 1.0, 0.0) * 8.0, 12.0)
     price = market.get("price")
     ema20, ema50, ema200 = technical.get("ema20"), technical.get("ema50"), technical.get("ema200")
-    if price is not None:
-        if ema20 is not None and ((float(price) > ema20) or (float(price) < ema20)): score += 4
-        if ema50 is not None and ((float(price) > ema50) or (float(price) < ema50)): score += 4
-        if ema200 is not None and ((float(price) > ema200) or (float(price) < ema200)): score += 4
+    # Directional structure is rewarded only when the supplied price/EMA
+    # relationship is internally consistent; this score is not a win probability.
+    direction_bonus = 0.0
+    if price is not None and ema20 is not None and ema50 is not None:
+        if change >= 0 and float(price) > ema20 > ema50:
+            direction_bonus += 14.0
+        elif change < 0 and float(price) < ema20 < ema50:
+            direction_bonus += 14.0
+        elif change >= 0 and float(price) > ema20:
+            direction_bonus += 6.0
+        elif change < 0 and float(price) < ema20:
+            direction_bonus += 6.0
+    if price is not None and ema200 is not None:
+        if (change >= 0 and float(price) > ema200) or (change < 0 and float(price) < ema200):
+            direction_bonus += 5.0
+    score += min(direction_bonus, 19.0)
     rsi = technical.get("rsi14")
-    if rsi is not None and 45 <= float(rsi) <= 70: score += 6
-    if technical.get("atr14") is not None: score += 5
-    if technical.get("previous_day_high") is not None and technical.get("previous_day_low") is not None: score += 5
+    if rsi is not None:
+        if (change >= 0 and 50 <= float(rsi) <= 68) or (change < 0 and 32 <= float(rsi) <= 50):
+            score += 8.0
+    if technical.get("atr14") is not None:
+        score += 5.0
+    if technical.get("previous_day_high") is not None and technical.get("previous_day_low") is not None:
+        score += 4.0
     available_fields = sum(x is not None for x in (
         market.get("price"), market.get("volume"), market.get("change_pct"),
         technical.get("atr14"), technical.get("rsi14"), technical.get("ema20"),
         technical.get("ema50"), technical.get("previous_day_high"), technical.get("previous_day_low"),
     ))
-    score += min(available_fields, 10)
+    score += min(available_fields, 10.0)
     return round(min(score, 100.0), 2)
 
 
