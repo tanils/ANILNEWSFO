@@ -26,7 +26,7 @@ def _market_cache(payload):
     symbols=["NIFTY","BANKNIFTY"]
     for item in payload.get("items",[]):
         symbols.extend(item.get("symbols",[])[:2])
-    for symbol in list(dict.fromkeys(symbols))[:18]:
+    for symbol in list(dict.fromkeys(symbols))[:10]:
         market=snapshot(symbol)
         if symbol not in ("NIFTY","BANKNIFTY"):
             market["option_chain"]=option_chain_summary(symbol)
