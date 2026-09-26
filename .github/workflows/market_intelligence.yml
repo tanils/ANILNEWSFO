@@ -81,3 +81,15 @@ jobs:
           path: data/*.json
           if-no-files-found: warn
           retention-days: 14
+      - name: Publish Android app feed
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/app_feed.json
+          if git diff --cached --quiet; then
+            echo "Android app feed unchanged"
+          else
+            git commit -m "Update Android market intelligence feed"
+            git push origin HEAD:${GITHUB_REF_NAME}
+          fi
