@@ -1,24 +1,14 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-09-26T18:44:00.897446+00:00",
+  "generated_at_utc": "2026-09-27T19:17:48.182974+00:00",
   "news": [
     {
       "headline": "Sebi bans Omaxe, 5 others for violating minimum public shareholding norms",
       "summary": "The Securities and Exchange Board of India (Sebi) has taken decisive action against Omaxe and five associated entities for breaching public shareholding regulations. Omaxe and its promoters were accused of creating a deceptive public shareholding framework, involving funds used to repurchase its shares via various means. As a result, Omaxe faces a three-month market access ban, while the others have a one-year restriction, alongside a hefty fine totaling Rs 1.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-omaxe-5-others-for-violating-minimum-public-shareholding-norms/articleshow/134488287.cms",
       "published": "Fri, 25 Sep 2026 20:35:20 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds slide for sixth week as global rout deepens",
-      "summary": "Indian government bonds continue to struggle amidst escalating global borrowing rates and soaring oil prices. As market participants strategize for a potential rate hike by the Reserve Bank of India, the 10-year bond yield has surged to a four-month pinnacle, instilling investor apprehension. However, Indian bonds have proven surprisingly resilient, buoyed by robust liquidity. Most analysts now foresee an impending rate increase in the next policy meeting.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-for-sixth-week-as-global-rout-deepens/articleshow/134485311.cms",
-      "published": "Fri, 25 Sep 2026 17:49:51 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -39,7 +29,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
       "published": "Sat, 26 Sep 2026 12:40:20 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -49,7 +39,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
       "published": "Sat, 26 Sep 2026 12:11:41 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -59,19 +49,9 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms",
       "published": "Sat, 26 Sep 2026 10:33:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt",
-      "summary": "Embassy Office Parks REIT has effectively secured Rs 1,000 crore via non-convertible debentures, aimed at refinancing its existing debts and boosting its financial position. This notable transaction highlights a pivotal moment in the evolution of India's REIT market and was fully subscribed by a reputable European bank, showcasing substantial international interest and the ongoing regulatory support from SEBI and RBI for the sector.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-raises-rs-1000-cr-via-debentures-to-refinance-debt/articleshow/134485342.cms",
-      "published": "Fri, 25 Sep 2026 17:52:53 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "BSE"
     },
     {
       "headline": "Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
@@ -84,12 +64,22 @@
       "symbols": "ADANIPORTS"
     },
     {
+      "headline": "Bonus &amp; dividends: SAIL, IGL among 10 stocks turning ex-record date this week. Do you own any?",
+      "summary": "Around 10 companies have set record dates for dividends and bonus issues between September 28 and October 1, making it a relatively quiet week for corporate actions. The market will remain closed on October 2 for Gandhi Jayanti, with BSE and NSE also shut on October 20 for Dussehra.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-sail-igl-among-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134514676.cms",
+      "published": "Sun, 27 Sep 2026 10:04:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
       "headline": "FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months",
       "summary": "FIIs and mutual funds raised holdings in several Nifty 500 stocks during the June 2026 quarter. Seven stocks subsequently gained 15%-41%, highlighting increased institutional interest across sectors.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-10-stocks-shares-gain-up-to-40-in-3-months/slideshow/134500775.cms",
       "published": "Sat, 26 Sep 2026 13:58:34 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
@@ -99,7 +89,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-to-open-on-sep-30-price-band-fixed-at-rs-208-220/articleshow/134500328.cms",
       "published": "Sat, 26 Sep 2026 13:44:34 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -109,7 +99,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indias-bond-market-performed-well-equities-to-become-attractive-again-rbis-poonam-gupta/articleshow/134499695.cms",
       "published": "Sat, 26 Sep 2026 12:49:14 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -119,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/deon-energy-files-draft-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134499658.cms",
       "published": "Sat, 26 Sep 2026 12:47:18 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -129,7 +119,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-one-platforms-files-draft-papers-for-rs-3054-crore-ipo/articleshow/134498412.cms",
       "published": "Sat, 26 Sep 2026 11:22:15 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -139,19 +129,29 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms",
       "published": "Sat, 26 Sep 2026 00:49:32 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
-      "summary": "Joe Lonsdale, an investor in Anthropic, expresses concerns about AI companies influencing public policy and regulation. He warns against the dangers of allowing a few companies to dictate industry rules. Lonsdale acknowledges the talent at Anthropic and its leadership role in AI development, highlighting his support for the company. In addition, he discusses potential acquisitions in Ukrainian defense technology amid ongoing conflict.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-to-sway-policy/articleshow/134491575.cms",
-      "published": "Sat, 26 Sep 2026 00:36:32 +0530",
-      "freshness": "new",
+      "headline": "Motilal Oswal group gets SEBI custodian licence to start operations from Q4",
+      "summary": "Motilal Oswal Financial Services’ wholly owned subsidiary MOCSPL has received SEBI approval to operate as a securities custodian, expanding the group’s institutional offerings ahead of its planned operations in the last quarter of 2026.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-group-gets-sebi-custodian-licence-to-start-operations-from-q4/articleshow/134478554.cms",
+      "published": "Fri, 25 Sep 2026 12:52:13 +0530",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Retail investors raise stakes in 10 smallcaps; 3 turn multibaggers in 3 months",
+      "summary": "Retail investors increased holdings across 766 BSE smallcaps in June 2026. Several stocks subsequently delivered sharp gains, with Kabra Extrusiontechnik, Indo Rama Synthetics and PVP Ventures among the biggest performers, while retail ownership also increased across these companies.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raise-stakes-in-10-smallcaps-3-turn-multibaggers-in-3-months/slideshow/134478529.cms",
+      "published": "Fri, 25 Sep 2026 12:27:37 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-26T18:44:12.465461+00:00",
+      "chain_fetched_at_utc": "2026-09-27T19:17:57.141930+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-26T18:44:12.831960+00:00",
+      "chain_fetched_at_utc": "2026-09-27T19:17:57.537143+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-26T18:44:13.321782+00:00",
+      "chain_fetched_at_utc": "2026-09-27T19:17:57.909630+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
