@@ -1,27 +1,17 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-28T11:58:54.780323+00:00",
+  "generated_at_utc": "2026-09-28T14:26:19.467671+00:00",
   "news": [
     {
       "headline": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
       "summary": "PB Fintech shares rose 4% after Bernstein retained its Outperform rating and Rs 2,310 target price, despite the stock’s sharp fall following IRDAI’s proposed ban on dark patterns. The brokerage expects lower insurance take rates, revenue and profit estimates, while cost rationalisation could provide some cushion. IRDAI’s draft framework also proposes sweeping changes to insurance distribution and commission structures.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-can-rally-91-after-2-day-bloodbath-says-bernstein-heres-why-it-remains-bullish/articleshow/134532891.cms",
       "published": "Mon, 28 Sep 2026 11:03:52 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "POLICYBZR"
-    },
-    {
-      "headline": "Japanese bond yields climb towards multi-decade highs on inflation, BOJ tightening bets",
-      "summary": "Japanese government bond yields climbed on Monday as rising services inflation and Bank of Japan rate-hike expectations weighed on debt prices. The benchmark 10-year yield approached multi-decade highs near 3.095%, while investors monitored upcoming Ministry of Finance bond auction plans and central bank policy minutes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-bond-yields-climb-towards-multi-decade-highs-on-inflation-boj-tightening-bets/articleshow/134531699.cms",
-      "published": "Mon, 28 Sep 2026 09:53:16 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Fortis Healthcare shares in focus as Supreme Court allows forensic audit to proceed",
@@ -104,6 +94,36 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "AI trade enters a new phase: Why DBS favours AI adopters over capex-heavy players",
+      "summary": "DBS says the AI investment theme is entering a selective phase as investors focus on companies converting AI adoption into productivity, stronger margins and durable revenue growth. The bank favours lower-capex AI adopters while maintaining exposure to infrastructure enablers.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-trade-enters-a-new-phase-why-dbs-favours-ai-adopters-over-capex-heavy-players/articleshow/134544223.cms",
+      "published": "Mon, 28 Sep 2026 18:59:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India 10-year yield scales two-year high as supply, global rout bite",
+      "summary": "On Monday, Indian government bond yields rose due to increasing global yields and domestic supply concerns. The benchmark 10-year bond yield reached its highest level since April 2024 at 7.1848%. Traders are reacting to India's borrowing calendar which shifted toward longer maturity bonds, increasing duration risk. Additionally, fears of more Reserve Bank of India bond sales have contributed to market volatility.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-scales-two-year-high-as-supply-global-rout-bite/articleshow/134542869.cms",
+      "published": "Mon, 28 Sep 2026 18:03:24 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI completes 1 trillion rupee net debt sale for first time in a decade",
+      "summary": "In a historic move, India's central bank has recorded net sales of bonds amounting to 1 trillion rupees this financial year. With predictions suggesting this figure may double by December, market analysts anticipate stricter monetary policies. The Reserve Bank of India has also reduced liquidity in the banking system, responding to past strategies to attract dollars.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-completes-1-trillion-rupee-net-debt-sale-for-first-time-in-a-decade/articleshow/134542787.cms",
+      "published": "Mon, 28 Sep 2026 18:01:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US Market: Fed's Hammack warns against inflation becoming entrenched in economy",
       "summary": "Federal Reserve Bank of Cleveland President Beth Hammack warned that persistently high inflation could entrench elevated price expectations among US households and businesses. She said monetary policy may not yet be sufficiently restrictive, citing resilient demand, strong business investment and a stable labour market. Hammack also noted that rising US bond yields reflect higher real interest rates and a solid economic outlook.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Ace investor Madhu Kela owns 8.99% in Sunil Singhania-led Abakkus AMC’s holding company,  DRHP shows",
-      "summary": "Ace investor Madhuri Madhusudan Kela holds an 8.99% share of the total capital contribution in Abakkus Expert Professionals LLP, the holding company and promoter of Abakkus Asset Manager. The Sunil Singhania-led asset manager has filed its DRHP with Sebi for an IPO comprising an offer for sale of 15 million shares.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ace-investor-madhu-kela-owns-8-99-in-sunil-singhania-led-abakkus-amcs-holding-company-drhp-shows/articleshow/134536576.cms",
-      "published": "Mon, 28 Sep 2026 13:54:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee pinned just shy of 96/USD as RBI intervention counters oil woes",
-      "summary": "The Indian rupee experienced a slight dip as surging oil prices emerged from stalled diplomacy between the US and Iran. With escalating tensions across the Middle East, Brent crude oil rose considerably. To counteract further declines, the Reserve Bank of India stepped in to ensure the rupee remained above the 96 per dollar threshold. Consequently, India's foreign exchange reserves fell, reflecting these currency stabilization efforts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-pinned-just-shy-of-96/usd-as-rbi-intervention-counters-oil-woes/articleshow/134535315.cms",
-      "published": "Mon, 28 Sep 2026 12:45:16 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:59:01.556949+00:00",
+      "chain_fetched_at_utc": "2026-09-28T14:26:30.496661+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:59:01.881509+00:00",
+      "chain_fetched_at_utc": "2026-09-28T14:26:30.871653+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:59:02.559349+00:00",
+      "chain_fetched_at_utc": "2026-09-28T14:26:31.307138+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
