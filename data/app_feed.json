@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-28T11:11:37.295077+00:00",
+  "generated_at_utc": "2026-09-28T11:58:54.780323+00:00",
   "news": [
     {
       "headline": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
@@ -32,6 +32,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "RBI may shift govt borrowing towards shorter tenures in H2",
+      "summary": "The RBI is expected to tilt the government’s borrowing towards shorter-tenure bonds in the second half of FY27 as surplus banking liquidity remains elevated. Traders expect short-term securities to account for 35% of borrowing, up from 31% in the first half, while strong demand for 5-7 year bonds could shape issuance.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-may-shift-govt-borrowing-towards-shorter-tenures-in-h2/articleshow/134540649.cms",
+      "published": "Mon, 28 Sep 2026 16:52:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IPO allotments today: How to check allotment status for Elevate Campuses, Swastika Infra &amp; ArMee Infotech on NSE, BSE &amp; registrars?",
-      "summary": "IPO allotments for Elevate Campuses, Swastika Infra and ArMee Infotech are expected on September 28, following subscription between September 23 and 25. Investors can check status through NSE, BSE and respective registrars. The three companies are scheduled to list on September 30, with refunds expected by September 29 for unsuccessful applicants.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotments-today-how-to-check-allotment-status-for-elevate-campuses-swastika-infra-armee-infotech-on-nse-bse-registrars/articleshow/134534834.cms",
-      "published": "Mon, 28 Sep 2026 12:34:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:11:47.542326+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:59:01.556949+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:11:47.980510+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:59:01.881509+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T11:11:48.429103+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:59:02.559349+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
