@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-28T16:26:01.017787+00:00",
+  "generated_at_utc": "2026-09-28T16:59:01.033733+00:00",
   "news": [
     {
       "headline": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T16:26:14.815815+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:59:12.257756+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T16:26:15.194087+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:59:12.750678+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T16:26:15.741591+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:59:13.119829+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
