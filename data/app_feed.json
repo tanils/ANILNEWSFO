@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-09-28T09:39:15.661309+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-09-28T11:11:37.295077+00:00",
   "news": [
     {
       "headline": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
@@ -24,16 +24,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Orient Cables IPO Day 2: GMP signals 33% listing premium; check subscription and key details",
-      "summary": "Orient Cables IPO entered Day 2 of bidding with a 33% listing premium signal in the grey market. The Rs 552 crore issue was subscribed 1.96 times overall on Day 1. The price band is fixed at Rs 258-Rs 272 per share, with listing expected on BSE and NSE.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/orient-cables-ipo-day-2-gmp-signals-33-listing-premium-check-subscription-and-key-details/articleshow/134531289.cms",
-      "published": "Mon, 28 Sep 2026 09:30:33 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
       "headline": "Fortis Healthcare shares in focus as Supreme Court allows forensic audit to proceed",
       "summary": "Fortis Healthcare shares will be in focus after the Supreme Court allowed a forensic audit of the hospital chain to proceed, while clarifying that observations made by the Delhi High Court were limited to the audit proceedings. Fortis said no liability, penalty or fine has been imposed and reiterated that it had no role in the transfer of shares by its erstwhile promoters.",
       "source": "Economic Times Stocks",
@@ -42,6 +32,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
+      "summary": "On Monday, the Indian rupee plummeted to its lowest mark in over a week, driven by soaring oil prices. Investors reacted to mounting geopolitical tensions, leading to an uptick in bond yields and a dip in stock values within the region. State-run banks intervened by selling dollars, likely under the guidance of the Reserve Bank of India, which helped to mitigate further declines in the currency's value.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms",
+      "published": "Mon, 28 Sep 2026 15:57:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Jefferies names Max Financial as its top insurance pick, sees 41% upside despite target cut",
@@ -94,6 +94,26 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "US Market: Fed's Hammack warns against inflation becoming entrenched in economy",
+      "summary": "Federal Reserve Bank of Cleveland President Beth Hammack warned that persistently high inflation could entrench elevated price expectations among US households and businesses. She said monetary policy may not yet be sufficiently restrictive, citing resilient demand, strong business investment and a stable labour market. Hammack also noted that rising US bond yields reflect higher real interest rates and a solid economic outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-warns-against-inflation-becoming-entrenched-in-economy/articleshow/134539089.cms",
+      "published": "Mon, 28 Sep 2026 15:50:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: Eurozone bond yields rise as oil climbs, inflation data eyed",
+      "summary": "Eurozone government bond yields rose as higher oil prices and uncertainty over the US-Iran conflict heightened inflation and interest-rate concerns. Germany’s 10-year yield reached its highest level since 2009, while markets awaited eurozone inflation data. Investors expect September inflation to accelerate, potentially reinforcing expectations of further European Central Bank rate increases.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-rise-as-oil-climbs-inflation-data-eyed/articleshow/134538460.cms",
+      "published": "Mon, 28 Sep 2026 15:28:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: European shares edge higher as British housebuilders rally",
       "summary": "European shares edged higher, with the STOXX 600 gaining 0.3%, led by a sharp rally in British housebuilders. Gains were capped by rising oil prices and elevated bond yields, as investors assessed inflation and interest-rate risks. Energy stocks advanced, while miners declined, with markets awaiting central-bank officials’ comments on monetary policy.",
       "source": "Economic Times Markets",
@@ -132,74 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Micron earnings preview: Tight DRAM supply, HBM demand set stage for Q4 results",
-      "summary": "Micron’s Q4 results face high expectations as AI-driven memory demand, tight DRAM and HBM supply, and pricing power support growth. Investors will focus on fiscal 2027 guidance, HBM4 demand, margins, capital spending and whether the memory upcycle can sustain elevated valuations and profitability.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-earnings-preview-tight-dram-supply-hbm-demand-set-stage-for-q4-results/slideshow/134534608.cms",
-      "published": "Mon, 28 Sep 2026 12:06:37 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "PB Fintech among 4 F&amp;O stocks with a sharp rise in futures open interest",
-      "summary": "A notable increase in futures open interest indicates a substantial rise in the number of active, unexpired futures contracts in a security.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134534458.cms",
-      "published": "Mon, 28 Sep 2026 12:02:54 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "POLICYBZR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "POLICYBZR",
-      "price": 1154.0,
-      "change_pct": -1.03,
-      "setup_quality_score": 57.7,
+      "price": 1151.300048828125,
+      "change_pct": -1.26,
+      "setup_quality_score": 58.53,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T09:39:24.843498+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:11:47.542326+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "AXISBANK",
-      "price": 1207.5999755859375,
-      "change_pct": -1.21,
-      "setup_quality_score": 54.31,
+      "price": 1209.9000244140625,
+      "change_pct": -1.02,
+      "setup_quality_score": 54.19,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T09:39:25.117389+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:11:47.980510+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BSE",
-      "price": 3080.0,
-      "change_pct": -3.49,
-      "setup_quality_score": 51.23,
+      "symbol": "SBIN",
+      "price": 962.0,
+      "change_pct": -2.14,
+      "setup_quality_score": 51.25,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T09:39:25.413702+00:00",
+      "chain_fetched_at_utc": "2026-09-28T11:11:48.429103+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
