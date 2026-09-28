@@ -6,6 +6,7 @@ import requests
 from src.ai_crosscheck import cross_check
 from src.event_memory import remember
 from src.market_data import snapshot, option_chain_summary
+from src.momentum_scanner import top_fno_movers, FALLBACK_FNO_UNIVERSE
 from src.news_intelligence import build_ai_payload, collect_fresh_news
 
 STATE_FILE = Path("data/news_intelligence_state.json")
@@ -13,15 +14,7 @@ APP_FEED_FILE = Path("data/app_feed.json")
 
 # Liquid NSE F&O universe used for candidate discovery. The AI may reject every
 # candidate; this is deliberately a discovery universe, not a recommendation list.
-LIQUID_FNO_UNIVERSE = [
-    "RELIANCE", "HDFCBANK", "ICICIBANK", "SBIN", "AXISBANK",
-    "KOTAKBANK", "INDUSINDBK", "BAJFINANCE", "BAJAJFINSV", "SHRIRAMFIN",
-    "LT", "TATAMOTORS", "M&M", "MARUTI", "TATASTEEL",
-    "JINDALSTEL", "ADANIPORTS", "ADANIPOWER", "BEL", "BHARTIARTL",
-    "INFY", "TCS", "WIPRO", "PERSISTENT", "HCLTECH",
-    "SUNPHARMA", "LUPIN", "TRENT", "TITAN", "ITC",
-]
-
+0
 def send_telegram(message: str) -> None:
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
@@ -86,41 +79,41 @@ def _candidate_score(symbol: str, market: dict, news_items: list[dict]) -> float
 
 def _market_cache(payload):
     news_items = payload.get("items", [])
+    movers, mover_errors = top_fno_movers(limit_each=15)
+    mover_map = {item["symbol"]: item for item in movers}
+    mover_symbols = [item["symbol"] for item in movers]
     news_symbols = {
         symbol for item in news_items for symbol in (item.get("symbols") or [])
         if symbol and symbol not in {"MARKET", "SECTOR"}
     }
     discovery_symbols = list(dict.fromkeys(
-        ["NIFTY", "BANKNIFTY"] + list(news_symbols) + LIQUID_FNO_UNIVERSE
+        ["NIFTY", "BANKNIFTY"] + mover_symbols + list(news_symbols) + FALLBACK_FNO_UNIVERSE
     ))
-
     cache = {}
     for symbol in discovery_symbols:
         cache[symbol] = snapshot(symbol)
+        if symbol in mover_map:
+            cache[symbol]["mover"] = mover_map[symbol]
 
-    # First pass: select liquid/active candidates using supplied news relevance
-    # and observed price movement. Then fetch option chains only for the
-    # shortlist to avoid hammering the public fallback provider.
     ranked = sorted(
-        (
-            (symbol, market)
-            for symbol, market in cache.items()
-            if symbol not in {"NIFTY", "BANKNIFTY"} and market.get("available")
+        ((symbol, market) for symbol, market in cache.items()
+         if symbol not in {"NIFTY", "BANKNIFTY"} and market.get("available")),
+        key=lambda pair: (
+            1 if pair[0] in mover_map else 0,
+            _candidate_score(pair[0], pair[1], news_items),
         ),
-        key=lambda pair: _candidate_score(pair[0], pair[1], news_items),
         reverse=True,
     )
-
-    # Always include the indices; add the most relevant liquid stock candidates.
     chain_symbols = ["NIFTY", "BANKNIFTY"]
-    for symbol, _ in ranked[:3]:
+    for symbol, _ in ranked[:5]:
         if symbol not in chain_symbols:
             chain_symbols.append(symbol)
-
     for symbol in chain_symbols:
         if symbol in cache:
             cache[symbol]["option_chain"] = option_chain_summary(symbol)
 
+    payload["fno_movers"] = movers
+    payload["fno_mover_errors"] = mover_errors
     payload["fno_candidate_universe"] = discovery_symbols
     payload["fno_option_candidates"] = [
         {
@@ -128,22 +121,23 @@ def _market_cache(payload):
             "symbol": symbol,
             "price": cache[symbol].get("price"),
             "change_pct": cache[symbol].get("change_pct"),
+            "mover": cache[symbol].get("mover"),
             "technical": cache[symbol].get("technical"),
             "option_chain_available": bool(cache[symbol].get("option_chain", {}).get("available")),
             "setup_quality_score": _candidate_score(symbol, cache[symbol], news_items),
             "deep_chain_checked": symbol in chain_symbols,
         }
-        for rank, (symbol, _) in enumerate(ranked[:3], 1)
+        for rank, (symbol, _) in enumerate(ranked[:5], 1)
     ]
     return cache
-
 def _ai_evidence_payload(payload):
     """Keep the reasoning prompt compact enough for free AI provider limits."""
     evidence = dict(payload)
     evidence["items"] = payload.get("items", [])[:15]
+    evidence["fno_movers"] = payload.get("fno_movers", [])[:30]
     market = payload.get("market_data") or {}
     allowed = {"NIFTY", "BANKNIFTY"} | {
-        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:3] if x.get("symbol")
+        x.get("symbol") for x in payload.get("fno_option_candidates", [])[:5] if x.get("symbol")
     }
     compact = {}
     for symbol in allowed:
@@ -191,7 +185,7 @@ def final_report(phase, payload, result):
         header,
         "━━━━━━━━━━━━━━━━━━",
         "📖 CONTEXT-FIRST NEWS + F&O ANALYSIS",
-        "Market is screened broadly, but deep F&O analysis is limited to the top 3 setup-quality candidates plus NIFTY/BANK NIFTY.",
+        "Discovery pool: LIVE NSE F&O TOP 15 GAINERS + TOP 15 LOSERS. Deep F&O analysis covers the top 5 setup candidates plus NIFTY/BANK NIFTY.",
         "Setup-quality score is an evidence score, NOT a probability of profit.",
         "News freshness gate: only current/recent items up to 72 hours are used; older items are excluded.",
         "Each important item includes the report summary so the user can see key numbers/context.",
@@ -225,8 +219,8 @@ def final_report(phase, payload, result):
 
     # Make the actual option-selection section visible even when an AI provider
     # is unavailable. It shows data availability, not a guessed recommendation.
-    lines += ["━━━━━━━━━━━━━━━━━━", "🔥 TOP 3 SUPER-SETUP SCREEN"]
-    for item in payload.get("fno_option_candidates", [])[:3]:
+    lines += ["━━━━━━━━━━━━━━━━━━", "🔥 TOP 5 SUPER-SETUP SCREEN"]
+    for item in payload.get("fno_option_candidates", [])[:5]:
         status = "CHAIN READY" if item.get("option_chain_available") else "CHAIN UNAVAILABLE"
         score = item.get("setup_quality_score", 0)
         tier = "🔥 SUPER SETUP CANDIDATE" if float(score) >= 90 else "🟡 DEVELOPING CANDIDATE"
@@ -284,6 +278,7 @@ def save_state(phase, payload, result, report):
             "available_models": result["available_models"],
             "generated_at_utc": payload["generated_at_utc"],
             "news_count": len(payload["items"]),
+            "fno_mover_count": len(payload.get("fno_movers", [])),
             "fno_candidate_count": len(payload.get("fno_option_candidates", [])),
             "report": report,
         }, ensure_ascii=False, indent=2),
@@ -308,7 +303,7 @@ def save_app_feed(phase, payload, result):
 
     fno = []
     market = payload.get("market_data") or {}
-    for item in payload.get("fno_option_candidates", [])[:3]:
+    for item in payload.get("fno_option_candidates", [])[:5]:
         symbol = item.get("symbol")
         chain = market.get(symbol, {}).get("option_chain") or {}
         stats = chain.get("stats") or {}
@@ -350,8 +345,10 @@ def save_app_feed(phase, payload, result):
             "phase": phase,
             "generated_at_utc": payload.get("generated_at_utc"),
             "news": news,
+            "fno_movers": payload.get("fno_movers", [])[:30],
             "fno_candidates": fno,
             "breakouts": [],
+            "strategy": "top 15 F&O gainers + top 15 F&O losers -> catalyst + momentum + breakout + OI/options -> CE/PE or NO TRADE",
             "ai_analyses": analyses,
             "ai_status": result.get("status", "unknown"),
             "available_models": result.get("available_models", []),
