@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-28T15:57:59.618023+00:00",
+  "generated_at_utc": "2026-09-28T16:26:01.017787+00:00",
   "news": [
     {
       "headline": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
@@ -86,12 +86,22 @@
     {
       "headline": "HDFC Bank CEO transition nears; Jefferies sees rerating scope, sets target at Rs 880",
       "summary": "HDFC Bank could be nearing a leadership transition, with Jefferies saying greater clarity on CEO succession and a management reshuffle could improve execution and support a rerating. The brokerage retained its Buy rating and Rs 880 target, citing scope for stronger deposit growth, fee income and a better loan mix.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-ceo-transition-nears-jefferies-sees-rerating-scope-sets-target-at-rs-880/articleshow/134534153.cms",
       "published": "Mon, 28 Sep 2026 11:59:10 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Sebi allows Adani, four group firms to settle public-float violations",
+      "summary": "Gautam Adani and four companies in the Adani Group have settled regulatory violations with SEBI. The settlement involved a payment of 14.82 million rupees to address minimum public float rules. SEBI had previously accused the group of failing to comply with shareholding disclosure requirements. While investigations continue regarding stock price manipulation, the companies are not mandated to make corrective disclosures.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-adani-four-group-firms-to-settle-public-float-violations/articleshow/134546792.cms",
+      "published": "Mon, 28 Sep 2026 21:37:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "AI trade enters a new phase: Why DBS favours AI adopters over capex-heavy players",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: European shares edge higher as British housebuilders rally",
-      "summary": "European shares edged higher, with the STOXX 600 gaining 0.3%, led by a sharp rally in British housebuilders. Gains were capped by rising oil prices and elevated bond yields, as investors assessed inflation and interest-rate risks. Energy stocks advanced, while miners declined, with markets awaiting central-bank officials’ comments on monetary policy.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-british-housebuilders-rally/articleshow/134537265.cms",
-      "published": "Mon, 28 Sep 2026 14:30:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T15:58:11.193937+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:26:14.815815+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T15:58:11.647477+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:26:15.194087+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-28T15:58:12.032334+00:00",
+      "chain_fetched_at_utc": "2026-09-28T16:26:15.741591+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
