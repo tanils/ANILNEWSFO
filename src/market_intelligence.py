@@ -219,7 +219,7 @@ def final_report(phase, payload, result):
 
     # Make the actual option-selection section visible even when an AI provider
     # is unavailable. It shows data availability, not a guessed recommendation.
-    lines += ["━━━━━━━━━━━━━━━━━━", "🔥 TOP 3 SUPER-SETUP SCREEN"]
+    lines += ["━━━━━━━━━━━━━━━━━━", "🔥 TOP 5 SUPER-SETUP SCREEN"]
     for item in payload.get("fno_option_candidates", [])[:5]:
         status = "CHAIN READY" if item.get("option_chain_available") else "CHAIN UNAVAILABLE"
         score = item.get("setup_quality_score", 0)
@@ -303,7 +303,7 @@ def save_app_feed(phase, payload, result):
 
     fno = []
     market = payload.get("market_data") or {}
-    for item in payload.get("fno_option_candidates", [])[:3]:
+    for item in payload.get("fno_option_candidates", [])[:5]:
         symbol = item.get("symbol")
         chain = market.get(symbol, {}).get("option_chain") or {}
         stats = chain.get("stats") or {}
@@ -345,8 +345,10 @@ def save_app_feed(phase, payload, result):
             "phase": phase,
             "generated_at_utc": payload.get("generated_at_utc"),
             "news": news,
+            "fno_movers": payload.get("fno_movers", [])[:30],
             "fno_candidates": fno,
             "breakouts": [],
+            "strategy": "top 15 F&O gainers + top 15 F&O losers -> catalyst + momentum + breakout + OI/options -> CE/PE or NO TRADE",
             "ai_analyses": analyses,
             "ai_status": result.get("status", "unknown"),
             "available_models": result.get("available_models", []),
