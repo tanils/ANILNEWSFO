@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-29T14:21:10.733964+00:00",
+  "generated_at_utc": "2026-09-29T15:03:26.442017+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -36,7 +36,7 @@
     {
       "headline": "10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
       "summary": "Motilal Oswal Financial Services has pinpointed ten Nifty stocks as attractive growth investments. Key players like Bharti Airtel, State Bank of India, and ICICI Bank stand out in this selection. With analysts forecasting significant increases in earnings per share in the coming years, investors should reflect on their choices in light of this comprehensive research, which emphasizes the necessity of enhancing earnings and solid economic fundamentals in today's marketplace.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-that-motilal-oswal-analysts-are-bullish-on-how-many-do-you-own/slideshow/134557589.cms",
       "published": "Tue, 29 Sep 2026 11:04:38 +0530",
       "freshness": "new",
@@ -147,7 +147,7 @@
       "headline": "Global Markets: Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields",
       "summary": "Sovereign yields are an anchor for global markets, a reference price for investing in riskier stocks and a benchmark for mortgages and corporate borrowing. Higher rates pile pressure on government, corporate and household budgets.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-tech-stocks-gain-on-anthropic-ipo-optimism-offsetting-high-oil-yields/articleshow/134568836.cms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-tech-stocks-gain-on-anthropic-ipo-optimism-offsetting-high-oil-yields/articleshow/134568836.cms",
       "published": "Tue, 29 Sep 2026 19:33:40 +0530",
       "freshness": "new",
       "news_type": "catalyst",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T14:21:22.754709+00:00",
+      "chain_fetched_at_utc": "2026-09-29T15:03:35.145826+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T14:21:23.107171+00:00",
+      "chain_fetched_at_utc": "2026-09-29T15:03:35.560067+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T14:21:23.461597+00:00",
+      "chain_fetched_at_utc": "2026-09-29T15:03:35.984634+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
