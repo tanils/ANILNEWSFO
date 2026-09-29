@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-29T13:18:13.753651+00:00",
+  "generated_at_utc": "2026-09-29T14:21:10.733964+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -74,6 +74,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "China rolls out new measures to bolster its property sector and economy",
+      "summary": "China rolled out new measures to help its sluggish property sector amid rising pressure to hit the government's year-end growth goal. China's central bank, the People's Bank of China is lowing its interest rates for its pledged supplementary lending (PSL). The central bank will also increase the quota of relending for technological innovation by 200 billion yuan (about $30 billion) to a total of 1.4 trillion yuan ($208 billion). Chinese leaders are targeting a 4.5%-5% growth rate for the country's economy for the entirety of 2026.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/china-rolls-out-new-measures-to-bolster-its-property-sector-and-economy/articleshow/134568796.cms",
+      "published": "Tue, 29 Sep 2026 19:28:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "India 10-year bond snaps four-day losing run as US yields ease",
       "summary": "On Tuesday, Indian government bonds rebounded, marking the end of a four-day downturn spurred by softer US Treasury yields and declining crude oil prices. Despite this rally, apprehensions linger over persistently high global yields and the risk of inflation. The Reserve Bank of India may soon increase rates, complicating the bond landscape further. Additionally, significant factors like banking system liquidity and debt supply continue to challenge the market.",
       "source": "Economic Times Markets",
@@ -116,7 +126,7 @@
     {
       "headline": "Stocks to buy: JM Financial expects soft Q2 season for IT majors; check target prices for Infosys, TCS, others",
       "summary": "JM Financial predicts a lackluster Q2 earnings season for leading IT companies. Despite obstacles, firms like TCS and Infosys exhibit target prices suggesting room for growth. The brokerage foresees ongoing competitive challenges and macroeconomic instability. However, with wage hikes coming to an end for certain companies, margins are expected to improve. Investors should remain vigilant, analyzing specific earnings and future guidance during this critical time.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jm-financial-expects-soft-q2-season-for-it-majors-check-target-prices-for-infosys-tcs-others/slideshow/134556958.cms",
       "published": "Tue, 29 Sep 2026 10:31:48 +0530",
       "freshness": "new",
@@ -124,31 +134,21 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Quote of the day by Irving Fisher: \"A chief cause of crises, panics, runs on banks, etc., is that risks are not independently reckoned, but are a mere matter of imitation. A crisis is a time of general and forced liquidation\"",
-      "summary": "Economist Irving Fisher warned that investors copying one another can amplify financial risks. Rising optimism can fuel credit and asset prices, while sudden fear can trigger forced liquidation, falling prices, tighter liquidity and a self-reinforcing cycle that deepens financial crises.",
+      "headline": "Carnival raises annual profit forecast as demand grows",
+      "summary": "\"Our booking trends continued to strengthen throughout the quarter, with volumes meaningfully ahead of last year and far outpacing capacity growth. This momentum underscores the effectiveness of our demand generation efforts and the enduring appeal of our cruise lines,\" CEO Josh Weinstein said.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-irving-fisher-a-chief-cause-of-crises-panics-runs-on-banks-etc-is-that-risks-are-not-independently-reckoned-but-are-a-mere-matter-of-imitation-a-crisis-is-a-time-of-general-and-forced-liquidation/articleshow/134564516.cms",
-      "published": "Tue, 29 Sep 2026 16:46:33 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/carnival-raises-annual-profit-forecast-as-demand-grows/articleshow/134568896.cms",
+      "published": "Tue, 29 Sep 2026 19:37:24 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Subway India operator EverBrands files IPO papers with Sebi. Check details",
-      "summary": "EverBrands India, which operates Subway restaurants, is planning an IPO to raise Rs 600 crore. The funds will mainly support debt repayment and the expansion of Subway stores. As of March 2026, the company has 1,008 Subway stores across India and plans significant growth in the coming years. The food services market in India is projected to grow substantially, attracting interest from investors.",
+      "headline": "Global Markets: Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields",
+      "summary": "Sovereign yields are an anchor for global markets, a reference price for investing in riskier stocks and a benchmark for mortgages and corporate borrowing. Higher rates pile pressure on government, corporate and household budgets.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/subway-restaurants-operator-everbrands-india-files-papers-for-rs-600-crore-ipo/articleshow/134561897.cms",
-      "published": "Tue, 29 Sep 2026 14:52:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Eurozone bond selloff pauses, yields stay near multi-year highs",
-      "summary": "Eurozone government bond yields eased after a sharp selloff pushed borrowing costs to multi-year highs. Investors remained focused on elevated energy prices, inflation risks and expectations for further ECB rate hikes, while Germany’s 10-year yield slipped from recent highs.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-selloff-pauses-yields-stay-near-multi-year-highs/articleshow/134561411.cms",
-      "published": "Tue, 29 Sep 2026 14:29:50 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-tech-stocks-gain-on-anthropic-ipo-optimism-offsetting-high-oil-yields/articleshow/134568836.cms",
+      "published": "Tue, 29 Sep 2026 19:33:40 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T13:18:22.246575+00:00",
+      "chain_fetched_at_utc": "2026-09-29T14:21:22.754709+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T13:18:22.587451+00:00",
+      "chain_fetched_at_utc": "2026-09-29T14:21:23.107171+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T13:18:22.940410+00:00",
+      "chain_fetched_at_utc": "2026-09-29T14:21:23.461597+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
