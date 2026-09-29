@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-09-29T09:43:28.775126+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-09-29T10:52:42.907639+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -44,6 +44,16 @@
       "symbols": "ICICIBANK, SBIN"
     },
     {
+      "headline": "Global Market: Japan 2-year bond yield nears 2% as BOJ rate hike bets rise",
+      "summary": "Japan’s two-year government bond yield neared 2%, its highest level since 1995, as persistent inflation, yen weakness and expectations of further Bank of Japan rate hikes pushed short-term borrowing costs higher.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-2-year-bond-yield-nears-2-as-boj-rate-hike-bets-rise/articleshow/134562765.cms",
+      "published": "Tue, 29 Sep 2026 15:39:40 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: Japanese bond yields hover near multi-decade highs as inflation concerns persist",
       "summary": "Japanese government bond yields remained near multi-decade highs as persistent inflation, elevated oil prices and expectations of further Bank of Japan rate hikes weighed on sentiment. A strong 40-year bond auction offered some relief, with demand improving, but investors remain focused on inflation, fiscal expansion and the outlook for interest rates.",
       "source": "Economic Times Markets",
@@ -56,12 +66,22 @@
     {
       "headline": "Nifty SIP return fails to beat even bank FD over 5 years: Is this the warning sign investors can’t ignore?",
       "summary": "New insights reveal that systematic investment plans in the Nifty50 have consistently underperformed, presenting a five-year XIRR of merely 4.5%. This result places Nifty50 below the returns of traditional fixed deposits. In contrast, midcap and smallcap indices have shown impressive gains. Analysts recommend a strategy focusing on individual stock selection and earnings growth rather than relying solely on index performance, prompting a reassessment of index-based investment approaches.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-sip-return-fails-to-beat-even-bank-fd-over-5-years-is-this-the-warning-sign-investors-cant-ignore/articleshow/134555510.cms",
       "published": "Tue, 29 Sep 2026 09:24:24 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
+      "summary": "The Indian rupee showed little change after reaching a two-month low in early trading. Crude oil prices significantly impacted the currency's movement, leading to a brief decline. Dollar sales by state-run banks helped contain the rupee's drop earlier in the day. As Brent oil prices decreased, the rupee managed to close nearly flat at 95.98. Investor focus remains on future US economic data and its implications for interest rates.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall/articleshow/134563409.cms",
+      "published": "Tue, 29 Sep 2026 16:03:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "J B Ecotex files DRHP for Rs 400 crore IPO; OFS of 1.29 crore shares",
@@ -94,8 +114,8 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Subway restaurants operator EverBrands India files papers for Rs 600 crore IPO",
-      "summary": "EverBrands India Ltd is gearing up to raise Rs 600 crore via an initial public offering of equity shares. This funding will support the repayment of debts and finance the establishment of new Subway outlets. As a multi-brand food and beverage platform, Culinary Brands India has experienced remarkable revenue growth in the quick-service restaurant sector over the past two fiscal years.",
+      "headline": "Subway India operator EverBrands files IPO papers with Sebi. Check details",
+      "summary": "EverBrands India, which operates Subway restaurants, is planning an IPO to raise Rs 600 crore. The funds will mainly support debt repayment and the expansion of Subway stores. As of March 2026, the company has 1,008 Subway stores across India and plans significant growth in the coming years. The food services market in India is projected to grow substantially, attracting interest from investors.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/subway-restaurants-operator-everbrands-india-files-papers-for-rs-600-crore-ipo/articleshow/134561897.cms",
       "published": "Tue, 29 Sep 2026 14:52:52 +0530",
@@ -132,74 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "NCC shares rally 5% after securing Rs 1,076 crore Andhra Pradesh drinking water project",
-      "summary": "NCC shares rose after the company received a Rs 1,076.71-crore order, excluding GST, from the Andhra Pradesh government’s Rural Water Supply and Sanitation Department. The order involves providing drinking water under a multi-village scheme on the Yeleru Reservoir for the Anakapalli segment in Andhra Pradesh.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ncc-shares-rally-5-after-securing-rs-1076-crore-andhra-pradesh-drinking-water-project/articleshow/134558547.cms",
-      "published": "Tue, 29 Sep 2026 12:02:12 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Power Mech Projects shares gain 3% after securing Rs 279 crore order from Telangana Power Generation Corporation",
-      "summary": "Power Mech Projects secured a Rs 279.20 crore, three-year O&amp;M contract from Telangana Power Generation Corporation for YTPS. The order covers ash and coal handling plants across five 800 MW units. The company reported Rs 3,113 crore FY27 YTD inflows and a Rs 17,317 crore order book, supporting sustained revenue visibility and growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-gain-3-after-securing-rs-279-crore-order-from-telangana-power-generation-corporation/articleshow/134558476.cms",
-      "published": "Tue, 29 Sep 2026 11:57:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "POLICYBZR",
-      "price": 1085.9000244140625,
-      "change_pct": -5.68,
-      "setup_quality_score": 62.02,
+      "price": 1081.0,
+      "change_pct": -6.11,
+      "setup_quality_score": 62.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T09:43:36.115266+00:00",
+      "chain_fetched_at_utc": "2026-09-29T10:52:54.609171+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "INFY",
-      "price": 987.4000244140625,
-      "change_pct": -1.57,
-      "setup_quality_score": 54.55,
+      "symbol": "ADANIPORTS",
+      "price": 1822.0,
+      "change_pct": 4.49,
+      "setup_quality_score": 61.02,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T09:43:36.552709+00:00",
+      "chain_fetched_at_utc": "2026-09-29T10:52:55.007253+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "HCLTECH",
-      "price": 1227.699951171875,
-      "change_pct": -1.99,
-      "setup_quality_score": 53.34,
+      "price": 1222.0,
+      "change_pct": -2.44,
+      "setup_quality_score": 60.18,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T09:43:36.933786+00:00",
+      "chain_fetched_at_utc": "2026-09-29T10:52:55.427647+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
