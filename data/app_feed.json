@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-29T10:52:42.907639+00:00",
+  "generated_at_utc": "2026-09-29T11:33:39.035848+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -74,6 +74,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Euro zone bond selloff hits pause, yields fall from multi-year highs",
+      "summary": "Germany's 10-year bond yield experienced a slight decrease after reaching a 17-year high recently. Rising global interest rates are driven by strong economic growth and elevated energy prices. The European Central Bank may implement additional rate hikes to combat inflationary pressures. Money markets are pricing in nearly four quarter-point hikes following previous increases over the summer. Investor concerns about further growth slowdowns due to higher long-term yields remain significant.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-selloff-hits-pause-yields-fall-from-multi-year-highs/articleshow/134563785.cms",
+      "published": "Tue, 29 Sep 2026 16:14:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
       "summary": "The Indian rupee showed little change after reaching a two-month low in early trading. Crude oil prices significantly impacted the currency's movement, leading to a brief decline. Dollar sales by state-run banks helped contain the rupee's drop earlier in the day. As Brent oil prices decreased, the rupee managed to close nearly flat at 95.98. Investor focus remains on future US economic data and its implications for interest rates.",
       "source": "Economic Times Markets",
@@ -142,37 +152,11 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Copper prices may surge another 50%, predicts Deutsche Bank; supply to users could exhaust by 2028",
-      "summary": "Copper prices could surge further as historically low inventories, US stockpiling and constrained mine supply intensify competition for spot metal. Deutsche Bank expects copper to reach $22,050 per metric ton by Q2 2027, while supply available to global users could tighten sharply by 2028.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-prices-may-surge-another-50-predicts-deutsche-bank-supply-to-users-could-exhaust-by-2028/articleshow/134559135.cms",
-      "published": "Tue, 29 Sep 2026 12:30:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "POLICYBZR",
-      "price": 1081.0,
-      "change_pct": -6.11,
-      "setup_quality_score": 62.66,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T10:52:54.609171+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "ADANIPORTS",
       "price": 1822.0,
       "change_pct": 4.49,
@@ -183,12 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T10:52:55.007253+00:00",
+      "chain_fetched_at_utc": "2026-09-29T11:33:46.199481+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 3,
+      "rank": 2,
       "symbol": "HCLTECH",
       "price": 1222.0,
       "change_pct": -2.44,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T10:52:55.427647+00:00",
+      "chain_fetched_at_utc": "2026-09-29T11:33:46.590596+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "WIPRO",
+      "price": 156.7899932861328,
+      "change_pct": -2.95,
+      "setup_quality_score": 53.42,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-29T11:33:46.980809+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
