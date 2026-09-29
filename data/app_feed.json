@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-09-29T16:06:18.475420+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-09-29T20:14:57.980796+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -74,6 +74,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
+      "summary": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
+      "published": "Wed, 30 Sep 2026 01:17:39 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "China rolls out new measures to bolster its property sector and economy",
       "summary": "China rolled out new measures to help its sluggish property sector amid rising pressure to hit the government's year-end growth goal. China's central bank, the People's Bank of China is lowing its interest rates for its pledged supplementary lending (PSL). The central bank will also increase the quota of relending for technological innovation by 200 billion yuan (about $30 billion) to a total of 1.4 trillion yuan ($208 billion). Chinese leaders are targeting a 4.5%-5% growth rate for the country's economy for the entirety of 2026.",
       "source": "Economic Times Markets",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Markets: Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields",
-      "summary": "Sovereign yields are an anchor for global markets, a reference price for investing in riskier stocks and a benchmark for mortgages and corporate borrowing. Higher rates pile pressure on government, corporate and household budgets.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-tech-stocks-gain-on-anthropic-ipo-optimism-offsetting-high-oil-yields/articleshow/134568836.cms",
-      "published": "Tue, 29 Sep 2026 19:33:40 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ADANIPORTS",
-      "price": 1822.0,
-      "change_pct": 4.49,
-      "setup_quality_score": 61.02,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T16:06:25.915621+00:00",
+      "chain_fetched_at_utc": "2026-09-29T20:15:09.768189+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HCLTECH",
-      "price": 1222.0,
-      "change_pct": -2.44,
-      "setup_quality_score": 60.18,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T16:06:26.239279+00:00",
+      "chain_fetched_at_utc": "2026-09-29T20:15:10.198172+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "WIPRO",
-      "price": 156.7899932861328,
-      "change_pct": -2.95,
-      "setup_quality_score": 53.42,
+      "symbol": "ICICIBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T16:06:26.607946+00:00",
+      "chain_fetched_at_utc": "2026-09-29T20:15:10.552023+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
