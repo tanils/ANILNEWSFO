@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-29T11:33:39.035848+00:00",
+  "generated_at_utc": "2026-09-29T13:18:13.753651+00:00",
   "news": [
     {
       "headline": "India bonds edge up on short covering as US yields cool",
@@ -74,6 +74,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "India 10-year bond snaps four-day losing run as US yields ease",
+      "summary": "On Tuesday, Indian government bonds rebounded, marking the end of a four-day downturn spurred by softer US Treasury yields and declining crude oil prices. Despite this rally, apprehensions linger over persistently high global yields and the risk of inflation. The Reserve Bank of India may soon increase rates, complicating the bond landscape further. Additionally, significant factors like banking system liquidity and debt supply continue to challenge the market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-snaps-four-day-losing-run-as-us-yields-ease/articleshow/134566016.cms",
+      "published": "Tue, 29 Sep 2026 17:55:46 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Euro zone bond selloff hits pause, yields fall from multi-year highs",
       "summary": "Germany's 10-year bond yield experienced a slight decrease after reaching a 17-year high recently. Rising global interest rates are driven by strong economic growth and elevated energy prices. The European Central Bank may implement additional rate hikes to combat inflationary pressures. Money markets are pricing in nearly four quarter-point hikes following previous increases over the summer. Investor concerns about further growth slowdowns due to higher long-term yields remain significant.",
       "source": "Economic Times Markets",
@@ -114,14 +124,14 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Global Market: RoboTechnik slides below IPO price in weak Hong Kong debut",
-      "summary": "RoboTechnik Intelligent Technology fell as much as 8.5% in its Hong Kong debut after raising HK$5.18 billion through its IPO. Weak market sentiment pressured new listings, with Shenzhen Kinwong and Red Avenue also opening below offer prices. Direct Drive Tech bucked the trend, gaining 4.1%, as Hong Kong IPO activity continues recovering.",
+      "headline": "Quote of the day by Irving Fisher: \"A chief cause of crises, panics, runs on banks, etc., is that risks are not independently reckoned, but are a mere matter of imitation. A crisis is a time of general and forced liquidation\"",
+      "summary": "Economist Irving Fisher warned that investors copying one another can amplify financial risks. Rising optimism can fuel credit and asset prices, while sudden fear can trigger forced liquidation, falling prices, tighter liquidity and a self-reinforcing cycle that deepens financial crises.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-robotechnik-slides-below-ipo-price-in-weak-hong-kong-debut/articleshow/134556136.cms",
-      "published": "Tue, 29 Sep 2026 10:04:34 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-irving-fisher-a-chief-cause-of-crises-panics-runs-on-banks-etc-is-that-risks-are-not-independently-reckoned-but-are-a-mere-matter-of-imitation-a-crisis-is-a-time-of-general-and-forced-liquidation/articleshow/134564516.cms",
+      "published": "Tue, 29 Sep 2026 16:46:33 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BEL"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Subway India operator EverBrands files IPO papers with Sebi. Check details",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic’s Road to IPO: Funding, valuation, Claude growth and legal battles",
-      "summary": "Anthropic is preparing for a closely watched U.S. IPO after rapid growth in funding, valuation and revenue. The Claude maker faces legal and regulatory challenges while expanding AI capabilities, cloud partnerships and commercial operations. Its potential listing could offer investors insight into frontier AI economics, governance, capital requirements and growth expectations.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-road-to-ipo-funding-valuation-claude-growth-and-legal-battles/articleshow/134559621.cms",
-      "published": "Tue, 29 Sep 2026 12:59:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T11:33:46.199481+00:00",
+      "chain_fetched_at_utc": "2026-09-29T13:18:22.246575+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T11:33:46.590596+00:00",
+      "chain_fetched_at_utc": "2026-09-29T13:18:22.587451+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-29T11:33:46.980809+00:00",
+      "chain_fetched_at_utc": "2026-09-29T13:18:22.940410+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
