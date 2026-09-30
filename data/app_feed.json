@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-09-30T15:14:44.871426+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-09-30T16:03:52.786032+00:00",
   "news": [
     {
       "headline": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -54,6 +54,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Market Trading Guide: JM Financial, IDFC First Bank among 5 stock recommendations for Thursday",
+      "summary": "Analysts recommend five stocks for Thursday—JM Financial, IDFC First Bank, Clean Science, City Union Bank and BEML—citing technical signals and support levels. Cautious sentiment persists amid higher oil prices, elevated bond yields, inflation concerns and uncertainty over global monetary policy.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jm-financial-idfc-first-bank-among-5-stock-recommendations-for-thursday/slideshow/134598185.cms",
+      "published": "Wed, 30 Sep 2026 21:13:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US yields pull back as rate hike bets ease after inflation data",
+      "summary": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' predictions. As a result, futures contracts adjusted to reflect a less than even chance of a rate hike in October. However, there remains strong anticipation for a rate increase by December, showcasing the market's response to shifting economic trends.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
+      "published": "Wed, 30 Sep 2026 20:50:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Macquarie sees strong earnings recovery for banks, picks 5 stocks to outperform",
       "summary": "Macquarie expects Indian banks to deliver 18% EPS growth in FY28, supported by higher margins, stronger loan demand, easing liquidity pressures and stable asset quality. The brokerage upgraded Bank of Baroda, Kotak Mahindra Bank and select financial stocks.",
       "source": "Economic Times Markets",
@@ -94,6 +114,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
+      "summary": "Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic move, Kotak Mahindra Mutual Fund bought 24.01 lakh shares priced around Rs 2,171. The deal was struck with share prices fluctuating between Rs 2,171.03 and Rs 2,173.35, while Avalon Technologies closed slightly lower at Rs 2,294.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-dilute-6-stake-in-avalon-technologies-for-rs-871-crore/articleshow/134597842.cms",
+      "published": "Wed, 30 Sep 2026 20:55:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US dollar retreats after softer-than-expected inflation data",
+      "summary": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift affected market predictions about Federal Reserve interest rate adjustments, resulting in lower US Treasury yields.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
+      "published": "Wed, 30 Sep 2026 20:52:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Diwali stock picks: Urban Company among 5 stock ideas from Ambareesh Baliga for up to 38% upside",
       "summary": "Baliga has set a target price of Rs 3,420 for Endurance Technologies, compared with its current market price of Rs 2,688, implying an upside of nearly 27%.",
       "source": "Economic Times Markets",
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
-      "summary": "Anthropic is preparing for a potential IPO as its revenue surges, but losses and infrastructure commitments balloon. The AI company has also warned of existential risks from advanced models and highlighted its heavy reliance on Amazon and Google.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
-      "published": "Wed, 30 Sep 2026 14:15:05 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
-      "summary": "Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore and Rs 922 crore.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
-      "published": "Wed, 30 Sep 2026 11:32:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
-      "summary": "Inox Clean Energy has filed its DRHP for a Rs 10,000 crore IPO with Sebi. The issue includes a Rs 8,000 crore fresh share sale and Rs 2,000 crore OFS. The company has a 9.29 GW renewable power portfolio and 6 GW solar module manufacturing capacity across India and the US.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-check-details/articleshow/134582612.cms",
-      "published": "Wed, 30 Sep 2026 10:59:07 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Power Mech Projects shares rise 4% after company secures Rs 549 crore order from Adani Group firm",
-      "summary": "Power Mech Projects shares gained after securing a Rs 549.37-crore O&amp;M order from Moxie Power Generation for its 2x600 MW Tuticorin thermal power plant, with the contract spanning five years.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-rise-4-after-company-secures-rs-549-crore-order-from-adani-group-firm/articleshow/134582047.cms",
-      "published": "Wed, 30 Sep 2026 10:37:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T15:14:56.668524+00:00",
+      "chain_fetched_at_utc": "2026-09-30T16:04:04.077523+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T15:14:57.028660+00:00",
+      "chain_fetched_at_utc": "2026-09-30T16:04:04.491707+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T15:14:57.392212+00:00",
+      "chain_fetched_at_utc": "2026-09-30T16:04:05.020564+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
