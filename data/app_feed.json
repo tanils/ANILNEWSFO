@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-09-30T09:35:22.177345+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-09-30T10:41:52.618677+00:00",
   "news": [
     {
       "headline": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
@@ -14,14 +14,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "8 SME IPOs to open today, seek to raise Rs 440 crore; check price bands, lot sizes and key dates",
-      "summary": "Eight SME IPOs — TNA Solutions, Omara Ventures India, Sollfege Smart Electronics, Eventions, Acme India Industries, Paramount Syntex, SJP Ultrasonics and Dove Soft — open for subscription today, September 30, collectively seeking to raise around Rs 440 crore. Seven will list on BSE SME, while Eventions will debut on NSE SME.",
+      "headline": "Global Market: BoE's Taylor says energy prices alone do not justify rate hike",
+      "summary": "Bank of England policymaker Alan Taylor said further rate increases remain unlikely unless higher energy prices generate persistent, broad-based inflation. He noted limited second-round effects, moderate wage growth and subdued food-price pressures. With rates held at 3.75%, policymakers remain divided as they monitor wages, services inflation, energy costs and economic weakness.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/8-sme-ipos-to-open-today-seek-to-raise-rs-440-crore-check-price-bands-lot-sizes-and-key-dates/articleshow/134579776.cms",
-      "published": "Wed, 30 Sep 2026 09:06:15 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-taylor-says-energy-prices-alone-do-not-justify-rate-hike/articleshow/134590670.cms",
+      "published": "Wed, 30 Sep 2026 15:40:46 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
@@ -34,7 +34,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Price Movement Analysis",
+      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Daily Price Update",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-30-sep-2026/liveblog/134579618.cms",
@@ -44,14 +44,24 @@
       "symbols": "AXISBANK"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Slight Decline in Price",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-30-sep-2026/liveblog/134578734.cms",
-      "published": "Wed, 30 Sep 2026 08:30:08 +0530",
+      "headline": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
+      "summary": "Eurozone bond yields eased Wednesday from multi-year highs as investors tempered expectations for further rate hikes. Germany’s 10-year yield fell to 3.57%, while French and Italian borrowing costs also declined but remained sharply higher for September. Falling energy prices and cautious central-bank signals offered relief, ahead of key inflation data.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-ease-from-highs-as-rate-hike-bets-cool/articleshow/134590223.cms",
+      "published": "Wed, 30 Sep 2026 15:25:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Coca-Cola mulls filing draft papers for $1 billion India IPO in December",
+      "summary": "Coca-Cola Co. plans to submit a draft prospectus by December for the anticipated IPO of Hindustan Coca-Cola Beverages Pvt. This offering, projected to garner about $1 billion, is expected to attract existing investors. With a valuation close to $10 billion, the deal highlights India's thriving investment landscape. The company has teamed up with various banks to streamline the process, riding the wave of recent IPO successes in the region.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-mulls-filing-draft-papers-for-1-billion-ipo-in-december/articleshow/134589426.cms",
+      "published": "Wed, 30 Sep 2026 14:57:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Axiscades Technologies rises 5% as Sunil Singhania's Abakkus buys 3.03% stake",
@@ -84,11 +94,11 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nityas Gems &amp; Jewellery IPO opens today. Check GMP, price band and key details",
-      "summary": "Nityas Gems &amp; Jewellery IPO opens on September 30 with a Rs 108.35-crore fresh issue. The IPO has a price band of Rs 70–75 per share, while the grey market premium stands at Rs 5.",
+      "headline": "Diwali stock picks: Urban Company among 5 stock ideas from Ambareesh Baliga for up to 38% upside",
+      "summary": "Baliga has set a target price of Rs 3,420 for Endurance Technologies, compared with its current market price of Rs 2,688, implying an upside of nearly 27%.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nityas-gems-jewellery-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/134580434.cms",
-      "published": "Wed, 30 Sep 2026 09:17:03 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-urban-company-among-5-stock-ideas-from-ambareesh-baliga-for-up-to-38-upside/slideshow/134589994.cms",
+      "published": "Wed, 30 Sep 2026 15:09:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Cupid shares rally 16% in two sessions. What’s behind the sharp uptick in the multibagger stock?",
-      "summary": "Cupid shares surged 7% after entering the Nifty Smallcap 250 index, extending gains to 16% in two sessions. The company has raised FY27 revenue and profit guidance following strong quarterly growth. Nuvama estimates around $10 million in potential inflows, while Cupid targets continued expansion across healthcare exports and consumer businesses.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-rally-16-in-two-sessions-whats-behind-the-sharp-uptick-in-the-multibagger-stock/articleshow/134581987.cms",
-      "published": "Wed, 30 Sep 2026 10:27:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BSE",
-      "price": 3093.800048828125,
-      "change_pct": -3.32,
-      "setup_quality_score": 60.02,
+      "symbol": "KOTAKBANK",
+      "price": 417.0,
+      "change_pct": 2.71,
+      "setup_quality_score": 61.06,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T09:35:29.571974+00:00",
+      "chain_fetched_at_utc": "2026-09-30T10:42:00.847210+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "KOTAKBANK",
-      "price": 416.1000061035156,
-      "change_pct": 2.49,
-      "setup_quality_score": 51.86,
+      "symbol": "BSE",
+      "price": 3092.0,
+      "change_pct": -3.38,
+      "setup_quality_score": 56.17,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T09:35:29.918573+00:00",
+      "chain_fetched_at_utc": "2026-09-30T10:42:01.233764+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "INFY",
-      "price": 995.4000244140625,
-      "change_pct": -1.97,
-      "setup_quality_score": 50.2,
+      "symbol": "SUNPHARMA",
+      "price": 1816.5999755859375,
+      "change_pct": -2.6,
+      "setup_quality_score": 54.5,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T09:35:30.245321+00:00",
+      "chain_fetched_at_utc": "2026-09-30T10:42:01.592659+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
