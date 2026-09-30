@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-30T11:21:17.118755+00:00",
+  "generated_at_utc": "2026-09-30T12:59:00.074820+00:00",
   "news": [
+    {
+      "headline": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
+      "summary": "Indian government bonds closed the quarter at their weakest levels in more than two years. Fluctuations in oil prices and rising global yields influenced market conditions significantly. Anticipations regarding rate increases by the Reserve Bank of India affected bond supply fears after increased long-term bond issuance. India's inflation rate in August exceeded the RBI's medium-term target, showing persisted price pressures.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-quarter-at-over-2-year-lows-as-rate-hike-bets-mount/articleshow/134594158.cms",
+      "published": "Wed, 30 Sep 2026 17:51:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
       "summary": "Bank shares have endured steep declines as investors brace for imminent interest rate hikes from the RBI. Some analysts suggest that the recent selloff may be excessive, presenting an opportunity to pick up quality stocks at lower prices. The forthcoming Monetary Policy Committee meeting will clarify the scope of any rate changes. Although there are immediate margin concerns, the overall asset quality in the banking sector remains stable.",
@@ -54,6 +64,16 @@
       "symbols": "AXISBANK"
     },
     {
+      "headline": "Macquarie sees strong earnings recovery for banks, picks 5 stocks to outperform",
+      "summary": "Macquarie expects Indian banks to deliver 18% EPS growth in FY28, supported by higher margins, stronger loan demand, easing liquidity pressures and stable asset quality. The brokerage upgraded Bank of Baroda, Kotak Mahindra Bank and select financial stocks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/macquarie-sees-strong-earnings-recovery-for-banks-picks-5-stocks-to-outperform/articleshow/134593479.cms",
+      "published": "Wed, 30 Sep 2026 17:27:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
       "summary": "Eurozone bond yields eased Wednesday from multi-year highs as investors tempered expectations for further rate hikes. Germany’s 10-year yield fell to 3.57%, while French and Italian borrowing costs also declined but remained sharply higher for September. Falling energy prices and cautious central-bank signals offered relief, ahead of key inflation data.",
       "source": "Economic Times Markets",
@@ -79,26 +99,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/axiscades-technologies-rises-5-as-sunil-singhanias-abakkus-buys-3-03-stake/articleshow/134584833.cms",
       "published": "Wed, 30 Sep 2026 12:51:12 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Record quarter primes India IPO market for blockbuster year",
-      "summary": "India’s IPO market is on track for another strong year after raising over $13 billion so far, including a record $9 billion in the third quarter. Large deals and strong domestic demand support the pipeline, with numerous companies awaiting approvals. However, market volatility, investor selectivity and valuations could influence upcoming issuance and timing.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-quarter-primes-india-ipo-market-for-blockbuster-year/articleshow/134581390.cms",
-      "published": "Wed, 30 Sep 2026 10:01:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vishal Nirmiti IPO opens today. Check GMP, price band, and key details. Should you subscribe?",
-      "summary": "Vishal Nirmiti IPO opens on September 30 with a Rs 178-crore issue, comprising fresh shares and an OFS. The IPO has a Rs 208–220 price band and a Rs 6 grey market premium.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-opens-today-check-gmp-price-band-and-key-details-should-you-subscribe/articleshow/134580743.cms",
-      "published": "Wed, 30 Sep 2026 09:26:26 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T11:21:24.495548+00:00",
+      "chain_fetched_at_utc": "2026-09-30T12:59:11.326025+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T11:21:24.791716+00:00",
+      "chain_fetched_at_utc": "2026-09-30T12:59:11.785029+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T11:21:25.094759+00:00",
+      "chain_fetched_at_utc": "2026-09-30T12:59:12.128779+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
