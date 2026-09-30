@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-30T12:59:00.074820+00:00",
+  "generated_at_utc": "2026-09-30T14:14:20.669921+00:00",
   "news": [
     {
       "headline": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -52,16 +52,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Daily Price Update",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-30-sep-2026/liveblog/134579618.cms",
-      "published": "Wed, 30 Sep 2026 08:54:07 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
     },
     {
       "headline": "Macquarie sees strong earnings recovery for banks, picks 5 stocks to outperform",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Power Mech Projects shares rise 4% after company secures Rs 549 crore order from Adani Group firm",
+      "summary": "Power Mech Projects shares gained after securing a Rs 549.37-crore O&amp;M order from Moxie Power Generation for its 2x600 MW Tuticorin thermal power plant, with the contract spanning five years.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-rise-4-after-company-secures-rs-549-crore-order-from-adani-group-firm/articleshow/134582047.cms",
+      "published": "Wed, 30 Sep 2026 10:37:14 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,12 +167,28 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T12:59:11.326025+00:00",
+      "chain_fetched_at_utc": "2026-09-30T14:14:30.878996+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
+      "symbol": "BSE",
+      "price": 3092.0,
+      "change_pct": -3.38,
+      "setup_quality_score": 56.17,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-30T14:14:31.236684+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
       "symbol": "SUNPHARMA",
       "price": 1816.5999755859375,
       "change_pct": -2.6,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T12:59:11.785029+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "INFY",
-      "price": 994.0999755859375,
-      "change_pct": -2.1,
-      "setup_quality_score": 52.71,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T12:59:12.128779+00:00",
+      "chain_fetched_at_utc": "2026-09-30T14:14:31.600288+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
