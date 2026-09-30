@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-09-30T16:03:52.786032+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-09-30T20:19:17.962527+00:00",
   "news": [
     {
       "headline": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -16,12 +16,22 @@
     {
       "headline": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
       "summary": "Bank shares have endured steep declines as investors brace for imminent interest rate hikes from the RBI. Some analysts suggest that the recent selloff may be excessive, presenting an opportunity to pick up quality stocks at lower prices. The forthcoming Monetary Policy Committee meeting will clarify the scope of any rate changes. Although there are immediate margin concerns, the overall asset quality in the banking sector remains stable.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
       "published": "Wed, 30 Sep 2026 12:40:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Indian rupee rebounds to 95.83 vs US dollar as crude prices ease",
+      "summary": "The rupee strengthened 0.16% to 95.83 against the dollar, recovering from morning weakness as crude prices eased below $103 a barrel. Dollar selling by public sector banks and broader Asian currency gains also supported the recovery despite foreign investor outflows.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-rebounds-to-95-83-vs-us-dollar-as-crude-prices-ease/articleshow/134600948.cms",
+      "published": "Thu, 01 Oct 2026 00:09:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
@@ -44,11 +54,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
-      "summary": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlook. Mid-term yields are influenced by expectations of a possible October Bank of Japan rate hike, though market-implied odds have declined amid changing U.S. rate expectations and yen pressures.",
+      "headline": "US stocks: AI infra firm Accelevation valued at $3.9 billion as shares fall in Nasdaq debut",
+      "summary": "Accelevation's shares began trading below the initial public offering price of $18, reflecting current market instability. The company, which focuses on data center infrastructure, successfully raised $540 million by offering around 30 million shares at a debut price of $17.55. Founded in 2017, Accelevation achieved impressive revenue growth, totaling $447.8 million by 2025 amidst an uncertain U.S. IPO landscape that is impacting this listing season.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
-      "published": "Wed, 30 Sep 2026 12:01:37 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-infra-firm-accelevation-valued-at-3-9-billion-as-shares-fall-in-nasdaq-debut/articleshow/134600144.cms",
+      "published": "Wed, 30 Sep 2026 23:08:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Avalon Tech block deal: Promoters divest 6% stake worth Rs 871 crore",
+      "summary": "Avalon Technologies saw an Rs 870.6 crore bulk deal as three promoter entities sold 40.08 lakh shares, representing 6% equity. Kotak Mahindra Mutual Fund bought 24.02 lakh shares, while Nomura retained its Buy rating and raised its target price.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-block-deal-promoters-divest-6-stake-worth-rs-871-crore/articleshow/134598495.cms",
+      "published": "Wed, 30 Sep 2026 21:39:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -56,19 +76,9 @@
     {
       "headline": "Market Trading Guide: JM Financial, IDFC First Bank among 5 stock recommendations for Thursday",
       "summary": "Analysts recommend five stocks for Thursday—JM Financial, IDFC First Bank, Clean Science, City Union Bank and BEML—citing technical signals and support levels. Cautious sentiment persists amid higher oil prices, elevated bond yields, inflation concerns and uncertainty over global monetary policy.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jm-financial-idfc-first-bank-among-5-stock-recommendations-for-thursday/slideshow/134598185.cms",
       "published": "Wed, 30 Sep 2026 21:13:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US yields pull back as rate hike bets ease after inflation data",
-      "summary": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' predictions. As a result, futures contracts adjusted to reflect a less than even chance of a rate hike in October. However, there remains strong anticipation for a rate increase by December, showcasing the market's response to shifting economic trends.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
-      "published": "Wed, 30 Sep 2026 20:50:52 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Bank of Korea steps up won support with $9.6 billion sale",
-      "summary": "South Korea’s central bank sold a net $9.612 billion in foreign currency during the second quarter to support the weakening won, marking its seventh consecutive quarter of intervention. The won fell 2.1% against the dollar during the period, pressured by a stronger U.S. currency and global market volatility, raising inflation concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-steps-up-won-support-with-9-6-billion-sale/articleshow/134588470.cms",
-      "published": "Wed, 30 Sep 2026 14:21:44 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "KOTAKBANK",
-      "price": 417.0,
-      "change_pct": 2.71,
-      "setup_quality_score": 61.06,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T16:04:04.077523+00:00",
+      "chain_fetched_at_utc": "2026-09-30T20:19:25.757914+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": 3092.0,
-      "change_pct": -3.38,
-      "setup_quality_score": 56.17,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T16:04:04.491707+00:00",
+      "chain_fetched_at_utc": "2026-09-30T20:19:26.116589+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "SUNPHARMA",
-      "price": 1816.5999755859375,
-      "change_pct": -2.6,
-      "setup_quality_score": 54.5,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T16:04:05.020564+00:00",
+      "chain_fetched_at_utc": "2026-09-30T20:19:26.470622+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
