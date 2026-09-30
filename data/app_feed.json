@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-30T10:41:52.618677+00:00",
+  "generated_at_utc": "2026-09-30T11:21:17.118755+00:00",
   "news": [
     {
       "headline": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
@@ -9,6 +9,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
       "published": "Wed, 30 Sep 2026 12:40:25 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
+      "summary": "The Indian rupee has experienced a decline impacted by elevated crude prices and increasing global bond yields. During the last quarter, the currency fell 1.2%, and monthly losses reached 0.7%. Despite the downturn, the Reserve Bank of India managed to stabilize the rupee through interventions and support measures. Analysts expect the upcoming monetary policy decision to influence the currency's future movement.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen/articleshow/134591316.cms",
+      "published": "Wed, 30 Sep 2026 16:05:54 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -117,7 +127,7 @@
       "headline": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
       "summary": "Anthropic is preparing for a potential IPO as its revenue surges, but losses and infrastructure commitments balloon. The AI company has also warned of existential risks from advanced models and highlighted its heavy reliance on Amazon and Google.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
       "published": "Wed, 30 Sep 2026 14:15:05 +0530",
       "freshness": "new",
       "news_type": "catalyst",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Power Mech Projects shares rise 4% after company secures Rs 549 crore order from Adani Group firm",
-      "summary": "Power Mech Projects shares gained after securing a Rs 549.37-crore O&amp;M order from Moxie Power Generation for its 2x600 MW Tuticorin thermal power plant, with the contract spanning five years.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-rise-4-after-company-secures-rs-549-crore-order-from-adani-group-firm/articleshow/134582047.cms",
-      "published": "Wed, 30 Sep 2026 10:37:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T10:42:00.847210+00:00",
+      "chain_fetched_at_utc": "2026-09-30T11:21:24.495548+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": 3092.0,
-      "change_pct": -3.38,
-      "setup_quality_score": 56.17,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T10:42:01.233764+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "SUNPHARMA",
       "price": 1816.5999755859375,
       "change_pct": -2.6,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T10:42:01.592659+00:00",
+      "chain_fetched_at_utc": "2026-09-30T11:21:24.791716+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "INFY",
+      "price": 994.0999755859375,
+      "change_pct": -2.1,
+      "setup_quality_score": 52.71,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-09-30T11:21:25.094759+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
