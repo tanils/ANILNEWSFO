@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-09-30T14:14:20.669921+00:00",
+  "generated_at_utc": "2026-09-30T15:14:44.871426+00:00",
   "news": [
     {
       "headline": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T14:14:30.878996+00:00",
+      "chain_fetched_at_utc": "2026-09-30T15:14:56.668524+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T14:14:31.236684+00:00",
+      "chain_fetched_at_utc": "2026-09-30T15:14:57.028660+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-09-30T14:14:31.600288+00:00",
+      "chain_fetched_at_utc": "2026-09-30T15:14:57.392212+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
