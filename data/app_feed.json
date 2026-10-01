@@ -1,14 +1,34 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-01T11:47:49.489287+00:00",
+  "generated_at_utc": "2026-10-01T13:51:44.628420+00:00",
   "news": [
+    {
+      "headline": "Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy",
+      "summary": "A significant selloff in Indian government bonds occurred as global yields rose and inflation pressures heightened. The Indian benchmark 10-year yield reached its highest level since April 2024. Traders expect the Reserve Bank of India to announce a rate hike at its upcoming policy meeting next week. Additionally, concerns regarding excessive liquidity in the banking system have intensified amid upcoming bond issues.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/global-bond-rout-hoists-benchmark-indian-yield-to-mid-2024-high-before-rbi-policy/articleshow/134619359.cms",
+      "published": "Thu, 01 Oct 2026 18:04:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "India bonds slide as US Treasury rout, supply weigh",
       "summary": "Indian government bonds experienced a decline as US Treasury yields rose and supply increased ahead of the Reserve Bank of India meeting. The benchmark bond yield reached its highest level in two and a half years. Market analysts expect the RBI to raise interest rates for the first time since 2023. Additionally, bond market activity was affected by global economic conditions and expectations of further rate hikes.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-us-treasury-rout-supply-weigh/articleshow/134613344.cms",
       "published": "Thu, 01 Oct 2026 14:09:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Carlsberg India IPO gets Sebi approval along with three other public offers. Check details",
+      "summary": "India’s IPO pipeline expands as Sebi clears papers for Carlsberg India, Matangi Rubber, Ujin Pharma and TMC Transformer. The approvals come amid strong primary-market activity, with over 50 companies filing draft IPO papers in September despite volatility in broader equity markets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
+      "published": "Thu, 01 Oct 2026 18:40:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -34,19 +54,9 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Kataline files DRHP for IPO; plans 43 lakh fresh issue, OFS",
-      "summary": "Kataline Limited, an integrated traffic safety solutions provider, has submitted a Draft Red Herring Prospectus to SEBI. The proposed IPO includes a fresh issue and an offer for sale by promoter shareholders. Kataline aims to raise funds for working capital, facility upgrades, and equipment purchases. The company has shown significant revenue growth and has completed over 60 major projects across diverse sectors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/traffic-safety-solutions-provider-kataline-files-ipo-papers-with-sebi/articleshow/134608453.cms",
-      "published": "Thu, 01 Oct 2026 10:20:53 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Jefferies is bearish TCS, Wipro, 6 other IT stocks ahead of Q2 results. How many do you own?",
       "summary": "Jefferies indicates a modest growth outlook for IT companies in Q2 FY27, primarily fueled by acquisitions. Large IT firms are predicted to struggle, anticipating a mere 0.5% QoQ growth. Stocks such as TCS, Wipro, and HCL Tech are rated as underperforming with significant downside risks. In contrast, Infosys holds a steady hold rating with minimal upside, while mid-sized firms are expected to excel compared to their larger counterparts.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bearish-tcs-wipro-6-other-it-stocks-ahead-of-q2-results-how-many-do-you-own/slideshow/134608396.cms",
       "published": "Thu, 01 Oct 2026 10:09:47 +0530",
       "freshness": "new",
@@ -54,14 +64,24 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Global Market: Japanese bond yields rise as investors weigh inflation, rate-hike risks",
-      "summary": "Japanese government bond yields rose across most maturities on Thursday, following US Treasuries higher as investors weighed inflation risks and Bank of Japan rate-hike timing. While long-term JGB yields climbed on rate tightening expectations, two-year yields ticked lower following recent debt auction demand.",
+      "headline": "Inox Clean Energy IPO papers kept in abeyance by Sebi",
+      "summary": "The Securities and Exchange Board of India has temporarily suspended the draft offer documents for Inox Clean Energy's upcoming initial public offering. The company aims to raise a substantial Rs 10,000 crore, including new equity shares and a sell-off from its promoters. With operations in renewable energy and solar manufacturing across India and Africa, this IPO is set to bolster its position in the expanding green energy market.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-rise-as-investors-weigh-inflation-rate-hike-risks/articleshow/134608120.cms",
-      "published": "Thu, 01 Oct 2026 10:05:23 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-ipo-papers-kept-in-abeyance-by-sebi/articleshow/134620687.cms",
+      "published": "Thu, 01 Oct 2026 18:58:06 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Infosys, Wipro ADRs soar up to 8% as strong Accenture earnings forecast lifts mood",
+      "summary": "Infosys and Wipro ADRs rallied in US premarket trading after Accenture forecast stronger-than-expected annual revenue growth. Its upbeat outlook eased concerns over global technology spending, while steady consulting, managed-services and AI demand improved sentiment toward Indian IT exporters.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-soar-up-to-8-as-strong-accenture-earnings-forecast-lifts-mood/articleshow/134617937.cms",
+      "published": "Thu, 01 Oct 2026 17:17:36 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
     },
     {
       "headline": "PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?",
@@ -116,7 +136,7 @@
     {
       "headline": "Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, longest streak in 25 years. More pain ahead?",
       "summary": "Indian equity benchmarks Sensex and Nifty fell for a fourth straight session on Thursday, heading for their eighth consecutive weekly loss. Driven by intense FII outflows and surging US bond yields, the market weakness marks the longest losing streak since 2001, surpassing the seven-week Covid crash.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-pts-nifty-below-22550-as-market-heads-for-8th-weekly-loss-overtaking-covid-crash-more-pain-ahead/articleshow/134608284.cms",
       "published": "Thu, 01 Oct 2026 10:17:54 +0530",
       "freshness": "new",
@@ -126,32 +146,12 @@
     {
       "headline": "AI pressure, client caution cloud Indian IT earnings in September quarter",
       "summary": "India's top IT firms are bracing for underwhelming earnings as they revise annual revenue growth expectations downward. The duel of AI-induced pricing pressures alongside restrained client spending is squeezing profit margins in the industry. Analysts predict a gradual sequential revenue rise ranging from 0.7% to 3.5% for the major players, while even giants like Infosys may lower their projections.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-pressure-client-caution-cloud-indian-it-earnings-in-september-quarter/articleshow/134608234.cms",
       "published": "Thu, 01 Oct 2026 10:12:31 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "INFY"
-    },
-    {
-      "headline": "Eurozone factory growth hits four-year high in September on strong demand",
-      "summary": "Eurozone manufacturing growth accelerated to a four-year high of 52.9 in September, driven by robust demand for capital goods and rising exports. However, accelerating input costs and expected consumer inflation of 3.6% pose fresh risks, heightening market expectations of further rate increases by the European Central Bank.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-factory-growth-hits-four-year-high-in-september-on-strong-demand/articleshow/134615915.cms",
-      "published": "Thu, 01 Oct 2026 16:02:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "AMC stocks face rough waters; Kotak sees selective opportunities in SBI, HDFC AMC",
-      "summary": "Indian asset management companies are experiencing steady retail inflows, notably through Systematic Investment Plans. Kotak Institutional Equities suggests that future growth is closely tied to market recovery and continuous fund performance. Smaller AMCs are becoming more popular, whereas larger firms are pressured to deliver consistent results. For significant AMCs like SBI Funds Management, stable performance is crucial for sustaining profit growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/amc-stocks-face-rough-waters-kotak-sees-selective-opportunities-in-sbi-hdfc-amc/articleshow/134614886.cms",
-      "published": "Thu, 01 Oct 2026 15:27:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T11:47:59.671693+00:00",
+      "chain_fetched_at_utc": "2026-10-01T13:51:52.972232+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T11:48:00.030302+00:00",
+      "chain_fetched_at_utc": "2026-10-01T13:51:53.354144+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T11:48:00.485816+00:00",
+      "chain_fetched_at_utc": "2026-10-01T13:51:53.646232+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
