@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-01T14:46:28.868388+00:00",
+  "generated_at_utc": "2026-10-01T15:38:22.660236+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -59,16 +59,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
       "published": "Thu, 01 Oct 2026 18:40:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: BOJ policymakers see scope for faster rate hikes as inflation pressure builds",
-      "summary": "Bank of Japan policymakers saw scope for faster interest rate hikes as persistent inflationary pressures raise concerns about price growth exceeding the central bank’s 2% target. A summary of its September meeting showed support for further tightening, although some policymakers argued against rushing and stressed the need to monitor economic developments.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-policymakers-see-scope-for-faster-rate-hikes-as-inflation-pressure-builds/articleshow/134609392.cms",
-      "published": "Thu, 01 Oct 2026 11:11:56 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, longest streak in 25 years. More pain ahead?",
+      "summary": "Indian equity benchmarks Sensex and Nifty fell for a fourth straight session on Thursday, heading for their eighth consecutive weekly loss. Driven by intense FII outflows and surging US bond yields, the market weakness marks the longest losing streak since 2001, surpassing the seven-week Covid crash.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-pts-nifty-below-22550-as-market-heads-for-8th-weekly-loss-overtaking-covid-crash-more-pain-ahead/articleshow/134608284.cms",
+      "published": "Thu, 01 Oct 2026 10:17:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T14:46:44.111765+00:00",
+      "chain_fetched_at_utc": "2026-10-01T15:38:30.358677+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T14:46:44.532972+00:00",
+      "chain_fetched_at_utc": "2026-10-01T15:38:30.792834+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T14:46:45.100166+00:00",
+      "chain_fetched_at_utc": "2026-10-01T15:38:31.443189+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
