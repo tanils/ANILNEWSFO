@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-01T10:01:32.599123+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-01T11:08:54.837179+00:00",
   "news": [
     {
       "headline": "India bonds slide as US Treasury rout, supply weigh",
@@ -62,16 +62,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: Newspaper Advertisement - Special Window For Transfer And Dematerialisation Of Physical Securities",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-01-oct-2026/liveblog/134606891.cms",
-      "published": "Thu, 01 Oct 2026 08:30:10 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
     },
     {
       "headline": "PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?",
@@ -144,62 +134,72 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Vishal Nirmiti IPO Day 2: GMP at 16%, check subscription and key details. Should you apply?",
-      "summary": "Vishal Nirmiti IPO entered Day 2 of bidding with the Rs 178-crore issue subscribed 5% on Day 1, led by 6% subscription in the retail category. The IPO comprises a Rs 145-crore fresh issue and Rs 33-crore OFS, with the issue closing on October 5. premium listing. Shares are expected to list on NSE and BSE on October 8.",
+      "headline": "Eurozone factory growth hits four-year high in September on strong demand",
+      "summary": "Eurozone manufacturing growth accelerated to a four-year high of 52.9 in September, driven by robust demand for capital goods and rising exports. However, accelerating input costs and expected consumer inflation of 3.6% pose fresh risks, heightening market expectations of further rate increases by the European Central Bank.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-day-2-gmp-at-16-check-subscription-and-key-details-should-you-apply/articleshow/134607914.cms",
-      "published": "Thu, 01 Oct 2026 09:53:31 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-factory-growth-hits-four-year-high-in-september-on-strong-demand/articleshow/134615915.cms",
+      "published": "Thu, 01 Oct 2026 16:02:38 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "AMC stocks face rough waters; Kotak sees selective opportunities in SBI, HDFC AMC",
+      "summary": "Indian asset management companies are experiencing steady retail inflows, notably through Systematic Investment Plans. Kotak Institutional Equities suggests that future growth is closely tied to market recovery and continuous fund performance. Smaller AMCs are becoming more popular, whereas larger firms are pressured to deliver consistent results. For significant AMCs like SBI Funds Management, stable performance is crucial for sustaining profit growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/amc-stocks-face-rough-waters-kotak-sees-selective-opportunities-in-sbi-hdfc-amc/articleshow/134614886.cms",
+      "published": "Thu, 01 Oct 2026 15:27:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "POLICYBZR",
-      "price": 984.2000122070312,
-      "change_pct": -7.49,
-      "setup_quality_score": 63.36,
+      "price": 980.0,
+      "change_pct": -7.89,
+      "setup_quality_score": 64.28,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T10:01:41.061841+00:00",
+      "chain_fetched_at_utc": "2026-10-01T11:09:07.179164+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "TATASTEEL",
-      "price": 178.3000030517578,
-      "change_pct": -3.26,
-      "setup_quality_score": 56.85,
+      "price": 178.0,
+      "change_pct": -3.42,
+      "setup_quality_score": 57.41,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T10:01:41.397407+00:00",
+      "chain_fetched_at_utc": "2026-10-01T11:09:07.608585+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "MARUTI",
-      "price": 11350.0,
-      "change_pct": -5.16,
-      "setup_quality_score": 56.58,
+      "price": 11386.0,
+      "change_pct": -4.86,
+      "setup_quality_score": 56.29,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T10:01:41.779976+00:00",
+      "chain_fetched_at_utc": "2026-10-01T11:09:07.973365+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
