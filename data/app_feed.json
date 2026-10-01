@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-01T16:41:01.615866+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-01T20:32:13.169250+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -39,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-us-treasury-rout-supply-weigh/articleshow/134613344.cms",
       "published": "Thu, 01 Oct 2026 14:09:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why are world bond markets selling off again?",
+      "summary": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect loans for families and businesses, posing challenges for governmental finances. Intervention by central banks could be on the horizon to maintain fiscal order, especially with future artificial intelligence-related bond issues looming.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
+      "published": "Thu, 01 Oct 2026 23:24:37 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -136,70 +146,60 @@
     {
       "headline": "Moneyview shares skyrocket 82% from IPO price after strong market debut. Should you buy, sell or hold?",
       "summary": "Moneyview shares extended their strong debut gains on Thursday, rising as much as 82% from the IPO price. After listing at Rs 55.61 on the BSE, a 64% premium to the Rs 34 issue price, the stock climbed another 11.5% to Rs 62.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-skyrocket-82-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/134611871.cms",
       "published": "Thu, 01 Oct 2026 13:03:29 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, longest streak in 25 years. More pain ahead?",
-      "summary": "Indian equity benchmarks Sensex and Nifty fell for a fourth straight session on Thursday, heading for their eighth consecutive weekly loss. Driven by intense FII outflows and surging US bond yields, the market weakness marks the longest losing streak since 2001, surpassing the seven-week Covid crash.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-pts-nifty-below-22550-as-market-heads-for-8th-weekly-loss-overtaking-covid-crash-more-pain-ahead/articleshow/134608284.cms",
-      "published": "Thu, 01 Oct 2026 10:17:54 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "POLICYBZR",
-      "price": 980.0,
-      "change_pct": -7.89,
-      "setup_quality_score": 64.28,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T16:41:14.059947+00:00",
+      "chain_fetched_at_utc": "2026-10-01T20:32:22.669233+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "TATASTEEL",
-      "price": 178.0,
-      "change_pct": -3.42,
-      "setup_quality_score": 57.41,
+      "symbol": "POLICYBZR",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T16:41:14.647613+00:00",
+      "chain_fetched_at_utc": "2026-10-01T20:32:23.187107+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "MARUTI",
-      "price": 11386.0,
-      "change_pct": -4.86,
-      "setup_quality_score": 56.29,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T16:41:15.068882+00:00",
+      "chain_fetched_at_utc": "2026-10-01T20:32:23.613751+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
