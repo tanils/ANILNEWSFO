@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-01T13:51:44.628420+00:00",
+  "generated_at_utc": "2026-10-01T14:46:28.868388+00:00",
   "news": [
+    {
+      "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
+      "summary": "The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time approval for subsequent acquisitions of major shareholding of up to 10 per cent in the same bank.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms",
+      "published": "Thu, 01 Oct 2026 19:23:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
     {
       "headline": "Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy",
       "summary": "A significant selloff in Indian government bonds occurred as global yields rose and inflation pressures heightened. The Indian benchmark 10-year yield reached its highest level since April 2024. Traders expect the Reserve Bank of India to announce a rate hike at its upcoming policy meeting next week. Additionally, concerns regarding excessive liquidity in the banking system have intensified amid upcoming bond issues.",
@@ -14,11 +24,31 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Jio Platforms IPO in final stages after concluding worldwide roadshows",
+      "summary": "Jio Platforms is on the verge of launching what is projected to be the largest public offering in India, targeting USD 3.8 billion. International roadshows spearheaded by Akash Ambani and Isha Ambani have garnered interest. Following approval from Sebi, Jio Platforms plans to release new equity shares, constituting about 2.9 percent of its base.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
+      "published": "Thu, 01 Oct 2026 19:27:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "India bonds slide as US Treasury rout, supply weigh",
       "summary": "Indian government bonds experienced a decline as US Treasury yields rose and supply increased ahead of the Reserve Bank of India meeting. The benchmark bond yield reached its highest level in two and a half years. Market analysts expect the RBI to raise interest rates for the first time since 2023. Additionally, bond market activity was affected by global economic conditions and expectations of further rate hikes.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-us-treasury-rout-supply-weigh/articleshow/134613344.cms",
       "published": "Thu, 01 Oct 2026 14:09:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "UK 30-year gilt yields top 6% for the first time since 1998",
+      "summary": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors anticipate possible interest rate hikes by the Central Bank in November or December. The financial market is reacting to ongoing economic pressures like rising food and energy prices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
+      "published": "Thu, 01 Oct 2026 19:52:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -39,16 +69,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-policymakers-see-scope-for-faster-rate-hikes-as-inflation-pressure-builds/articleshow/134609392.cms",
       "published": "Thu, 01 Oct 2026 11:11:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan’s Nikkei hits six-week high as chip stocks rally on AI optimism",
-      "summary": "Japan's Nikkei share average soared to a six-week peak, buoyed by chip sector stocks after favorable earnings guidance from Micron Technology. The Nikkei 225 surged 2.28%, while the broader Topix remained relatively stable. Nevertheless, various stocks within the Nikkei faced downturns, particularly in finance. Analysts are wary about the durability of AI stock gains amid Micron's forecasts, with monetary policy talks suggesting possible interest rate hikes, creating market uncertainty.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-hits-six-week-high-as-chip-stocks-rally-on-ai-optimism/articleshow/134609469.cms",
-      "published": "Thu, 01 Oct 2026 11:11:15 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, longest streak in 25 years. More pain ahead?",
-      "summary": "Indian equity benchmarks Sensex and Nifty fell for a fourth straight session on Thursday, heading for their eighth consecutive weekly loss. Driven by intense FII outflows and surging US bond yields, the market weakness marks the longest losing streak since 2001, surpassing the seven-week Covid crash.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-pts-nifty-below-22550-as-market-heads-for-8th-weekly-loss-overtaking-covid-crash-more-pain-ahead/articleshow/134608284.cms",
-      "published": "Thu, 01 Oct 2026 10:17:54 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "AI pressure, client caution cloud Indian IT earnings in September quarter",
-      "summary": "India's top IT firms are bracing for underwhelming earnings as they revise annual revenue growth expectations downward. The duel of AI-induced pricing pressures alongside restrained client spending is squeezing profit margins in the industry. Analysts predict a gradual sequential revenue rise ranging from 0.7% to 3.5% for the major players, while even giants like Infosys may lower their projections.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-pressure-client-caution-cloud-indian-it-earnings-in-september-quarter/articleshow/134608234.cms",
-      "published": "Thu, 01 Oct 2026 10:12:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "INFY"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T13:51:52.972232+00:00",
+      "chain_fetched_at_utc": "2026-10-01T14:46:44.111765+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T13:51:53.354144+00:00",
+      "chain_fetched_at_utc": "2026-10-01T14:46:44.532972+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-01T13:51:53.646232+00:00",
+      "chain_fetched_at_utc": "2026-10-01T14:46:45.100166+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
