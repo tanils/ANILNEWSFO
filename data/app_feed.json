@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-02T11:20:11.285046+00:00",
+  "generated_at_utc": "2026-10-02T13:08:05.459703+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -12,16 +12,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy",
-      "summary": "A significant selloff in Indian government bonds occurred as global yields rose and inflation pressures heightened. The Indian benchmark 10-year yield reached its highest level since April 2024. Traders expect the Reserve Bank of India to announce a rate hike at its upcoming policy meeting next week. Additionally, concerns regarding excessive liquidity in the banking system have intensified amid upcoming bond issues.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/global-bond-rout-hoists-benchmark-indian-yield-to-mid-2024-high-before-rbi-policy/articleshow/134619359.cms",
-      "published": "Thu, 01 Oct 2026 18:04:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Danish brewing giant Carlsberg’s India arm, 3 others get Sebi nod to float IPOs",
@@ -39,6 +29,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
       "published": "Thu, 01 Oct 2026 19:27:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi penalises SMC Global Securities for compliance lapses",
+      "summary": "Sebi has levied a penalty of Rs 1 lakh on SMC Global Securities due to regulatory infractions, particularly the mishandling of client order-placement records uncovered during an inspection. This examination, covering the period from January to September 2024, highlighted issues tied to unauthorized trading and the oversight of authorized representative Amit Lilhare's client transactions. SMC Global Securities operates under Sebi’s regulations and engages with various stock exchanges across India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
+      "published": "Fri, 02 Oct 2026 17:01:34 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T11:20:18.637765+00:00",
+      "chain_fetched_at_utc": "2026-10-02T13:08:16.529614+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T11:20:18.943181+00:00",
+      "chain_fetched_at_utc": "2026-10-02T13:08:16.914979+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T11:20:19.240291+00:00",
+      "chain_fetched_at_utc": "2026-10-02T13:08:17.288284+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
