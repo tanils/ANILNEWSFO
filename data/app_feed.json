@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-02T10:42:16.616303+00:00",
+  "generated_at_utc": "2026-10-02T11:20:11.285046+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T10:42:25.027482+00:00",
+      "chain_fetched_at_utc": "2026-10-02T11:20:18.637765+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T10:42:25.387807+00:00",
+      "chain_fetched_at_utc": "2026-10-02T11:20:18.943181+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T10:42:25.849723+00:00",
+      "chain_fetched_at_utc": "2026-10-02T11:20:19.240291+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
