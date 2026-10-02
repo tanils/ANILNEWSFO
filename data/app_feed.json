@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-02T09:38:50.814871+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-02T10:42:16.616303+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -64,7 +64,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Bajaj Finance to raise Rs 17,500 cr via QIP, pref issue",
+      "headline": "Bajaj Finance to raise Rs 17,500 cr via QIP, preferential issue",
       "summary": "Bajaj Finance plans to raise up to Rs 17,500 crore through a Rs 11,700-crore QIP and Rs 5,800 crore warrant issue to promoter Bajaj Finserv. The fundraising requires shareholder approval; institutional investors will receive QIP shares while promoter warrants could help maintain Bajaj Finserv’s stake and limit dilution.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-to-raise-rs-17500-cr-via-qip-pref-issue/articleshow/134632864.cms",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T09:39:00.956843+00:00",
+      "chain_fetched_at_utc": "2026-10-02T10:42:25.027482+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T09:39:01.307915+00:00",
+      "chain_fetched_at_utc": "2026-10-02T10:42:25.387807+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T09:39:01.682549+00:00",
+      "chain_fetched_at_utc": "2026-10-02T10:42:25.849723+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
