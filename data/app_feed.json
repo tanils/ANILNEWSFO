@@ -1,12 +1,12 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-02T15:57:37.102863+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-02T20:08:10.744152+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
       "summary": "The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time approval for subsequent acquisitions of major shareholding of up to 10 per cent in the same bank.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms",
       "published": "Thu, 01 Oct 2026 19:23:12 +0530",
       "freshness": "recent",
@@ -42,6 +42,16 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why US stocks are rising: Nasdaq hits record after weaker jobs data cools rate-hike bets; Nike shares drop on forecast",
+      "summary": "US stocks rose, with the Nasdaq Composite hitting a record high after disappointing jobs data emerged. Lower Treasury yields and declining oil prices contributed to the positive market sentiment. Notable gains were observed in semiconductor stocks, with Nvidia reaching an intraday record high. Nike's shares fell due to forecasts of a significant revenue decline linked to challenges in China.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-rising-nasdaq-hits-record-after-weaker-jobs-data-cools-rate-hike-bets-nike-shares-drop-on-forecast/articleshow/134642197.cms",
+      "published": "Fri, 02 Oct 2026 21:18:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "Sebi penalises SMC Global Securities for compliance lapses",
@@ -99,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
       "published": "Thu, 01 Oct 2026 23:24:37 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Stock market holiday today: Are NSE, BSE closed for Gandhi Jayanti? Check 2026 holiday list",
-      "summary": "Indian stock markets will remain closed on October 2 for Gandhi Jayanti, with trading resuming next week. MCX and NCDEX will also remain shut. The market holiday comes after the Sensex and Nifty extended losses on Thursday, weighed down by rising bond yields, elevated crude prices and broad-based selling pressure.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-are-nse-bse-closed-for-gandhi-jayanti-check-2026-holiday-list/articleshow/134630179.cms",
-      "published": "Fri, 02 Oct 2026 07:27:42 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T15:57:46.812017+00:00",
+      "chain_fetched_at_utc": "2026-10-02T20:08:23.192417+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T15:57:47.240298+00:00",
+      "chain_fetched_at_utc": "2026-10-02T20:08:23.592890+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T15:57:47.727734+00:00",
+      "chain_fetched_at_utc": "2026-10-02T20:08:23.985342+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
