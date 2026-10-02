@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-02T14:08:31.795176+00:00",
+  "generated_at_utc": "2026-10-02T14:57:13.032793+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -12,6 +12,16 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Bets on US Federal Reserve rate hike in October fall as job market cools",
+      "summary": "Last month, the US economy added only 29,000 jobs, significantly below the economists’ forecast of 90,000 jobs. The unemployment rate rose to 4.2%, indicating a slight deterioration in the labor market. Traders decreased expectations for another Federal Reserve interest rate hike later this year, with less than a 20% chance for October. Despite a recent rate increase, inflationary pressures remain a concern for policymakers.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms",
+      "published": "Fri, 02 Oct 2026 20:07:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "Danish brewing giant Carlsberg’s India arm, 3 others get Sebi nod to float IPOs",
@@ -99,16 +109,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
       "published": "Thu, 01 Oct 2026 19:52:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Carlsberg India IPO gets Sebi approval along with three other public offers. Check details",
-      "summary": "India’s IPO pipeline expands as Sebi clears papers for Carlsberg India, Matangi Rubber, Ujin Pharma and TMC Transformer. The approvals come amid strong primary-market activity, with over 50 companies filing draft IPO papers in September despite volatility in broader equity markets.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
-      "published": "Thu, 01 Oct 2026 18:40:55 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T14:08:43.729841+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:57:22.424792+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,23 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T14:08:44.183352+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:57:22.849236+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "MARUTI",
-      "price": 11386.0,
-      "change_pct": -4.86,
-      "setup_quality_score": 56.29,
+      "symbol": "BEL",
+      "price": 383.1000061035156,
+      "change_pct": -1.34,
+      "setup_quality_score": 56.57,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T14:08:44.577877+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:57:23.309803+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
