@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-02T13:08:05.459703+00:00",
+  "generated_at_utc": "2026-10-02T14:08:31.795176+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -9,7 +9,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms",
       "published": "Thu, 01 Oct 2026 19:23:12 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
@@ -29,7 +29,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
       "published": "Thu, 01 Oct 2026 19:27:17 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -109,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
       "published": "Thu, 01 Oct 2026 18:40:55 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T13:08:16.529614+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:08:43.729841+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T13:08:16.914979+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:08:44.183352+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T13:08:17.288284+00:00",
+      "chain_fetched_at_utc": "2026-10-02T14:08:44.577877+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
