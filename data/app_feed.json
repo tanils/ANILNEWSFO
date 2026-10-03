@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-02T20:08:10.744152+00:00",
+  "generated_at_utc": "2026-10-03T18:50:11.357502+00:00",
   "news": [
     {
       "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
@@ -14,12 +14,22 @@
       "symbols": "BSE"
     },
     {
+      "headline": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
+      "summary": "A group of lenders, spearheaded by the State Bank of India, has revealed that Vijay Mallya still owes an astonishing Rs 8,752 crore. This figure remains despite having recovered over Rs 10,270 crore, including recent payments. Mallya's claims of settling his debts with banks are in question. Court proceedings continue regarding the recovery of dues and criminal charges, with the Enforcement Directorate asserting that even recovered funds don't dismiss ongoing criminal cases.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-led-lenders-say-vijay-mallya-owes-rs-8752-crore-more/articleshow/134650640.cms",
+      "published": "Sat, 03 Oct 2026 06:00:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SBIN"
+    },
+    {
       "headline": "Bets on US Federal Reserve rate hike in October fall as job market cools",
       "summary": "Last month, the US economy added only 29,000 jobs, significantly below the economists’ forecast of 90,000 jobs. The unemployment rate rose to 4.2%, indicating a slight deterioration in the labor market. Traders decreased expectations for another Federal Reserve interest rate hike later this year, with less than a 20% chance for October. Despite a recent rate increase, inflationary pressures remain a concern for policymakers.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms",
       "published": "Fri, 02 Oct 2026 20:07:12 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
     },
@@ -29,19 +39,39 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/danish-brewing-giant-carlsbergs-india-arm-3-others-get-sebi-nod-to-float-ipos/articleshow/134633869.cms",
       "published": "Fri, 02 Oct 2026 12:40:10 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Jio Platforms IPO in final stages after concluding worldwide roadshows",
-      "summary": "Jio Platforms is on the verge of launching what is projected to be the largest public offering in India, targeting USD 3.8 billion. International roadshows spearheaded by Akash Ambani and Isha Ambani have garnered interest. Following approval from Sebi, Jio Platforms plans to release new equity shares, constituting about 2.9 percent of its base.",
+      "headline": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
+      "summary": "Cube Highways Trust has triumphantly secured Rs. 1,150 crore by issuing senior secured NCDs, boasting a competitive coupon rate of 7.50% per annum, payable quarterly for five years. Major institutional players, Axis Bank Limited and ICICI Bank Limited, were pivotal investors in this transaction. The proceeds will facilitate debt refinancing and support ongoing capital projects, as part of an ambitious financing initiative targeting Rs. 4,500 crore.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
-      "published": "Thu, 01 Oct 2026 19:27:17 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
+      "published": "Sat, 03 Oct 2026 14:10:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK, AXISBANK"
+    },
+    {
+      "headline": "Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets",
+      "summary": "U.S. stocks finished higher following a weaker-than-expected jobs report which eased rate hike expectations. Nonfarm payrolls rose by only 29,000, significantly below economists' forecasts of 90,000. The S&amp;P 500 real estate index and small-cap Russell 2000 gained approximately 1% due to reassessed Fed rate increase likelihood. Despite this, the Dow and S&amp;P 500 recorded declines for four out of five weeks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
+      "published": "Sat, 03 Oct 2026 01:45:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Anup Bagchi's big test at HDFC Bank is winning back investor trust",
+      "summary": "Incoming HDFC Bank CEO Anup Bagchi’s immediate task is to restore investor confidence by improving execution and governance, as the bank’s loan growth and return on equity have fallen towards industry averages.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchis-big-test-at-hdfc-bank-is-winning-back-investor-trust/articleshow/134650810.cms",
+      "published": "Sat, 03 Oct 2026 00:09:12 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "HDFCBANK"
     },
     {
       "headline": "Why US stocks are rising: Nasdaq hits record after weaker jobs data cools rate-hike bets; Nike shares drop on forecast",
@@ -49,7 +79,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-rising-nasdaq-hits-record-after-weaker-jobs-data-cools-rate-hike-bets-nike-shares-drop-on-forecast/articleshow/134642197.cms",
       "published": "Fri, 02 Oct 2026 21:18:45 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
@@ -59,7 +89,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
       "published": "Fri, 02 Oct 2026 17:01:34 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -69,89 +99,59 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-unit-3-other-firms-get-sebi-nod-to-proceed-with-ipo-plans/articleshow/134634784.cms",
       "published": "Fri, 02 Oct 2026 13:30:18 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
     {
-      "headline": "Global Markets | Japan's Nikkei retreats from 6-week high as investors lock in gains",
-      "summary": "The Nikkei 225 index in Japan faced a downturn as investors engaged in profit-taking, displaying caution in the wake of earlier gains. This decline coincided with rising core inflation data from Tokyo, intensifying fears regarding interest rate hikes. Additionally, geopolitical tensions, particularly concerning the US-Iran situation, cast a shadow over market sentiment. Nevertheless, analysts remain optimistic about Japanese stocks, bolstered by positive feedback from the Bank of Japan's tankan survey.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains/articleshow/134633243.cms",
-      "published": "Fri, 02 Oct 2026 11:43:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Bajaj Finance to raise Rs 17,500 cr via QIP, preferential issue",
       "summary": "Bajaj Finance plans to raise up to Rs 17,500 crore through a Rs 11,700-crore QIP and Rs 5,800 crore warrant issue to promoter Bajaj Finserv. The fundraising requires shareholder approval; institutional investors will receive QIP shares while promoter warrants could help maintain Bajaj Finserv’s stake and limit dilution.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-to-raise-rs-17500-cr-via-qip-pref-issue/articleshow/134632864.cms",
       "published": "Fri, 02 Oct 2026 11:35:44 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Japan government bond yields fall as global markets steady",
-      "summary": "Japanese government bond yields saw a significant drop on Friday, as the 10-year yield fell to levels not recorded since mid-September. Global bond markets stabilizing and shifts in central bank policies played a key role in this decline. Even though the Bank of Japan raised rates recently, inflation in Tokyo is rising, fueling predictions of additional rate hikes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/japan-government-bond-yields-fall-as-global-markets-steady/articleshow/134630413.cms",
-      "published": "Fri, 02 Oct 2026 07:46:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Why are world bond markets selling off again?",
-      "summary": "As inflation fears and mounting debt pressure rise, government borrowing costs have soared to unprecedented levels. The US Treasury yield, now the highest since 2002, signifies a shift in global market dynamics. These increasing bond yields adversely affect loans for families and businesses, posing challenges for governmental finances. Intervention by central banks could be on the horizon to maintain fiscal order, especially with future artificial intelligence-related bond issues looming.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-world-bond-markets-selling-off-again/articleshow/134625028.cms",
-      "published": "Thu, 01 Oct 2026 23:24:37 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "UK 30-year gilt yields top 6% for the first time since 1998",
-      "summary": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors anticipate possible interest rate hikes by the Central Bank in November or December. The financial market is reacting to ongoing economic pressures like rising food and energy prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
-      "published": "Thu, 01 Oct 2026 19:52:13 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jefferies is bearish TCS, Wipro, 6 other IT stocks ahead of Q2 results. How many do you own?",
-      "summary": "Jefferies indicates a modest growth outlook for IT companies in Q2 FY27, primarily fueled by acquisitions. Large IT firms are predicted to struggle, anticipating a mere 0.5% QoQ growth. Stocks such as TCS, Wipro, and HCL Tech are rated as underperforming with significant downside risks. In contrast, Infosys holds a steady hold rating with minimal upside, while mid-sized firms are expected to excel compared to their larger counterparts.",
+      "headline": "Stock market holiday today: Are NSE, BSE closed for Gandhi Jayanti? Check 2026 holiday list",
+      "summary": "Indian stock markets will remain closed on October 2 for Gandhi Jayanti, with trading resuming next week. MCX and NCDEX will also remain shut. The market holiday comes after the Sensex and Nifty extended losses on Thursday, weighed down by rising bond yields, elevated crude prices and broad-based selling pressure.",
       "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bearish-tcs-wipro-6-other-it-stocks-ahead-of-q2-results-how-many-do-you-own/slideshow/134608396.cms",
-      "published": "Thu, 01 Oct 2026 10:09:47 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-are-nse-bse-closed-for-gandhi-jayanti-check-2026-holiday-list/articleshow/134630179.cms",
+      "published": "Fri, 02 Oct 2026 07:27:42 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "INFY"
+      "symbols": "BSE"
     },
     {
-      "headline": "US Treasury yield hits the highest since 2002 at 5.34%",
-      "summary": "The yield on the 10-year Treasury note has surged past its 2007 high, now sitting at 5.34%. At the same time, 30-year US bonds have hit a 24-year peak this week. The rise in global sovereign debt is primarily driven by escalating oil prices amid the ongoing Middle Eastern conflict. Investors are now bracing for potentially further interest rate hikes from central banks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yield-hits-the-highest-since-2002-at-5-34/articleshow/134631069.cms",
-      "published": "Fri, 02 Oct 2026 08:47:47 +0530",
-      "freshness": "new",
+      "headline": "PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?",
+      "summary": "PB Fintech shares plunged 50% from their all-time high to drop below the 2021 IPO price of Rs 980. The sharp six-day selloff follows proposed IRDAI regulatory curbs on insurance distribution, prompting brokerages like Bernstein and Jefferies to cut target prices amid earnings pressure concerns.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-crash-50-from-peak-fall-below-2021-ipo-price-more-downside-coming/articleshow/134614821.cms",
+      "published": "Thu, 01 Oct 2026 15:22:24 +0530",
+      "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "BEL, POLICYBZR"
     },
     {
-      "headline": "10-year bond yield breaches 7.20%; hits 2.5-year high",
-      "summary": "India's 10-year benchmark bond yields have surged to 7.21%, reaching their highest point in two and a half years. With oil prices continuing to soar and an anticipated rate hike, analysts predict these yields could escalate to 7.50% if the Reserve Bank of India enacts a 25 basis point increase. A substantial bond issuance is on the horizon, adding complexity to the supply-demand landscape.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-breaches-7-20-hits-2-5-year-high/articleshow/134630646.cms",
-      "published": "Fri, 02 Oct 2026 08:18:15 +0530",
-      "freshness": "new",
+      "headline": "RIL Q2 Results: Nuvama sees 17% EBITDA growth, led by O2C biz. Here’s what to expect",
+      "summary": "Reliance Industries is expected to report 17% year-on-year growth in Q2FY27 EBITDA to Rs 53,700 crore, led by stronger refining margins and higher throughput, according to Nuvama Research. While the O2C business is likely to drive near-term earnings, New Energy could emerge as a key growth driver, with EBITDA projected to reach Rs 20,100 crore by FY30. Nuvama retains its Buy rating with a target price of Rs 1,766.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-nuvama-sees-17-ebitda-growth-led-by-o2c-biz-heres-what-to-expect/articleshow/134612429.cms",
+      "published": "Thu, 01 Oct 2026 13:23:51 +0530",
+      "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Moneyview shares skyrocket 82% from IPO price after strong market debut. Should you buy, sell or hold?",
+      "summary": "Moneyview shares extended their strong debut gains on Thursday, rising as much as 82% from the IPO price. After listing at Rs 55.61 on the BSE, a 64% premium to the Rs 34 issue price, the stock climbed another 11.5% to Rs 62.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-skyrocket-82-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/134611871.cms",
+      "published": "Thu, 01 Oct 2026 13:03:29 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,12 +167,28 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T20:08:23.192417+00:00",
+      "chain_fetched_at_utc": "2026-10-03T18:50:22.942961+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
+      "symbol": "AXISBANK",
+      "price": 1217.0999755859375,
+      "change_pct": -0.73,
+      "setup_quality_score": 57.52,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-03T18:50:23.282345+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
       "symbol": "TATASTEEL",
       "price": 178.0,
       "change_pct": -3.42,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T20:08:23.592890+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "BEL",
-      "price": 383.1000061035156,
-      "change_pct": -1.34,
-      "setup_quality_score": 56.57,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-02T20:08:23.985342+00:00",
+      "chain_fetched_at_utc": "2026-10-03T18:50:23.690470+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
