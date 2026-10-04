@@ -1,25 +1,15 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-03T18:50:11.357502+00:00",
+  "generated_at_utc": "2026-10-04T18:48:14.295255+00:00",
   "news": [
-    {
-      "headline": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
-      "summary": "The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time approval for subsequent acquisitions of major shareholding of up to 10 per cent in the same bank.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms",
-      "published": "Thu, 01 Oct 2026 19:23:12 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
     {
       "headline": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
       "summary": "A group of lenders, spearheaded by the State Bank of India, has revealed that Vijay Mallya still owes an astonishing Rs 8,752 crore. This figure remains despite having recovered over Rs 10,270 crore, including recent payments. Mallya's claims of settling his debts with banks are in question. Court proceedings continue regarding the recovery of dues and criminal charges, with the Enforcement Directorate asserting that even recovered funds don't dismiss ongoing criminal cases.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-led-lenders-say-vijay-mallya-owes-rs-8752-crore-more/articleshow/134650640.cms",
       "published": "Sat, 03 Oct 2026 06:00:00 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "SBIN"
     },
@@ -34,12 +24,12 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Danish brewing giant Carlsberg’s India arm, 3 others get Sebi nod to float IPOs",
-      "summary": "In a significant move for India's market, Sebi has greenlit IPOs for Carlsberg's local entity, TMC Transformers, Ujin Pharma, and Matangi Rubber. TMC Transformers aims to raise Rs 550 crores via new equity to establish a manufacturing plant. Ujin Pharma's offering includes fresh shares and a sale from its promoters, while Carlsberg joins other global firms in this venture. Matangi Rubber has also successfully navigated the IPO approval process.",
+      "headline": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+      "summary": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concerns. Higher domestic rates could support the rupee but raise borrowing costs for the government and companies while pressuring equities and consumption.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/danish-brewing-giant-carlsbergs-india-arm-3-others-get-sebi-nod-to-float-ipos/articleshow/134633869.cms",
-      "published": "Fri, 02 Oct 2026 12:40:10 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
+      "published": "Sun, 04 Oct 2026 12:37:02 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -49,7 +39,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
       "published": "Sat, 03 Oct 2026 14:10:16 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "ICICIBANK, AXISBANK"
     },
@@ -59,7 +49,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
       "published": "Sat, 03 Oct 2026 01:45:20 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
     },
@@ -86,22 +76,12 @@
     {
       "headline": "Sebi penalises SMC Global Securities for compliance lapses",
       "summary": "Sebi has levied a penalty of Rs 1 lakh on SMC Global Securities due to regulatory infractions, particularly the mishandling of client order-placement records uncovered during an inspection. This examination, covering the period from January to September 2024, highlighted issues tied to unauthorized trading and the oversight of authorized representative Amit Lilhare's client transactions. SMC Global Securities operates under Sebi’s regulations and engages with various stock exchanges across India.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
       "published": "Fri, 02 Oct 2026 17:01:34 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Carlsberg India unit, 3 other firms get Sebi nod to proceed with IPO plans",
-      "summary": "Sebi has provided observations for the IPOs of Carlsberg India, Matangi Rubber, Ujin Pharma, and TMC Transformer. Carlsberg's filing is under wraps, with specifics to be announced later. Matangi Rubber intends to issue 57.61 lakh new shares, complemented by an offer for sale. Ujin Pharma is looking to offer 1.18 crore shares, and TMC Transformer targets a substantial Rs 550 crore IPO, consisting solely of new issues.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-unit-3-other-firms-get-sebi-nod-to-proceed-with-ipo-plans/articleshow/134634784.cms",
-      "published": "Fri, 02 Oct 2026 13:30:18 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     },
     {
       "headline": "Bajaj Finance to raise Rs 17,500 cr via QIP, preferential issue",
@@ -124,34 +104,54 @@
       "symbols": "BSE"
     },
     {
-      "headline": "PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?",
-      "summary": "PB Fintech shares plunged 50% from their all-time high to drop below the 2021 IPO price of Rs 980. The sharp six-day selloff follows proposed IRDAI regulatory curbs on insurance distribution, prompting brokerages like Bernstein and Jefferies to cut target prices amid earnings pressure concerns.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-crash-50-from-peak-fall-below-2021-ipo-price-more-downside-coming/articleshow/134614821.cms",
-      "published": "Thu, 01 Oct 2026 15:22:24 +0530",
-      "freshness": "recent",
+      "headline": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street from Monday",
+      "summary": "India's stock market has faced a challenging downturn, marking eight weeks of losses, the longest in 25 years. Driving this trend are soaring oil prices and rising US bond yields. The sell-off by foreign institutional investors has intensified the downturn. As companies like TCS and DMart prepare for their Q2 earnings, investors hope for signs of resilience amidst a weaker rupee fueling their concerns.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
+      "published": "Sun, 04 Oct 2026 09:14:26 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BEL, POLICYBZR"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "RIL Q2 Results: Nuvama sees 17% EBITDA growth, led by O2C biz. Here’s what to expect",
-      "summary": "Reliance Industries is expected to report 17% year-on-year growth in Q2FY27 EBITDA to Rs 53,700 crore, led by stronger refining margins and higher throughput, according to Nuvama Research. While the O2C business is likely to drive near-term earnings, New Energy could emerge as a key growth driver, with EBITDA projected to reach Rs 20,100 crore by FY30. Nuvama retains its Buy rating with a target price of Rs 1,766.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-nuvama-sees-17-ebitda-growth-led-by-o2c-biz-heres-what-to-expect/articleshow/134612429.cms",
-      "published": "Thu, 01 Oct 2026 13:23:51 +0530",
+      "headline": "Sebi examining position limits for non-agri contracts to boost liquidity",
+      "summary": "Sebi is actively investigating position limits for non-agricultural contracts to improve market liquidity and depth. Chairman Tuhin Kanta Pandey has highlighted the importance of phased physical settlement for agricultural commodities. The organization is focused on addressing structural issues and increasing technology integration in commodity markets. Furthermore, Sebi plans to expand its educational outreach through Project Jagrook to better inform market participants.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms",
+      "published": "Sat, 03 Oct 2026 15:16:13 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "RELIANCE"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Moneyview shares skyrocket 82% from IPO price after strong market debut. Should you buy, sell or hold?",
-      "summary": "Moneyview shares extended their strong debut gains on Thursday, rising as much as 82% from the IPO price. After listing at Rs 55.61 on the BSE, a 64% premium to the Rs 34 issue price, the stock climbed another 11.5% to Rs 62.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-skyrocket-82-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/134611871.cms",
-      "published": "Thu, 01 Oct 2026 13:03:29 +0530",
+      "headline": "AI earnings shield US stocks, but bond risks rise: Jefferies' Wood",
+      "summary": "US equities have largely remained strong, aided by robust earnings growth driven by the AI capital expenditure cycle. Rising bond yields and geopolitical tensions, however, are beginning to impact investor sentiment negatively. Analysts are concerned about the sustainability of the AI capex cycle and its expected returns. Additionally, there is a realization that G7 government bonds are entering a structural bear market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms",
+      "published": "Sat, 03 Oct 2026 07:56:05 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "More than half of mid-to-large cap companies fail to deliver returns in 2026",
+      "summary": "More than half of India's mid-to-large tier companies with market capitalisation above ₹1,000 crore have faced losses in 2026. Eight companies have experienced significant market cap erosion, affecting investor sentiment. Factors such as regulatory issues, funding costs, and margin pressures contributed to these declines. Foreign portfolio investors have sold a substantial amount of Indian equities this year amid geopolitical uncertainties.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms",
+      "published": "Sat, 03 Oct 2026 07:43:53 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic targets mega-IPO before Thanksgiving Holiday",
+      "summary": "Anthropic PBC is expected to start marketing its initial public offering around November 9. The company's trading debut could occur before Thanksgiving, which is on November 26. Although facing competition from OpenAI, investors remain optimistic about Anthropic's valuation. Despite significant losses, the firm aims to exceed SpaceX's record IPO size. The market for new listings has experienced delays, but Anthropic is pushing forward.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/anthropic-targets-mega-ipo-before-thanksgiving-holiday/articleshow/134650730.cms",
+      "published": "Sat, 03 Oct 2026 06:57:46 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -160,14 +160,14 @@
       "symbol": "POLICYBZR",
       "price": 980.0,
       "change_pct": -7.89,
-      "setup_quality_score": 64.36,
+      "setup_quality_score": 62.86,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-03T18:50:22.942961+00:00",
+      "chain_fetched_at_utc": "2026-10-04T18:48:26.099832+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-03T18:50:23.282345+00:00",
+      "chain_fetched_at_utc": "2026-10-04T18:48:26.482113+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-03T18:50:23.690470+00:00",
+      "chain_fetched_at_utc": "2026-10-04T18:48:26.917858+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
