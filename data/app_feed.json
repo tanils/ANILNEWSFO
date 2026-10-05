@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-05T12:36:32.274527+00:00",
+  "generated_at_utc": "2026-10-05T15:14:46.738143+00:00",
   "news": [
+    {
+      "headline": "Indian bonds hold tight range ahead of RBI policy meeting",
+      "summary": "Amidst cautious market dynamics, Indian government bonds show signs of stability as investors refrain from placing new bets ahead of a potential interest rate hike from the Reserve Bank of India. With looming geopolitical factors and a softer U.S. jobs report suggesting a pause in rate increases by the Federal Reserve, investor sentiment shifts. Additionally, the upcoming quarter marks a significant surge in bond sales planned by Indian states.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hold-tight-range-ahead-of-rbi-policy-meeting/articleshow/134705629.cms",
+      "published": "Mon, 05 Oct 2026 17:48:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Indian bonds take a breather before RBI policy outcome",
       "summary": "Amidst anticipation for the Reserve Bank of India’s policy decision, Indian government bonds have remained relatively stable. The yield for the 6.94% 2036 bond is currently 7.2127%. Analysts predict this week could mark the central bank's first rate hike since 2023. Additionally, state borrowing is projected to surpass market expectations, which could impact supply dynamics. Meanwhile, recent US Treasury yields have offered short-term relief amid shifting global financial conditions.",
@@ -16,7 +26,7 @@
     {
       "headline": "Why did market rise today? Sensex jumps 473 points, Nifty closes above 22,550: 6 key factors driving rebound",
       "summary": "The Indian stock market recovered after eight weeks of losses, with Sensex gaining 473 points and Nifty 134 points. HDFC Bank appointed Anup Bagchi as its new CEO, boosting investor confidence. Oil prices fell below $102 per barrel due to increased supply and decreasing Fed rate hike concerns. The rupee strengthened amid easing oil prices, while bond yields also cooled down after recent highs.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-nearly-500-pts-nifty-above-22550-7-key-factors-driving-rebound/articleshow/134685325.cms",
       "published": "Mon, 05 Oct 2026 09:32:31 +0530",
       "freshness": "new",
@@ -44,14 +54,14 @@
       "symbols": "HDFCBANK, BEL"
     },
     {
-      "headline": "RBI likely intervenes to support rupee, traders say",
-      "summary": "The Reserve Bank of India intervened in the foreign exchange market to support the rupee. This action was taken as the currency faced pressure from a stronger dollar and fluctuating oil prices. Traders reported that state-run banks were observed offering dollars, likely on behalf of the RBI. The dollar index increased to its highest level in more than one year. The rupee slightly strengthened, closing at 96.",
+      "headline": "Axis Bank’s gross advances rise 23% YoY to Rs 13.85 lakh crore in Q2, deposits up 21%",
+      "summary": "Axis Bank’s gross advances rose 22.7% year-on-year to Rs 13.846 lakh crore by September 30, 2026, while deposits increased 20.7% to Rs 14.521 lakh crore. CASA deposits grew 10.6%, with FCNR(B) flows significantly influencing deposit and loan growth.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-likely-intervenes-to-support-rupee-traders-say/articleshow/134686004.cms",
-      "published": "Mon, 05 Oct 2026 10:10:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-banks-gross-advances-rise-23-yoy-to-rs-13-85-lakh-crore-in-q2-deposits-up-21/articleshow/134707200.cms",
+      "published": "Mon, 05 Oct 2026 19:03:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "AXISBANK"
     },
     {
       "headline": "IPO Ahead! Electrical products maker Biocon Electric files draft papers with Sebi",
@@ -86,7 +96,7 @@
     {
       "headline": "Indian IT’s Q2 earnings dilemma deepens: More deals but weaker growth and falling pricing power",
       "summary": "As Indian IT firms gear up for their Q2 earnings report, the landscape appears mixed. Strong deal activity persists, yet clients are pushing for higher efficiency, leading to a notable decline in revenue growth. Large IT companies may witness their weakest growth in three years, primarily due to acquisitions rather than organic expansion. Infosys is under a microscope for possible downward adjustments to its revenue guidance.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-its-q2-earnings-dilemma-deepens-more-deals-but-weaker-growth-and-falling-pricing-power/articleshow/134685622.cms",
       "published": "Mon, 05 Oct 2026 09:45:46 +0530",
       "freshness": "new",
@@ -96,7 +106,7 @@
     {
       "headline": "HDFC Bank shares rise 2% after appointing Anup Bagchi as new CEO, Q2 biz update. Buy, sell or hold?",
       "summary": "HDFC Bank shares rose after Anup Bagchi was appointed as the bank’s new MD &amp; CEO, ending months of uncertainty over its top leadership. Brokerages Jefferies, Morgan Stanley and Citi retained positive ratings on the stock, citing clarity on succession and potential for a re-rating. The bank also reported strong loan and deposit growth in Q2.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-after-appointing-anup-bagchi-as-new-ceo-q2-biz-update-buy-sell-or-hold/articleshow/134685243.cms",
       "published": "Mon, 05 Oct 2026 09:28:19 +0530",
       "freshness": "new",
@@ -114,14 +124,24 @@
       "symbols": "INFY"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Daily Performance",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-05-oct-2026/liveblog/134684661.cms",
-      "published": "Mon, 05 Oct 2026 08:35:22 +0530",
+      "headline": "Sebi launches awareness campaign to help investors in informed decision making",
+      "summary": "Sebi has launched the ‘Samajh Se Investing Simple’ campaign under Project Jagrook to simplify investing, promote informed decisions and prevent financial fraud. It also introduced MUST to boost financial literacy among students and announced an official WhatsApp channel for investor awareness.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-awareness-campaign-to-help-investors-in-informed-decision-making/articleshow/134708313.cms",
+      "published": "Mon, 05 Oct 2026 19:35:48 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee edges higher as traders await RBI policy decision on rates",
+      "summary": "The rupee ended marginally stronger at 96.2925 against the dollar, supported by lower Brent crude prices and improved sentiment. The currency traded in a narrow range as investors awaited the RBI’s monetary policy decision, with a 25-basis-point rate hike widely expected.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-edges-higher-as-traders-await-rbi-policy-decision-on-rates/articleshow/134707753.cms",
+      "published": "Mon, 05 Oct 2026 19:20:25 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Global Market | High energy costs threaten eurozone inflation outlook:  ECB's Nagel",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "FIIs, retail investors raise stakes in 10 stocks, shares rally up to 35% in 3 months",
-      "summary": "Nearly 78 BSE 500 stocks saw both FII and retail ownership rise in June 2026. Ten stocks gained 10%-35% over three months, led by Lenskart Solutions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/slideshow/134695032.cms",
-      "published": "Mon, 05 Oct 2026 14:29:40 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Nomura sees IndiGo emerging stronger from fuel shock; initiates Buy with Rs 6,000 target",
-      "summary": "Nomura initiated coverage on InterGlobe Aviation with a Buy rating and a Rs 6,000 target price, implying around 20% upside from the September 30 close. It believes IndiGo’s low-cost model, large aircraft order book and expanding international network could strengthen its competitive edge despite elevated fuel prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-sees-indigo-emerging-stronger-from-fuel-shock-initiates-buy-with-rs-6000-target/articleshow/134692630.cms",
-      "published": "Mon, 05 Oct 2026 13:55:24 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T12:36:39.730982+00:00",
+      "chain_fetched_at_utc": "2026-10-05T15:14:57.687863+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T12:36:40.066354+00:00",
+      "chain_fetched_at_utc": "2026-10-05T15:14:57.978244+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T12:36:40.418357+00:00",
+      "chain_fetched_at_utc": "2026-10-05T15:14:58.402262+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
