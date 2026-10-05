@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-05T16:23:01.798740+00:00",
+  "generated_at_utc": "2026-10-05T17:22:29.675487+00:00",
   "news": [
     {
       "headline": "Indian bonds hold tight range ahead of RBI policy meeting",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T16:23:09.608361+00:00",
+      "chain_fetched_at_utc": "2026-10-05T17:22:38.861694+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T16:23:10.240624+00:00",
+      "chain_fetched_at_utc": "2026-10-05T17:22:39.459675+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T16:23:10.876022+00:00",
+      "chain_fetched_at_utc": "2026-10-05T17:22:39.917200+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
