@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-05T10:18:24.130628+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-05T12:36:32.274527+00:00",
   "news": [
     {
       "headline": "Indian bonds take a breather before RBI policy outcome",
@@ -12,6 +12,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why did market rise today? Sensex jumps 473 points, Nifty closes above 22,550: 6 key factors driving rebound",
+      "summary": "The Indian stock market recovered after eight weeks of losses, with Sensex gaining 473 points and Nifty 134 points. HDFC Bank appointed Anup Bagchi as its new CEO, boosting investor confidence. Oil prices fell below $102 per barrel due to increased supply and decreasing Fed rate hike concerns. The rupee strengthened amid easing oil prices, while bond yields also cooled down after recent highs.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-nearly-500-pts-nifty-above-22550-7-key-factors-driving-rebound/articleshow/134685325.cms",
+      "published": "Mon, 05 Oct 2026 09:32:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK, BEL"
+    },
+    {
+      "headline": "Rupee ends flat, anchored by RBI intervention in face of global strains",
+      "summary": "The Indian rupee ended little changed on Monday, bolstered by central bank interventions during ongoing pressures. A firmer dollar was observed, approaching a 17-month high due to a weak euro's impact. Crude oil prices increased to nearly $103 per barrel, posing risks to India's economy. India's Finance Minister Nirmala Sitharaman stated that trade talks with the United States reached a plateau.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-anchored-by-rbi-intervention-in-face-of-global-strains/articleshow/134700361.cms",
+      "published": "Mon, 05 Oct 2026 16:16:05 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "Nifty’s ailing warhorse HDFC Bank gets an all-rounder CEO. Can Anup Bagchi make the elephant dance?",
@@ -34,14 +54,14 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Why is market rising today? Sensex rallies 700 points, Nifty above 22,600. 6 key factors driving rebound",
-      "summary": "After a long slump, the Indian stock market is experiencing a refreshing surge, with both Sensex and Nifty indices showcasing notable increases. The recent leadership transition at HDFC Bank has invigorated investor trust and market dynamics. With oil prices dropping and inflation worries easing, combined with a calming outlook on Federal Reserve rate hikes, investors appear to be regaining their footing and confidence.",
+      "headline": "IPO Ahead! Electrical products maker Biocon Electric files draft papers with Sebi",
+      "summary": "Biocon Electric has filed DRHP with Sebi for a Rs 59 lakh-share IPO, comprising a fresh issue and OFS. The company plans to use fresh proceeds primarily for working capital, with shares proposed for BSE and NSE listing.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-gains-nearly-500-pts-nifty-above-22550-7-key-factors-driving-rebound/articleshow/134685325.cms",
-      "published": "Mon, 05 Oct 2026 09:32:31 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-electrical-products-maker-biocon-electric-files-draft-papers-with-sebi/articleshow/134702878.cms",
+      "published": "Mon, 05 Oct 2026 16:58:31 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "BSE"
     },
     {
       "headline": "CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction",
@@ -94,7 +114,7 @@
       "symbols": "INFY"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Daily Performance",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-05-oct-2026/liveblog/134684661.cms",
@@ -114,7 +134,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "FIIs, retail investors raise stakes in 10 stocks, stocks rally up to 35% in 3 months",
+      "headline": "FIIs, retail investors raise stakes in 10 stocks, shares rally up to 35% in 3 months",
       "summary": "Nearly 78 BSE 500 stocks saw both FII and retail ownership rise in June 2026. Ten stocks gained 10%-35% over three months, led by Lenskart Solutions.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/slideshow/134695032.cms",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "R.K. Fashion Accessories SME IPO opens for subscription. Check price band, lot size and key details",
-      "summary": "R.K. Fashion Accessories IPO opened for subscription on October 5 and will close on October 7. The Rs 34.99 crore SME issue has a price band of Rs 77–82 per share and a lot size of 1,600 shares. The company plans to use proceeds for working capital, expansion and new retail facilities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/r-k-fashion-accessories-sme-ipo-opens-for-subscription-check-price-band-lot-size-and-key-details/articleshow/134687466.cms",
-      "published": "Mon, 05 Oct 2026 11:30:57 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan’s Nikkei jumps 2.5% to 3-month high as AI stocks rally",
-      "summary": "Japan’s Nikkei surged 2.53% to a three-month high, led by AI and chip stocks following Wall Street gains. Advantest and Tokyo Electron rallied, while SoftBank also advanced. Easing expectations for a Federal Reserve rate hike supported sentiment, though investors remained selective amid a more cautious outlook for the AI-led rally.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-2-5-to-3-month-high-as-ai-stocks-rally/articleshow/134685851.cms",
-      "published": "Mon, 05 Oct 2026 10:02:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -160,35 +160,19 @@
       "symbol": "HDFCBANK",
       "price": 704.7999877929688,
       "change_pct": -2.27,
-      "setup_quality_score": 68.05,
+      "setup_quality_score": 69.55,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T10:18:36.820465+00:00",
+      "chain_fetched_at_utc": "2026-10-05T12:36:39.730982+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "NYKAA",
-      "price": 339.54998779296875,
-      "change_pct": 4.49,
-      "setup_quality_score": 60.23,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T10:18:37.195896+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "INFY",
       "price": 1020.5,
       "change_pct": -1.4,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T10:18:37.582096+00:00",
+      "chain_fetched_at_utc": "2026-10-05T12:36:40.066354+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "PERSISTENT",
+      "price": 5530.0,
+      "change_pct": 3.04,
+      "setup_quality_score": 56.92,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-05T12:36:40.418357+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
