@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-05T18:48:13.026072+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-05T22:12:05.375730+00:00",
   "news": [
     {
       "headline": "Indian bonds hold tight range ahead of RBI policy meeting",
@@ -9,16 +9,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hold-tight-range-ahead-of-rbi-policy-meeting/articleshow/134705629.cms",
       "published": "Mon, 05 Oct 2026 17:48:02 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Indian bonds take a breather before RBI policy outcome",
-      "summary": "Amidst anticipation for the Reserve Bank of India’s policy decision, Indian government bonds have remained relatively stable. The yield for the 6.94% 2036 bond is currently 7.2127%. Analysts predict this week could mark the central bank's first rate hike since 2023. Additionally, state borrowing is projected to surpass market expectations, which could impact supply dynamics. Meanwhile, recent US Treasury yields have offered short-term relief amid shifting global financial conditions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-take-a-breather-before-rbi-policy-outcome/articleshow/134687351.cms",
-      "published": "Mon, 05 Oct 2026 11:10:30 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,43 +142,21 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market | High energy costs threaten eurozone inflation outlook:  ECB's Nagel",
+      "summary": "Eurozone inflation stands at 3.8%, with Bundesbank President Joachim Nagel warning of upside risks from energy, food and refining costs. However, wage and price-setting remain contained, while long-term inflation expectations stay aligned with the ECB’s 2% target. Markets increasingly expect further ECB rate hikes, though Nagel urged flexibility.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-high-energy-costs-threaten-eurozone-inflation-outlook-ecbs-nagel/articleshow/134697342.cms",
+      "published": "Mon, 05 Oct 2026 15:26:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "AXISBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T18:48:22.371175+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
-      "symbol": "INFY",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T18:48:22.788693+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "BEL",
       "price": NaN,
       "change_pct": NaN,
@@ -199,7 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T18:48:23.241910+00:00",
+      "chain_fetched_at_utc": "2026-10-05T22:12:20.153629+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "AXISBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-05T22:12:20.652809+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-05T22:12:21.075802+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
