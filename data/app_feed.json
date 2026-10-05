@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-05T15:14:46.738143+00:00",
+  "generated_at_utc": "2026-10-05T16:23:01.798740+00:00",
   "news": [
     {
       "headline": "Indian bonds hold tight range ahead of RBI policy meeting",
@@ -124,6 +124,16 @@
       "symbols": "INFY"
     },
     {
+      "headline": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "summary": "Indian equities rebounded on Monday after eight consecutive weekly losses, with Sensex rising 473 points and Nifty gaining 134 points. Softer US jobs data and lower crude prices supported sentiment, though analysts flagged bond yields, currency risks, RBI policy and earnings uncertainty.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134711920.cms",
+      "published": "Mon, 05 Oct 2026 21:27:49 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Sebi launches awareness campaign to help investors in informed decision making",
       "summary": "Sebi has launched the ‘Samajh Se Investing Simple’ campaign under Project Jagrook to simplify investing, promote informed decisions and prevent financial fraud. It also introduced MUST to boost financial literacy among students and announced an official WhatsApp channel for investor awareness.",
       "source": "Economic Times Markets",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market | High energy costs threaten eurozone inflation outlook:  ECB's Nagel",
-      "summary": "Eurozone inflation stands at 3.8%, with Bundesbank President Joachim Nagel warning of upside risks from energy, food and refining costs. However, wage and price-setting remain contained, while long-term inflation expectations stay aligned with the ECB’s 2% target. Markets increasingly expect further ECB rate hikes, though Nagel urged flexibility.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-high-energy-costs-threaten-eurozone-inflation-outlook-ecbs-nagel/articleshow/134697342.cms",
-      "published": "Mon, 05 Oct 2026 15:26:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T15:14:57.687863+00:00",
+      "chain_fetched_at_utc": "2026-10-05T16:23:09.608361+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T15:14:57.978244+00:00",
+      "chain_fetched_at_utc": "2026-10-05T16:23:10.240624+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-05T15:14:58.402262+00:00",
+      "chain_fetched_at_utc": "2026-10-05T16:23:10.876022+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
