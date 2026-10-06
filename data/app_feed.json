@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-06T11:28:26.533756+00:00",
+  "generated_at_utc": "2026-10-06T12:13:07.931880+00:00",
   "news": [
     {
       "headline": "Banks vs NBFCs: Which stocks could benefit as RBI eyes rate hike for first time in 3 years?",
@@ -96,7 +96,7 @@
     {
       "headline": "NSE shares wipe off Rs 41,000 crore after listing day pop as stock slips below IPO price. Why are analysts still bullish?",
       "summary": "NSE shares have slipped below their IPO price after a brief listing-day rally, wiping out nearly Rs 41,000 crore from the exchange’s peak market value. Despite the decline, analysts remain bullish, citing NSE’s dominant market position, strong profitability, cash generation and India’s long-term capital-market growth potential.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-wipe-off-rs-41000-crore-after-listing-day-pop-as-stock-slips-below-ipo-price-why-are-analysts-still-bullish/articleshow/134725274.cms",
       "published": "Tue, 06 Oct 2026 11:43:55 +0530",
       "freshness": "new",
@@ -126,7 +126,7 @@
     {
       "headline": "Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?",
       "summary": "Vedanta shares rose over 3% after the company set October 14 as the record date for its first FY27 interim dividend, subject to board approval on October 8. The payout will be the first since Vedanta’s demerger into five entities. Analysts expect dividends to remain strong but potentially become more volatile and commodity-sensitive.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms",
       "published": "Tue, 06 Oct 2026 10:15:06 +0530",
       "freshness": "new",
@@ -134,21 +134,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Sebi says Jane Street’s appeal for more details a delaying ploy",
-      "summary": "Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms assess regulatory risks in India’s derivatives market, with the hearing set to continue Wednesday.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-says-jane-streets-appeal-for-more-details-a-delaying-ploy/articleshow/134738661.cms",
-      "published": "Tue, 06 Oct 2026 16:46:02 +0530",
+      "headline": "Reliance Industries shares gain 3% as JIO IPO inches closer; Jefferies increases weight in conglomerate",
+      "summary": "Reliance Industries is preparing for the IPO of Jio Platforms scheduled to launch on October 21. The valuation of Jio Platforms is reported at Rs 11 lakh crore, making it highly anticipated. The public issue is expected to attract significant attention as it opens for subscription. Jefferies has raised its weight on Reliance Industries due to attractive valuations amid improving conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate/articleshow/134738865.cms",
+      "published": "Tue, 06 Oct 2026 16:56:33 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "RELIANCE"
     },
     {
-      "headline": "World Bank flags oil, El Niño and global market risks to growth",
-      "summary": "The World Bank has revised its growth forecast for South Asia, projecting a robust 6.9% by 2026, driven by a surge in consumer demand. India, leading the region's economy, is expected to achieve a 7.1% growth. However, persistent high inflation and potential spikes in energy prices pose risks to this growth.",
+      "headline": "Sebi says Jane Street’s appeal for more details a delaying ploy",
+      "summary": "Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms assess regulatory risks in India’s derivatives market, with the hearing set to continue Wednesday.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil-el-nio-and-global-market-risks-to-growth/articleshow/134736490.cms",
-      "published": "Tue, 06 Oct 2026 15:45:02 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-says-jane-streets-appeal-for-more-details-a-delaying-ploy/articleshow/134738661.cms",
+      "published": "Tue, 06 Oct 2026 16:46:02 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T11:28:34.520251+00:00",
+      "chain_fetched_at_utc": "2026-10-06T12:13:19.446502+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T11:28:34.885019+00:00",
+      "chain_fetched_at_utc": "2026-10-06T12:13:19.803768+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T11:28:35.327590+00:00",
+      "chain_fetched_at_utc": "2026-10-06T12:13:20.132060+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
