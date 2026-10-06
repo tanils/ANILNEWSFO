@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-06T12:13:07.931880+00:00",
+  "generated_at_utc": "2026-10-06T13:35:23.959186+00:00",
   "news": [
     {
       "headline": "Banks vs NBFCs: Which stocks could benefit as RBI eyes rate hike for first time in 3 years?",
@@ -14,11 +14,11 @@
       "symbols": "HDFCBANK, ICICIBANK"
     },
     {
-      "headline": "India bonds slip as traders wait for hawkish central bank action",
-      "summary": "Indian government bonds have seen a downward trend as market participants speculated on tighter monetary policies from the central bank. The yield on the 6.94% 2036 benchmark bond climbed to 7.2213%. Analysts forecast a 25 basis point boost in the RBI's key policy rate. Investors are attentively looking for additional liquidity strategies from the RBI, with future outcomes expected to depend significantly on inflation and growth outlooks.",
+      "headline": "Indian bonds rangebound as traders await a hawkish RBI verdict",
+      "summary": "Indian government bonds witnessed minimal changes on Tuesday as traders prepared for an expected rate hike. The benchmark 6.94% 2036 bond yield decreased slightly, reflecting a cautious market sentiment. Many economists predict the Reserve Bank of India will raise its key policy rate by 25 basis points during the meeting. Additionally, investors are concerned about potential further actions that may accompany the rate increase.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-traders-wait-for-hawkish-central-bank-action/articleshow/134723483.cms",
-      "published": "Tue, 06 Oct 2026 10:24:47 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rangebound-as-traders-await-a-hawkish-rbi-verdict/articleshow/134739826.cms",
+      "published": "Tue, 06 Oct 2026 17:30:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -46,7 +46,7 @@
     {
       "headline": "Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak",
       "summary": "The Reserve Bank of India is expected to announce a 25-basis point rate hike in its upcoming meeting. Analysts assert that this rate hike has already been largely priced into the stock market. While sectors such as real estate and autos may experience some volatility, clean balance sheets could mitigate impacts. The market's movement will depend more on corporate earnings than on monetary policy adjustments.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-rbi-rate-hike-may-impact-sensex-nifty-after-8-week-losing-streak/articleshow/134723761.cms",
       "published": "Tue, 06 Oct 2026 10:42:42 +0530",
       "freshness": "new",
@@ -114,16 +114,6 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Global Market | Central banks face tougher crisis-management role as public debt rises: BIS chief",
-      "summary": "BIS chief Pablo Hernández de Cos warned that future financial crises could be harder to manage amid soaring public debt, fiscal deficits and volatile bond markets. Growing non-bank financial risks and rapid technologies could accelerate turmoil. He urged stronger regulation, coordinated government action and international cooperation to preserve central banks’ crisis-management capabilities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-central-banks-face-tougher-crisis-management-role-as-public-debt-rises-bis-chief/articleshow/134723367.cms",
-      "published": "Tue, 06 Oct 2026 10:23:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Vedanta shares jump 3% as firm fixes record date for first dividend after demerger. What to expect?",
       "summary": "Vedanta shares rose over 3% after the company set October 14 as the record date for its first FY27 interim dividend, subject to board approval on October 8. The payout will be the first since Vedanta’s demerger into five entities. Analysts expect dividends to remain strong but potentially become more volatile and commodity-sensitive.",
       "source": "Economic Times Stocks",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "World Bank flags oil, El Niño and global market risks to growth",
+      "summary": "The World Bank has revised its growth forecast for South Asia, projecting a robust 6.9% by 2026, driven by a surge in consumer demand. India, leading the region's economy, is expected to achieve a 7.1% growth. However, persistent high inflation and potential spikes in energy prices pose risks to this growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil-el-nio-and-global-market-risks-to-growth/articleshow/134736490.cms",
+      "published": "Tue, 06 Oct 2026 15:45:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T12:13:19.446502+00:00",
+      "chain_fetched_at_utc": "2026-10-06T13:35:33.155581+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T12:13:19.803768+00:00",
+      "chain_fetched_at_utc": "2026-10-06T13:35:33.515553+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T12:13:20.132060+00:00",
+      "chain_fetched_at_utc": "2026-10-06T13:35:33.985473+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
