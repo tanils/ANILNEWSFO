@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-06T15:25:31.549794+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-06T16:14:13.246608+00:00",
   "news": [
     {
       "headline": "Banks vs NBFCs: Which stocks could benefit as RBI eyes rate hike for first time in 3 years?",
@@ -19,6 +19,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rangebound-as-traders-await-a-hawkish-rbi-verdict/articleshow/134739826.cms",
       "published": "Tue, 06 Oct 2026 17:30:25 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee loses 13 paise to close at 96.42 per US dollar",
+      "summary": "The rupee weakened 13 paise to close at 96.42 against the dollar, its weakest level in over two months, pressured by persistent foreign investor outflows and oil companies’ dollar demand. RBI intervention limited losses, while markets awaited the central bank’s policy commentary.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-loses-13-paise-to-close-at-96-42-per-us-dollar/articleshow/134744262.cms",
+      "published": "Tue, 06 Oct 2026 20:46:44 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -106,7 +116,7 @@
     {
       "headline": "How Jefferies is reshuffling its portfolio as soaring bond yields give Nifty bulls sleepless nights",
       "summary": "Jefferies is favouring largecaps as rising bond yields pressure Indian equities, citing relatively attractive valuations and a narrowing earnings gap with midcaps. The brokerage has added Kotak Mahindra Bank and Reliance Industries to its preferred portfolio.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-jefferies-is-reshuffling-its-portfolio-as-soaring-bond-yields-give-nifty-bulls-sleepless-nights/articleshow/134724801.cms",
       "published": "Tue, 06 Oct 2026 11:31:49 +0530",
       "freshness": "new",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "World Bank flags oil, El Niño and global market risks to growth",
-      "summary": "The World Bank has revised its growth forecast for South Asia, projecting a robust 6.9% by 2026, driven by a surge in consumer demand. India, leading the region's economy, is expected to achieve a 7.1% growth. However, persistent high inflation and potential spikes in energy prices pose risks to this growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil-el-nio-and-global-market-risks-to-growth/articleshow/134736490.cms",
-      "published": "Tue, 06 Oct 2026 15:45:02 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T15:25:42.305352+00:00",
+      "chain_fetched_at_utc": "2026-10-06T16:14:24.164253+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T15:25:42.924663+00:00",
+      "chain_fetched_at_utc": "2026-10-06T16:14:24.663092+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-06T15:25:43.328999+00:00",
+      "chain_fetched_at_utc": "2026-10-06T16:14:25.025976+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
