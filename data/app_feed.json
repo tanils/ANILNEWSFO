@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-07T11:18:14.113894+00:00",
+  "generated_at_utc": "2026-10-07T11:59:23.303127+00:00",
   "news": [
     {
       "headline": "Sensex falls over 400 pts, Nifty closes near 22,600 as market snaps 2-day relief rally after RBI rate hike. What lies ahead?",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:18:24.411022+00:00",
+      "chain_fetched_at_utc": "2026-10-07T11:59:34.559744+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:18:24.725583+00:00",
+      "chain_fetched_at_utc": "2026-10-07T11:59:35.068428+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:18:25.089291+00:00",
+      "chain_fetched_at_utc": "2026-10-07T11:59:35.485020+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
