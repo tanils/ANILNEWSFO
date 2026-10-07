@@ -1,17 +1,37 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-07T11:59:23.303127+00:00",
+  "generated_at_utc": "2026-10-07T13:52:35.036848+00:00",
   "news": [
     {
       "headline": "Sensex falls over 400 pts, Nifty closes near 22,600 as market snaps 2-day relief rally after RBI rate hike. What lies ahead?",
       "summary": "On Wednesday, the Indian stock market ended in the red following the RBI's rate hike announcement. Sensex fell over 400 points, closing below 72,639, while Nifty 50 dropped more than 150 points. Titan shares led the losses, dropping 3.5%, while broader markets showed mixed performance. Kotak Mahindra Bank shares increased over 2%, bucking the negative trend observed in other shares.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-450-points-nifty-below-22650-ahead-of-rbis-expected-rate-hike-what-lies-ahead/articleshow/134755335.cms",
       "published": "Wed, 07 Oct 2026 09:30:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
+    },
+    {
+      "headline": "Margin boost: Jefferies picks 3 bank stocks to gain the most from RBI rate hikes",
+      "summary": "Jefferies expects RBI’s 25-basis-point rate hike and calibrated tightening stance to support bank earnings, particularly ICICI Bank, SBI and Axis Bank. Faster loan repricing could drive margin expansion, while smaller private banks, NBFCs and life insurers may face greater pressure.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/margin-boost-jefferies-picks-3-bank-stocks-to-gain-the-most-from-rbi-rate-hikes/articleshow/134766677.cms",
+      "published": "Wed, 07 Oct 2026 18:20:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK, AXISBANK"
+    },
+    {
+      "headline": "India bonds tumble after RBI's first rate hike in nearly four years",
+      "summary": "In a bid to combat inflation, the Reserve Bank of India has increased the key interest rate to 5.5%. This decision has led to a notable dip in Indian government bonds in the market. Factors such as climbing global oil prices are further complicating the economic landscape. While the 10-year bond yield remains high, forecasts suggest that interest rates may continue to rise this fiscal year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-after-rbis-first-rate-hike-in-nearly-four-years/articleshow/134765724.cms",
+      "published": "Wed, 07 Oct 2026 17:40:22 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Jefferies increases weight in Reliance, 2 others; trims weight in 3 stocks in latest model portfolio changes. See list",
@@ -24,14 +44,24 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "India bonds inch lower before pivotal RBI decision",
-      "summary": "Amid the backdrop of escalating US Treasury yields and surging oil prices, Indian government bond traders are revamping their strategies. The Reserve Bank of India is poised to announce a key policy decision that may affect liquidity and inflation, with a 25-basis-point interest rate hike anticipated. Market sentiment remains cautiously tense as everyone awaits clarity on how this will shape the financial landscape.",
+      "headline": "Repo rate hike may raise borrowing costs, but real estate demand likely to be resilient: Realtors",
+      "summary": "The Reserve Bank of India increased the repo rate by 25 basis points to 5.50 percent. Real estate companies in West Bengal anticipate a slight rise in borrowing costs for home loans. Developers believe that genuine homebuyers will remain undeterred in the long term. Concerns about affordability for first-time buyers may arise during the festive season. Developers are introducing flexible payment plans to sustain demand despite these pressures.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-lower-before-pivotal-rbi-decision/articleshow/134755886.cms",
-      "published": "Wed, 07 Oct 2026 10:01:18 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/repo-rate-hike-may-raise-borrowing-costs-but-real-estate-demand-likely-to-be-resilient-realtors/articleshow/134766487.cms",
+      "published": "Wed, 07 Oct 2026 18:11:42 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Landmark Group raises Rs 330 crore SBI finance for Gurugram project",
+      "summary": "Landmark Group has raised Rs 330 crore in construction finance from the State Bank of India. This funding is aimed at developing Landmark One, a Grade A+ commercial project in Gurugram. The development boasts spacious floor plates and extensive parking options. Private equity investments in Indian real estate have significantly increased, showing a 23% rise year on year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/landmark-group-raises-rs-330-crore-sbi-finance-for-gurugram-project/articleshow/134766457.cms",
+      "published": "Wed, 07 Oct 2026 18:09:42 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SBIN"
     },
     {
       "headline": "Rupee nears record low despite RBI hike, governor says markets can be irrational",
@@ -69,16 +99,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-allows-sebi-regulated-depositories-to-include-customer-deposit-details-in-statements-what-changes-for-investors/articleshow/134757684.cms",
       "published": "Wed, 07 Oct 2026 11:39:40 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: JGB yields ease as markets weigh BOJ rate-hike outlook",
-      "summary": "Japanese government bond yields declined on Wednesday, tracking softer global yields despite Bank of Japan policymaker Ayano Sato supporting further rate hikes. The 10-year JGB yield fell to 3.085%, while the 30-year yield dropped to 4.205%. Investors remained divided over how tighter BOJ policy could influence longer-term bond yields and market expectations.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-jgb-yields-ease-as-markets-weigh-boj-rate-hike-outlook/articleshow/134755793.cms",
-      "published": "Wed, 07 Oct 2026 09:56:07 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -126,29 +146,9 @@
     {
       "headline": "TCS Q2 Results Preview: Can the IT bellwether show enough growth to calm investors?",
       "summary": "Tata Consultancy Services is scheduled to release its second-quarter results on October 8, with analysts predicting a year-on-year revenue growth of roughly 13%. However, the sequential growth might be modest at around 0.5%-0.6%. Investors will also be looking for updates on new contracts and collaborations with firms like Porsche and BSNL, as market sentiment stays cautious amid ongoing IT sector challenges.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-preview-can-the-it-bellwether-show-enough-growth-to-calm-investors/articleshow/134755846.cms",
       "published": "Wed, 07 Oct 2026 09:58:17 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "RBI hikes repo rate by 25 bps: How are rate sensitive stocks, sectors faring after first increase in nearly 4 years?",
-      "summary": "Banking, NBFCs, realty and auto stocks came under pressure after the RBI raised the repo rate by 25 basis points to 5.50% and shifted its stance to calibrated tightening. The rate hike, the first in four years, comes amid elevated crude prices, rising global bond yields, inflation concerns and sustained foreign outflows.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms",
-      "published": "Wed, 07 Oct 2026 08:53:10 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Urban Company among 6 stocks showing RSI trending up",
-      "summary": "Six Nifty500 stocks that gained over 6% featured in StockEdge’s RSI Trending Up scan on October 6, signalling strengthening momentum as their RSI values crossed above 50 from below.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-among-6-stocks-showing-rsi-trending-up/slideshow/134754853.cms",
-      "published": "Wed, 07 Oct 2026 08:39:31 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:59:34.559744+00:00",
+      "chain_fetched_at_utc": "2026-10-07T13:52:44.797680+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:59:35.068428+00:00",
+      "chain_fetched_at_utc": "2026-10-07T13:52:45.140214+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T11:59:35.485020+00:00",
+      "chain_fetched_at_utc": "2026-10-07T13:52:45.647655+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
