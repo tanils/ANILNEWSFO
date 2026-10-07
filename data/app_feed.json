@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-07T13:52:35.036848+00:00",
+  "generated_at_utc": "2026-10-07T14:45:02.105257+00:00",
   "news": [
     {
       "headline": "Sensex falls over 400 pts, Nifty closes near 22,600 as market snaps 2-day relief rally after RBI rate hike. What lies ahead?",
@@ -104,6 +104,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Gold slides to two-month low as robust dollar, yields add pressure",
+      "summary": "Gold prices have fallen to a two-month low due to a strong US dollar and rising Treasury yields. Spot gold dropped 1.6% to $4,096.13 per ounce, while silver also faced significant declines. The Federal Reserve's policy decisions are anticipated to influence future interest rate hikes, affecting gold's appeal. China's central bank continued its long-term gold purchasing trend, contributing to market dynamics.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-slides-to-two-month-low-as-robust-dollar-yields-add-pressure/articleshow/134768281.cms",
+      "published": "Wed, 07 Oct 2026 19:42:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Ola Electric board approves rights issue at 26% discount; shareholders to pay in two calls",
+      "summary": "Ola Electric has announced a rights issue price of Rs 27 per share, significantly below its market value, aiming to garner up to Rs 1,000 crore. Investors will pay 60% of this amount upfront, with the remainder due later. Chairman Bhavish Aggarwal intends to fully subscribe to his portion, using a pledged stake. This funding could ease debt burdens and assist the company in achieving cash breakeven.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-board-approves-rights-issue-at-26-pc-discount-shareholders-to-pay-in-two-calls/articleshow/134768186.cms",
+      "published": "Wed, 07 Oct 2026 19:39:43 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
       "headline": "HD Fire Protect IPO price band set at Rs 258-271; Rs 712 crore issue opens on October 13",
       "summary": "HD Fire Protect has fixed the price band for its Rs 712.31 crore IPO at Rs 258-271 per share. The issue will open on October 13 and close on October 15, 2026. Entirely an offer for sale, the IPO will see promoters sell 2.63 crore shares, with the company receiving no proceeds from the issue.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "PNB, Kotak Mahindra Bank, other bank stocks rise up to 2% after RBI’s rate hike, Nifty Bank above 55,500",
-      "summary": "Bank stocks including Kotak Mahindra Bank, PNB, Union Bank and Canara Bank gained up to 2% after the RBI rose on Monday after the repo rate by 25 basis points to 5.50%. The Nifty Bank index rose as investors assessed the impact of the rate hike and the RBI’s shift to calibrated tightening.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-kotak-mahindra-bank-other-bank-stocks-rise-up-to-2-after-rbis-rate-hike-nifty-bank-above-55500/articleshow/134757463.cms",
-      "published": "Wed, 07 Oct 2026 11:32:05 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "TCS Q2 Results Preview: Can the IT bellwether show enough growth to calm investors?",
-      "summary": "Tata Consultancy Services is scheduled to release its second-quarter results on October 8, with analysts predicting a year-on-year revenue growth of roughly 13%. However, the sequential growth might be modest at around 0.5%-0.6%. Investors will also be looking for updates on new contracts and collaborations with firms like Porsche and BSNL, as market sentiment stays cautious amid ongoing IT sector challenges.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-preview-can-the-it-bellwether-show-enough-growth-to-calm-investors/articleshow/134755846.cms",
-      "published": "Wed, 07 Oct 2026 09:58:17 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T13:52:44.797680+00:00",
+      "chain_fetched_at_utc": "2026-10-07T14:45:16.560553+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T13:52:45.140214+00:00",
+      "chain_fetched_at_utc": "2026-10-07T14:45:16.979438+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-07T13:52:45.647655+00:00",
+      "chain_fetched_at_utc": "2026-10-07T14:45:17.527012+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
