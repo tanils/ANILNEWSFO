@@ -1,12 +1,12 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-08T13:59:17.029141+00:00",
+  "generated_at_utc": "2026-10-08T14:57:04.623461+00:00",
   "news": [
     {
       "headline": "RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in",
       "summary": "RBI’s first rate hike in nearly four years has put the spotlight on banking stocks, with analysts divided on the near-term impact on margins. Jefferies sees large private banks such as ICICI Bank and Kotak Mahindra Bank as key beneficiaries, while Q2 earnings could offer clues on the sector’s outlook.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-done-now-whats-ahead-for-bank-stocks-jefferies-other-analysts-weigh-in/articleshow/134780310.cms",
       "published": "Thu, 08 Oct 2026 10:28:43 +0530",
       "freshness": "new",
@@ -22,6 +22,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Absence of AI in equities will become India's strength in a year, mkts to start attracting flows: CEA",
+      "summary": "Chief Economic Advisor V Anantha Nageswaran indicated that India's absence of AI focus might become an advantage. He believes that if the AI boom falters, foreign investors will seek alternative growth opportunities in India. Despite currency depreciation and external challenges, India maintains strong economic fundamentals and growth. Nageswaran highlighted the manageable current account deficit and well-capitalized banking system as positive factors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/absence-of-ai-in-equities-will-become-indias-strength-in-a-year-mkts-to-start-attracting-flows-cea/articleshow/134793195.cms",
+      "published": "Thu, 08 Oct 2026 19:44:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL, BSE"
     },
     {
       "headline": "Housing sales may take a hit on higher mortgage rates: CREDAI, NAREDCO",
@@ -72,16 +82,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Global Market: Tokyo Financial Exchange unveils futures to hedge BOJ rate volatility",
-      "summary": "Tokyo Financial Exchange will launch a futures contract linked to the Bank of Japan’s overnight call rate to help investors hedge rising interest-rate volatility. The move comes as markets anticipate further BOJ hikes, with the central bank’s policy rate at 1.25%. Growing demand for rate hedging reflects Japan’s shift away from ultra-loose monetary policy.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tokyo-financial-exchange-unveils-futures-to-hedge-boj-rate-volatility/articleshow/134780275.cms",
-      "published": "Thu, 08 Oct 2026 10:21:24 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Bank of England's Bailey says government debt commitments needed more than ever",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T13:59:28.597856+00:00",
+      "chain_fetched_at_utc": "2026-10-08T14:57:15.211718+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T13:59:29.125200+00:00",
+      "chain_fetched_at_utc": "2026-10-08T14:57:15.557727+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T13:59:29.522734+00:00",
+      "chain_fetched_at_utc": "2026-10-08T14:57:16.101807+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
