@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-08T15:50:28.949328+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-08T16:53:18.129381+00:00",
   "news": [
     {
       "headline": "RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in",
@@ -76,12 +76,22 @@
     {
       "headline": "Fino Payments Bank shares surge 13% after September business update; loan referrals jump 223%",
       "summary": "Fino Payments Bank shares surged 13.34% to Rs 145.80 after its September 2026 business update. CASA, deposits, renewal income, digital customers, CMS throughput and loan referrals recorded strong growth, though transaction throughput and new deposit accounts declined. Despite the rally, the stock remains significantly below its 52-week high and trades below four of eight SMAs.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/fino-payments-bank-shares-surge-13-after-september-business-update-loan-referrals-jump-223/articleshow/134780882.cms",
       "published": "Thu, 08 Oct 2026 10:52:41 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "Infosys, Wipro ADRs fall nearly 3% after TCS earnings, US crackdown on H-1B-linked green card programme",
+      "summary": "Infosys and Wipro ADRs fell nearly 3% in US trading as investors assessed TCS’s quarterly results and fresh US immigration restrictions. Concerns over technology spending, AI disruption and tighter employment-based immigration added pressure to Indian IT stocks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-fall-nearly-3-after-tcs-earnings-us-crackdown-on-h-1b-linked-green-card-programme/articleshow/134794915.cms",
+      "published": "Thu, 08 Oct 2026 21:27:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
     },
     {
       "headline": "Bank of England's Bailey says government debt commitments needed more than ever",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jefferies cuts target prices for BSE, Turtlemint &amp; other stocks ahead of Q2 results. Check list",
-      "summary": "Jefferies has cut target prices for BSE, Turtlemint and several other non-lending financial stocks ahead of Q2 earnings, while retaining Buy ratings on most stocks in its coverage.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-prices-for-bse-turtlemint-amp-other-stocks-ahead-of-q2-results-check-list/slideshow/134781227.cms",
-      "published": "Thu, 08 Oct 2026 11:06:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T15:50:38.868494+00:00",
+      "chain_fetched_at_utc": "2026-10-08T16:53:31.542066+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T15:50:39.288776+00:00",
+      "chain_fetched_at_utc": "2026-10-08T16:53:32.099925+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T15:50:39.662734+00:00",
+      "chain_fetched_at_utc": "2026-10-08T16:53:32.580128+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
