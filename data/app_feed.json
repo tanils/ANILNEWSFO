@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-08T12:13:45.402387+00:00",
+  "generated_at_utc": "2026-10-08T13:59:17.029141+00:00",
   "news": [
     {
       "headline": "RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in",
@@ -12,6 +12,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "India's 10-year yield hits Dec 2023 peak as US debt rout, oil spike hurt",
+      "summary": "The Indian government bond market is feeling the heat from escalating US Treasury yields and climbing oil prices. Crude oil has surged, fueled by ongoing fears regarding supply disruptions in the Middle East. In light of this, the Reserve Bank of India has raised its policy rate, signaling a potential tightening of fiscal measures. As a result, forecasts suggest the benchmark 10-year bond yield could hit 7.40%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-hits-dec-2023-peak-as-us-debt-rout-oil-spike-hurt/articleshow/134789626.cms",
+      "published": "Thu, 08 Oct 2026 17:23:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Housing sales may take a hit on higher mortgage rates: CREDAI, NAREDCO",
+      "summary": "Realtors' industry bodies CREDAI and NAREDCO have expressed concerns about rising home loan costs. The Reserve Bank of India raised the repo rate by 25 basis points, signaling potential further hikes. This increase could dampen housing sales during the upcoming festive season despite strong underlying demand. Experts believe that long-term buyer sentiment will support the market resilience. Overall, housing demand in major cities showed a slight annual increase recently.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-may-take-a-hit-on-higher-mortgage-rates-credai-naredco/articleshow/134789528.cms",
+      "published": "Thu, 08 Oct 2026 17:22:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "RBI intervention halts rupee's slide to record low, risks linger",
@@ -64,11 +84,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Global Market: JGB yields fall as 30-year bond yield retreats from record high",
-      "summary": "Japanese government bond yields declined, with the 30-year yield easing from a record high, as investors awaited a closely watched debt auction and assessed the Bank of Japan’s tightening path. The 10-year yield fell to 3.08%, while global bond yields also softened. Markets increasingly expect a December BOJ rate hike.",
+      "headline": "Bank of England's Bailey says government debt commitments needed more than ever",
+      "summary": "Bank of England Governor Andrew Bailey highlighted the importance of credible fiscal policies for stabilizing public finances. Rising inflation and high levels of government borrowing put pressure on global bond markets. He emphasized that realistic debt commitments could mitigate demands for higher returns from bond investors. Bailey also noted the need for central banks to focus on reducing inflation.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-jgb-yields-fall-as-30-year-bond-yield-retreats-from-record-high/articleshow/134780171.cms",
-      "published": "Thu, 08 Oct 2026 10:15:57 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-englands-bailey-says-government-debt-commitments-needed-more-than-ever/articleshow/134792070.cms",
+      "published": "Thu, 08 Oct 2026 18:56:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI's 29-day VRRR auction receives tepid response despite high surplus liquidity",
+      "summary": "The Reserve Bank of India on Thursday executed a noteworthy 29-day variable rate reverse repo auction, attracting Rs 79,655 crore in bids, fully accepted at a 5.49 percent rate. This event contrasted sharply with the one-day VRRR auction, which invited bids totaling Rs 1,60,664 crore. Currently, the banking sector enjoys a liquidity surplus of around Rs 4.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-29-day-vrrr-auction-receives-tepid-response-despite-high-surplus-liquidity/articleshow/134791263.cms",
+      "published": "Thu, 08 Oct 2026 18:26:41 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -122,36 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "ITC shares slide 3% on block deal buzz; FMCG giant down 29% in 2026",
-      "summary": "ITC shares witnessed a drop on Thursday amid reports of likely block deals, with nearly 39 crore shares changing hands across the NSE and BSE. The identities of the buyers and sellers involved in the reported transactions were not immediately known.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-slide-3-on-block-deal-buzz-fmcg-giant-down-29-in-2026/articleshow/134780949.cms",
-      "published": "Thu, 08 Oct 2026 11:02:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "TCS Q2 Results 2026 Live Updates: TCS Q2 profit rises 4% QoQ; company declares interim dividend of Rs 12/share",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tcs-q2-results-live-tata-consultancy-services-q2-fy27-revenue-earnings-profit-loss-bonus-shares-date-time-8-october-2026/liveblog/134779808.cms",
-      "published": "Thu, 08 Oct 2026 09:52:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vishal Nirmiti shares list at 2% discount over IPO price on NSE, BSE",
-      "summary": "On October 8, Vishal Nirmiti made a subdued debut in the stock market, listing below the issue price. This IPO, amounting to Rs 178 crore, included both a fresh issue and an offer for sale. Subscription rates were notably high among retail and non-institutional investors. Proceeds from the IPO are set to support working capital needs and repay loans.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-nirmiti-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134779234.cms",
-      "published": "Thu, 08 Oct 2026 09:18:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL, BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T12:13:59.205066+00:00",
+      "chain_fetched_at_utc": "2026-10-08T13:59:28.597856+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T12:13:59.545847+00:00",
+      "chain_fetched_at_utc": "2026-10-08T13:59:29.125200+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T12:13:59.891160+00:00",
+      "chain_fetched_at_utc": "2026-10-08T13:59:29.522734+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
