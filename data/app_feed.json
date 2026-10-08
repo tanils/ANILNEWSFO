@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-08T10:25:20.730910+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-08T11:34:44.718230+00:00",
   "news": [
     {
       "headline": "RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "RBI intervention halts rupee's slide to record low, risks linger",
+      "summary": "The Indian rupee struggles amid climbing oil prices and a weakening of Asian currencies. Despite the Reserve Bank of India's intervention, traders remain wary regarding the future of the currency. Many market players doubt that a central bank interest rate hike will stem capital flight, while escalating Brent crude prices raise alarms over possible Middle Eastern supply issues.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-intervention-halts-rupees-slide-to-record-low-risks-linger/articleshow/134788012.cms",
+      "published": "Thu, 08 Oct 2026 16:23:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Adani Group stocks tumble as market rout deepens; Adani Green, Adani Ent, others tank up to 10%",
@@ -64,6 +74,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "TCS Q2 results: Profit rises 15% YoY to Rs 13,884 crore; co declares dividend at Rs 12 per share",
+      "summary": "TCS Q2 Results 2026: IT services major Tata Consultancy Services (TCS) reported 15% year-on-year (YoY) growth in its consolidated net profit at Rs 13,884 crore for the second quarter. Also the company has declared a second interim dividend of Rs 12 per share for the financial year 2026-27.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-profit-rises-15-yoy-to-rs-13884-crore-co-declares-rs-12-dividend/articleshow/134787000.cms",
+      "published": "Thu, 08 Oct 2026 15:52:03 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: European stocks slide as oil surge revives inflation concerns",
+      "summary": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
+      "published": "Thu, 08 Oct 2026 15:36:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Indian firms seen posting faster profit growth despite global headwinds",
       "summary": "Indian companies are projected to achieve profit growth during the September quarter despite various challenges affecting different sectors. Foreign investors are retreating from Indian stocks, impacting the benchmark Nifty 50 index's performance this year. Strong domestic demand and favorable conditions in certain sectors are expected to sustain earnings growth for many firms. Analysts believe that financials will be a significant driver of earnings, supported by healthy loan growth.",
       "source": "Economic Times Markets",
@@ -104,21 +134,11 @@
       "symbols": "BSE"
     },
     {
-      "headline": "6 SME IPOs to list today: EverestIMS, Dove Soft, Eventions among issues making debut",
-      "summary": "Six SME IPOs — Omara Ventures India, Sollfege Smart Electronics, Eventions, SJP Ultrasonics, Dove Soft and EverestIMS Technologies — will list on the stock market on October 8, having collectively raised around Rs 247 crore. Five will debut on the BSE SME platform and Eventions on NSE SME. EverestIMS Technologies led investor demand with 294.22 times subscription.",
+      "headline": "TCS Q2 Results 2026 Live Updates: TCS Q2 profit rises 4% QoQ; company declares interim dividend of Rs 12/share",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/6-sme-ipos-to-list-today-everestims-dove-soft-eventions-among-issues-making-debut/articleshow/134779287.cms",
-      "published": "Thu, 08 Oct 2026 09:26:54 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "RBI likely intervened near open to support rupee, traders say",
-      "summary": "In a decisive action on Thursday, the Reserve Bank of India reportedly offloaded dollars at the market's start to enhance the rupee's standing. Opening at 96.6825 per dollar, the rupee's performance was better than anticipated. This strategic intervention demonstrates the RBI's proactive approach to maintain currency stability as the rupee nears its all-time low of 96.96 from May. Market participants were attentive to these fluctuations amid rising concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-likely-intervened-near-open-to-support-rupee-traders-say/articleshow/134779257.cms",
-      "published": "Thu, 08 Oct 2026 09:21:51 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tcs-q2-results-live-tata-consultancy-services-q2-fy27-revenue-earnings-profit-loss-bonus-shares-date-time-8-october-2026/liveblog/134779808.cms",
+      "published": "Thu, 08 Oct 2026 09:52:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -126,32 +146,12 @@
     {
       "headline": "Vishal Nirmiti shares list at 2% discount over IPO price on NSE, BSE",
       "summary": "On October 8, Vishal Nirmiti made a subdued debut in the stock market, listing below the issue price. This IPO, amounting to Rs 178 crore, included both a fresh issue and an offer for sale. Subscription rates were notably high among retail and non-institutional investors. Proceeds from the IPO are set to support working capital needs and repay loans.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-nirmiti-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134779234.cms",
       "published": "Thu, 08 Oct 2026 09:18:59 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
-    },
-    {
-      "headline": "Global Market: Eurozone bond yields surge as energy prices fuel rate hike bets",
-      "summary": "Eurozone bond yields rise sharply as higher oil prices fuel inflation concerns and expectations of tighter monetary policy, while widening France-Germany spreads highlight growing fiscal and rate risks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-surge-as-energy-prices-fuel-rate-hike-bets/articleshow/134785743.cms",
-      "published": "Thu, 08 Oct 2026 14:46:40 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vedanta dividend alert! Anil Agarwal-led firm announces Rs 5/share interim dividend for FY27. Check record date",
-      "summary": "Vedanta dividend 2026: Vedanta has announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend comes after the company’s mega demerger earlier this year. Investors will need to hold Vedanta shares by October 14 to qualify, with October 13 being the last buying day.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-alert-anil-agarwal-led-firm-announces-rs-5/share-interim-dividend-for-fy27-check-record-date/articleshow/134785319.cms",
-      "published": "Thu, 08 Oct 2026 14:29:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T10:25:30.495990+00:00",
+      "chain_fetched_at_utc": "2026-10-08T11:34:52.869260+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T10:25:30.997712+00:00",
+      "chain_fetched_at_utc": "2026-10-08T11:34:53.173402+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T10:25:31.411008+00:00",
+      "chain_fetched_at_utc": "2026-10-08T11:34:53.530890+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
