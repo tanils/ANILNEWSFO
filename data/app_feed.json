@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-08T11:34:44.718230+00:00",
+  "generated_at_utc": "2026-10-08T12:13:45.402387+00:00",
   "news": [
     {
       "headline": "RBI rate hike done. Now what’s ahead for bank stocks? Jefferies, other brokerages weigh in",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T11:34:52.869260+00:00",
+      "chain_fetched_at_utc": "2026-10-08T12:13:59.205066+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T11:34:53.173402+00:00",
+      "chain_fetched_at_utc": "2026-10-08T12:13:59.545847+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-08T11:34:53.530890+00:00",
+      "chain_fetched_at_utc": "2026-10-08T12:13:59.891160+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
