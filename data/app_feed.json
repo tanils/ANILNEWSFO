@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-09T14:40:07.566120+00:00",
+  "generated_at_utc": "2026-10-09T15:32:50.406637+00:00",
   "news": [
     {
       "headline": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T14:40:18.463945+00:00",
+      "chain_fetched_at_utc": "2026-10-09T15:33:03.552591+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T14:40:18.791092+00:00",
+      "chain_fetched_at_utc": "2026-10-09T15:33:03.882107+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T14:40:19.133314+00:00",
+      "chain_fetched_at_utc": "2026-10-09T15:33:04.326227+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
