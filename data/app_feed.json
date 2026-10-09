@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-09T11:29:14.154755+00:00",
+  "generated_at_utc": "2026-10-09T12:05:21.375821+00:00",
   "news": [
     {
       "headline": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
@@ -114,6 +114,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Airtel Money makes London Stock Exchange debut",
+      "summary": "Airtel Money has made its debut on the London Stock Exchange after a significant IPO process. The offer price was set at £1.96 per share, with trading beginning conditionally. Initial trading reflected a slight increase as shares were valued at about £2.00 before easing. Bharti Airtel holds a significant stake in Airtel Money through Airtel Africa. Unconditional trading is expected to start on October 14, 2026.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-makes-muted-london-trading-debut/articleshow/134832118.cms",
+      "published": "Fri, 09 Oct 2026 16:54:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Friday heavy lifting saves Nifty from record nine weeks of losses. Can bulls take charge now?",
       "summary": "Nifty broke its eight-week losing streak, rising nearly 1.3% on Friday to close above 22,500 as IT, FMCG and auto stocks led a relief rally. However, persistent FII selling, elevated US bond yields, crude oil prices and the RBI’s shift to calibrated tightening continue to cloud the market outlook.",
       "source": "Economic Times Markets",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vedanta shares jump over 3% after Rs 5 interim dividend announcement",
-      "summary": "Vedanta shares rose on Friday after the mining major announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend marks the company's first since its demerger into five entities, which could reshape its future dividend payouts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-over-3-after-rs-5-interim-dividend-announcement/articleshow/134820925.cms",
-      "published": "Fri, 09 Oct 2026 13:10:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T11:29:24.469167+00:00",
+      "chain_fetched_at_utc": "2026-10-09T12:05:34.271204+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T11:29:24.787230+00:00",
+      "chain_fetched_at_utc": "2026-10-09T12:05:34.693107+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T11:29:25.211010+00:00",
+      "chain_fetched_at_utc": "2026-10-09T12:05:35.138761+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
