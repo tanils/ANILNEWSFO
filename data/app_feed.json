@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-09T12:05:21.375821+00:00",
+  "generated_at_utc": "2026-10-09T13:43:09.438060+00:00",
   "news": [
     {
       "headline": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
@@ -14,6 +14,16 @@
       "symbols": "BSE"
     },
     {
+      "headline": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
+      "summary": "Indian government bonds have faced a downturn for the eighth consecutive week, primarily influenced by soaring oil prices and a more aggressive stance from the central bank. The yield on benchmark bonds has surged, signaling a drop in investor confidence. Additionally, the Reserve Bank of India raised the repo rate to 5.50%, with economists anticipating further increments that may take it to at least 6.00%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-extend-weekly-slide-struggle-to-shake-off-rbi-hike-hawkish-stance-shift/articleshow/134833317.cms",
+      "published": "Fri, 09 Oct 2026 17:51:30 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?",
       "summary": "MV Electrosystems shares have surged over 100% from their IPO price, boosting Madhuri Kela’s stake value to Rs 111.55 crore. However, declining FY26 revenue and a net loss raise concerns about the company’s future profitability.",
       "source": "Economic Times Markets",
@@ -24,11 +34,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Global Market: Japan’s Nikkei falls as AI concerns, global bond market stress weigh",
-      "summary": "Japan’s Nikkei 225 fell 1.06% as AI-sector concerns, elevated global borrowing costs and rising oil prices weighed on investor sentiment. Weak household spending and expectations of further Bank of Japan rate hikes added pressure. SoftBank Group led losses, while Nomura Research Institute gained, reflecting mixed performance across Japanese equities.",
+      "headline": "Adani Power shares: GQG Partners-managed entities cut stake to 5.72% from 5.74%",
+      "summary": "GQG Partners entities sold 50.39 lakh Adani Power shares through on-market transactions, reducing their combined stake to 5.72% from 5.74%. The disclosure comes as the stock gains 27.05% in 2026 and the company expands into Bhutanese hydropower.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-ai-concerns-global-bond-market-stress-weigh/articleshow/134805613.cms",
-      "published": "Fri, 09 Oct 2026 09:11:59 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gqg-partners-managed-entities-cut-stake-to-5-72-from-5-74/articleshow/134834452.cms",
+      "published": "Fri, 09 Oct 2026 18:28:05 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ADANIPOWER"
+    },
+    {
+      "headline": "Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report",
+      "summary": "In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over the last two years, illustrates an increased involvement from state governments. Coupled with the Reserve Bank of India's push for greater market transparency, the reissuance of bonds could enhance liquidity, creating a more appealing landscape for bond investors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms",
+      "published": "Fri, 09 Oct 2026 17:39:33 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -114,7 +134,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Airtel Money makes London Stock Exchange debut",
+      "headline": "Airtel Money makes London debut after raising $703 million in biggest IPO of the year",
       "summary": "Airtel Money has made its debut on the London Stock Exchange after a significant IPO process. The offer price was set at £1.96 per share, with trading beginning conditionally. Initial trading reflected a slight increase as shares were valued at about £2.00 before easing. Bharti Airtel holds a significant stake in Airtel Money through Airtel Africa. Unconditional trading is expected to start on October 14, 2026.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-makes-muted-london-trading-debut/articleshow/134832118.cms",
@@ -129,26 +149,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/friday-heavy-lifting-saves-nifty-from-record-nine-weeks-of-losses-can-bulls-take-charge-now/articleshow/134830751.cms",
       "published": "Fri, 09 Oct 2026 16:12:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rs 1,024-crore market cap, Rs 10,000-crore order book: This penny stock jumps 11% after SAIL deal",
-      "summary": "SEPC shares jumped nearly 11% to Rs 5.47 on Friday after securing an Rs 854.57-crore contract from SAIL for its IISCO Steel Plant expansion in Burnpur. The deal pushes SEPC's consolidated order book past Rs 10,000 crore, nearly 10 times its market capitalisation, providing multi-year revenue visibility.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1024-crore-market-cap-rs-10000-crore-order-book-this-penny-stock-jumps-11-after-sail-deal/articleshow/134827035.cms",
-      "published": "Fri, 09 Oct 2026 14:24:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Explained: Why IT stocks ignored Donald Trump’s PERM suspension to gain Rs 70,000 crore in one day",
-      "summary": "IT stocks rallied up to 4% on Friday, adding Rs 70,000 crore in market capitalisation, despite the US suspension of a labour certification programme. Strong Q2 results from TCS, easing oil prices and bond yields, and developments around OpenAI also supported sentiment. TCS gained after reporting 15% profit growth, while brokerages flagged near-term margin pressures and evolving AI-related risks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-it-stocks-ignored-donald-trumps-perm-suspension-to-gain-rs-70000-crore-in-one-day/articleshow/134824300.cms",
-      "published": "Fri, 09 Oct 2026 13:48:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T12:05:34.271204+00:00",
+      "chain_fetched_at_utc": "2026-10-09T13:43:22.489774+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -176,14 +176,14 @@
       "symbol": "ADANIPORTS",
       "price": 1761.0,
       "change_pct": 3.1,
-      "setup_quality_score": 58.15,
+      "setup_quality_score": 53.65,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T12:05:34.693107+00:00",
+      "chain_fetched_at_utc": "2026-10-09T13:43:22.846492+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T12:05:35.138761+00:00",
+      "chain_fetched_at_utc": "2026-10-09T13:43:23.388631+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
