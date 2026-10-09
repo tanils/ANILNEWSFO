@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-09T15:32:50.406637+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-09T16:31:02.636515+00:00",
   "news": [
     {
       "headline": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
@@ -19,6 +19,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
       "published": "Fri, 09 Oct 2026 15:55:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore",
+      "summary": "Portsmouth Technologies LLC executed a block deal selling 30 lakh shares of Anthem Biosciences on October 9. The shares were sold at Rs 833 each, totaling Rs 249.90 crore. Following this transaction, Portsmouth's estimated stake in the company would decrease significantly. Anthem Biosciences reported a decline in total income and profit after tax for the first quarter of FY27.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms",
+      "published": "Fri, 09 Oct 2026 21:53:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -114,16 +124,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US bank earnings in focus as Treasury yields surge, raising concerns over lending and dealmaking",
-      "summary": "US bank stocks face a critical earnings test as investors assess whether rising Treasury yields, higher deposit costs and slower dealmaking could offset profit growth at the six largest lenders.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-earnings-in-focus-as-treasury-yields-surge-raising-concerns-over-lending-and-dealmaking/articleshow/134806882.cms",
-      "published": "Fri, 09 Oct 2026 09:48:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "TCS shares jump 4% after Q2 results. What are Goldman Sachs, Nomura, others saying?",
       "summary": "TCS Share Price: Tata Consultancy Servies shares surged after the IT major reported a 15% year-on-year rise in Q2 consolidated net profit to Rs 13,884 crore. Revenue in constant currency terms grew 0.5% quarter-on-quarter, while operating margin stood at 24%. The company declared a second interim dividend of Rs 12 per share for FY27.",
       "source": "Economic Times Stocks",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T15:33:03.552591+00:00",
+      "chain_fetched_at_utc": "2026-10-09T16:31:17.366320+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T15:33:03.882107+00:00",
+      "chain_fetched_at_utc": "2026-10-09T16:31:17.944733+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T15:33:04.326227+00:00",
+      "chain_fetched_at_utc": "2026-10-09T16:31:18.394891+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
