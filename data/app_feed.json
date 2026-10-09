@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-09T16:31:02.636515+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-09T20:20:25.112803+00:00",
   "news": [
     {
       "headline": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
@@ -19,6 +19,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
       "published": "Fri, 09 Oct 2026 15:55:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
+      "summary": "In the first half of 2026, the precious metals desks at major banks achieved significant earnings due to high demand. JPMorgan Chase reported approximately $700 million in profits from trading gold, silver, and other metals. Deutsche Bank also returned to bullion trading, earning more than $200 million in the same period. Analysts predict that banks will generate around $5 billion from precious metals trading by the end of the year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
+      "published": "Sat, 10 Oct 2026 00:18:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Airtel Money makes London debut after raising $703 million in biggest IPO of the year",
-      "summary": "Airtel Money has made its debut on the London Stock Exchange after a significant IPO process. The offer price was set at £1.96 per share, with trading beginning conditionally. Initial trading reflected a slight increase as shares were valued at about £2.00 before easing. Bharti Airtel holds a significant stake in Airtel Money through Airtel Africa. Unconditional trading is expected to start on October 14, 2026.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-makes-muted-london-trading-debut/articleshow/134832118.cms",
-      "published": "Fri, 09 Oct 2026 16:54:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "PERSISTENT",
-      "price": 5770.0,
-      "change_pct": 5.52,
-      "setup_quality_score": 64.1,
+      "symbol": "INFY",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T16:31:17.366320+00:00",
+      "chain_fetched_at_utc": "2026-10-09T20:20:34.554837+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ADANIPORTS",
-      "price": 1761.0,
-      "change_pct": 3.1,
-      "setup_quality_score": 53.65,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T16:31:17.944733+00:00",
+      "chain_fetched_at_utc": "2026-10-09T20:20:34.863094+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "TCS",
-      "price": 2156.0,
-      "change_pct": 3.85,
-      "setup_quality_score": 49.77,
+      "symbol": "POLICYBZR",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T16:31:18.394891+00:00",
+      "chain_fetched_at_utc": "2026-10-09T20:20:35.177259+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
