@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-09T10:23:33.904969+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-09T11:29:14.154755+00:00",
   "news": [
     {
       "headline": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
@@ -14,11 +14,41 @@
       "symbols": "BSE"
     },
     {
+      "headline": "Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?",
+      "summary": "MV Electrosystems shares have surged over 100% from their IPO price, boosting Madhuri Kela’s stake value to Rs 111.55 crore. However, declining FY26 revenue and a net loss raise concerns about the company’s future profitability.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
+      "published": "Fri, 09 Oct 2026 15:55:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: Japan’s Nikkei falls as AI concerns, global bond market stress weigh",
       "summary": "Japan’s Nikkei 225 fell 1.06% as AI-sector concerns, elevated global borrowing costs and rising oil prices weighed on investor sentiment. Weak household spending and expectations of further Bank of Japan rate hikes added pressure. SoftBank Group led losses, while Nomura Research Institute gained, reflecting mixed performance across Japanese equities.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-ai-concerns-global-bond-market-stress-weigh/articleshow/134805613.cms",
       "published": "Fri, 09 Oct 2026 09:11:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details",
+      "summary": "Jio Platforms has set a price band of Rs 1,065-1,119 for its upcoming IPO. The company plans to raise between Rs 28,755 crore and Rs 30,213 crore with the offer. Public subscription is scheduled to start on October 21, with shares potentially listing on October 28.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms",
+      "published": "Fri, 09 Oct 2026 16:18:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee posts weekly fall despite rate hike amid adverse flows, weak sentiment",
+      "summary": "In recent trading, the Indian rupee closed at 96.73 against the dollar, showing minimal fluctuation from its prior standing. The rupee's slide was mitigated by dollar sales from state-run banks, although it lingers close to record lows. Analysts foresee a further downturn due to challenging market conditions, with the currency's stability affected by a decline in India's foreign exchange reserves over the past four weeks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-weekly-fall-despite-rate-hike-amid-adverse-flows-weak-sentiment/articleshow/134831035.cms",
+      "published": "Fri, 09 Oct 2026 16:14:04 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -84,6 +114,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Friday heavy lifting saves Nifty from record nine weeks of losses. Can bulls take charge now?",
+      "summary": "Nifty broke its eight-week losing streak, rising nearly 1.3% on Friday to close above 22,500 as IT, FMCG and auto stocks led a relief rally. However, persistent FII selling, elevated US bond yields, crude oil prices and the RBI’s shift to calibrated tightening continue to cloud the market outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/friday-heavy-lifting-saves-nifty-from-record-nine-weeks-of-losses-can-bulls-take-charge-now/articleshow/134830751.cms",
+      "published": "Fri, 09 Oct 2026 16:12:30 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Rs 1,024-crore market cap, Rs 10,000-crore order book: This penny stock jumps 11% after SAIL deal",
       "summary": "SEPC shares jumped nearly 11% to Rs 5.47 on Friday after securing an Rs 854.57-crore contract from SAIL for its IISCO Steel Plant expansion in Burnpur. The deal pushes SEPC's consolidated order book past Rs 10,000 crore, nearly 10 times its market capitalisation, providing multi-year revenue visibility.",
       "source": "Economic Times Markets",
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
-      "summary": "Cupid shares jumped hit a fresh 52-week high of Rs 368 on Friday, extending their rally for a fourth straight session. Earlier this month, Cupid raised its FY27 revenue and profit guidance for the second time in less than two weeks, targeting revenue of Rs 800 crore and net profit of Rs 250 crore for the financial year.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
-      "published": "Fri, 09 Oct 2026 11:38:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Chipotle shares rally: What investors should know about the Starbucks deal",
-      "summary": "Chipotle shares surged on reports of a potential Starbucks acquisition, sparking takeover speculation. Despite the rally, slowing sales, rising costs and margin pressures remain concerns for investors evaluating recovery prospects and future earnings growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipotle-shares-rally-what-investors-should-know-about-the-starbucks-deal/slideshow/134812589.cms",
-      "published": "Fri, 09 Oct 2026 11:17:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-09-oct-2026/liveblog/134805227.cms",
-      "published": "Fri, 09 Oct 2026 08:45:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: European companies set for 21% Q3 earnings growth, led by energy firms",
-      "summary": "European companies are expected to post 21% third-quarter earnings growth, led by energy firms benefiting from supply disruptions. However, excluding energy, growth is forecast at 9.7%, while real estate earnings are projected to fall sharply.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-set-for-21-q3-earnings-growth-led-by-energy-firms/articleshow/134829464.cms",
-      "published": "Fri, 09 Oct 2026 15:09:48 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T10:23:44.117191+00:00",
+      "chain_fetched_at_utc": "2026-10-09T11:29:24.469167+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T10:23:44.603600+00:00",
+      "chain_fetched_at_utc": "2026-10-09T11:29:24.787230+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-09T10:23:44.947358+00:00",
+      "chain_fetched_at_utc": "2026-10-09T11:29:25.211010+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
