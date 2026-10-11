@@ -1,14 +1,44 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-10T19:32:54.147352+00:00",
+  "generated_at_utc": "2026-10-11T19:44:03.543976+00:00",
   "news": [
+    {
+      "headline": "Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",
+      "summary": "As many as 129 companies are set to announce their Q2 FY27 results this week, including HDFC Bank, ICICI Bank, Axis Bank, HCL Tech, Wipro and Nestle India. With the earnings season underway, investors will track key announcements across banking, IT and other sectors after markets snapped an eight-week losing streak. Here is a day-wise list of major companies scheduled to report results.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/earnings-tracker-hdfc-bank-hcl-tech-wipro-among-129-companies-set-to-report-q2-results-this-week/articleshow/134866148.cms",
+      "published": "Sun, 11 Oct 2026 11:44:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK, ICICIBANK, AXISBANK"
+    },
     {
       "headline": "RBI to sell $2.6 billion of bonds, tighten bank reserve need to squeeze cash",
       "summary": "The Reserve Bank of India is set to initiate bond sales to better regulate liquidity within the banking system. As of October 16, banks will face a stricter cash reserve ratio requirement, further enhancing liquidity oversight. This follows the RBI's first key policy rate hike in almost four years, hinting at possible future increases.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-sell-2-6-bln-of-bonds-tighten-bank-reserve-need-to-squeeze-cash/articleshow/134850313.cms",
       "published": "Sat, 10 Oct 2026 13:43:28 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "F&amp;O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week",
+      "summary": "Nifty snapped its eight-week losing streak as bullish technical signals emerged near key support levels. Analysts see Nifty Private Bank outperforming in the short term, while Radico Khaitan, Karur Vysya Bank, ICICI General Insurance and Nykaa remain on traders' radar.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-22750-could-open-doors-for-23000-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134866209.cms",
+      "published": "Sun, 11 Oct 2026 11:50:50 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "NYKAA"
+    },
+    {
+      "headline": "HCL Tech Q2 Preview: Will the IT major narrow its guidance? 5 things to watch out for",
+      "summary": "HCL Tech is set to announce its September quarter results on October 12, with brokerages expecting 12% year-on-year profit growth and 16% revenue growth. Acquisitions, deal ramp-ups and seasonal strength are likely to support performance. Investors will track FY27 revenue guidance, margin trends, discretionary spending, deal wins and AI-led pricing pressures for clues on the company’s growth outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-preview-will-the-it-major-narrow-its-guidance-5-things-to-watch-out-for/articleshow/134865454.cms",
+      "published": "Sun, 11 Oct 2026 10:54:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -19,7 +49,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms",
       "published": "Sat, 10 Oct 2026 13:47:29 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -29,7 +59,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
       "published": "Sat, 10 Oct 2026 12:05:45 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -39,16 +69,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
       "published": "Sat, 10 Oct 2026 09:59:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
-      "summary": "Indian government bonds have faced a downturn for the eighth consecutive week, primarily influenced by soaring oil prices and a more aggressive stance from the central bank. The yield on benchmark bonds has surged, signaling a drop in investor confidence. Additionally, the Reserve Bank of India raised the repo rate to 5.50%, with economists anticipating further increments that may take it to at least 6.00%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-extend-weekly-slide-struggle-to-shake-off-rbi-hike-hawkish-stance-shift/articleshow/134833317.cms",
-      "published": "Fri, 09 Oct 2026 17:51:30 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -96,7 +116,7 @@
     {
       "headline": "Adani Power shares: GQG Partners-managed entities cut stake to 5.72% from 5.74%",
       "summary": "GQG Partners entities sold 50.39 lakh Adani Power shares through on-market transactions, reducing their combined stake to 5.72% from 5.74%. The disclosure comes as the stock gains 27.05% in 2026 and the company expands into Bhutanese hydropower.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gqg-partners-managed-entities-cut-stake-to-5-72-from-5-74/articleshow/134834452.cms",
       "published": "Fri, 09 Oct 2026 18:28:05 +0530",
       "freshness": "recent",
@@ -104,42 +124,12 @@
       "symbols": "ADANIPOWER"
     },
     {
-      "headline": "Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report",
-      "summary": "In recent years, states have made a substantial impact on their finances by reissuing bonds, which now form a significant portion of their market borrowings. This trend, particularly pronounced over the last two years, illustrates an increased involvement from state governments. Coupled with the Reserve Bank of India's push for greater market transparency, the reissuance of bonds could enhance liquidity, creating a more appealing landscape for bond investors.",
+      "headline": "Ashish Kacholia, Mukul Agrawal, others invest Rs 120 crore in IPO-bound Fusion CX",
+      "summary": "Ace investors Ashish Kacholia and Mukul Agrawal-backed Sanshi Fund, along with Kotak Mahindra Life Insurance, acquired a combined 3.19% stake worth Rs 120 crore in Fusion CX ahead of its Rs 702 crore IPO opening on October 14.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms",
-      "published": "Fri, 09 Oct 2026 17:39:33 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details",
-      "summary": "Jio Platforms has set a price band of Rs 1,065-1,119 for its upcoming IPO. The company plans to raise between Rs 28,755 crore and Rs 30,213 crore with the offer. Public subscription is scheduled to start on October 21, with shares potentially listing on October 28.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms",
-      "published": "Fri, 09 Oct 2026 16:18:59 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee posts weekly fall despite rate hike amid adverse flows, weak sentiment",
-      "summary": "In recent trading, the Indian rupee closed at 96.73 against the dollar, showing minimal fluctuation from its prior standing. The rupee's slide was mitigated by dollar sales from state-run banks, although it lingers close to record lows. Analysts foresee a further downturn due to challenging market conditions, with the currency's stability affected by a decline in India's foreign exchange reserves over the past four weeks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-weekly-fall-despite-rate-hike-amid-adverse-flows-weak-sentiment/articleshow/134831035.cms",
-      "published": "Fri, 09 Oct 2026 16:14:04 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "TCS shares jump 4% after Q2 results. What are Goldman Sachs, Nomura, others saying?",
-      "summary": "TCS Share Price: Tata Consultancy Servies shares surged after the IT major reported a 15% year-on-year rise in Q2 consolidated net profit to Rs 13,884 crore. Revenue in constant currency terms grew 0.5% quarter-on-quarter, while operating margin stood at 24%. The company declared a second interim dividend of Rs 12 per share for FY27.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-4-after-q2-results-what-are-goldman-sachs-nomura-others-saying/articleshow/134806449.cms",
-      "published": "Fri, 09 Oct 2026 09:36:22 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-mukul-agrawal-others-invest-rs-120-crore-in-ipo-bound-fusion-cx/articleshow/134867844.cms",
+      "published": "Sun, 11 Oct 2026 14:33:08 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -149,7 +139,17 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebis-cas-guidelines-likely-within-a-week-says-chief-tuhin-kanta-pandey/articleshow/134855486.cms",
       "published": "Sat, 10 Oct 2026 19:28:00 +0530",
-      "freshness": "new",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
+      "summary": "DMart operator Avenue Supermarts reported an 8.5% year-on-year rise in consolidated net profit to Rs 743 crore in Q2FY27, while revenue grew 17.8% to Rs 19,644 crore. However, EBITDA and profit after tax margins declined amid entry-level wage inflation. The company opened 15 new stores during the quarter, taking its total to 518.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
+      "published": "Sat, 10 Oct 2026 16:01:51 +0530",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     }
@@ -167,12 +167,28 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-10T19:33:02.504030+00:00",
+      "chain_fetched_at_utc": "2026-10-11T19:44:12.456838+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
+      "symbol": "NYKAA",
+      "price": 343.0,
+      "change_pct": 3.22,
+      "setup_quality_score": 57.89,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-11T19:44:12.847305+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
       "symbol": "ADANIPORTS",
       "price": 1761.0,
       "change_pct": 3.1,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-10T19:33:02.802724+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "TCS",
-      "price": 2156.0,
-      "change_pct": 3.85,
-      "setup_quality_score": 49.77,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-10T19:33:03.174705+00:00",
+      "chain_fetched_at_utc": "2026-10-11T19:44:13.185928+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
