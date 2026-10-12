@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-12T13:29:49.011130+00:00",
+  "generated_at_utc": "2026-10-12T16:03:38.891942+00:00",
   "news": [
     {
       "headline": "India benchmark bond posts worst day in six months on RBI measures",
@@ -22,6 +22,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Indian Gas Exchange secures Sebi's nod to float IPO",
+      "summary": "Indian Gas Exchange Ltd has received approval from Sebi to launch an initial public offering. The proposed IPO is exclusively an offer for sale of equity shares by promoter Indian Energy Exchange Ltd. IGX aims to enhance its visibility and strengthen its brand image through this public listing. The company has been operational since June 2020 and reported increasing revenue in recent years.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-exchange-secures-sebis-nod-to-float-ipo/articleshow/134897335.cms",
+      "published": "Mon, 12 Oct 2026 21:19:49 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Sahajanand Medical Technologies sets IPO price band at Rs 327-344 per share; issue opens on Oct 15",
@@ -54,16 +64,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "India 10-year bond yield tops 7.35% as RBI's liquidity clamp down hurts",
-      "summary": "On Monday, Indian government bonds experienced a significant decline due to central bank measures affecting liquidity. The benchmark 6.94% 2036 bond yield rose to its highest level in three years. The Reserve Bank of India announced it would sell 250 billion rupees of bonds to tighten liquidity. Meanwhile, the benchmark Brent crude price remained above $100 per barrel, impacting inflation.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-tops-7-35-as-rbis-liquidity-clamp-down-hurts/articleshow/134883445.cms",
-      "published": "Mon, 12 Oct 2026 10:49:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Will RBI’s CRR hike to 99% hit HDFC, SBI and other bank stocks? Here’s what Jefferies says",
       "summary": "The RBI has raised the minimum daily CRR maintenance requirement to 99% from 90% from October 16 to curb banking system liquidity. Jefferies expects a limited impact on banks’ net interest margins, estimating a potential 1-2 basis point increase in funding costs. It prefers banks over NBFCs in a rising-rate environment and sees up to 47% upside in Bandhan Bank.",
       "source": "Economic Times Stocks",
@@ -79,6 +79,16 @@
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-rise-2-ahead-of-it-majors-q2-earnings-announcement-today-what-to-expect/articleshow/134882314.cms",
       "published": "Mon, 12 Oct 2026 09:55:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Goldman upgrades global equities on earnings optimism",
+      "summary": "Goldman Sachs has upgraded its outlook on global equities from neutral to overweight as earnings growth remains strong. This change is attributed to more attractive valuations ahead of the forthcoming earnings season. The bank also expressed caution regarding potential risks from higher rates and energy prices impacting equity markets. Additionally, it remains bullish about the Asia and US markets while being underweight on Europe.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-upgrades-global-equities-on-earnings-optimism/articleshow/134895714.cms",
+      "published": "Mon, 12 Oct 2026 19:54:20 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio IPO may be valued at Rs 11 lakh crore: What it means for RIL, Bharti Airtel and telecom stocks",
-      "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO could become India’s biggest-ever share sale, valuing Mukesh Ambani’s digital business at up to Rs 11 lakh crore. With global and domestic investors showing interest, the listing will test Jio’s valuation against Bharti Airtel, potentially reshape telecom sector dynamics and offer investors a direct route to participate in Reliance’s digital growth story.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms",
-      "published": "Mon, 12 Oct 2026 12:44:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T13:30:00.378351+00:00",
+      "chain_fetched_at_utc": "2026-10-12T16:03:49.166285+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T13:30:00.749900+00:00",
+      "chain_fetched_at_utc": "2026-10-12T16:03:49.617534+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T13:30:01.117766+00:00",
+      "chain_fetched_at_utc": "2026-10-12T16:03:50.014918+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
