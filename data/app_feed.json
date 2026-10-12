@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-12T10:38:10.964504+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-12T12:23:41.113016+00:00",
   "news": [
     {
       "headline": "Bonfiglioli Transmissions announces Rs 2,534-cr IPO; price band set at Rs 558-586/sh",
@@ -34,6 +34,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "HCL Tech Q2 Results: Profit jumps 21% YoY to Rs 5,132 crore; co declares Rs 12/share dividend",
+      "summary": "HCL Tech Q2 Results: HCL Tech reported a 21% year-on-year rise in Q2 FY27 net profit to Rs 5,132 crore, while revenue grew 12% to Rs 35,620 crore. The IT major declared an interim dividend of Rs 12 per share, retained its FY27 margin guidance and reported strong AI revenue growth and deal wins.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-results-profit-jumps-21-yoy-to-rs-5132-crore-co-declares-rs-12/share-dividend/articleshow/134891874.cms",
+      "published": "Mon, 12 Oct 2026 17:08:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "India 10-year bond yield tops 7.35% as RBI's liquidity clamp down hurts",
       "summary": "On Monday, Indian government bonds experienced a significant decline due to central bank measures affecting liquidity. The benchmark 6.94% 2036 bond yield rose to its highest level in three years. The Reserve Bank of India announced it would sell 250 billion rupees of bonds to tighten liquidity. Meanwhile, the benchmark Brent crude price remained above $100 per barrel, impacting inflation.",
       "source": "Economic Times Markets",
@@ -44,19 +54,9 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Defence tech firm Tonbo Imaging sets IPO price band at Rs 665-700; issue to open on Oct 15",
-      "summary": "Tonbo Imaging India has set a pricing band of Rs 665-700 per share ahead of its anticipated IPO. This public offering will be available for subscription from October 15 to October 19, featuring an Offer for Sale exclusively from existing investors and promoters. Founders and various shareholders are collaborating in this share offloading initiative, with JM Financial and IIFL Capital Services serving as the book-running lead managers for the offering.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/defence-tech-firm-tonbo-imaging-sets-ipo-price-band-at-rs-665-700-issue-to-open-on-oct-15/articleshow/134882664.cms",
-      "published": "Mon, 12 Oct 2026 10:13:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Will RBI’s CRR hike to 99% hit HDFC, SBI and other bank stocks? Here’s what Jefferies says",
       "summary": "The RBI has raised the minimum daily CRR maintenance requirement to 99% from 90% from October 16 to curb banking system liquidity. Jefferies expects a limited impact on banks’ net interest margins, estimating a potential 1-2 basis point increase in funding costs. It prefers banks over NBFCs in a rising-rate environment and sees up to 47% upside in Bandhan Bank.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbis-crr-hike-to-99-hit-hdfc-sbi-and-other-bank-stocks-heres-what-jefferies-says/articleshow/134882357.cms",
       "published": "Mon, 12 Oct 2026 10:07:53 +0530",
       "freshness": "new",
@@ -66,9 +66,19 @@
     {
       "headline": "HCL Tech shares rise 2% ahead of IT major’s Q2 earnings announcement today. What to expect?",
       "summary": "HCL Technologies shares rose ahead of the IT major’s Q2 FY27 results, with brokerages expecting around 12% year-on-year growth in net profit and 16% growth in revenue. Acquisitions, deal ramp-ups and seasonal strength are likely to support performance, while investors will watch for a revision in the company’s guidance.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-rise-2-ahead-of-it-majors-q2-earnings-announcement-today-what-to-expect/articleshow/134882314.cms",
       "published": "Mon, 12 Oct 2026 09:55:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI measures, intervention spark rupee's sharpest rally in six months",
+      "summary": "On Monday, the Indian rupee gained about 1% after the Reserve Bank of India announced measures to curb dollar demand. Oil companies' dollar purchases will now be directed away from the spot market, easing pressure on the rupee. This intervention aims to address the mounting balance of payments challenges due to high oil prices. However, analysts remain cautious about the sustainability of the rupee's recovery moving forward.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-measures-intervention-spark-rupees-sharpest-rally-in-six-months/articleshow/134890131.cms",
+      "published": "Mon, 12 Oct 2026 16:03:32 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,21 +152,27 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: China stocks fall as global yields, geopolitical tensions weigh on sentiment",
-      "summary": "Chinese stocks declined as government support measures failed to restore investor confidence amid rising global bond yields, Middle East tensions and US technology investigations. Concerns over inflation, trade restrictions and export prospects weighed on sentiment, while technology shares fell sharply, highlighting persistent challenges for Beijing’s market stabilisation efforts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-fall-as-global-yields-geopolitical-tensions-weigh-on-sentiment/articleshow/134884757.cms",
-      "published": "Mon, 12 Oct 2026 11:54:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
+      "symbol": "ADANIPOWER",
+      "price": 185.89999389648438,
+      "change_pct": -1.64,
+      "setup_quality_score": 51.96,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-12T12:23:51.887564+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
       "symbol": "ITC",
       "price": 257.8999938964844,
       "change_pct": -3.05,
@@ -167,12 +183,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T10:38:19.621756+00:00",
+      "chain_fetched_at_utc": "2026-10-12T12:23:52.230174+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 2,
+      "rank": 3,
       "symbol": "BSE",
       "price": 3330.199951171875,
       "change_pct": 1.31,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T10:38:19.970973+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "LT",
-      "price": 3627.5,
-      "change_pct": -2.05,
-      "setup_quality_score": 48.08,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T10:38:20.294199+00:00",
+      "chain_fetched_at_utc": "2026-10-12T12:23:52.575639+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
