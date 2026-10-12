@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-12T16:03:38.891942+00:00",
+  "generated_at_utc": "2026-10-12T17:00:29.952492+00:00",
   "news": [
     {
       "headline": "India benchmark bond posts worst day in six months on RBI measures",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T16:03:49.166285+00:00",
+      "chain_fetched_at_utc": "2026-10-12T17:00:40.518288+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T16:03:49.617534+00:00",
+      "chain_fetched_at_utc": "2026-10-12T17:00:40.877846+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T16:03:50.014918+00:00",
+      "chain_fetched_at_utc": "2026-10-12T17:00:41.269140+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
