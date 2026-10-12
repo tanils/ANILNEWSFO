@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-12T17:00:29.952492+00:00",
+  "generated_at_utc": "2026-10-12T18:10:50.056111+00:00",
   "news": [
     {
       "headline": "India benchmark bond posts worst day in six months on RBI measures",
@@ -12,16 +12,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bonfiglioli Transmissions announces Rs 2,534-cr IPO; price band set at Rs 558-586/sh",
-      "summary": "Bonfiglioli Transmissions Ltd has set the IPO price band between Rs 558 and Rs 586. The subscription window will open from October 15 to October 19, with anchor investors allowed to bid a day prior on October 14. This IPO is exclusively an offer for sale initiated by the promoter, Bonfiglioli SpA, and share listings are expected on both BSE and NSE by October 23.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-announces-rs-2534-cr-ipo-price-band-set-at-rs-558-586/sh/articleshow/134884813.cms",
-      "published": "Mon, 12 Oct 2026 11:57:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     },
     {
       "headline": "Indian Gas Exchange secures Sebi's nod to float IPO",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jio IPO may be valued at Rs 11 lakh crore: What it means for RIL, Bharti Airtel and telecom stocks",
+      "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO could become India’s biggest-ever share sale, valuing Mukesh Ambani’s digital business at up to Rs 11 lakh crore. With global and domestic investors showing interest, the listing will test Jio’s valuation against Bharti Airtel, potentially reshape telecom sector dynamics and offer investors a direct route to participate in Reliance’s digital growth story.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms",
+      "published": "Mon, 12 Oct 2026 12:44:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T17:00:40.518288+00:00",
+      "chain_fetched_at_utc": "2026-10-12T18:11:04.887113+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": 3330.199951171875,
-      "change_pct": 1.31,
-      "setup_quality_score": 49.47,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T17:00:40.877846+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "LT",
       "price": 3627.5,
       "change_pct": -2.05,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-12T17:00:41.269140+00:00",
+      "chain_fetched_at_utc": "2026-10-12T18:11:05.300302+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "BSE",
+      "price": 3330.199951171875,
+      "change_pct": 1.31,
+      "setup_quality_score": 47.97,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-12T18:11:05.779670+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
