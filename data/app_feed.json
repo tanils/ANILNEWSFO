@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-13T10:26:05.408475+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-13T12:06:36.254466+00:00",
   "news": [
     {
       "headline": "Global Market: BoE's Megan Greene says UK interest rates may not be restrictive enough",
@@ -74,6 +74,26 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: FM",
+      "summary": "Finance Minister Nirmala Sitharaman mentioned the Reserve Bank of India’s ongoing efforts to stabilize the rupee's value. She noted that the rupee has significantly depreciated due to global uncertainties, despite India's strong economic fundamentals. Sitharaman highlighted recent measures by the RBI that helped the rupee appreciate temporarily in value. She also acknowledged the healthy debate around tax rationalization in the securities market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-fm/articleshow/134915932.cms",
+      "published": "Tue, 13 Oct 2026 16:31:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee outpaces Asian peers on fresh FX curbs, RBI intervention",
+      "summary": "The Indian rupee has strengthened against the dollar, thanks to recent initiatives by the Reserve Bank of India designed to curb dollar demand and stabilize the foreign exchange market. Experts suggest that these regulatory changes may bolster the rupee's short-term resilience. Moreover, oil prices are trending downwards as new supplies from Russia potentially enter the market. Central bank actions have generally fostered support for the Indian currency.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms",
+      "published": "Tue, 13 Oct 2026 15:56:18 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: AI trade faces biggest test yet as chip stocks tumble across Asia",
       "summary": "Asian AI stocks tumbled as rising bond yields, higher financing costs, and concerns over excessive infrastructure spending weakened investor confidence. South Korea’s Kospi and Japan’s chipmakers suffered sharp losses, while AI-related funding faced tougher scrutiny. Investors increasingly demand sustainable revenues and profits, questioning whether massive AI investments will deliver expected returns.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?",
-      "summary": "ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms",
-      "published": "Tue, 13 Oct 2026 09:48:57 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Reliance Jio IPO: GMP already seeing 'Ambani premium' ahead of record issue launch",
-      "summary": "Reliance Jio Platforms is gearing up for a monumental IPO, sparking tremendous investor interest as grey market prices indicate a robust premium. Analysts suggest a potential 15-16% rise over the anticipated price range, with estimated proceeds around Rs 30,200 crore, marking this as India's largest public offering. Jio aims to redefine its image as a technology powerhouse, with further details on pricing and plans expected soon.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-jio-ipo-gmp-already-seeing-ambani-premium-ahead-of-record-issue-launch/articleshow/134907748.cms",
-      "published": "Tue, 13 Oct 2026 09:38:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T10:26:16.715670+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:06:49.186968+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T10:26:17.044808+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:06:49.650581+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T10:26:17.383013+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:06:50.160914+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
