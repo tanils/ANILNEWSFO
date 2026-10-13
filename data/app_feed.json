@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-13T12:56:28.368686+00:00",
+  "generated_at_utc": "2026-10-13T14:33:09.477893+00:00",
   "news": [
+    {
+      "headline": "India's benchmark bond breaks 4-day falling streak as value investors return",
+      "summary": "Indian government bonds have rebounded following a significant rise in yields, drawing investors back into the market. The benchmark bond yield has risen due to a central bank policy rate hike and liquidity measures. The rupee has appreciated against the dollar after the central bank implemented new measures to support the currency. Meanwhile, traders are anticipating US inflation data, which could influence Federal Reserve decisions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-benchmark-bond-breaks-4-day-falling-streak-as-value-investors-return/articleshow/134918791.cms",
+      "published": "Tue, 13 Oct 2026 18:30:18 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Global Market: BoE's Megan Greene says UK interest rates may not be restrictive enough",
       "summary": "Bank of England policymaker Megan Greene said the IMF’s upward revision to the UK’s economic growth forecast supports her view that monetary policy remains insufficiently restrictive. She warned that delaying interest rate hikes could prolong inflationary pressures, highlighting divisions among policymakers over balancing inflation control against economic growth and borrowing costs.",
@@ -44,26 +54,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Global Market: China's yuan holds near 3-year high despite strong dollar; PBOC fixing supports currency",
-      "summary": "China’s yuan remained near a three-year high against the dollar, supported by central bank guidance and strong foreign exchange settlement. However, elevated US Treasury yields and geopolitical tensions limited gains. The PBOC set its strongest midpoint since February 2023, while analysts expect modest appreciation amid trade surpluses and policy uncertainty.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-3-year-high-despite-strong-dollar-pboc-fixing-supports-currency/articleshow/134908460.cms",
-      "published": "Tue, 13 Oct 2026 10:21:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan bond yields diverge as investors weigh inflation, BOJ outlook",
-      "summary": "Japanese government bond yields moved in opposite directions on Tuesday, with shorter-term yields rising and longer-dated yields falling as investors assessed inflation pressures, wholesale price data and the Bank of Japan’s policy outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-diverge-as-investors-weigh-inflation-boj-outlook/articleshow/134908232.cms",
-      "published": "Tue, 13 Oct 2026 10:11:50 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "RBL Bank shares plunge 8% despite 170% jump in Q2 profit. Should you buy, sell or hold?",
       "summary": "RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net profit to Rs 481.7 crore. Strong net interest income growth and improved asset quality supported performance, while provisions rose. Nuvama raised its target price to Rs 500, citing the ENBD acquisition and FCNR deposit mobilisation, while Dolat Capital retained its Sell rating with a Rs 320 target.",
       "source": "Economic Times Stocks",
@@ -74,11 +64,41 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "US stocks opens lower after bank earnings; chips weigh",
+      "summary": "The S&amp;P 500 and the Nasdaq opened lower on Tuesday as chip stocks came under selling pressure again, while investors assessed a mixed set of quarterly results, including reports",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-opens-lower-after-bank-earnings-chips-weigh/articleshow/134919499.cms",
+      "published": "Tue, 13 Oct 2026 19:07:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anand Rathi Share and Stock Brokers Q2 results: Profit jumps 50% YoY to Rs 42 crore, revenue rises 20%",
+      "summary": "Anand Rathi Share and Stock Brokers reported a 50% year-on-year rise in consolidated net profit to Rs 41.93 crore in Q2FY27, while revenue from operations grew 20.25% to Rs 273.21 crore. Growth was supported by higher MTF interest income, distribution revenue and continued client acquisition amid market volatility.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms",
+      "published": "Tue, 13 Oct 2026 18:24:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US stocks: Goldman Sachs quarterly profit rises on equities strength",
       "summary": "Goldman Sachs reported a remarkable profit increase in the third quarter, largely thanks to fluctuating market dynamics. Equities revenue soared by 72%, amounting to $6.44 billion, even as fixed income revenue saw a minor dip. Investment banking fees grew by 21% due to a rise in underwriting activities, despite a general decline in M&amp;A transactions.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-quarterly-profit-rises-on-equities-strength/articleshow/134918322.cms",
       "published": "Tue, 13 Oct 2026 18:06:35 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks seesaw as chip stocks weigh; bank results shape sentiment",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-yield-ai-mircon-amd-nvidia-jpmorgan-wells-fargo-bank-chip-stock-price-news-earnings-season-10th-october-2026/liveblog/134918018.cms",
+      "published": "Tue, 13 Oct 2026 17:40:41 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Jio IPO may trigger Reliance’s next big re-rating. Why Religare sees 47% upside",
-      "summary": "Reliance Industries could see a valuation re-rating as Jio Platforms’ proposed Rs 30,000 crore IPO brings greater transparency to its digital business. Religare has a target price of Rs 1,696 on the stock, implying 46.7% upside from its current market price.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-may-trigger-reliances-next-big-re-rating-why-religare-sees-47-upside/articleshow/134910767.cms",
-      "published": "Tue, 13 Oct 2026 12:30:57 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?",
-      "summary": "ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms",
-      "published": "Tue, 13 Oct 2026 09:48:57 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:56:39.237147+00:00",
+      "chain_fetched_at_utc": "2026-10-13T14:33:22.455000+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:56:39.786687+00:00",
+      "chain_fetched_at_utc": "2026-10-13T14:33:22.938841+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:56:40.182587+00:00",
+      "chain_fetched_at_utc": "2026-10-13T14:33:23.346303+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
