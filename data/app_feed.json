@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-13T15:16:38.550226+00:00",
+  "generated_at_utc": "2026-10-13T16:23:34.950246+00:00",
   "news": [
     {
       "headline": "India's benchmark bond breaks 4-day falling streak as value investors return",
@@ -26,7 +26,7 @@
     {
       "headline": "Groww Q2 results preview: MOFSL sees 41% revenue growth; margins, derivatives business in focus",
       "summary": "Billionbrains Garage Ventures is poised to unveil its Q2FY27 results, projecting impressive revenue growth compared to the previous year. Analysts from Motilal Oswal Financial Services anticipate revenues reaching Rs 1,434 crore. Additionally, the forecast for EBITDA reflects a significant year-on-year uplift, highlighting robust profitability. Nonetheless, concerns arise from margin pressures and a decline in derivatives revenue sequentially, making it vital to observe financial performance across various business segments.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-preview-mofsl-sees-41-revenue-growth-margins-derivatives-business-in-focus/articleshow/134909021.cms",
       "published": "Tue, 13 Oct 2026 10:53:29 +0530",
       "freshness": "new",
@@ -84,8 +84,8 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks opens lower after bank earnings; chips weigh",
-      "summary": "The S&amp;P 500 and the Nasdaq opened lower on Tuesday as chip stocks came under selling pressure again, while investors assessed a mixed set of quarterly results, including reports",
+      "headline": "US stocks | US market edges lower amid chip weakness, mixed bank earnings",
+      "summary": "US stocks experienced a decline as chip stocks faced selling pressure and banks reported mixed earnings. The Dow Jones Industrial Average fell slightly, led by losses in healthcare and financial sectors. Notable stocks include Johnson &amp; Johnson, Wells Fargo, and JPMorgan Chase, which experienced significant movements. Bumble surged after announcing a takeover, while Domino's Pizza lowered its sales outlook.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-opens-lower-after-bank-earnings-chips-weigh/articleshow/134919499.cms",
       "published": "Tue, 13 Oct 2026 19:07:55 +0530",
@@ -109,16 +109,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-quarterly-profit-rises-on-equities-strength/articleshow/134918322.cms",
       "published": "Tue, 13 Oct 2026 18:06:35 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market seesaw as chip stocks weigh; bank results shape sentiment",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-yield-ai-mircon-amd-nvidia-jpmorgan-wells-fargo-bank-chip-stock-price-news-earnings-season-10th-october-2026/liveblog/134918018.cms",
-      "published": "Tue, 13 Oct 2026 17:40:41 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Triveni Power Transmission lists on BSE, NSE following demerger",
+      "summary": "Triveni Power Transmission Ltd (TPTL) listed 10.48 crore equity shares on BSE and NSE following its demerger from Triveni Engineering &amp; Industries. Shareholders received 1 TPTL share for every 3 shares held. The independent listing aims to enhance business focus on high-speed gearboxes and power transmission equipment.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/triveni-power-transmission-lists-on-bse-nse-following-demerger/articleshow/134911995.cms",
+      "published": "Tue, 13 Oct 2026 13:31:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T15:16:51.212464+00:00",
+      "chain_fetched_at_utc": "2026-10-13T16:23:44.437474+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T15:16:51.770444+00:00",
+      "chain_fetched_at_utc": "2026-10-13T16:23:44.949112+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T15:16:52.210006+00:00",
+      "chain_fetched_at_utc": "2026-10-13T16:23:45.374251+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
