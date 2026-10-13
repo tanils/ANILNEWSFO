@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-13T16:23:34.950246+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-13T17:06:47.116481+00:00",
   "news": [
     {
       "headline": "India's benchmark bond breaks 4-day falling streak as value investors return",
@@ -44,8 +44,8 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Sebi extends easier IPO rules till March 2027, bankers body says",
-      "summary": "The Securities and Exchange Board of India (SEBI) on Tuesday extended a temporary relaxation that allows companies planning to launch initial public offerings (IPOs) to revise the size of their fresh issues without filing fresh draft documents, providing greater flexibility to issuers navigating volatile market conditions.",
+      "headline": "Sebi extends IPO-size flexibility on the back of soaring primary market activity",
+      "summary": "Sebi has extended the IPO relaxation allowing companies to revise fresh issue sizes by up to 50% without filing a new draft red herring prospectus. The flexibility will apply to IPOs opening on or before March 2027, helping issuers and merchant bankers adjust fundraising plans amid changing market conditions and record activity.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-extends-easier-ipo-rules-till-march-2027-bankers-lobby-says/articleshow/134920286.cms",
       "published": "Tue, 13 Oct 2026 19:51:00 +0530",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T16:23:44.437474+00:00",
+      "chain_fetched_at_utc": "2026-10-13T17:06:58.183679+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T16:23:44.949112+00:00",
+      "chain_fetched_at_utc": "2026-10-13T17:06:58.465637+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T16:23:45.374251+00:00",
+      "chain_fetched_at_utc": "2026-10-13T17:06:58.803480+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
