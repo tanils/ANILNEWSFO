@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-13T12:06:36.254466+00:00",
+  "generated_at_utc": "2026-10-13T12:56:28.368686+00:00",
   "news": [
     {
       "headline": "Global Market: BoE's Megan Greene says UK interest rates may not be restrictive enough",
@@ -22,6 +22,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "US stocks: Citi profit jumps 40% with higher investment banking, services and wealth revenue",
+      "summary": "Citigroup has reported a remarkable 40% jump in its third-quarter profits year-over-year, despite some declines in other areas. Trading revenue took a hit, influenced by unstable market conditions, while investment banking saw a modest 9% year-on-year increase but fell substantially from the last quarter. Credit card profits faced declines due to heightened costs and loan loss provisions. Citi is wrapping up a multi-year restructuring as it aims for renewed growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-profit-jumps-40-with-higher-investment-banking-services-and-wealth-revenue/articleshow/134918104.cms",
+      "published": "Tue, 13 Oct 2026 17:58:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Bandhan Bank shares jump 7% as Abu Dhabi’s IHC explores stake in promoter Bandhan Financial Services",
@@ -56,7 +66,7 @@
     {
       "headline": "RBL Bank shares plunge 8% despite 170% jump in Q2 profit. Should you buy, sell or hold?",
       "summary": "RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net profit to Rs 481.7 crore. Strong net interest income growth and improved asset quality supported performance, while provisions rose. Nuvama raised its target price to Rs 500, citing the ENBD acquisition and FCNR deposit mobilisation, while Dolat Capital retained its Sell rating with a Rs 320 target.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-plunge-8-despite-170-jump-in-q2-profit-should-you-buy-sell-or-hold/articleshow/134907804.cms",
       "published": "Tue, 13 Oct 2026 09:45:15 +0530",
       "freshness": "new",
@@ -64,14 +74,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-13-oct-2026/liveblog/134906730.cms",
-      "published": "Tue, 13 Oct 2026 08:40:36 +0530",
+      "headline": "US stocks: Goldman Sachs quarterly profit rises on equities strength",
+      "summary": "Goldman Sachs reported a remarkable profit increase in the third quarter, largely thanks to fluctuating market dynamics. Equities revenue soared by 72%, amounting to $6.44 billion, even as fixed income revenue saw a minor dip. Investment banking fees grew by 21% due to a rise in underwriting activities, despite a general decline in M&amp;A transactions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-quarterly-profit-rises-on-equities-strength/articleshow/134918322.cms",
+      "published": "Tue, 13 Oct 2026 18:06:35 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: FM",
@@ -134,21 +144,11 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "New FX curbs sow confusion, bankers await clarity on dealing rupee derivatives",
-      "summary": "Bankers are interpreting the new foreign-exchange regulations in India broadly, especially regarding cash-margin requirements related to rupee forwards. This cautious approach has made them reluctant to quote dollar/rupee forwards, raising concerns about its impact on interbank transactions. Interestingly, a source mentioned these new requirements do not affect interbank activity. Meanwhile, the central bank has not responded to queries for clarification, highlighting continuing uncertainty in India's foreign-exchange landscape.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/new-fx-curbs-sow-confusion-bankers-await-clarity-on-dealing-rupee-derivatives/articleshow/134908150.cms",
-      "published": "Tue, 13 Oct 2026 10:05:35 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee jumps 82 paise to 94.96 against US dollar in early trade",
-      "summary": "In early trading, the rupee appreciated by 82 paise against the US dollar, hitting 94.96, thanks to strategic moves by the Reserve Bank of India aimed at curbing dollar demand. Key actions included establishing a dedicated dollar window for oil firms and raising costs for hedging. Meanwhile, Brent crude prices fell to USD 105.47 per barrel, and retail inflation in India surged to 5.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-82-paise-to-94-96-against-us-dollar-in-early-trade/articleshow/134908067.cms",
-      "published": "Tue, 13 Oct 2026 10:03:13 +0530",
+      "headline": "ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?",
+      "summary": "ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms",
+      "published": "Tue, 13 Oct 2026 09:48:57 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:06:49.186968+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:56:39.237147+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:06:49.650581+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:56:39.786687+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T12:06:50.160914+00:00",
+      "chain_fetched_at_utc": "2026-10-13T12:56:40.182587+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
