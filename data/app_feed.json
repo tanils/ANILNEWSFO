@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-13T17:06:47.116481+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-13T20:49:48.996689+00:00",
   "news": [
     {
       "headline": "India's benchmark bond breaks 4-day falling streak as value investors return",
@@ -84,6 +84,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "summary": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+      "published": "Wed, 14 Oct 2026 01:43:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "NY Fed President Williams sees no need for a rate hike in 2027",
+      "summary": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
+      "published": "Wed, 14 Oct 2026 00:28:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US stocks | US market edges lower amid chip weakness, mixed bank earnings",
       "summary": "US stocks experienced a decline as chip stocks faced selling pressure and banks reported mixed earnings. The Dow Jones Industrial Average fell slightly, led by losses in healthcare and financial sectors. Notable stocks include Johnson &amp; Johnson, Wells Fargo, and JPMorgan Chase, which experienced significant movements. Bumble surged after announcing a takeover, while Domino's Pizza lowered its sales outlook.",
       "source": "Economic Times Markets",
@@ -114,6 +134,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq ends lower as chip stocks extend losses after bank earnings",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-yield-ai-mircon-amd-nvidia-jpmorgan-wells-fargo-bank-chip-stock-price-news-earnings-season-10th-october-2026/liveblog/134918018.cms",
+      "published": "Tue, 13 Oct 2026 17:40:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: FM",
       "summary": "Finance Minister Nirmala Sitharaman mentioned the Reserve Bank of India’s ongoing efforts to stabilize the rupee's value. She noted that the rupee has significantly depreciated due to global uncertainties, despite India's strong economic fundamentals. Sitharaman highlighted recent measures by the RBI that helped the rupee appreciate temporarily in value. She also acknowledged the healthy debate around tax rationalization in the securities market.",
       "source": "Economic Times Markets",
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee outpaces Asian peers on fresh FX curbs, RBI intervention",
-      "summary": "The Indian rupee has strengthened against the dollar, thanks to recent initiatives by the Reserve Bank of India designed to curb dollar demand and stabilize the foreign exchange market. Experts suggest that these regulatory changes may bolster the rupee's short-term resilience. Moreover, oil prices are trending downwards as new supplies from Russia potentially enter the market. Central bank actions have generally fostered support for the Indian currency.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms",
-      "published": "Tue, 13 Oct 2026 15:56:18 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: AI trade faces biggest test yet as chip stocks tumble across Asia",
-      "summary": "Asian AI stocks tumbled as rising bond yields, higher financing costs, and concerns over excessive infrastructure spending weakened investor confidence. South Korea’s Kospi and Japan’s chipmakers suffered sharp losses, while AI-related funding faced tougher scrutiny. Investors increasingly demand sustainable revenues and profits, questioning whether massive AI investments will deliver expected returns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-trade-faces-biggest-test-yet-as-chip-stocks-tumble-across-asia/articleshow/134912693.cms",
-      "published": "Tue, 13 Oct 2026 14:12:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Triveni Power Transmission lists on BSE, NSE following demerger",
-      "summary": "Triveni Power Transmission Ltd (TPTL) listed 10.48 crore equity shares on BSE and NSE following its demerger from Triveni Engineering &amp; Industries. Shareholders received 1 TPTL share for every 3 shares held. The independent listing aims to enhance business focus on high-speed gearboxes and power transmission equipment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/triveni-power-transmission-lists-on-bse-nse-following-demerger/articleshow/134911995.cms",
-      "published": "Tue, 13 Oct 2026 13:31:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "PERSISTENT",
-      "price": 5988.0,
-      "change_pct": 3.78,
-      "setup_quality_score": 61.07,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T17:06:58.183679+00:00",
+      "chain_fetched_at_utc": "2026-10-13T20:50:01.641545+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HCLTECH",
-      "price": 1326.0,
-      "change_pct": 8.98,
-      "setup_quality_score": 61.0,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T17:06:58.465637+00:00",
+      "chain_fetched_at_utc": "2026-10-13T20:50:02.013232+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "TCS",
-      "price": 2269.300048828125,
-      "change_pct": 5.26,
-      "setup_quality_score": 51.89,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T17:06:58.803480+00:00",
+      "chain_fetched_at_utc": "2026-10-13T20:50:02.528241+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
