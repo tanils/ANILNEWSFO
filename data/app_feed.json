@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-13T14:33:09.477893+00:00",
+  "generated_at_utc": "2026-10-13T15:16:38.550226+00:00",
   "news": [
     {
       "headline": "India's benchmark bond breaks 4-day falling streak as value investors return",
@@ -34,6 +34,26 @@
       "symbols": "BSE"
     },
     {
+      "headline": "US banks post strong profits, but inflation and rate risks cloud outlook",
+      "summary": "Major US banks reported higher third-quarter profits, supported by resilient consumer spending, AI investment and stronger trading revenue. However, executives warned that persistent inflation, elevated interest rates and geopolitical risks could strain household finances and slow economic growth. JPMorgan Chase missed earnings estimates, while Goldman Sachs, Citigroup and Wells Fargo reported stronger results.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-banks-post-strong-profits-but-inflation-and-rate-risks-cloud-outlook/articleshow/134920643.cms",
+      "published": "Tue, 13 Oct 2026 20:15:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi extends easier IPO rules till March 2027, bankers body says",
+      "summary": "The Securities and Exchange Board of India (SEBI) on Tuesday extended a temporary relaxation that allows companies planning to launch initial public offerings (IPOs) to revise the size of their fresh issues without filing fresh draft documents, providing greater flexibility to issuers navigating volatile market conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-extends-easier-ipo-rules-till-march-2027-bankers-lobby-says/articleshow/134920286.cms",
+      "published": "Tue, 13 Oct 2026 19:51:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US stocks: Citi profit jumps 40% with higher investment banking, services and wealth revenue",
       "summary": "Citigroup has reported a remarkable 40% jump in its third-quarter profits year-over-year, despite some declines in other areas. Trading revenue took a hit, influenced by unstable market conditions, while investment banking saw a modest 9% year-on-year increase but fell substantially from the last quarter. Credit card profits faced declines due to heightened costs and loan loss provisions. Citi is wrapping up a multi-year restructuring as it aims for renewed growth.",
       "source": "Economic Times Markets",
@@ -46,7 +66,7 @@
     {
       "headline": "Bandhan Bank shares jump 7% as Abu Dhabi’s IHC explores stake in promoter Bandhan Financial Services",
       "summary": "Bandhan Bank shares jumped nearly 7% after reports that Abu Dhabi-based IHC was in early-stage discussions to acquire a promoter stake in Bandhan Financial Services, potentially giving existing investors an exit opportunity.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-jump-7-as-abu-dhabis-ihc-explores-stake-in-promoter-bandhan-financial-services/articleshow/134908601.cms",
       "published": "Tue, 13 Oct 2026 10:31:31 +0530",
       "freshness": "new",
@@ -94,7 +114,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks seesaw as chip stocks weigh; bank results shape sentiment",
+      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market seesaw as chip stocks weigh; bank results shape sentiment",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-yield-ai-mircon-amd-nvidia-jpmorgan-wells-fargo-bank-chip-stock-price-news-earnings-season-10th-october-2026/liveblog/134918018.cms",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Triveni Power Transmission lists on BSE, NSE following demerger",
-      "summary": "Triveni Power Transmission Ltd (TPTL) listed 10.48 crore equity shares on BSE and NSE following its demerger from Triveni Engineering &amp; Industries. Shareholders received 1 TPTL share for every 3 shares held. The independent listing aims to enhance business focus on high-speed gearboxes and power transmission equipment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/triveni-power-transmission-lists-on-bse-nse-following-demerger/articleshow/134911995.cms",
-      "published": "Tue, 13 Oct 2026 13:31:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Triveni Power Transmission lists on BSE, NSE following demerger from Triveni Engineering",
-      "summary": "Triveni Power Transmission Limited has listed on the BSE and NSE following its demerger from Triveni Engineering &amp; Industries. The independent entity aims to sharpen its business focus and expand across industrial, marine and defence applications.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/triveni-power-transmission-lists-on-bse-nse-following-demerger-from-triveni-engineering/articleshow/134911940.cms",
-      "published": "Tue, 13 Oct 2026 13:29:01 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T14:33:22.455000+00:00",
+      "chain_fetched_at_utc": "2026-10-13T15:16:51.212464+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T14:33:22.938841+00:00",
+      "chain_fetched_at_utc": "2026-10-13T15:16:51.770444+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-13T14:33:23.346303+00:00",
+      "chain_fetched_at_utc": "2026-10-13T15:16:52.210006+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
