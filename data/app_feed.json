@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-14T13:59:43.150111+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-14T14:38:49.570806+00:00",
   "news": [
     {
       "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
@@ -49,6 +49,16 @@
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-shares-in-focus-after-firm-acquires-90-stake-worth-809-million-in-tristar-holdings/articleshow/134931031.cms",
       "published": "Wed, 14 Oct 2026 08:50:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year",
+      "summary": "Bank of England Chief Economist Huw Pill has questioned market expectations for four quarter-point rate hikes over the next 12 months as policymakers assess the inflationary fallout of the Iran war. His comments highlight divisions within the Monetary Policy Committee over how to balance rising energy prices against risks to economic growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-huw-pill-wary-of-market-bets-on-four-rate-hikes-over-next-year/articleshow/134944944.cms",
+      "published": "Wed, 14 Oct 2026 19:50:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -124,6 +134,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Diwali offer for RIL shareholders! Reliance Jio sets aside Rs 2,500 crore shares in IPO reservation",
+      "summary": "Reliance Jio has reserved up to Rs 2,500 crore worth of shares for eligible Reliance Industries shareholders in its upcoming IPO. The quota offers RIL investors a direct route to apply for Jio Platforms shares. The IPO opens on October 21, with anchor investor bidding starting October 19.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms",
+      "published": "Wed, 14 Oct 2026 19:16:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
+    {
       "headline": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
       "summary": "Jio IPO: Reliance Jio has filed its red herring prospectus for an October 21-23 IPO, set to be India’s biggest public issue. The offering comprises 27 crore fresh shares, with reservations for Reliance Industries shareholders and employees. The company plans to use most of the proceeds to repay borrowings, while investors assess its valuation.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
-    },
-    {
-      "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
-      "summary": "HDB Financial Services Q2 Results: HDB Financial Services reported a 34% year-on-year rise in Q2FY27 net profit to Rs 780 crore, while revenue from operations grew 10% to Rs 5,005 crore. The company also declared an interim dividend of Rs 2 per share. Its shares fell over 4% ahead of the earnings announcement on Wednesday.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
-      "published": "Wed, 14 Oct 2026 16:24:16 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "TCS, HCL Tech, Infosys shares surge up to 11% in 2 days; Nifty IT soars 2,000 points. More steam left for rally?",
-      "summary": "Indian IT stocks rallied as concerns over AI-driven disruption eased, triggering an “anti-AI” trade. The Nifty IT index surged over 2,000 points in two sessions to cross 30,000, its first move above the mark in nearly a month. HCL Tech gained nearly 11% in two days following its Q2 results, while TCS and Infosys rose 6–10%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-hcl-tech-infosys-shares-surge-up-to-11-in-2-days-nifty-it-soars-2000-points-more-steam-left-for-rally/articleshow/134933219.cms",
-      "published": "Wed, 14 Oct 2026 11:03:29 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "INFY"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:59:53.201902+00:00",
+      "chain_fetched_at_utc": "2026-10-14T14:39:03.450506+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:59:53.637864+00:00",
+      "chain_fetched_at_utc": "2026-10-14T14:39:03.865422+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:59:54.144988+00:00",
+      "chain_fetched_at_utc": "2026-10-14T14:39:04.553226+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
