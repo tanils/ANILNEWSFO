@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-14T09:41:32.375602+00:00",
+  "generated_at_utc": "2026-10-14T10:35:25.912635+00:00",
   "news": [
     {
       "headline": "Exclusive | Countdown begins for the mother of all IPOs: Jio likely to file RHP today for record Rs 30,000 crore issue",
@@ -94,7 +94,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Latest Price Movement",
+      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Trading Price",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-14-oct-2026/liveblog/134930775.cms",
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HDFCBANK",
-      "price": 709.9000244140625,
-      "change_pct": -0.57,
-      "setup_quality_score": 54.86,
+      "symbol": "ICICIBANK",
+      "price": 1338.5999755859375,
+      "change_pct": -1.59,
+      "setup_quality_score": 56.38,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T09:41:40.701530+00:00",
+      "chain_fetched_at_utc": "2026-10-14T10:35:35.200374+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "SHRIRAMFIN",
-      "price": 947.5499877929688,
-      "change_pct": -4.09,
-      "setup_quality_score": 52.98,
+      "symbol": "HDFCBANK",
+      "price": 710.7000122070312,
+      "change_pct": -0.46,
+      "setup_quality_score": 54.69,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T09:41:41.025150+00:00",
+      "chain_fetched_at_utc": "2026-10-14T10:35:35.626410+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1268.4000244140625,
-      "change_pct": 0.0,
-      "setup_quality_score": 52.24,
+      "symbol": "SHRIRAMFIN",
+      "price": 950.0,
+      "change_pct": -3.85,
+      "setup_quality_score": 53.34,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T09:41:41.344498+00:00",
+      "chain_fetched_at_utc": "2026-10-14T10:35:36.005854+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
