@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-14T13:05:34.810162+00:00",
+  "generated_at_utc": "2026-10-14T13:59:43.150111+00:00",
   "news": [
     {
       "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
@@ -36,7 +36,7 @@
     {
       "headline": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",
       "summary": "This Saturday marks an important day as HDFC Bank, ICICI Bank, Axis Bank, and Yes Bank prepare to disclose their second-quarter earnings. Notably, HDFC Bank recently appointed a new CEO amidst lackluster previous earnings that failed to satisfy investors. Analysts highlight HDFC and ICICI's robust deposit growth and solid balance sheets as key focus areas.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/which-bank-stock-should-you-buy-ahead-of-q2-results-hdfc-bank-icici-bank-yes-bank-or-axis-bank/articleshow/134931929.cms",
       "published": "Wed, 14 Oct 2026 09:51:44 +0530",
       "freshness": "new",
@@ -49,6 +49,16 @@
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-shares-in-focus-after-firm-acquires-90-stake-worth-809-million-in-tristar-holdings/articleshow/134931031.cms",
       "published": "Wed, 14 Oct 2026 08:50:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US stocks: US market opens lower after hot CPI data fuels rate-hike bets",
+      "summary": "Wall Street's major indices took a hit as an inflation report outpaced forecasts, sparking heightened speculation about rate increases. Investors are closely reviewing earnings from key banks, highlighting concerns over escalating inflation. The notable market fluctuations suggest a likelihood of rising interest rates as the economy continues to be assessed.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets/articleshow/134944281.cms",
+      "published": "Wed, 14 Oct 2026 19:16:03 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -114,6 +124,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
+      "summary": "Jio IPO: Reliance Jio has filed its red herring prospectus for an October 21-23 IPO, set to be India’s biggest public issue. The offering comprises 27 crore fresh shares, with reservations for Reliance Industries shareholders and employees. The company plans to use most of the proceeds to repay borrowings, while investors assess its valuation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-files-rhp-announces-ipo-dates-for-record-issue/articleshow/134943768.cms",
+      "published": "Wed, 14 Oct 2026 18:50:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
+    {
       "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
       "summary": "HDB Financial Services Q2 Results: HDB Financial Services reported a 34% year-on-year rise in Q2FY27 net profit to Rs 780 crore, while revenue from operations grew 10% to Rs 5,005 crore. The company also declared an interim dividend of Rs 2 per share. Its shares fell over 4% ahead of the earnings announcement on Wednesday.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "INFY"
-    },
-    {
-      "headline": "PL Capital picks 8 largecap stocks with upside potential of up to 41%. See full list",
-      "summary": "Despite a cautious stance on the market outlook, PL Capital has pinpointed 8 largecap stocks poised for significant growth, with potential increases ranging from 13.4% to 41.3%. Among these, Bharat Electronics and GE Vernova T&amp;D India stand out for their promising target prices surpassing current valuations. Revenue forecasts for these firms indicate an optimistic performance trajectory for the years ahead, suggesting a valuable opportunity for discerning investors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pl-capital-picks-8-largecap-stocks-with-upside-potential-of-up-to-41-see-full-list/slideshow/134932882.cms",
-      "published": "Wed, 14 Oct 2026 10:36:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "A Jigsaw Puzzle: Why Reliance Jio's IPO buzz isn’t saving RIL stock from a painful year?",
-      "summary": "Reliance Industries is gearing up for the highly anticipated Jio Platforms IPO, which is expected to generate significant capital. Despite this, recent declines in RIL shares reveal a cautious mood among investors about potential future gains. Analysts note that although the IPO could establish Jio's market valuation, immediate advantages for RIL shareholders remain unclear, given concerns about refining margins, capital needs, and core business performance affecting sentiment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-jigsaw-puzzle-why-reliance-jios-ipo-buzz-isnt-saving-ril-stock-from-a-painful-year/articleshow/134932672.cms",
-      "published": "Wed, 14 Oct 2026 10:33:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:05:44.698518+00:00",
+      "chain_fetched_at_utc": "2026-10-14T13:59:53.201902+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:05:45.142755+00:00",
+      "chain_fetched_at_utc": "2026-10-14T13:59:53.637864+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T13:05:45.531105+00:00",
+      "chain_fetched_at_utc": "2026-10-14T13:59:54.144988+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
