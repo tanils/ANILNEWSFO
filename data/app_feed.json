@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-14T14:38:49.570806+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-14T19:42:37.973094+00:00",
   "news": [
     {
       "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
@@ -9,26 +9,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
       "published": "Wed, 14 Oct 2026 17:41:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Exclusive | Countdown begins for the mother of all IPOs: Jio likely to file RHP today for record Rs 30,000 crore issue",
-      "summary": "Jio Platforms is set to file its RHP for a potential Rs 30,000-crore IPO, which could become India’s largest-ever share sale. The Reliance Industries subsidiary is expected to open the issue for subscription from October 21 to 23. The IPO may value Jio at up to Rs 10.3 lakh crore, with a likely price band of Rs 1,065–1,119 per share. Existing investors are not expected to sell their stakes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-countdown-begins-for-the-mother-of-all-ipos-jio-likely-to-file-rhp-today-for-record-rs-30000-crore-issue/articleshow/134932999.cms",
-      "published": "Wed, 14 Oct 2026 10:54:15 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Indian bonds slip on higher oil, hawkish RBI governor comments",
-      "summary": "Indian government bonds faced a downturn, attributed to soaring oil prices and statements from the Reserve Bank of India. The yield on the benchmark 6.94% 2036 bond rose following the central bank's recent rate hike. Geopolitical tensions involving Yemen and Saudi Arabia also pushed oil prices higher. With consumer inflation expected to exceed the central bank's upper tolerance limit in October, traders are keenly awaiting U.S.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-higher-oil-hawkish-rbi-governor-comments/articleshow/134933863.cms",
-      "published": "Wed, 14 Oct 2026 11:31:23 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -54,6 +34,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Jio IPO: 5 strengths that put the Reliance-backed digital giant in spotlight",
+      "summary": "Reliance Jio Platforms has highlighted five key strengths in its RHP ahead of its Rs 30,213 crore IPO, including strong revenue growth, profitability, a vast customer base, extensive network infrastructure and proprietary technology. The company also sees growth opportunities in fixed broadband, AI-led services, digital subscriptions and overseas technology monetisation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-5-strengths-that-put-the-reliance-backed-digital-giant-in-spotlight/articleshow/134946580.cms",
+      "published": "Wed, 14 Oct 2026 21:50:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year",
       "summary": "Bank of England Chief Economist Huw Pill has questioned market expectations for four quarter-point rate hikes over the next 12 months as policymakers assess the inflationary fallout of the Iran war. His comments highlight divisions within the Monetary Policy Committee over how to balance rising energy prices against risks to economic growth.",
       "source": "Economic Times Markets",
@@ -64,7 +54,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks: US market opens lower after hot CPI data fuels rate-hike bets",
+      "headline": "US stocks: US market slides as hot CPI data fuels rate-hike bets; chips, banks weigh",
       "summary": "Wall Street's major indices took a hit as an inflation report outpaced forecasts, sparking heightened speculation about rate increases. Investors are closely reviewing earnings from key banks, highlighting concerns over escalating inflation. The notable market fluctuations suggest a likelihood of rising interest rates as the economy continues to be assessed.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets/articleshow/134944281.cms",
@@ -106,7 +96,7 @@
     {
       "headline": "Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification",
       "summary": "Bank of Baroda shares fell over 3% to Rs 230.40 on Wednesday following reports that NMC Healthcare founder BR Shetty filed a $15 billion lawsuit against the lender in the Bombay High Court alleging fraud. Bank of Baroda clarified to exchanges that it has not yet been served.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-drop-3-after-nmc-healthcare-founder-br-shetty-files-15-bn-lawsuit-lender-issues-clarification/articleshow/134933740.cms",
       "published": "Wed, 14 Oct 2026 11:26:53 +0530",
       "freshness": "new",
@@ -116,7 +106,7 @@
     {
       "headline": "Barclays plans India equity advisory return after a decade",
       "summary": "Barclays plans to restart its equity capital markets business in India after nearly a decade, targeting the country’s booming IPO market. Strong fundraising demand, robust retail investment flows and startup growth offer opportunities. With hundreds of companies awaiting IPO approvals, the bank aims to expand its equity advisory and underwriting services.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/barclays-plans-india-equity-advisory-return-after-a-decade/articleshow/134933265.cms",
       "published": "Wed, 14 Oct 2026 11:00:59 +0530",
       "freshness": "new",
@@ -126,7 +116,7 @@
     {
       "headline": "Wipro Q2 Results Preview: After TCS &amp; HCL Tech, will this IT major exceed expectations?",
       "summary": "Wipro is anticipated to report limited earnings growth for the September quarter due to various pressures. The focus will likely shift to guidance for the future quarter and profit margins. Analysts expect IT revenue to decline slightly despite inorganic contributions from recent acquisitions. The upcoming Q3 guidance is expected to reflect seasonality and economic conditions affecting discretionary spending. Management's commentary on deal activity will be crucial for understanding future performance.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q2-results-preview-after-tcs-hcl-tech-will-this-it-major-exceed-expectations/articleshow/134933154.cms",
       "published": "Wed, 14 Oct 2026 10:55:45 +0530",
       "freshness": "new",
@@ -134,72 +124,82 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Diwali offer for RIL shareholders! Reliance Jio sets aside Rs 2,500 crore shares in IPO reservation",
-      "summary": "Reliance Jio has reserved up to Rs 2,500 crore worth of shares for eligible Reliance Industries shareholders in its upcoming IPO. The quota offers RIL investors a direct route to apply for Jio Platforms shares. The IPO opens on October 21, with anchor investor bidding starting October 19.",
+      "headline": "US Fed’s Bowman sees no urgency for another rate hike",
+      "summary": "Michelle Bowman, the Vice Chair for Supervision of the US Federal Reserve, spoke during the IMF-World Bank meetings in Bangkok. She stated that the central bank does not feel urgency for further rate hikes at this time. Bowman's comments came after a recent rate increase that set the target range to 3.75%-4.00%. Additionally, she addressed the need for stronger oversight in light of recent bank failures.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms",
-      "published": "Wed, 14 Oct 2026 19:16:59 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-bowman-sees-no-urgency-for-another-rate-hike/articleshow/134947666.cms",
+      "published": "Wed, 14 Oct 2026 22:48:12 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "RELIANCE"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
-      "summary": "Jio IPO: Reliance Jio has filed its red herring prospectus for an October 21-23 IPO, set to be India’s biggest public issue. The offering comprises 27 crore fresh shares, with reservations for Reliance Industries shareholders and employees. The company plans to use most of the proceeds to repay borrowings, while investors assess its valuation.",
+      "headline": "Jio IPO sparks investor buzz: GMP rises to 20% as Reliance’s telecom arm announces price band, dates",
+      "summary": "Jio Platforms’ IPO grey market premium climbed to Rs 220 after the company filed its red herring prospectus (RHP) on Wednesday. The GMP implies a nearly 20% premium over the upper price band of Rs 1,119. The Rs 30,213 crore IPO, opening on October 21 and closing on October 23, is set to surpass Hyundai Motor India’s 2024 offering to become India’s largest-ever public issue.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-files-rhp-announces-ipo-dates-for-record-issue/articleshow/134943768.cms",
-      "published": "Wed, 14 Oct 2026 18:50:41 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-sparks-investor-buzz-gmp-hits-20-as-reliances-telecom-arm-announces-price-band-dates/articleshow/134946913.cms",
+      "published": "Wed, 14 Oct 2026 22:18:51 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "RELIANCE"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "IPO ahead! Paramotor Digital Technology files updated draft papers with Sebi for Rs 1,000 crore issue",
+      "summary": "Paramotor Digital Technology has filed updated draft IPO papers with Sebi for a Rs 1,000 crore issue, comprising a fresh issue of Rs 698 crore and an offer for sale of Rs 302 crore. The fintech company plans to use the proceeds primarily for customer acquisition, technology development and business expansion.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-paramotor-digital-technology-files-updated-draft-papers-with-sebi-for-rs-1000-crore-issue/articleshow/134946466.cms",
+      "published": "Wed, 14 Oct 2026 21:34:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ICICIBANK",
-      "price": 1338.5999755859375,
-      "change_pct": -1.59,
-      "setup_quality_score": 56.38,
+      "symbol": "AXISBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T14:39:03.450506+00:00",
+      "chain_fetched_at_utc": "2026-10-14T19:42:46.321471+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "HDFCBANK",
-      "price": 710.7000122070312,
-      "change_pct": -0.46,
-      "setup_quality_score": 54.69,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T14:39:03.865422+00:00",
+      "chain_fetched_at_utc": "2026-10-14T19:42:46.624327+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "SHRIRAMFIN",
-      "price": 950.0,
-      "change_pct": -3.85,
-      "setup_quality_score": 53.34,
+      "symbol": "ICICIBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T14:39:04.553226+00:00",
+      "chain_fetched_at_utc": "2026-10-14T19:42:46.914670+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
