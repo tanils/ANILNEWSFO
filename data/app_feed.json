@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-14T10:35:25.912635+00:00",
+  "generated_at_utc": "2026-10-14T12:19:59.937903+00:00",
   "news": [
+    {
+      "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
+      "summary": "Indian government bonds are currently facing notable losses, pushing the 10-year yield to its highest since March 2023. This downturn comes in the wake of hawkish remarks from Reserve Bank of India Governor Sanjay Malhotra about financial stability. Additionally, India's wholesale inflation saw an unexpected rise in September, leading to growing concerns over potential future monetary policy shifts.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
+      "published": "Wed, 14 Oct 2026 17:41:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Exclusive | Countdown begins for the mother of all IPOs: Jio likely to file RHP today for record Rs 30,000 crore issue",
       "summary": "Jio Platforms is set to file its RHP for a potential Rs 30,000-crore IPO, which could become India’s largest-ever share sale. The Reliance Industries subsidiary is expected to open the issue for subscription from October 21 to 23. The IPO may value Jio at up to Rs 10.3 lakh crore, with a likely price band of Rs 1,065–1,119 per share. Existing investors are not expected to sell their stakes.",
@@ -39,6 +49,16 @@
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-shares-in-focus-after-firm-acquires-90-stake-worth-809-million-in-tristar-holdings/articleshow/134931031.cms",
       "published": "Wed, 14 Oct 2026 08:50:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi proposes market cap-based SME IPO norms, seeks public comments on regulatory overhaul",
+      "summary": "Sebi has proposed a sweeping overhaul of SME IPO regulations, including market capitalisation-based eligibility thresholds, higher profitability requirements, lower minimum application values and changes to allotment norms. The proposals also cover underwriting, market making, lock-in periods and migration to the main board. Public comments are invited until November 4, 2026.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-market-cap-based-sme-ipo-norms-seeks-public-comments-on-regulatory-overhaul/articleshow/134942348.cms",
+      "published": "Wed, 14 Oct 2026 17:34:28 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -104,6 +124,16 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
+      "summary": "HDB Financial Services Q2 Results: HDB Financial Services reported a 34% year-on-year rise in Q2FY27 net profit to Rs 780 crore, while revenue from operations grew 10% to Rs 5,005 crore. The company also declared an interim dividend of Rs 2 per share. Its shares fell over 4% ahead of the earnings announcement on Wednesday.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
+      "published": "Wed, 14 Oct 2026 16:24:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "TCS, HCL Tech, Infosys shares surge up to 11% in 2 days; Nifty IT soars 2,000 points. More steam left for rally?",
       "summary": "Indian IT stocks rallied as concerns over AI-driven disruption eased, triggering an “anti-AI” trade. The Nifty IT index surged over 2,000 points in two sessions to cross 30,000, its first move above the mark in nearly a month. HCL Tech gained nearly 11% in two days following its Q2 results, while TCS and Infosys rose 6–10%.",
       "source": "Economic Times Markets",
@@ -122,36 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "A Jigsaw Puzzle: Why Reliance Jio's IPO buzz isn’t saving RIL stock from a painful year?",
-      "summary": "Reliance Industries is gearing up for the highly anticipated Jio Platforms IPO, which is expected to generate significant capital. Despite this, recent declines in RIL shares reveal a cautious mood among investors about potential future gains. Analysts note that although the IPO could establish Jio's market valuation, immediate advantages for RIL shareholders remain unclear, given concerns about refining margins, capital needs, and core business performance affecting sentiment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-jigsaw-puzzle-why-reliance-jios-ipo-buzz-isnt-saving-ril-stock-from-a-painful-year/articleshow/134932672.cms",
-      "published": "Wed, 14 Oct 2026 10:33:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Global Market: Japan's Nikkei rebounds as chip stocks rise, Topix slips on bank losses",
-      "summary": "Japan’s Nikkei rebounded 0.61% on Wednesday as chip-related stocks advanced, recovering from the previous session’s decline. Advantest, Tokyo Electron and SoftBank gained, while Taiyo Yuden surged. However, banking stocks weakened the broader Topix index, with Mitsubishi UFJ, Mizuho and Sumitomo Mitsui Financial Group posting losses amid broader financial-sector pressure.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rebounds-as-chip-stocks-rise-topix-slips-on-bank-losses/articleshow/134931841.cms",
-      "published": "Wed, 14 Oct 2026 09:42:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "5 years, no returns: Are these 9 Nifty bluechip stocks finally ready for a turnaround?",
-      "summary": "Investors are witnessing notable losses in well-known blue-chip stocks such as TCS, Infosys, and Hindustan Unilever. These major players are encountering significant hurdles affecting their market position. Analysts believe that lowered expectations may allow for potential recovery if economic conditions improve. Currently, various sectors, especially IT and consumer goods, face cyclical and structural challenges, suggesting that large-cap stocks are becoming increasingly appealing as earnings growth rates stabilize.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/5-years-no-returns-are-these-9-nifty-bluechip-stocks-finally-ready-for-a-turnaround/articleshow/134931808.cms",
-      "published": "Wed, 14 Oct 2026 09:40:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "INFY, BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T10:35:35.200374+00:00",
+      "chain_fetched_at_utc": "2026-10-14T12:20:09.205057+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T10:35:35.626410+00:00",
+      "chain_fetched_at_utc": "2026-10-14T12:20:09.686798+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-14T10:35:36.005854+00:00",
+      "chain_fetched_at_utc": "2026-10-14T12:20:09.993086+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
