@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-15T10:17:21.355566+00:00",
+  "generated_at_utc": "2026-10-15T12:04:08.268710+00:00",
   "news": [
     {
       "headline": "Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer",
@@ -22,6 +22,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Marine Drive was lit up for Reliance IPO: Uday Kotak recalls Dhirubhai Ambani’s market legacy amid Jio IPO",
+      "summary": "Jio's upcoming IPO will surpass previous records, signaling a remarkable development in Reliance Industries' history. Uday Kotak reflects on the past influence of Dhirubhai Ambani's public offerings from decades ago. The offering will represent a crucial advancement in India's digital transformation and consumer access to data. Reliance's focus is shifting towards digital services and new-age business models as it continues to dominate the market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/marine-drive-was-lit-up-for-reliance-ipo-uday-kotak-recalls-dhirubhai-ambanis-market-legacy-amid-jio-ipo/articleshow/134963814.cms",
+      "published": "Thu, 15 Oct 2026 16:25:30 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Reliance Jio IPO at Rs 10 lakh crore valuation: What analysts see in the price band",
@@ -74,7 +84,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Surpasses Key Resistance Level",
+      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-15-oct-2026/liveblog/134956082.cms",
@@ -82,6 +92,36 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Tech Mahindra Q2 Results: Net profit jumps 33% YoY to Rs 1,586 crore; co declares Rs 15/share dividend, 1:1 bonus issue",
+      "summary": "Tech Mahindra Q2 Results: Along with the earnings, Tech Mahindra's board declared an interim dividend of Rs 15 per equity share of face value Rs 5 each, equivalent to 300%, for the financial year 2026-27. It also approved a 1:1 bonus issue, under which shareholders will receive one bonus equity share for every existing equity share held, subject to the applicable terms and conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q2-results-net-profit-jumps-33-yoy-to-rs-1586-crore-co-declares-rs-15/share-dividend-11-bonus-issue/articleshow/134966850.cms",
+      "published": "Thu, 15 Oct 2026 17:14:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Reliance Jio IPO: With tech muscle, Akash Ambani makes $1.4 trillion digital economy pitch to investors",
+      "summary": "Akash Ambani is positioning Jio Platforms to capture a significant share of India’s projected $1.4 trillion digital economy by FY31. Ahead of its Rs 30,213 crore IPO, he highlighted 7,200 patents, 5G leadership and technology partnerships.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-with-tech-muscle-akash-ambani-makes-1-4-trillion-digital-economy-pitch-to-investors/articleshow/134966429.cms",
+      "published": "Thu, 15 Oct 2026 16:59:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "October 13 or 14? What was the deadline to buy RIL shares for Jio IPO reservation?",
+      "summary": "Reliance Industries shareholders had to buy shares by October 13 to qualify for Jio Platforms’ Rs 2,500 crore shareholder quota. The IPO opens October 21, with shares priced at Rs 1,065-1,119 and listing expected October 28.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/october-13-or-14-what-was-the-deadline-to-buy-ril-shares-for-jio-ipo-reservation/articleshow/134964490.cms",
+      "published": "Thu, 15 Oct 2026 15:49:37 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Yes Bank shares nosedive 20% after SC declares Rs 8,415 crore AT-1 bond write-off illegal",
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "POLICYBZR"
-    },
-    {
-      "headline": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
-      "summary": "Canara Bank shares fell sharply on Thursday despite reporting an 8% year-on-year rise in Q2 FY27 standalone net profit to Rs 5,175 crore. Brokerages remain divided, with Morgan Stanley retaining an Underweight rating, while Motilal Oswal and JM Financial recommend buying the stock.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
-      "published": "Thu, 15 Oct 2026 11:20:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
-      "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, while investors await updated guidance amid interest-rate concerns and expanding global manufacturing plans, including major US investments to strengthen semiconductor production capacity.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
-      "published": "Thu, 15 Oct 2026 10:42:43 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "BHEL shares fall 4% despite Q2 profit jumping 119% YoY. Should you buy, sell or hold?",
-      "summary": "BHEL shares fell 4.3% after rallying on strong Q2FY27 results, even as Nuvama and JM Financial retained their Buy ratings and raised target prices. Brokerages cited margin expansion, improved execution, a healthy order book and favourable thermal power prospects.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-fall-4-despite-q2-profit-jumping-119-yoy-should-you-buy-sell-or-hold/articleshow/134957918.cms",
-      "published": "Thu, 15 Oct 2026 10:37:49 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook",
-      "summary": "The IMF warned that Asia’s economic growth may slow to 4.4% in 2027 amid energy price shocks, Middle East conflict, AI market correction risks and rising bond yields. It urged central banks to prioritise price stability and governments to provide targeted fiscal support while managing inflation and debt pressures.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-imf-warns-of-energy-shock-ai-correction-risks-to-asias-growth-outlook/articleshow/134957808.cms",
-      "published": "Thu, 15 Oct 2026 10:32:53 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T10:17:30.109500+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:04:17.716510+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T10:17:30.425495+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:04:18.250030+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T10:17:30.745049+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:04:18.639396+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
