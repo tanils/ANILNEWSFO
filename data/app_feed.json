@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-15T12:04:08.268710+00:00",
+  "generated_at_utc": "2026-10-15T12:51:52.794684+00:00",
   "news": [
     {
       "headline": "Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer",
@@ -54,6 +54,16 @@
       "symbols": "RELIANCE"
     },
     {
+      "headline": "Torrent Power plans around $500 million bond sale, bankers say",
+      "summary": "Torrent Power is set to launch a substantial bond sale of rupee-denominated bonds, aiming to raise around $500 million. This comes after their earlier issuance of 38 billion rupees. The company's initiative to diversify funding sources includes discussions with potential investors. The funds will be directed towards the acquisition of Nabha Power for approximately 69 billion rupees, reflecting a growing trend of companies exploring funding avenues beyond traditional banks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/torrent-power-plans-around-500-million-bond-sale-bankers-say/articleshow/134967431.cms",
+      "published": "Thu, 15 Oct 2026 17:32:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Indian bonds breathe easy as Treasury yields decline",
       "summary": "Early Thursday, bonds issued by the Indian government saw slight upswings, influenced by a rally in US Treasuries. Despite this, concerns over liquidity, climbing interest rates, and mounting supply challenges have capped these hikes. Traders are curbing risk levels prior to a major debt auction, while rising domestic inflation fuels anticipations of a tougher monetary approach from the Reserve Bank of India, as evidenced by the expanding India-U.S. yield spread.",
       "source": "Economic Times Markets",
@@ -82,16 +92,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Market Position",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-15-oct-2026/liveblog/134956082.cms",
-      "published": "Thu, 15 Oct 2026 08:39:33 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
     },
     {
       "headline": "Tech Mahindra Q2 Results: Net profit jumps 33% YoY to Rs 1,586 crore; co declares Rs 15/share dividend, 1:1 bonus issue",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T12:04:17.716510+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:52:02.180698+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T12:04:18.250030+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:52:02.579961+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T12:04:18.639396+00:00",
+      "chain_fetched_at_utc": "2026-10-15T12:52:02.907668+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
