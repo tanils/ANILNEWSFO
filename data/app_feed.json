@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-15T14:22:54.835272+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-15T19:24:02.950910+00:00",
   "news": [
+    {
+      "headline": "Sebi writes to IRDAI to include investors' insurance policy details in consolidated account statement",
+      "summary": "Sebi Chairman Tuhin Kanta Pandey announced efforts to include insurance information in the Consolidated Account Statement. The initiative aims to provide investors with a comprehensive financial overview of their investments. Additionally, RBI's support for integrating bank deposits into the framework is also underway. A comprehensive review of existing regulations is being conducted to improve transparency and ease compliance for businesses.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-writes-to-irdai-to-include-investors-insurance-policy-details-in-consolidated-account-statement/articleshow/134972194.cms",
+      "published": "Thu, 15 Oct 2026 22:21:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer",
       "summary": "Jio Platforms’ Rs 30,213 crore IPO will dilute the percentage stakes of existing investors, including Reliance Industries, Meta and Google, while leaving their share counts unchanged. At the upper end of the price band, Jio is expected to be valued at Rs 10.3 lakh crore, more than double the valuation at which most investors entered in 2020.",
@@ -16,7 +26,7 @@
     {
       "headline": "IDBI Bank shares fall 7% as investors book profit after Fairfax deal gets cabinet nod",
       "summary": "IDBI Bank shares plunged as investors booked profits after a nearly 13% rally in the previous session following the Cabinet’s approval of Fairfax’s acquisition of a 60.72% stake in the lender. The stock had hit Rs 93.60 on Wednesday, lifting its market capitalisation above Rs 1 lakh crore. The Rs 52,878 crore deal marks a major step in IDBI Bank’s long-awaited privatisation, with Fairfax’s bid of Rs 81 per share exceeding the independent valuers’ average fair value of Rs 75.99.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-fall-7-as-investors-book-profit-after-fairfax-deal-gets-cabinet-nod/articleshow/134959588.cms",
       "published": "Thu, 15 Oct 2026 12:07:39 +0530",
       "freshness": "new",
@@ -44,6 +54,16 @@
       "symbols": "RELIANCE"
     },
     {
+      "headline": "What Akash Ambani said on Jio tariff hikes ahead of record IPO launch",
+      "summary": "Akash Ambani said Jio can raise mobile tariffs but prefers growing revenue through digital services, broadband and enterprise solutions. Ahead of its Rs 30,213 crore IPO, Jio aims to expand margins and connect 100 million homes.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/what-akash-ambani-said-jio-tariff-hikes-ahead-of-record-ipo-launch/articleshow/134970180.cms",
+      "published": "Thu, 15 Oct 2026 19:48:30 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Nilesh Shah on PSU privatisation: How Hindustan Zinc offers a lesson for IDBI Bank",
       "summary": "Kotak AMC’s Nilesh Shah cited Hindustan Zinc as an example of how strategic divestment combined with a retained minority stake can create long-term national wealth. He said the government’s remaining stake is now worth over Rs 62,000 crore and expressed hope that IDBI Bank’s divestment would deliver similar value.",
       "source": "Economic Times Markets",
@@ -64,19 +84,9 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Indian bonds breathe easy as Treasury yields decline",
-      "summary": "Early Thursday, bonds issued by the Indian government saw slight upswings, influenced by a rally in US Treasuries. Despite this, concerns over liquidity, climbing interest rates, and mounting supply challenges have capped these hikes. Traders are curbing risk levels prior to a major debt auction, while rising domestic inflation fuels anticipations of a tougher monetary approach from the Reserve Bank of India, as evidenced by the expanding India-U.S. yield spread.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-breathe-easy-as-treasury-yields-decline/articleshow/134960547.cms",
-      "published": "Thu, 15 Oct 2026 12:39:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "From Rs 1,000 in 1977 to Rs 52 lakh today: The Reliance wealth story behind Jio’s Rs 10.3 lakh crore valuation in mega IPO",
       "summary": "A Rs 1,000 investment in Reliance Industries’ 1977 IPO could be worth nearly Rs 52 lakh today, including shares received through the Jio Financial Services demerger. As Jio Platforms prepares for its Rs 30,200 crore IPO at a Rs 10.3 lakh crore valuation, investors will assess its growth prospects and pricing.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-rs-1000-in-1977-to-rs-52-lakh-today-the-reliance-wealth-story-behind-jios-rs-10-3-lakh-crore-mega-ipo/articleshow/134959204.cms",
       "published": "Thu, 15 Oct 2026 11:50:30 +0530",
       "freshness": "new",
@@ -84,11 +94,31 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Global Market: Bank of China (Hong Kong) plans $3.3 billion onshore yuan debt issuance",
-      "summary": "Bank of China (Hong Kong) plans to issue up to 22.2 billion yuan in onshore negotiable certificates of deposit in 2026, strengthening funding access and financial integration. The move supports Hong Kong’s ambition to become a leading offshore yuan hub, promoting cross-border investment and expanding the Chinese currency’s international role.",
+      "headline": "Sebi revises CAS rules, changes derivatives expiry settlement methodology",
+      "summary": "Sebi has announced changes to the closing auction session for the equity cash market, which will begin in December 2026. The revised session will run from 3.30 pm to 3.40 pm, with specific phases for order entry. Moreover, the methodology for calculating settlement prices for derivatives contracts has been updated. Unexecuted orders will transition under new rules while maintaining time priority differences.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-china-hong-kong-plans-3-3-billion-onshore-yuan-debt-issuance/articleshow/134958921.cms",
-      "published": "Thu, 15 Oct 2026 11:34:08 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-cas-rules-changes-derivatives-expiry-settlement-methodology/articleshow/134971643.cms",
+      "published": "Thu, 15 Oct 2026 21:45:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Pernod Ricard India sales grow 19% in Sept qtr; IPO plan awaits board approval",
+      "summary": "Pernod Ricard has demonstrated remarkable sales growth of 19 percent in India for the September quarter, driven by strong market demand and ongoing premiumisation trends. The company's preparatory measures for a potential IPO have positively influenced sales. Despite declines in the US and China, India remains a focal market. The final decision on the IPO awaits board approval.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernod-ricard-india-sales-grow-19-in-sept-qtr-ipo-plan-awaits-board-approval/articleshow/134971473.cms",
+      "published": "Thu, 15 Oct 2026 21:27:35 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jio IPO: Valuation, GMP &amp; Key Numbers of Ambani’s Telecom Giant Decoded",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-valuation-gmp-key-numbers-of-ambanis-telecom-giant-decoded/videoshow/134970140.cms",
+      "published": "Thu, 15 Oct 2026 19:44:51 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio Platforms IPO | Akash and Isha Ambani speak at Jio Press Conference",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-akash-and-isha-ambani-speak-at-jio-press-conference/videoshow/134968659.cms",
-      "published": "Thu, 15 Oct 2026 18:24:05 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio IPO: Akash Ambani says Rs 30,213 crore issue will push company towards net debt-free status",
-      "summary": "Jio Platforms plans to use IPO proceeds of up to Rs 27,500 crore to repay borrowings and move towards net debt-free status. Akash Ambani also highlighted opportunities in India's projected $1.4 trillion digital economy by FY31.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-akash-ambani-says-rs-30213-crore-issue-will-push-company-towards-net-debt-free-status/articleshow/134968408.cms",
-      "published": "Thu, 15 Oct 2026 18:15:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "How Akash, Isha Ambani’s missed college assignment led to the creation of Rs 10 lakh crore Jio",
-      "summary": "A failed college assignment by Isha Ambani helped spark the idea for Jio, which is now preparing for a Rs 30,213 crore IPO at a valuation of around Rs 10.3 lakh crore. Akash Ambani said the proceeds would go towards debt reduction, as Reliance seeks to unlock value from its digital business.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-akash-isha-ambanis-missed-college-assignment-led-to-the-creation-of-rs-10-lakh-crore-jio/articleshow/134968376.cms",
-      "published": "Thu, 15 Oct 2026 18:12:17 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ICICIBANK",
-      "price": 1389.4000244140625,
-      "change_pct": 3.8,
-      "setup_quality_score": 49.18,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T14:23:04.363049+00:00",
+      "chain_fetched_at_utc": "2026-10-15T19:24:13.674807+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "LT",
-      "price": 3632.0,
-      "change_pct": -0.27,
-      "setup_quality_score": 48.92,
+      "symbol": "POLICYBZR",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T14:23:04.701904+00:00",
+      "chain_fetched_at_utc": "2026-10-15T19:24:14.089988+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HCLTECH",
-      "price": 1360.0,
-      "change_pct": 2.49,
-      "setup_quality_score": 48.73,
+      "symbol": "INFY",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T14:23:05.058946+00:00",
+      "chain_fetched_at_utc": "2026-10-15T19:24:14.468228+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
