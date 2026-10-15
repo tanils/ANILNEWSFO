@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-15T13:39:54.399938+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-15T14:22:54.835272+00:00",
   "news": [
     {
       "headline": "Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer",
@@ -34,16 +34,6 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Reliance Jio IPO at Rs 10 lakh crore valuation: What analysts see in the price band",
-      "summary": "Reliance Jio has announced its IPO price range, setting it between Rs 1,065 and Rs 1,119 per share. With a massive valuation of around Rs 10.3 lakh crore, this IPO stands as the largest in Indian history. While analysts believe the valuation is reasonable, they warn that anticipated growth may already be priced in.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-at-rs-10-lakh-crore-valuation-what-analysts-see-in-the-price-band/articleshow/134957545.cms",
-      "published": "Thu, 15 Oct 2026 10:14:28 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
       "headline": "Reliance Industries shares rise 3% as Jio sets price band for possibly biggest-ever issue. What shareholders must know",
       "summary": "Shares of Reliance Industries rose 3% after Jio Platforms announced its IPO, comprising 27 crore new shares anticipated to garner Rs 30,213 crore. With 35% of shares earmarked for retail investors and a cut-off date of October 14 for current shareholders, Jio Platforms is primed to enhance its foothold in the consumer tech and digital infrastructure sectors.",
       "source": "Economic Times Stocks",
@@ -52,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Nilesh Shah on PSU privatisation: How Hindustan Zinc offers a lesson for IDBI Bank",
+      "summary": "Kotak AMC’s Nilesh Shah cited Hindustan Zinc as an example of how strategic divestment combined with a retained minority stake can create long-term national wealth. He said the government’s remaining stake is now worth over Rs 62,000 crore and expressed hope that IDBI Bank’s divestment would deliver similar value.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nilesh-shah-on-psu-privatisation-how-hindustan-zinc-offers-a-lesson-for-idbi-bank/articleshow/134969215.cms",
+      "published": "Thu, 15 Oct 2026 18:57:49 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Torrent Power plans around $500 million bond sale, bankers say",
@@ -89,6 +89,26 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-china-hong-kong-plans-3-3-billion-onshore-yuan-debt-issuance/articleshow/134958921.cms",
       "published": "Thu, 15 Oct 2026 11:34:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Indian Bank, UCO Bank lead Q2 profit growth as treasury income slumps",
+      "summary": "Indian Bank, UCO Bank, South Indian Bank and Karur Vysya Bank reported double-digit Q2 profit growth, supported by core income and loan expansion. However, rising bond yields hurt treasury earnings, while improving asset quality and provisions shaped quarterly performance.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-bank-uco-bank-lead-q2-profit-growth-as-treasury-income-slumps/articleshow/134969955.cms",
+      "published": "Thu, 15 Oct 2026 19:34:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Paras Healthcare fixes IPO price band at Rs 660-693; issue opens on Oct 21",
+      "summary": "Paras Healthcare has set its IPO price band at Rs 660-693 per share, targeting Rs 1,450 crore. Opening October 21, the issue will fund debt repayment and corporate needs, supporting expansion across its hospital network in India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-fixes-ipo-price-band-at-rs-660-693-issue-opens-on-oct-21/articleshow/134969891.cms",
+      "published": "Thu, 15 Oct 2026 19:31:53 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -132,47 +152,11 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tech Mahindra Q2 Results: Net profit jumps 33% YoY to Rs 1,586 crore; co declares Rs 15/share dividend, 1:1 bonus issue",
-      "summary": "Tech Mahindra Q2 Results: Along with the earnings, Tech Mahindra's board declared an interim dividend of Rs 15 per equity share of face value Rs 5 each, equivalent to 300%, for the financial year 2026-27. It also approved a 1:1 bonus issue, under which shareholders will receive one bonus equity share for every existing equity share held, subject to the applicable terms and conditions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q2-results-net-profit-jumps-33-yoy-to-rs-1586-crore-co-declares-rs-15/share-dividend-11-bonus-issue/articleshow/134966850.cms",
-      "published": "Thu, 15 Oct 2026 17:14:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Reliance Jio IPO: With tech muscle, Akash Ambani makes $1.4 trillion digital economy pitch to investors",
-      "summary": "Akash Ambani is positioning Jio Platforms to capture a significant share of India’s projected $1.4 trillion digital economy by FY31. Ahead of its Rs 30,213 crore IPO, he highlighted 7,200 patents, 5G leadership and technology partnerships.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-with-tech-muscle-akash-ambani-makes-1-4-trillion-digital-economy-pitch-to-investors/articleshow/134966429.cms",
-      "published": "Thu, 15 Oct 2026 16:59:12 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BEL",
-      "price": 380.3999938964844,
-      "change_pct": -0.51,
-      "setup_quality_score": 54.77,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T13:40:01.321664+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "ICICIBANK",
       "price": 1389.4000244140625,
       "change_pct": 3.8,
@@ -183,12 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T13:40:01.684614+00:00",
+      "chain_fetched_at_utc": "2026-10-15T14:23:04.363049+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 3,
+      "rank": 2,
       "symbol": "LT",
       "price": 3632.0,
       "change_pct": -0.27,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T13:40:01.975382+00:00",
+      "chain_fetched_at_utc": "2026-10-15T14:23:04.701904+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "HCLTECH",
+      "price": 1360.0,
+      "change_pct": 2.49,
+      "setup_quality_score": 48.73,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-15T14:23:05.058946+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
