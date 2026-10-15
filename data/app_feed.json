@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-15T08:11:43.521649+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-15T09:21:34.208889+00:00",
   "news": [
+    {
+      "headline": "Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer",
+      "summary": "Jio Platforms’ Rs 30,213 crore IPO will dilute the percentage stakes of existing investors, including Reliance Industries, Meta and Google, while leaving their share counts unchanged. At the upper end of the price band, Jio is expected to be valued at Rs 10.3 lakh crore, more than double the valuation at which most investors entered in 2020.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-how-reliance-meta-google-and-other-investors-stakes-will-change-post-the-offer/articleshow/134961525.cms",
+      "published": "Thu, 15 Oct 2026 13:32:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
     {
       "headline": "IDBI Bank shares fall 7% as investors book profit after Fairfax deal gets cabinet nod",
       "summary": "IDBI Bank shares plunged as investors booked profits after a nearly 13% rally in the previous session following the Cabinet’s approval of Fairfax’s acquisition of a 60.72% stake in the lender. The stock had hit Rs 93.60 on Wednesday, lifting its market capitalisation above Rs 1 lakh crore. The Rs 52,878 crore deal marks a major step in IDBI Bank’s long-awaited privatisation, with Fairfax’s bid of Rs 81 per share exceeding the independent valuers’ average fair value of Rs 75.99.",
@@ -44,7 +54,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "From Rs 1,000 in 1977 to Rs 52 lakh today: The Reliance wealth story behind Jio’s Rs 10.3 lakh crore mega IPO",
+      "headline": "From Rs 1,000 in 1977 to Rs 52 lakh today: The Reliance wealth story behind Jio’s Rs 10.3 lakh crore valuation in mega IPO",
       "summary": "A Rs 1,000 investment in Reliance Industries’ 1977 IPO could be worth nearly Rs 52 lakh today, including shares received through the Jio Financial Services demerger. As Jio Platforms prepares for its Rs 30,200 crore IPO at a Rs 10.3 lakh crore valuation, investors will assess its growth prospects and pricing.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-rs-1000-in-1977-to-rs-52-lakh-today-the-reliance-wealth-story-behind-jios-rs-10-3-lakh-crore-mega-ipo/articleshow/134959204.cms",
@@ -72,6 +82,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Global Market: Eurozone bond yields fall as tech sell-off fuels safe-haven demand",
+      "summary": "Eurozone government bond yields fell as investors sought safe-haven assets amid a global technology stock sell-off and declining US Treasury yields. Meanwhile, money markets priced in higher European Central Bank rates over the longer term, while French-German and Italian-German bond spreads reflected ongoing market pressures.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-sell-off-fuels-safe-haven-demand/articleshow/134962602.cms",
+      "published": "Thu, 15 Oct 2026 14:24:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Volume Shocker: MFs add 1 crore+ shares to 5 stocks in September; shares tumble up to 43%",
+      "summary": "Mutual funds significantly increased stakes in 45 stocks in September 2026 despite market volatility. While gainers like PhysicsWallah and Meesho rallied up to 21%, heavy institutional buying in stocks like PB Fintech, Swiggy, and L&amp;T Finance failed to stem steep price declines of up to 43%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-add-1-crore-shares-to-5-stocks-in-september-shares-tumble-up-to-43/slideshow/134961886.cms",
+      "published": "Thu, 15 Oct 2026 13:35:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "POLICYBZR"
     },
     {
       "headline": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE, INFY"
-    },
-    {
-      "headline": "Global Market: China stocks fall as hot US inflation data revives rate hike fears",
-      "summary": "Chinese stocks tumbled as hotter-than-expected US inflation data revived concerns over prolonged high interest rates. Technology shares led losses across mainland China and Hong Kong markets as investors reassessed the outlook for US monetary policy and risk-sensitive assets.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-fall-as-hot-us-inflation-data-revives-rate-hike-fears/articleshow/134957483.cms",
-      "published": "Thu, 15 Oct 2026 10:11:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Race for Jio IPO bidding: Can you buy RIL shares now to access Rs 2,500 crore shareholder quota?",
-      "summary": "Reliance Jio has fixed a record date of October 14, 2026, for eligible shareholders of Reliance Industries. This date will determine who can apply for the reserved shares under the shareholder quota. The IPO aims to raise approximately Rs 30,213 crore through fresh equity shares. Eligible investors must apply under the normal IPO process and select the shareholder category.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/race-for-jio-ipo-bidding-can-you-buy-ril-shares-now-to-access-rs-2500-crore-shareholder-quota/articleshow/134957408.cms",
-      "published": "Thu, 15 Oct 2026 10:06:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "HD Fire Protect IPO Day 3: GMP at 33%, Day 2 subscription hits 16.5 times; check key details",
-      "summary": "HD Fire Protect IPO entered its third and final day of subscription on October 15, 2026. The Rs 712.31-crore offer for sale issue was subscribed 16.50 times on Day 2, led by strong retail and NII demand. The price band is Rs 258-271 with a 33% GMP.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hd-fire-protect-ipo-day-3-gmp-at-33-day-2-subscription-hits-16-5-times-check-key-details/articleshow/134956480.cms",
-      "published": "Thu, 15 Oct 2026 09:12:01 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "BEL",
-      "price": 381.20001220703125,
-      "change_pct": -0.3,
-      "setup_quality_score": 54.45,
+      "price": 380.1000061035156,
+      "change_pct": -0.59,
+      "setup_quality_score": 54.88,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T08:11:53.653438+00:00",
+      "chain_fetched_at_utc": "2026-10-15T09:21:45.899559+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BAJFINANCE",
-      "price": 968.9000244140625,
-      "change_pct": -1.41,
-      "setup_quality_score": 48.08,
+      "symbol": "ICICIBANK",
+      "price": 1384.4000244140625,
+      "change_pct": 3.42,
+      "setup_quality_score": 45.65,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T08:11:53.972020+00:00",
+      "chain_fetched_at_utc": "2026-10-15T09:21:46.360514+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "ICICIBANK",
-      "price": 1385.0999755859375,
-      "change_pct": 3.47,
-      "setup_quality_score": 42.2,
+      "symbol": "RELIANCE",
+      "price": 1207.800048828125,
+      "change_pct": 2.83,
+      "setup_quality_score": 43.06,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-15T08:11:54.362880+00:00",
+      "chain_fetched_at_utc": "2026-10-15T09:21:46.817098+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
