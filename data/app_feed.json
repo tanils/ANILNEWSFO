@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-16T08:04:45.911392+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-16T09:14:49.205860+00:00",
   "news": [
     {
       "headline": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
@@ -14,6 +14,16 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "Mukesh Ambani taps massive Reliance workforce to boost Jio’s record IPO",
+      "summary": "Mukesh Ambani is mobilising Reliance Industries’ workforce to boost interest in Jio Platforms’ record IPO. The conglomerate has encouraged employees to consider investing, released October salaries early and set aside shares for eligible employees and Reliance shareholders.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-taps-massive-reliance-workforce-to-boost-jios-record-ipo/articleshow/134988928.cms",
+      "published": "Fri, 16 Oct 2026 14:33:49 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
+    {
       "headline": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
       "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acquisition-related costs.",
       "source": "Economic Times Markets",
@@ -22,6 +32,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "PERSISTENT"
+    },
+    {
+      "headline": "Indian bonds hang tight ahead of supply",
+      "summary": "Indian government bonds remained stable on Friday as traders contemplated the central bank's forthcoming policy moves. A noteworthy auction of 10-year bonds is on the horizon, anticipated to shed light on market demand and interest. Recent shifts in US Treasury yields have bolstered the Indian market. The Reserve Bank of India is fine-tuning financial conditions to cope with capital outflows and escalating shorting costs of the rupee.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hang-tight-ahead-of-supply/articleshow/134988781.cms",
+      "published": "Fri, 16 Oct 2026 14:31:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "BoE's Bailey says energy price pass-through remains limited, rate risks persist",
@@ -74,7 +94,7 @@
       "symbols": "BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Stock Movement Analysis",
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Update",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981018.cms",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan's Nikkei rebounds after six-session losing streak; weekly loss nears 5%",
-      "summary": "Japan’s Nikkei rebounded 1.75% after six consecutive sessions of losses, supported by bargain hunting and gains in technology and banking stocks. However, the index remained on track for a weekly decline as investors awaited corporate earnings and US midterm elections.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-japans-nikkei-rebounds-after-six-session-losing-streak-weekly-loss-nears-5/articleshow/134982420.cms",
-      "published": "Fri, 16 Oct 2026 09:58:58 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HD Fire Protect IPO allotment likely today; GMP at 30%. Here's how to check status",
-      "summary": "HD Fire Protect IPO allotment status is expected today following a massive 131.70 times subscription. The Rs 712.31-crore public issue commands a 30% grey market premium. Investors can check allotment status online via the registrar MUFG Intime India, BSE, and NSE websites ahead of its scheduled October 21 listing.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/hd-fire-protect-ipo-allotment-likely-today-gmp-at-30-heres-how-to-check-status/articleshow/134982258.cms",
-      "published": "Fri, 16 Oct 2026 09:48:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -160,46 +160,46 @@
       "symbol": "HFCL",
       "price": 256.010009765625,
       "change_pct": 5.0,
-      "setup_quality_score": 58.04,
+      "setup_quality_score": 58.44,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T08:04:56.464278+00:00",
+      "chain_fetched_at_utc": "2026-10-16T09:14:57.954407+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BEL",
-      "price": 379.6499938964844,
-      "change_pct": -0.2,
-      "setup_quality_score": 49.8,
+      "symbol": "BHARTIARTL",
+      "price": 1901.199951171875,
+      "change_pct": 2.55,
+      "setup_quality_score": 52.83,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T08:04:56.842270+00:00",
+      "chain_fetched_at_utc": "2026-10-16T09:14:58.337918+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BHARTIARTL",
-      "price": 1902.4000244140625,
-      "change_pct": 2.61,
-      "setup_quality_score": 48.59,
+      "symbol": "BEL",
+      "price": 379.04998779296875,
+      "change_pct": -0.35,
+      "setup_quality_score": 50.02,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T08:04:57.200144+00:00",
+      "chain_fetched_at_utc": "2026-10-16T09:14:58.659971+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
