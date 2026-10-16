@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-16T13:30:29.365721+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-16T14:11:32.382875+00:00",
   "news": [
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
@@ -114,16 +114,6 @@
       "symbols": "PERSISTENT"
     },
     {
-      "headline": "Will Ambani's all-fresh Jio sale prove to be a masterstroke for investors?",
-      "summary": "Reliance Jio is set to roll out an ambitious Rs 30,213 crore IPO featuring solely new equity shares, not existing ones. In light of mixed results from recent Indian IPOs, this move aims to cut down Jio's debt while bolstering its financial standing. The company's IPO, valued at Rs 10.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-10000-cr-ofs-ipos-falter-will-ambanis-all-fresh-jio-sale-prove-a-masterstroke-for-investors/articleshow/134982377.cms",
-      "published": "Fri, 16 Oct 2026 09:55:37 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "NSE, BSE, Groww, other capital market stocks rise up to 3% as Sebi revises CAS framework. What traders must know",
       "summary": "SEBI has revised the Closing Auction Session framework, changing market timings, order transfer rules and settlement price calculations for derivatives. The updated rules will take effect from December 7, 2026, with provisions for transferring unexecuted limit and iceberg orders kicking in on February 8, 2027.",
       "source": "Economic Times Stocks",
@@ -134,21 +124,31 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
-      "summary": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter.",
+      "headline": "Ujjivan SFB to raise Rs 409 crore from IFC, three insurers",
+      "summary": "Ujjivan Small Finance Bank plans to raise Rs 409 crore through a preferential share allotment to IFC and three insurers at Rs 64.73 per share. The bank also reported a 200% year-on-year jump in Q2 net profit to Rs 365 crore.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
-      "published": "Fri, 16 Oct 2026 18:39:30 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-sfb-to-raise-rs-409-crore-from-ifc-three-insurers/articleshow/134996772.cms",
+      "published": "Fri, 16 Oct 2026 19:07:46 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Aggressive RBI measures hand India bonds a ninth weekly loss",
-      "summary": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points during this period, reflecting investor concerns. Additionally, the RBI's commitment to support the rupee and manage liquidity has further dampened bond market sentiment. Market participants are wary of possible future actions regarding bond yields as the RBI addresses financial stability.",
+      "headline": "Rupee rises 1.9% in a week, closes below 95 per dollar",
+      "summary": "The Indian rupee strengthened 1.9% this week to close at 94.96 per dollar, its strongest weekly gain in seven months. Aggressive RBI measures curbed dollar demand, while a weaker dollar index supported the currency despite corporate buying pressure.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
-      "published": "Fri, 16 Oct 2026 17:55:36 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
+      "published": "Fri, 16 Oct 2026 18:44:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+      "summary": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
+      "published": "Fri, 16 Oct 2026 18:39:30 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T13:30:39.954728+00:00",
+      "chain_fetched_at_utc": "2026-10-16T14:11:46.771227+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T13:30:40.370833+00:00",
+      "chain_fetched_at_utc": "2026-10-16T14:11:47.206985+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T13:30:40.739561+00:00",
+      "chain_fetched_at_utc": "2026-10-16T14:11:47.643320+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
