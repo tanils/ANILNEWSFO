@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-16T12:44:11.520313+00:00",
+  "generated_at_utc": "2026-10-16T13:30:29.365721+00:00",
   "news": [
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
@@ -134,21 +134,21 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Aggressive RBI measures hand India bonds a ninth weekly loss",
-      "summary": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points during this period, reflecting investor concerns. Additionally, the RBI's commitment to support the rupee and manage liquidity has further dampened bond market sentiment. Market participants are wary of possible future actions regarding bond yields as the RBI addresses financial stability.",
+      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
+      "summary": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
-      "published": "Fri, 16 Oct 2026 17:55:36 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
+      "published": "Fri, 16 Oct 2026 18:39:30 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend",
-      "summary": "LTM reported a marginal 0.1% decline in Q2 FY27 profit to Rs 1,379.9 crore, while revenue rose 13.6% to Rs 11,807.6 crore. Enterprise AI and Business AI revenue grew 47%, and the company declared an interim dividend of Rs 25.",
+      "headline": "Aggressive RBI measures hand India bonds a ninth weekly loss",
+      "summary": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points during this period, reflecting investor concerns. Additionally, the RBI's commitment to support the rupee and manage liquidity has further dampened bond market sentiment. Market participants are wary of possible future actions regarding bond yields as the RBI addresses financial stability.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
-      "published": "Fri, 16 Oct 2026 17:53:16 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
+      "published": "Fri, 16 Oct 2026 17:55:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T12:44:23.050688+00:00",
+      "chain_fetched_at_utc": "2026-10-16T13:30:39.954728+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T12:44:23.409898+00:00",
+      "chain_fetched_at_utc": "2026-10-16T13:30:40.370833+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T12:44:23.789595+00:00",
+      "chain_fetched_at_utc": "2026-10-16T13:30:40.739561+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
