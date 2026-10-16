@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-16T10:05:19.473674+00:00",
+  "generated_at_utc": "2026-10-16T11:52:41.014653+00:00",
   "news": [
+    {
+      "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
+      "summary": "Urban Company reported a net loss of Rs 182 crore in Q2FY27 as investments in its quick services business, InstaHelp, weighed on profitability. Revenue rose 41% year-on-year to Rs 537 crore, while orders grew 103%. The company also approved a fresh capital raise of up to Rs 2,500 crore, subject to shareholder approval.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
+      "published": "Fri, 16 Oct 2026 16:39:43 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
       "summary": "HDFC Bank is set to unveil its Q2 results on October 17, 2026, showcasing key financial indicators. Analysts predict a year-on-year rise in net interest income of about 8%, driven by an increase in loans. Profit after tax forecasts vary among brokerages, reflecting a range of expectations regarding the bank's financial health.",
@@ -42,6 +52,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "PERSISTENT"
+    },
+    {
+      "headline": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
+      "summary": "Yes Bank is expected to post a 48% YoY jump in Q2 net profit to Rs 969 crore, driven by robust loan growth and higher NII. However, investor focus remains on the Supreme Court ruling invalidating its Rs 8,415 crore AT-1 bond write-off, which has pressured the stock.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms",
+      "published": "Fri, 16 Oct 2026 15:28:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Indian bonds hang tight ahead of supply",
@@ -104,14 +124,14 @@
       "symbols": "BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Update",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134981018.cms",
-      "published": "Fri, 16 Oct 2026 08:27:05 +0530",
+      "headline": "Bitcoin rebounds to $82,000 after briefly falling below $80,000 as inflation fears trigger $950 million in liquidations",
+      "summary": "Bitcoin recovered above $82,000 after briefly falling below $80,000 as hotter-than-expected US producer inflation intensified concerns over Federal Reserve rate hikes. Nearly $950 million in leveraged positions were liquidated, while spot Bitcoin ETFs recorded $261 million in outflows.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rebounds-to-82000-after-briefly-falling-below-80000-as-inflation-fears-trigger-950-million-in-liquidations/articleshow/134991609.cms",
+      "published": "Fri, 16 Oct 2026 16:02:27 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "BEL"
     },
     {
       "headline": "China's central bank to boost support for global investors in financial markets",
@@ -132,47 +152,11 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US Market: Fed Chair Warsh offers no signal on October interest-rate decision",
-      "summary": "Federal Reserve Chair Kevin Warsh gave no signal on whether the US central bank would change interest rates at its October 27-28 meeting, reiterating its commitment to price stability. Markets await further clues from economic data and policymakers on the rate outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
-      "published": "Fri, 16 Oct 2026 11:24:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "New CAS rules decoded: What Sebi’s revised framework means for stock market traders",
-      "summary": "Sebi has revised the Closing Auction Session (CAS) framework after receiving more than 20,000 comments from stakeholders. The updated rules introduce a 10-minute closing auction, restore the VWAP method for F&amp;O expiry settlement prices and clarify order transfers. Most changes will take effect on December 7, 2026.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-cas-rules-decoded-what-sebis-revised-framework-means-for-stock-market-traders/articleshow/134983183.cms",
-      "published": "Fri, 16 Oct 2026 10:46:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HFCL",
-      "price": 256.010009765625,
-      "change_pct": 5.0,
-      "setup_quality_score": 58.76,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T10:05:30.121137+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "BHARTIARTL",
       "price": 1905.0,
       "change_pct": 2.75,
@@ -183,23 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T10:05:30.513419+00:00",
+      "chain_fetched_at_utc": "2026-10-16T11:52:49.340501+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 3,
+      "rank": 2,
       "symbol": "ICICIBANK",
       "price": 1397.0,
       "change_pct": 0.55,
-      "setup_quality_score": 52.8,
+      "setup_quality_score": 52.41,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T10:05:30.911736+00:00",
+      "chain_fetched_at_utc": "2026-10-16T11:52:49.625529+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "BEL",
+      "price": 376.8500061035156,
+      "change_pct": -0.93,
+      "setup_quality_score": 52.39,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-16T11:52:49.976931+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
