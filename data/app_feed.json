@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-16T11:52:41.014653+00:00",
+  "generated_at_utc": "2026-10-16T12:44:11.520313+00:00",
   "news": [
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
@@ -52,6 +52,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "PERSISTENT"
+    },
+    {
+      "headline": "Kotak Mahindra Bank among 5 stocks that hit 52-week highs &amp; rallied up to 15% in a month",
+      "summary": "Five BSE 500 stocks—Shyam Metalics, PVR Inox, Kotak Mahindra Bank, Indian Hotels and Laurus Labs—hit fresh 52-week highs as the Sensex gained 413 points. All five stocks posted monthly gains of around 8% to 15%, signalling positive momentum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/134995212.cms",
+      "published": "Fri, 16 Oct 2026 17:56:43 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
@@ -116,7 +126,7 @@
     {
       "headline": "NSE, BSE, Groww, other capital market stocks rise up to 3% as Sebi revises CAS framework. What traders must know",
       "summary": "SEBI has revised the Closing Auction Session framework, changing market timings, order transfer rules and settlement price calculations for derivatives. The updated rules will take effect from December 7, 2026, with provisions for transferring unexecuted limit and iceberg orders kicking in on February 8, 2027.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-groww-other-capital-market-stocks-rise-up-to-3-as-sebi-revises-cas-framework-what-traders-must-know/articleshow/134981937.cms",
       "published": "Fri, 16 Oct 2026 09:31:29 +0530",
       "freshness": "new",
@@ -124,31 +134,21 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Bitcoin rebounds to $82,000 after briefly falling below $80,000 as inflation fears trigger $950 million in liquidations",
-      "summary": "Bitcoin recovered above $82,000 after briefly falling below $80,000 as hotter-than-expected US producer inflation intensified concerns over Federal Reserve rate hikes. Nearly $950 million in leveraged positions were liquidated, while spot Bitcoin ETFs recorded $261 million in outflows.",
+      "headline": "Aggressive RBI measures hand India bonds a ninth weekly loss",
+      "summary": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points during this period, reflecting investor concerns. Additionally, the RBI's commitment to support the rupee and manage liquidity has further dampened bond market sentiment. Market participants are wary of possible future actions regarding bond yields as the RBI addresses financial stability.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rebounds-to-82000-after-briefly-falling-below-80000-as-inflation-fears-trigger-950-million-in-liquidations/articleshow/134991609.cms",
-      "published": "Fri, 16 Oct 2026 16:02:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "China's central bank to boost support for global investors in financial markets",
-      "summary": "China's central bank plans to improve access for global investors and issuers to its financial markets by strengthening cross-border financial connectivity, developing the offshore yuan market and promoting yuan-denominated bonds as globally recognised collateral.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-central-bank-to-boost-support-for-global-investors-in-financial-markets/articleshow/134989432.cms",
-      "published": "Fri, 16 Oct 2026 14:51:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
+      "published": "Fri, 16 Oct 2026 17:55:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Indian Bank reports a Rs 1,388 crore gain from sale of NSE shares",
-      "summary": "Indian Bank gained Rs 1,388 crore from the NSE listing, boosting second-quarter non-interest income by 50% to Rs 3,953 crore. The one-time gain offset pressure from rising bond yields, despite Rs 123 crore in mark-to-market losses. Meanwhile, Canara Bank and UCO Bank reported declines in other income, reflecting weaker treasury earnings.",
+      "headline": "LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend",
+      "summary": "LTM reported a marginal 0.1% decline in Q2 FY27 profit to Rs 1,379.9 crore, while revenue rose 13.6% to Rs 11,807.6 crore. Enterprise AI and Business AI revenue grew 47%, and the company declared an interim dividend of Rs 25.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-reports-a-rs-1388-crore-gain-from-sale-of-nse-shares/articleshow/134985719.cms",
-      "published": "Fri, 16 Oct 2026 12:34:25 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
+      "published": "Fri, 16 Oct 2026 17:53:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T11:52:49.340501+00:00",
+      "chain_fetched_at_utc": "2026-10-16T12:44:23.050688+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T11:52:49.625529+00:00",
+      "chain_fetched_at_utc": "2026-10-16T12:44:23.409898+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T11:52:49.976931+00:00",
+      "chain_fetched_at_utc": "2026-10-16T12:44:23.789595+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
