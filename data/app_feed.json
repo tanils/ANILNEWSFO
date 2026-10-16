@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-16T14:11:32.382875+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-16T19:02:03.159511+00:00",
   "news": [
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
@@ -24,6 +24,16 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "Cult.fit receives Sebi approval for proposed IPO",
+      "summary": "Cult.fit has received Sebi observations for its proposed IPO, comprising a fresh issue of up to Rs 950 crore and an offer for sale. Revenue rose 36.26% in FY26, while adjusted EBITDA margin improved significantly as fitness operations expanded nationwide.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
+      "published": "Fri, 16 Oct 2026 19:32:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
       "headline": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
       "summary": "ICICI Bank is expected to report 15.8-18% year-on-year growth in net interest income and 15-21% growth in profit after tax in Q2FY27, according to brokerage estimates. Investors will track net interest margins, loan and deposit growth, operating profitability and asset quality, with margin pressure and provisioning trends remaining key monitorables.",
       "source": "Economic Times Markets",
@@ -32,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "CoreWeave stock wipeout exposes divide between AI fear and greed",
+      "summary": "CoreWeave Inc. is navigating turbulent stock trends due to climbing bond yields and investor trepidation over its debt, raising fears of default. Although a temporary boost followed optimistic comments from Nvidia's CEO, the overall sentiment leans towards caution. Analysts believe that while funding needs are pressing, robust AI demand could mitigate rate worries. Furthermore, CoreWeave's alliance with Nvidia may be a vital source of financial support in these unpredictable conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
+      "published": "Fri, 16 Oct 2026 21:33:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "Mukesh Ambani taps massive Reliance workforce to boost Jio’s record IPO",
@@ -106,7 +126,7 @@
     {
       "headline": "Persistent Systems among 4 F&amp;O stocks with a sharp rise in futures open interest",
       "summary": "Persistent Systems, Ujjivan Small Finance Bank, Siemens Energy India, and Nestle India recorded futures open interest increases exceeding 11% on October 15, indicating heightened derivatives market activity.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
       "published": "Fri, 16 Oct 2026 10:05:53 +0530",
       "freshness": "new",
@@ -124,31 +144,11 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Ujjivan SFB to raise Rs 409 crore from IFC, three insurers",
-      "summary": "Ujjivan Small Finance Bank plans to raise Rs 409 crore through a preferential share allotment to IFC and three insurers at Rs 64.73 per share. The bank also reported a 200% year-on-year jump in Q2 net profit to Rs 365 crore.",
+      "headline": "US stocks: S&amp;P 500 muted as AI concerns hit chip stocks; bank gains lift Dow",
+      "summary": "The S&amp;P 500 showed little movement as semiconductor stocks decreased due to AI-related concerns and market pressures. Gains in banking stocks such as Goldman Sachs and JPMorgan Chase helped offset broader losses on the index. Concerns about debts of companies like CoreWeave intensified following steep declines in AI stocks. Additionally, inflation data further influenced market sentiment and expectations regarding interest rate adjustments.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-sfb-to-raise-rs-409-crore-from-ifc-three-insurers/articleshow/134996772.cms",
-      "published": "Fri, 16 Oct 2026 19:07:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee rises 1.9% in a week, closes below 95 per dollar",
-      "summary": "The Indian rupee strengthened 1.9% this week to close at 94.96 per dollar, its strongest weekly gain in seven months. Aggressive RBI measures curbed dollar demand, while a weaker dollar index supported the currency despite corporate buying pressure.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
-      "published": "Fri, 16 Oct 2026 18:44:16 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
-      "summary": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
-      "published": "Fri, 16 Oct 2026 18:39:30 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-muted-as-tech-jitters-linger-tesla-gains/articleshow/134996865.cms",
+      "published": "Fri, 16 Oct 2026 19:15:27 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BHARTIARTL",
-      "price": 1905.0,
-      "change_pct": 2.75,
-      "setup_quality_score": 53.12,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T14:11:46.771227+00:00",
+      "chain_fetched_at_utc": "2026-10-16T19:02:14.910698+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": 1397.0,
-      "change_pct": 0.55,
-      "setup_quality_score": 52.41,
+      "symbol": "PERSISTENT",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T14:11:47.206985+00:00",
+      "chain_fetched_at_utc": "2026-10-16T19:02:15.270364+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BEL",
-      "price": 376.8500061035156,
-      "change_pct": -0.93,
-      "setup_quality_score": 52.39,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T14:11:47.643320+00:00",
+      "chain_fetched_at_utc": "2026-10-16T19:02:15.758773+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
