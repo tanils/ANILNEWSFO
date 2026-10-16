@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-16T09:14:49.205860+00:00",
+  "generated_at_utc": "2026-10-16T10:05:19.473674+00:00",
   "news": [
     {
       "headline": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
+      "summary": "ICICI Bank is expected to report 15.8-18% year-on-year growth in net interest income and 15-21% growth in profit after tax in Q2FY27, according to brokerage estimates. Investors will track net interest margins, loan and deposit growth, operating profitability and asset quality, with margin pressure and provisioning trends remaining key monitorables.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms",
+      "published": "Fri, 16 Oct 2026 14:37:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
     },
     {
       "headline": "Mukesh Ambani taps massive Reliance workforce to boost Jio’s record IPO",
@@ -104,6 +114,16 @@
       "symbols": "ICICIBANK"
     },
     {
+      "headline": "China's central bank to boost support for global investors in financial markets",
+      "summary": "China's central bank plans to improve access for global investors and issuers to its financial markets by strengthening cross-border financial connectivity, developing the offshore yuan market and promoting yuan-denominated bonds as globally recognised collateral.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-central-bank-to-boost-support-for-global-investors-in-financial-markets/articleshow/134989432.cms",
+      "published": "Fri, 16 Oct 2026 14:51:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Indian Bank reports a Rs 1,388 crore gain from sale of NSE shares",
       "summary": "Indian Bank gained Rs 1,388 crore from the NSE listing, boosting second-quarter non-interest income by 50% to Rs 3,953 crore. The one-time gain offset pressure from rising bond yields, despite Rs 123 crore in mark-to-market losses. Meanwhile, Canara Bank and UCO Bank reported declines in other income, reflecting weaker treasury earnings.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY",
-      "summary": "Karur Vysya Bank shares rose sharply after the private sector lender reported a 37% year-on-year rise in Q2FY27 net profit to Rs 788 crore. Net interest income grew 19% to Rs 1,497.3 crore, while total business increased nearly 18% to Rs 2.40 lakh crore.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-rally-6-after-q2-profit-jumps-37-yoy/articleshow/134982900.cms",
-      "published": "Fri, 16 Oct 2026 10:30:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee rises 20 paise to 94.79 against US dollar in early trade",
-      "summary": "The rupee reached 94.79 against the US dollar following structural forex interventions by the Reserve Bank of India. Elevated crude oil prices and declining equity markets limited the currency's gains. The dollar index decreased by 0.54 per cent, reflecting the dollar's weakened strength. While US retail sales exceeded forecasts, the Producer Price Index was unexpectedly high. Foreign Institutional Investors also offloaded significant equities on Thursday, impacting domestic market performance.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-20-paise-to-94-79-against-us-dollar-in-early-trade/articleshow/134982864.cms",
-      "published": "Fri, 16 Oct 2026 10:25:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -160,46 +160,46 @@
       "symbol": "HFCL",
       "price": 256.010009765625,
       "change_pct": 5.0,
-      "setup_quality_score": 58.44,
+      "setup_quality_score": 58.76,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T09:14:57.954407+00:00",
+      "chain_fetched_at_utc": "2026-10-16T10:05:30.121137+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "BHARTIARTL",
-      "price": 1901.199951171875,
-      "change_pct": 2.55,
-      "setup_quality_score": 52.83,
+      "price": 1905.0,
+      "change_pct": 2.75,
+      "setup_quality_score": 53.12,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T09:14:58.337918+00:00",
+      "chain_fetched_at_utc": "2026-10-16T10:05:30.513419+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BEL",
-      "price": 379.04998779296875,
-      "change_pct": -0.35,
-      "setup_quality_score": 50.02,
+      "symbol": "ICICIBANK",
+      "price": 1397.0,
+      "change_pct": 0.55,
+      "setup_quality_score": 52.8,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T09:14:58.659971+00:00",
+      "chain_fetched_at_utc": "2026-10-16T10:05:30.911736+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
