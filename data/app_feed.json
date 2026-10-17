@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-16T19:02:03.159511+00:00",
+  "generated_at_utc": "2026-10-17T17:56:34.457902+00:00",
   "news": [
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
@@ -9,19 +9,59 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
       "published": "Fri, 16 Oct 2026 16:39:43 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
       "summary": "HDFC Bank is set to unveil its Q2 results on October 17, 2026, showcasing key financial indicators. Analysts predict a year-on-year rise in net interest income of about 8%, driven by an increase in loans. Profit after tax forecasts vary among brokerages, reflecting a range of expectations regarding the bank's financial health.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-preview-pat-nii-may-rise-up-to-9-yoy-deposit-growth-in-focus/articleshow/134982802.cms",
       "published": "Fri, 16 Oct 2026 10:23:00 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%",
+      "summary": "ICICI Bank Q2 Results: Private lender ICICI Bank reported a net profit of Rs 14,843 crore in the second quarter of financial year 2027, marking 20.1% year-on-year increase from Rs 12,359 crore posted in the same period last year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
+      "published": "Sat, 17 Oct 2026 15:47:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "HDFC Bank Q2 Results: Net profit rises 5% YoY to Rs 19,510 crore; NII grows 10%",
+      "summary": "HDFC Bank Q2 Results: India’s largest private lender HDFC Bank on Saturday reported a net profit of Rs 19,509 crore for the second quarter of FY27, marking a 4.6% year-on-year jump from Rs 18,641 crore posted in the same period last year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
+      "published": "Sat, 17 Oct 2026 14:16:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
+      "summary": "Axis Bank Q2 Results: Private lender Axis Bank on Saturday reported a net profit of Rs 7,003 crore for the second quarter of FY27, marking a jump of 38% from Rs 5,089 crore posted in the corresponding quarter of the previous financial year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
+      "published": "Sat, 17 Oct 2026 13:12:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "AXISBANK"
+    },
+    {
+      "headline": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
+      "summary": "Reliance Industries Ltd. is gearing up to introduce Jio Platforms Ltd., anticipated to be the largest IPO in India. Slated for October 21, 2023, the IPO aims to attract around $3.2 billion. With shifting investor perspectives, particularly among the younger demographic who favor immediate profits over long-term investments, Jio's valuation is being closely examined alongside rivals like Bharti Airtel.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
+      "published": "Sat, 17 Oct 2026 09:18:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Cult.fit receives Sebi approval for proposed IPO",
@@ -29,19 +69,29 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
       "published": "Fri, 16 Oct 2026 19:32:27 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
     {
       "headline": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
       "summary": "ICICI Bank is expected to report 15.8-18% year-on-year growth in net interest income and 15-21% growth in profit after tax in Q2FY27, according to brokerage estimates. Investors will track net interest margins, loan and deposit growth, operating profitability and asset quality, with margin pressure and provisioning trends remaining key monitorables.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms",
       "published": "Fri, 16 Oct 2026 14:37:51 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "summary": "The Indian IT sector experienced an impressive surge, achieving its highest weekly increase in 18 years, driven by unexpectedly strong quarterly results from companies like HCLTech. The Nifty IT index jumped 11.7%, amidst falling semiconductor stock prices in Asia. Furthermore, the rupee showed notable strength, closing below the 95-mark for the first time in 38 days, reflecting the effective measures implemented by the Reserve Bank of India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "published": "Sat, 17 Oct 2026 09:46:40 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "CoreWeave stock wipeout exposes divide between AI fear and greed",
@@ -49,29 +99,39 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
       "published": "Fri, 16 Oct 2026 21:33:56 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
     },
     {
       "headline": "Mukesh Ambani taps massive Reliance workforce to boost Jio’s record IPO",
       "summary": "Mukesh Ambani is mobilising Reliance Industries’ workforce to boost interest in Jio Platforms’ record IPO. The conglomerate has encouraged employees to consider investing, released October salaries early and set aside shares for eligible employees and Reliance shareholders.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambani-taps-massive-reliance-workforce-to-boost-jios-record-ipo/articleshow/134988928.cms",
       "published": "Fri, 16 Oct 2026 14:33:49 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
     },
     {
       "headline": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
       "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acquisition-related costs.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
       "published": "Fri, 16 Oct 2026 10:49:41 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "PERSISTENT"
+    },
+    {
+      "headline": "IDBI Bank Q2 results: Net profit tanks 39% YoY to Rs 2,205 crore; NII dips 49% YoY",
+      "summary": "IDBI Bank reported a 39% year-on-year profit decline to Rs 2,205 crore in Q2 FY27, impacted by a one-off gain in the previous year. Excluding this, profit rose 14%. Asset quality improved, deposits grew 17%, advances increased 18%, and net interest margins strengthened sequentially to 4.11%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
+      "published": "Sat, 17 Oct 2026 15:44:42 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Kotak Mahindra Bank among 5 stocks that hit 52-week highs &amp; rallied up to 15% in a month",
@@ -79,77 +139,17 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/134995212.cms",
       "published": "Fri, 16 Oct 2026 17:56:43 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
     {
       "headline": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
       "summary": "Yes Bank is expected to post a 48% YoY jump in Q2 net profit to Rs 969 crore, driven by robust loan growth and higher NII. However, investor focus remains on the Supreme Court ruling invalidating its Rs 8,415 crore AT-1 bond write-off, which has pressured the stock.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms",
       "published": "Fri, 16 Oct 2026 15:28:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Indian bonds hang tight ahead of supply",
-      "summary": "Indian government bonds remained stable on Friday as traders contemplated the central bank's forthcoming policy moves. A noteworthy auction of 10-year bonds is on the horizon, anticipated to shed light on market demand and interest. Recent shifts in US Treasury yields have bolstered the Indian market. The Reserve Bank of India is fine-tuning financial conditions to cope with capital outflows and escalating shorting costs of the rupee.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hang-tight-ahead-of-supply/articleshow/134988781.cms",
-      "published": "Fri, 16 Oct 2026 14:31:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "BoE's Bailey says energy price pass-through remains limited, rate risks persist",
-      "summary": "Bank of England Governor Andrew Bailey said rising energy prices have had limited broader inflationary effects so far, but warned that second-round pressures remain uncertain. With inflation at 3.1%, above the 2% target, policymakers are weighing potential interest rate hikes against economic resilience, rising borrowing costs and geopolitical uncertainty.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boes-bailey-says-energy-price-pass-through-remains-limited-rate-risks-persist/articleshow/134986792.cms",
-      "published": "Fri, 16 Oct 2026 13:19:15 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US Market: Fed's Goolsbee says latest US inflation data is discouraging",
-      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee called the latest US consumer and producer inflation data discouraging, raising concerns about persistent price pressures. While temporary factors such as tariffs and geopolitical conflicts could ease, he warned that demand driven by the rapid expansion of AI data centres could require a policy response.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
-      "published": "Fri, 16 Oct 2026 12:19:45 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Persistent Systems among 4 F&amp;O stocks with a sharp rise in futures open interest",
-      "summary": "Persistent Systems, Ujjivan Small Finance Bank, Siemens Energy India, and Nestle India recorded futures open interest increases exceeding 11% on October 15, indicating heightened derivatives market activity.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134982593.cms",
-      "published": "Fri, 16 Oct 2026 10:05:53 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "PERSISTENT"
-    },
-    {
-      "headline": "NSE, BSE, Groww, other capital market stocks rise up to 3% as Sebi revises CAS framework. What traders must know",
-      "summary": "SEBI has revised the Closing Auction Session framework, changing market timings, order transfer rules and settlement price calculations for derivatives. The updated rules will take effect from December 7, 2026, with provisions for transferring unexecuted limit and iceberg orders kicking in on February 8, 2027.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-groww-other-capital-market-stocks-rise-up-to-3-as-sebi-revises-cas-framework-what-traders-must-know/articleshow/134981937.cms",
-      "published": "Fri, 16 Oct 2026 09:31:29 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "US stocks: S&amp;P 500 muted as AI concerns hit chip stocks; bank gains lift Dow",
-      "summary": "The S&amp;P 500 showed little movement as semiconductor stocks decreased due to AI-related concerns and market pressures. Gains in banking stocks such as Goldman Sachs and JPMorgan Chase helped offset broader losses on the index. Concerns about debts of companies like CoreWeave intensified following steep declines in AI stocks. Additionally, inflation data further influenced market sentiment and expectations regarding interest rate adjustments.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-muted-as-tech-jitters-linger-tesla-gains/articleshow/134996865.cms",
-      "published": "Fri, 16 Oct 2026 19:15:27 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     }
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "RELIANCE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "BEL",
+      "price": 376.8500061035156,
+      "change_pct": -0.93,
+      "setup_quality_score": 55.39,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T19:02:14.910698+00:00",
+      "chain_fetched_at_utc": "2026-10-17T17:56:45.749186+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "PERSISTENT",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "BHARTIARTL",
+      "price": 1905.0,
+      "change_pct": 2.75,
+      "setup_quality_score": 53.12,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T19:02:15.270364+00:00",
+      "chain_fetched_at_utc": "2026-10-17T17:56:46.163797+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "ICICIBANK",
+      "price": 1397.0,
+      "change_pct": 0.55,
+      "setup_quality_score": 52.41,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-16T19:02:15.758773+00:00",
+      "chain_fetched_at_utc": "2026-10-17T17:56:46.707542+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
