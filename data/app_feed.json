@@ -1,12 +1,22 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-17T17:56:34.457902+00:00",
+  "generated_at_utc": "2026-10-18T18:17:08.876042+00:00",
   "news": [
+    {
+      "headline": "ICICI Bank profit spurts 20% on NII; core profitability a tad lower on FCNR(B)",
+      "summary": "ICICI Bank reported a 20% rise in second-quarter net profit, helped by an 18% increase in core net interest income. However, core profitability edged lower as FCNR(B) deposits weighed on margins. NIM fell to 4.18%, while treasury operations swung to a loss amid higher government bond yields.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-profit-spurts-20-on-nii-core-profitability-a-tad-lower-on-fcnrb/articleshow/135023892.cms",
+      "published": "Sun, 18 Oct 2026 10:12:18 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
+    },
     {
       "headline": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
       "summary": "Urban Company reported a net loss of Rs 182 crore in Q2FY27 as investments in its quick services business, InstaHelp, weighed on profitability. Revenue rose 41% year-on-year to Rs 537 crore, while orders grew 103%. The company also approved a fresh capital raise of up to Rs 2,500 crore, subject to shareholder approval.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
       "published": "Fri, 16 Oct 2026 16:39:43 +0530",
       "freshness": "recent",
@@ -14,14 +24,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Q2 results preview: PAT, NII may rise up to 9% YoY; deposit growth in focus",
-      "summary": "HDFC Bank is set to unveil its Q2 results on October 17, 2026, showcasing key financial indicators. Analysts predict a year-on-year rise in net interest income of about 8%, driven by an increase in loans. Profit after tax forecasts vary among brokerages, reflecting a range of expectations regarding the bank's financial health.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-preview-pat-nii-may-rise-up-to-9-yoy-deposit-growth-in-focus/articleshow/134982802.cms",
-      "published": "Fri, 16 Oct 2026 10:23:00 +0530",
-      "freshness": "recent",
+      "headline": "Axis Bank Q2 profit up 38% on loan growth",
+      "summary": "Axis Bank has showcased impressive results with a 38% surge in net profit for the quarter ending in September. This significant growth stems from strong loan demand and enhanced asset quality. The bank's net interest income increased by 11.8% year-on-year, totaling 15,371 crore, while overall advances rose by 23% compared to the previous year. The stability in the bank's net interest margin emphasizes its positive financial trajectory.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-profit-up-38-on-loan-growth/articleshow/135023818.cms",
+      "published": "Sun, 18 Oct 2026 09:59:20 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "AXISBANK"
     },
     {
       "headline": "ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%",
@@ -29,7 +39,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
       "published": "Sat, 17 Oct 2026 15:47:31 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
     },
@@ -39,7 +49,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
       "published": "Sat, 17 Oct 2026 14:16:36 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
     },
@@ -49,7 +59,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
       "published": "Sat, 17 Oct 2026 13:12:58 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "AXISBANK"
     },
@@ -59,19 +69,9 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
       "published": "Sat, 17 Oct 2026 09:18:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Cult.fit receives Sebi approval for proposed IPO",
-      "summary": "Cult.fit has received Sebi observations for its proposed IPO, comprising a fresh issue of up to Rs 950 crore and an offer for sale. Revenue rose 36.26% in FY26, while adjusted EBITDA margin improved significantly as fitness operations expanded nationwide.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
-      "published": "Fri, 16 Oct 2026 19:32:27 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "RELIANCE"
     },
     {
       "headline": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
@@ -84,21 +84,31 @@
       "symbols": "ICICIBANK"
     },
     {
+      "headline": "HDFC Bank PAT ticks up 5% amid pressure",
+      "summary": "HDFC Bank reported a 4.7% rise in standalone net profit for the second quarter, while margin pressure weighed on core profitability. Net interest income rose 9.7% as loans and deposits grew. The lender is also set to welcome a new chief executive this month, ending prolonged succession uncertainty.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-pat-ticks-up-5-amid-pressure/articleshow/135023863.cms",
+      "published": "Sun, 18 Oct 2026 10:08:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "YES Bank Q2 profit rises 65%; AT1 hit may risk 5,217 cr loss",
+      "summary": "YES Bank's net profit increased by 65% to 1,080 crore in the second quarter, driven by higher income. However, factoring in a Supreme Court judgment could lead to a post-tax loss of 5,217 crore. The court upheld a ruling concerning the bank's AT1 bonds, impacting its financial reporting. The bank's auditors noted that the financial outcomes might have been significantly different without this recognition.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-profit-rises-65-at1-hit-may-risk-5217-cr-loss/articleshow/135023793.cms",
+      "published": "Sun, 18 Oct 2026 09:54:42 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
       "summary": "The Indian IT sector experienced an impressive surge, achieving its highest weekly increase in 18 years, driven by unexpectedly strong quarterly results from companies like HCLTech. The Nifty IT index jumped 11.7%, amidst falling semiconductor stock prices in Asia. Furthermore, the rupee showed notable strength, closing below the 95-mark for the first time in 38 days, reflecting the effective measures implemented by the Reserve Bank of India.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
       "published": "Sat, 17 Oct 2026 09:46:40 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "CoreWeave stock wipeout exposes divide between AI fear and greed",
-      "summary": "CoreWeave Inc. is navigating turbulent stock trends due to climbing bond yields and investor trepidation over its debt, raising fears of default. Although a temporary boost followed optimistic comments from Nvidia's CEO, the overall sentiment leans towards caution. Analysts believe that while funding needs are pressing, robust AI demand could mitigate rate worries. Furthermore, CoreWeave's alliance with Nvidia may be a vital source of financial support in these unpredictable conditions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
-      "published": "Fri, 16 Oct 2026 21:33:56 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
@@ -124,31 +134,21 @@
       "symbols": "PERSISTENT"
     },
     {
+      "headline": "Mcap of nine of top-10 most valued firms surges by Rs 3.65 lakh cr; TCS shines",
+      "summary": "Nine of the top ten most valued firms saw a substantial increase in market valuation last week. The BSE Sensex surged over two thousand points while the Nifty experienced significant growth. TCS, Bharti Airtel, and Infosys led the gains alongside other major firms like Reliance Industries and HDFC Bank. In contrast, Larsen &amp; Toubro was the only firm to report a decline in market valuation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-rs-3-65-lakh-cr-tcs-shines/articleshow/135024970.cms",
+      "published": "Sun, 18 Oct 2026 12:01:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE, HDFCBANK, INFY, BSE"
+    },
+    {
       "headline": "IDBI Bank Q2 results: Net profit tanks 39% YoY to Rs 2,205 crore; NII dips 49% YoY",
       "summary": "IDBI Bank reported a 39% year-on-year profit decline to Rs 2,205 crore in Q2 FY27, impacted by a one-off gain in the previous year. Excluding this, profit rose 14%. Asset quality improved, deposits grew 17%, advances increased 18%, and net interest margins strengthened sequentially to 4.11%.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
       "published": "Sat, 17 Oct 2026 15:44:42 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Mahindra Bank among 5 stocks that hit 52-week highs &amp; rallied up to 15% in a month",
-      "summary": "Five BSE 500 stocks—Shyam Metalics, PVR Inox, Kotak Mahindra Bank, Indian Hotels and Laurus Labs—hit fresh 52-week highs as the Sensex gained 413 points. All five stocks posted monthly gains of around 8% to 15%, signalling positive momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/134995212.cms",
-      "published": "Fri, 16 Oct 2026 17:56:43 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
-      "summary": "Yes Bank is expected to post a 48% YoY jump in Q2 net profit to Rs 969 crore, driven by robust loan growth and higher NII. However, investor focus remains on the Supreme Court ruling invalidating its Rs 8,415 crore AT-1 bond write-off, which has pressured the stock.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms",
-      "published": "Fri, 16 Oct 2026 15:28:59 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,12 +167,28 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-17T17:56:45.749186+00:00",
+      "chain_fetched_at_utc": "2026-10-18T18:17:17.444441+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
+      "symbol": "ICICIBANK",
+      "price": 1397.0,
+      "change_pct": 0.55,
+      "setup_quality_score": 53.91,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-18T18:17:17.846843+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
       "symbol": "BHARTIARTL",
       "price": 1905.0,
       "change_pct": 2.75,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-17T17:56:46.163797+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "ICICIBANK",
-      "price": 1397.0,
-      "change_pct": 0.55,
-      "setup_quality_score": 52.41,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-17T17:56:46.707542+00:00",
+      "chain_fetched_at_utc": "2026-10-18T18:17:18.197412+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
