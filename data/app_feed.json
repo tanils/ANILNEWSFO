@@ -1,11 +1,11 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-19T16:37:21.022148+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-19T20:43:46.077918+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
-      "summary": "ICICI Bank has outperformed HDFC Bank in 2026, supported by stronger loan growth, deposits and profitability. While ICICI commands a valuation premium, HDFC’s 28% stock decline has created a potential recovery opportunity. Brokerages see scope for HDFC’s margins to improve, but narrowing the growth and funding gap remains key.",
+      "summary": "ICICI Bank has outperformed HDFC Bank in 2026, supported by stronger deposits, loan growth and profitability. While ICICI commands a valuation premium, HDFC’s 28% stock decline has created a potential recovery opportunity. Brokerages see scope for HDFC’s margins to improve, but narrowing the growth and funding gap remains key.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms",
       "published": "Mon, 19 Oct 2026 12:26:19 +0530",
@@ -124,16 +124,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Global Market: Japan’s Nikkei falls 2% as tech selloff, rising oil prices fuel inflation fears",
-      "summary": "Japan’s Nikkei 225 fell as US technology stock losses and rising oil prices heightened inflation and interest rate concerns. Semiconductor stocks led declines, while defensive and value shares offered potential support. Bank of Japan Governor Kazuo Ueda highlighted inflation near the 2% target, keeping monetary policy expectations in focus.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-2-as-tech-selloff-rising-oil-prices-fuel-inflation-fears/articleshow/135040186.cms",
-      "published": "Mon, 19 Oct 2026 10:30:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Yes Bank shares rise as Q2 profit beats estimates, but AT1 bond verdict hit pegged at Rs 5,217 crore. What lies ahead?",
       "summary": "Yes Bank shares rose after falling 17% over two sessions, following a 65% year-on-year jump in Q2 net profit to Rs 1,080 crore. However, the lender cautioned that the reported earnings exclude the potential impact of the Supreme Court’s AT1 bond ruling.",
       "source": "Economic Times Stocks",
@@ -152,54 +142,64 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Markets: French markets tumble as riots add to political crisis",
+      "summary": "Protests across France have led to significant declines in the country's financial markets and stocks. French government officials requested local authorities to consider imposing curfews amid the unrest. The rise in bond yields suggests increasing investor concern over France's budgetary challenges and economic outlook. Major French banks have experienced stock declines, reflecting the heightened risk of insuring French debt.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
+      "published": "Mon, 19 Oct 2026 20:52:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HFCL",
-      "price": 268.80999755859375,
-      "change_pct": 5.0,
-      "setup_quality_score": 61.28,
+      "symbol": "ICICIBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T16:37:31.326300+00:00",
+      "chain_fetched_at_utc": "2026-10-19T20:43:57.517530+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "AXISBANK",
-      "price": 1236.0,
-      "change_pct": -4.19,
-      "setup_quality_score": 60.91,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T16:37:31.656067+00:00",
+      "chain_fetched_at_utc": "2026-10-19T20:43:57.919117+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": 712.0,
-      "change_pct": -2.31,
-      "setup_quality_score": 59.61,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T16:37:32.027860+00:00",
+      "chain_fetched_at_utc": "2026-10-19T20:43:58.364766+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
