@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-19T10:13:31.067580+00:00",
+  "generated_at_utc": "2026-10-19T11:14:15.772884+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -54,8 +54,8 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Stock Market Down: Bulls lose ground! Sensex sinks over 1,000 points, Nifty slips below 22,900; 5 key triggers behind selloff",
-      "summary": "Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. Nevertheless, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
+      "headline": "Stock Market Down: Bulls lose ground! Sensex sinks nearly 900 points, Nifty ends below 22,900; 5 key triggers behind Rs 5 lakh crore selloff",
+      "summary": "Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. However, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
       "published": "Mon, 19 Oct 2026 10:04:53 +0530",
@@ -92,6 +92,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Muhurat Trading 2026: BSE announces date and timings of special session. Check details",
+      "summary": "BSE has announced the schedule for Diwali Muhurat Trading 2026, set for Sunday, November 8, on the occasion of Laxmi Pujan. The special session will run from 2:20 pm to 3:30 pm, with separate timings for pre-open trading, block deals, IPOs, call auctions and closing procedures.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
+      "published": "Mon, 19 Oct 2026 16:10:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Price and Market Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
-      "published": "Mon, 19 Oct 2026 08:50:37 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T10:13:41.470950+00:00",
+      "chain_fetched_at_utc": "2026-10-19T11:14:23.788804+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T10:13:41.848514+00:00",
+      "chain_fetched_at_utc": "2026-10-19T11:14:24.160076+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T10:13:42.167193+00:00",
+      "chain_fetched_at_utc": "2026-10-19T11:14:24.512671+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
