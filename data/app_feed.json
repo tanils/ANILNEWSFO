@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-19T13:54:44.915195+00:00",
+  "generated_at_utc": "2026-10-19T14:58:21.996690+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -26,7 +26,7 @@
     {
       "headline": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",
       "summary": "HDFC Bank shares fell up to 2% after the lender reported a 4.6% year-on-year rise in Q2 FY27 net profit to Rs 19,510 crore. Jefferies, Motilal Oswal, Systematix and Emkay retained positive ratings, citing margin recovery potential and leadership transition.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-2-after-q2-results-what-are-jefferies-motilal-oswal-analysts-saying/articleshow/135039640.cms",
       "published": "Mon, 19 Oct 2026 09:56:35 +0530",
       "freshness": "new",
@@ -146,7 +146,7 @@
     {
       "headline": "Yes Bank shares rise as Q2 profit beats estimates, but AT1 bond verdict hit pegged at Rs 5,217 crore. What lies ahead?",
       "summary": "Yes Bank shares rose after falling 17% over two sessions, following a 65% year-on-year jump in Q2 net profit to Rs 1,080 crore. However, the lender cautioned that the reported earnings exclude the potential impact of the Supreme Court’s AT1 bond ruling.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-rise-as-q2-profit-beats-estimates-but-at1-bond-verdict-hit-pegged-at-rs-5217-crore-what-lies-ahead/articleshow/135039620.cms",
       "published": "Mon, 19 Oct 2026 09:58:24 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T13:54:56.723381+00:00",
+      "chain_fetched_at_utc": "2026-10-19T14:58:29.638900+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T13:54:57.113921+00:00",
+      "chain_fetched_at_utc": "2026-10-19T14:58:29.963407+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T13:54:57.572598+00:00",
+      "chain_fetched_at_utc": "2026-10-19T14:58:30.245221+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
