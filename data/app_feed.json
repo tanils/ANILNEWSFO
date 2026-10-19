@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-19T08:44:54.374271+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-19T10:13:31.067580+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -54,8 +54,8 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Bulls lose ground! Sensex sinks over 1,000 points, Nifty slips below 22,900; 5 key triggers behind selloff",
-      "summary": "The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. Nevertheless, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
+      "headline": "Stock Market Down: Bulls lose ground! Sensex sinks over 1,000 points, Nifty slips below 22,900; 5 key triggers behind selloff",
+      "summary": "Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. Nevertheless, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
       "published": "Mon, 19 Oct 2026 10:04:53 +0530",
@@ -92,16 +92,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms",
-      "published": "Mon, 19 Oct 2026 08:40:43 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
     },
     {
       "headline": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
@@ -146,12 +136,22 @@
     {
       "headline": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
       "summary": "Urban Company shares fell sharply on Monday after its Q2FY27 net loss more than tripled YoY to Rs 182 crore, driven by investments in InstaHelp. Revenue rose 41% year-on-year to Rs 537 crore. Motilal Oswal maintained a Neutral rating but cut its target price to Rs 165, citing profitability concerns and balanced risk-reward.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
       "published": "Mon, 19 Oct 2026 09:53:11 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Price and Market Performance",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
+      "published": "Mon, 19 Oct 2026 08:50:37 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
     }
   ],
   "fno_candidates": [
@@ -160,46 +160,46 @@
       "symbol": "HFCL",
       "price": 268.80999755859375,
       "change_pct": 5.0,
-      "setup_quality_score": 60.88,
+      "setup_quality_score": 61.28,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T08:45:04.090919+00:00",
+      "chain_fetched_at_utc": "2026-10-19T10:13:41.470950+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": 710.75,
-      "change_pct": -2.48,
-      "setup_quality_score": 59.22,
+      "symbol": "AXISBANK",
+      "price": 1236.0,
+      "change_pct": -4.19,
+      "setup_quality_score": 60.91,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T08:45:04.498047+00:00",
+      "chain_fetched_at_utc": "2026-10-19T10:13:41.848514+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1236.0,
-      "change_pct": -4.19,
-      "setup_quality_score": 58.51,
+      "symbol": "HDFCBANK",
+      "price": 712.0,
+      "change_pct": -2.31,
+      "setup_quality_score": 59.61,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T08:45:04.853652+00:00",
+      "chain_fetched_at_utc": "2026-10-19T10:13:42.167193+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
