@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-19T11:14:15.772884+00:00",
+  "generated_at_utc": "2026-10-19T13:54:44.915195+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -36,7 +36,7 @@
     {
       "headline": "ICICI Bank share price target after Q2 results: What are Jefferies, other analysts saying?",
       "summary": "ICICI Bank Share Price: ICICI Bank shares rose after Q2FY27 net profit increased 20.1% year-on-year to Rs 14,843 crore, while net interest income grew 17.7% to Rs 25,339 crore. Jefferies maintained its ‘Buy’ rating with a target price of Rs 1,750, implying 25% upside, citing improving margins and expectations of 16% core profit CAGR over FY26-29.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-share-price-target-after-q2-results-what-are-jefferies-other-analysts-saying/articleshow/135039483.cms",
       "published": "Mon, 19 Oct 2026 09:48:13 +0530",
       "freshness": "new",
@@ -76,7 +76,7 @@
     {
       "headline": "Axis Bank shares fall over 4% despite 38% YoY jump in Q2 net profit. Why brokerages are revising target prices",
       "summary": "Axis Bank reported a 38% year-on-year rise in standalone net profit to Rs 7,003 crore in Q2 FY27, while net interest income rose 12%. Jefferies retained its Buy rating, while Centrum Broking and Dolat Capital lowered their target prices.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-results-why-jefferies-remains-bullish-even-as-other-brokerages-reduce-target-prices/articleshow/135039127.cms",
       "published": "Mon, 19 Oct 2026 09:21:26 +0530",
       "freshness": "new",
@@ -86,7 +86,7 @@
     {
       "headline": "IDBI Bank shares in focus as Q2 net profit falls 39%; NII tanks nearly 50% YoY",
       "summary": "IDBI Bank reported a 39% YoY decline in Q2 FY27 net profit, partly due to a one-off gain in the previous year. Despite this, underlying profitability, margins, asset quality, deposits and advances showed improvement. Meanwhile, Fairfax Financial’s proposed 60.72% stake acquisition marks a major milestone in the bank’s privatisation.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-in-focus-as-q2-net-profit-falls-39-nii-tanks-nearly-50-yoy/articleshow/135038766.cms",
       "published": "Mon, 19 Oct 2026 08:57:46 +0530",
       "freshness": "new",
@@ -94,8 +94,18 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Muhurat Trading 2026: BSE announces date and timings of special session. Check details",
-      "summary": "BSE has announced the schedule for Diwali Muhurat Trading 2026, set for Sunday, November 8, on the occasion of Laxmi Pujan. The special session will run from 2:20 pm to 3:30 pm, with separate timings for pre-open trading, block deals, IPOs, call auctions and closing procedures.",
+      "headline": "India bonds give up day's gains as oil price spike adds to rate hike fears",
+      "summary": "Indian government bonds ended lower as inflation concerns increased due to rising crude oil prices. The benchmark 10-year bond yield has been rising for nine consecutive weeks, causing worries about further rate hikes. Economists predict consumer inflation might exceed the upper tolerance band of the Reserve Bank of India. Additionally, the Reserve Bank has taken measures to curb currency speculation and stabilize the financial market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-give-up-days-gains-as-oil-price-spike-adds-to-rate-hike-fears/articleshow/135048949.cms",
+      "published": "Mon, 19 Oct 2026 18:00:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Muhurat Trading 2026: BSE, NSE announce date and timings of special session. Check details",
+      "summary": "BSE and NSE has announced the schedule for Diwali Muhurat Trading 2026, set for Sunday, November 8, on the occasion of Laxmi Pujan. The special session will run from 2:20 pm to 3:30 pm, with separate timings for pre-open trading, block deals, IPOs, call auctions and closing procedures.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
       "published": "Mon, 19 Oct 2026 16:10:31 +0530",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
-      "summary": "Urban Company shares fell sharply on Monday after its Q2FY27 net loss more than tripled YoY to Rs 182 crore, driven by investments in InstaHelp. Revenue rose 41% year-on-year to Rs 537 crore. Motilal Oswal maintained a Neutral rating but cut its target price to Rs 165, citing profitability concerns and balanced risk-reward.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
-      "published": "Mon, 19 Oct 2026 09:53:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T11:14:23.788804+00:00",
+      "chain_fetched_at_utc": "2026-10-19T13:54:56.723381+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T11:14:24.160076+00:00",
+      "chain_fetched_at_utc": "2026-10-19T13:54:57.113921+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T11:14:24.512671+00:00",
+      "chain_fetched_at_utc": "2026-10-19T13:54:57.572598+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
