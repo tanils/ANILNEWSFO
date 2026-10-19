@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-19T14:58:21.996690+00:00",
+  "generated_at_utc": "2026-10-19T15:51:28.745697+00:00",
   "news": [
     {
       "headline": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -56,22 +56,12 @@
     {
       "headline": "Stock Market Down: Bulls lose ground! Sensex sinks nearly 900 points, Nifty ends below 22,900; 5 key triggers behind Rs 5 lakh crore selloff",
       "summary": "Why is Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. However, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
       "published": "Mon, 19 Oct 2026 10:04:53 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "HDFCBANK, AXISBANK, BEL"
-    },
-    {
-      "headline": "Holding company discount after Jio IPO: What is it &amp; how will it impact RIL shares?",
-      "summary": "Jio Platforms IPO: Jio Platforms is preparing to unveil its initial public offering, enhancing its valuation significantly. Analysts foresee a potential reduction in the holding company discount for Reliance Industries post-IPO. While some experts believe the anticipated changes are already included in the stock's valuation, the true effect on RIL shares will hinge on Jio's profitability and future dividend plans.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/holding-company-discount-after-jio-ipo-what-is-it-how-will-it-impact-ril-shares/articleshow/135039648.cms",
-      "published": "Mon, 19 Oct 2026 10:02:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE, BEL"
     },
     {
       "headline": "Axis Bank shares fall over 4% despite 38% YoY jump in Q2 net profit. Why brokerages are revising target prices",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
+      "summary": "Urban Company shares fell sharply on Monday after its Q2FY27 net loss more than tripled YoY to Rs 182 crore, driven by investments in InstaHelp. Revenue rose 41% year-on-year to Rs 537 crore. Motilal Oswal maintained a Neutral rating but cut its target price to Rs 165, citing profitability concerns and balanced risk-reward.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
+      "published": "Mon, 19 Oct 2026 09:53:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T14:58:29.638900+00:00",
+      "chain_fetched_at_utc": "2026-10-19T15:51:37.814734+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T14:58:29.963407+00:00",
+      "chain_fetched_at_utc": "2026-10-19T15:51:38.343951+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-19T14:58:30.245221+00:00",
+      "chain_fetched_at_utc": "2026-10-19T15:51:38.870718+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
