@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-20T13:49:51.441854+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-20T14:28:11.795182+00:00",
   "news": [
     {
       "headline": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
@@ -116,7 +116,7 @@
     {
       "headline": "Banking stocks, high oil prices drag Indian markets lower",
       "summary": "Across Asia, markets were mixed, with South Korea rebounding 1.8% from last week's losses amid simmering concerns over excessive investments in artificial intelligence (AI). Taiwan fell 0.6%, while Indonesia tumbled 3.6% following a warning from index provider MSCI that it would downgrade the country from the emerging market basket.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
       "published": "Tue, 20 Oct 2026 05:35:48 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T13:50:00.825333+00:00",
+      "chain_fetched_at_utc": "2026-10-20T14:28:21.766476+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T13:50:01.244133+00:00",
+      "chain_fetched_at_utc": "2026-10-20T14:28:22.135291+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T13:50:01.707752+00:00",
+      "chain_fetched_at_utc": "2026-10-20T14:28:22.574256+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
