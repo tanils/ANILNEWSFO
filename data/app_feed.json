@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-20T10:24:06.118551+00:00",
+  "generated_at_utc": "2026-10-20T12:06:16.470577+00:00",
   "news": [
     {
       "headline": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
@@ -84,6 +84,26 @@
       "symbols": "AXISBANK"
     },
     {
+      "headline": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
+      "summary": "PRISM is set to scale back its initial public offering from Rs 6,650 crore to Rs 3,350 crore in light of its robust cash flow and enhanced balance sheet. The majority of the newly structured funds will focus on repaying or prepaying debts. Moody's Ratings has adjusted PRISM's outlook to positive, anticipating growth in EBITDA. Notably, OYO's founder, Ritesh Agarwal, and SoftBank maintain substantial stakes in the venture.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
+      "published": "Tue, 20 Oct 2026 17:00:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+      "summary": "Indian equities weakened amid negative global cues and selling in private banks and IT stocks, pushing the Nifty below 23,000. Choice Equity Broking’s Sachin Gupta recommends four stocks—Federal Bank, ACME Solar, Dr Reddy’s Laboratories and Union Bank—for potential upside.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+      "published": "Tue, 20 Oct 2026 15:48:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
       "headline": "Banking stocks, high oil prices drag Indian markets lower",
       "summary": "Across Asia, markets were mixed, with South Korea rebounding 1.8% from last week's losses amid simmering concerns over excessive investments in artificial intelligence (AI). Taiwan fell 0.6%, while Indonesia tumbled 3.6% following a warning from index provider MSCI that it would downgrade the country from the emerging market basket.",
       "source": "Economic Times Markets",
@@ -94,22 +114,12 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure",
-      "summary": "The Reserve Bank of India is implementing stricter scrutiny on large overseas direct investments by Indian companies. Banks must now collect and present detailed information regarding these investments to the RBI. This initiative aims to prevent potential losses for both the companies and the Indian economy. The RBI's checklist requires banks to conduct thorough due diligence on the rationale behind each investment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135059267.cms",
-      "published": "Tue, 20 Oct 2026 00:56:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Muhurat Trading 2026: BSE, NSE announce date and timings of special session. Check details",
       "summary": "BSE and NSE has announced the schedule for Diwali Muhurat Trading 2026, set for Sunday, November 8, on the occasion of Laxmi Pujan. The special session will run from 2:20 pm to 3:30 pm, with separate timings for pre-open trading, block deals, IPOs, call auctions and closing procedures.",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
       "published": "Mon, 19 Oct 2026 16:10:31 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
     },
@@ -142,16 +152,6 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
-      "summary": "Urban Company shares fell sharply on Monday after its Q2FY27 net loss more than tripled YoY to Rs 182 crore, driven by investments in InstaHelp. Revenue rose 41% year-on-year to Rs 537 crore. Motilal Oswal maintained a Neutral rating but cut its target price to Rs 165, citing profitability concerns and balanced risk-reward.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
-      "published": "Mon, 19 Oct 2026 09:53:11 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T10:24:16.136321+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:06:29.382255+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T10:24:16.458148+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:06:29.796292+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T10:24:16.787247+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:06:30.140419+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
