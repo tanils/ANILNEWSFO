@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-20T14:28:11.795182+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-20T19:36:47.811754+00:00",
   "news": [
     {
       "headline": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
@@ -56,7 +56,7 @@
     {
       "headline": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
       "summary": "Brokerages remain optimistic about ICICI Bank's strong earnings and asset quality after the recent quarter. However, HDFC Bank's profit growth was modest, and margins are under pressure, leading to a more cautious outlook. Despite this, both banks have attractive valuations and positive earnings recovery prospects. On Monday, both stocks experienced declines, along with broader market indices. Analysts highlight potential upsides for both banks based on target prices.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
       "published": "Tue, 20 Oct 2026 06:04:57 +0530",
       "freshness": "new",
@@ -82,6 +82,16 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "AXISBANK"
+    },
+    {
+      "headline": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "summary": "Indian markets plunged on Monday as the Sensex fell nearly 900 points and the Nifty dropped below 22,900, wiping out nearly Rs 5 lakh crore in market value. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "published": "Tue, 20 Oct 2026 20:42:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
@@ -142,16 +152,6 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "HFCL, BSE"
-    },
-    {
-      "headline": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices",
-      "summary": "Punjab National Bank shares rose sharply on Monday after the lender reported a 13% year-on-year rise in Q2FY27 net profit to Rs 5,532 crore. Stronger net interest income and improving asset quality prompted bullish brokerage calls, with Jefferies, Motilal Oswal and JM Financial setting target prices of Rs 140 apiece.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms",
-      "published": "Mon, 19 Oct 2026 11:05:53 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T14:28:21.766476+00:00",
+      "chain_fetched_at_utc": "2026-10-20T19:36:56.795466+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T14:28:22.135291+00:00",
+      "chain_fetched_at_utc": "2026-10-20T19:36:57.137154+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T14:28:22.574256+00:00",
+      "chain_fetched_at_utc": "2026-10-20T19:36:57.498283+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
