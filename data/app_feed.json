@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-20T12:06:16.470577+00:00",
+  "generated_at_utc": "2026-10-20T12:58:34.113296+00:00",
   "news": [
     {
       "headline": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T12:06:29.382255+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:58:42.185788+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T12:06:29.796292+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:58:42.440044+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-20T12:06:30.140419+00:00",
+      "chain_fetched_at_utc": "2026-10-20T12:58:42.860360+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
