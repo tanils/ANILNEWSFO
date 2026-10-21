@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-21T14:37:52.742396+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-21T19:39:12.805180+00:00",
   "news": [
     {
       "headline": "Global Market: Eurozone banking crisis fears return as government borrowing costs surge",
@@ -69,16 +69,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-fixes-price-band-for-rs-1200-ipo-issue-opens-on-october-26/articleshow/135084124.cms",
       "published": "Wed, 21 Oct 2026 11:58:53 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio IPO Day 1: Issue subscribed 3 times on strong QIB push; retail portion booked 68%. Check GMP",
-      "summary": "Jio Platforms’ IPO saw strong demand on Day 1, getting booked 3 times overall. The IPO commanded a grey market premium (GMP) of around 23%, while brokerages remained optimistic, citing Jio’s telecom leadership, improving profitability and growth opportunities in broadband and artificial intelligence (AI).",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-a-bang-issue-booked-over-90-as-qibs-drive-demand-check-gmp/articleshow/135082741.cms",
-      "published": "Wed, 21 Oct 2026 10:40:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,54 +142,64 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Reliance Industries shares jump 3% as Jio’s Rs 30,213 crore IPO gets fully subscribed on Day 1. What lies ahead?",
+      "summary": "Reliance Industries shares rose on Wednesday as Jio Platforms’ Rs 30,213 crore IPO was fully subscribed within an hour of opening. was fully subscribed within an hour of opening. With strong investor demand for the issue, attention is turning to Jio’s valuation, RIL’s diverse business portfolio and the potential value-unlocking opportunities for investors following the much-awaited listing.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-jump-3-as-jios-rs-30213-crore-ipo-gets-fully-subscribed-on-day-1-what-lies-ahead/articleshow/135085466.cms",
+      "published": "Wed, 21 Oct 2026 12:58:48 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BAJFINANCE",
-      "price": 926.0,
-      "change_pct": -3.27,
-      "setup_quality_score": 60.78,
+      "symbol": "HFCL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T14:38:04.612847+00:00",
+      "chain_fetched_at_utc": "2026-10-21T19:39:26.855503+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ADANIPOWER",
-      "price": 187.08999633789062,
-      "change_pct": -3.6,
-      "setup_quality_score": 50.4,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T14:38:05.012366+00:00",
+      "chain_fetched_at_utc": "2026-10-21T19:39:27.357851+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "SHRIRAMFIN",
-      "price": 904.9500122070312,
-      "change_pct": -2.33,
-      "setup_quality_score": 50.34,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T14:38:05.586648+00:00",
+      "chain_fetched_at_utc": "2026-10-21T19:39:27.947043+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
