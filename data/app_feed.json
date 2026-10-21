@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-21T10:34:10.124572+00:00",
+  "generated_at_utc": "2026-10-21T12:20:33.754127+00:00",
   "news": [
     {
       "headline": "Global Market: Eurozone banking crisis fears return as government borrowing costs surge",
@@ -34,6 +34,16 @@
       "symbols": "RELIANCE"
     },
     {
+      "headline": "Want exposure to India's biggest banks? Zerodha launches new ETF",
+      "summary": "Zerodha Fund House has launched the BSE Top 10 Banks ETF, tracking India’s largest listed banks. The NFO runs from October 12 to October 26, 2026, with a minimum investment of Rs 1,000, offering focused banking exposure.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/want-exposure-to-indias-biggest-banks-zerodha-launches-new-etf/articleshow/135090790.cms",
+      "published": "Wed, 21 Oct 2026 16:54:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
       "headline": "EAAA India Alternatives fixes price band for Rs 1,200 IPO; issue opens on October 26",
       "summary": "EAAA India Alternatives has set a price band of Rs 1,585–1,665 for its Rs 1,200-crore IPO, opening October 26. The offer is entirely an offer for sale, with the company reporting higher income and profit in FY26.",
       "source": "Economic Times Markets",
@@ -44,8 +54,8 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Jio IPO opens with a bang, issue gets fully booked as QIBs drive demand. Check GMP",
-      "summary": "Mukesh Ambani-led Jio Platforms’ IPO saw strong demand on Day 1. The IPO commanded a grey market premium (GMP) of around 25%, while brokerages remained optimistic, citing Jio’s telecom leadership, improving profitability and growth opportunities in broadband and artificial intelligence (AI).",
+      "headline": "Jio IPO Day 1: Issue subscribed 3 times on strong QIB push; retail portion booked 68%. Check GMP",
+      "summary": "Jio Platforms’ IPO saw strong demand on Day 1, getting booked 3 times overall. The IPO commanded a grey market premium (GMP) of around 23%, while brokerages remained optimistic, citing Jio’s telecom leadership, improving profitability and growth opportunities in broadband and artificial intelligence (AI).",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-a-bang-issue-booked-over-90-as-qibs-drive-demand-check-gmp/articleshow/135082741.cms",
       "published": "Wed, 21 Oct 2026 10:40:25 +0530",
@@ -64,14 +74,34 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Experiences Daily Decline",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-21-oct-2026/liveblog/135080527.cms",
-      "published": "Wed, 21 Oct 2026 08:20:21 +0530",
+      "headline": "Global Market: BOJ's Himino says Japan inflation near 2% target, signals further rate hikes",
+      "summary": "Bank of Japan Deputy Governor Ryozo Himino says underlying inflation is nearing the central bank’s 2% target, while accommodative financial conditions and rising cost pressures strengthen expectations of further interest rate hikes.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bojs-himino-says-japan-inflation-near-2-target-signals-further-rate-hikes/articleshow/135090643.cms",
+      "published": "Wed, 21 Oct 2026 16:46:44 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "AXISBANK"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jio Platforms' IPO-linked inflows boost rupee; elevated oil prices spur caution",
+      "summary": "The Indian rupee experienced a notable increase as Jio Platforms' IPO attracted significant foreign investments. Despite this strength, rising oil prices raised concerns among traders about the rupee's sustainability. The rupee closed at 94.46 against the dollar, with earlier gains trimmed by higher Brent crude oil prices. Analysts suggest that the upcoming RBI monetary policy might influence future exchange rates.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/jio-platforms-ipo-linked-inflows-boost-rupee-elevated-oil-prices-spur-caution/articleshow/135089592.cms",
+      "published": "Wed, 21 Oct 2026 16:07:48 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
+      "summary": "Ten BSE 500 stocks have rallied between 59% and 129% in FY27 so far as mutual funds increased their shareholding in the September 2026 quarter. Cemindia Projects, Aditya Infotech and Aegis Logistics lead the list of gainers.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
+      "published": "Wed, 21 Oct 2026 16:01:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "Global Market: UK inflation rises to 3.5% in September, boosting rate hike bets",
@@ -122,36 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
-      "summary": "Gold prices edged lower while silver fell on MCX as investors awaited the US Federal Reserve’s upcoming policy decision for clues on interest rates. Traders expect rates to remain unchanged in October, with a possible hike in December. Analysts say dollar strength may cap gold’s upside, while central bank buying supports longer-term prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
-      "published": "Wed, 21 Oct 2026 11:40:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
-      "summary": "Bajaj Finance shares dropped on Wednesday after the NBFC reported a 29% year-on-year rise in Q2FY27 net profit to Rs 6,367 crore. Nomura and Jefferies retained Buy ratings, with Jefferies cutting its target price, while 360 One WAM upgraded the stock to Buy, citing improving risk-reward and strong growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
-      "published": "Wed, 21 Oct 2026 10:47:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japanese government bond yields fall as safe-haven demand returns",
-      "summary": "Japanese government bond prices rose for a third session as attractive yields and safe-haven demand boosted investor interest. Record demand at a 20-year bond auction supported the recovery, while global yields declined. Economists expect the Bank of Japan to raise interest rates to 1.50% in December, though October rates may remain unchanged.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-government-bond-yields-fall-as-safe-haven-demand-returns/articleshow/135082602.cms",
-      "published": "Wed, 21 Oct 2026 10:34:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T10:34:20.092293+00:00",
+      "chain_fetched_at_utc": "2026-10-21T12:20:42.555618+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1210.0,
-      "change_pct": -2.1,
-      "setup_quality_score": 55.65,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T10:34:20.423439+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "ADANIPOWER",
       "price": 187.08999633789062,
       "change_pct": -3.6,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T10:34:20.770517+00:00",
+      "chain_fetched_at_utc": "2026-10-21T12:20:43.088933+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "SHRIRAMFIN",
+      "price": 904.9500122070312,
+      "change_pct": -2.33,
+      "setup_quality_score": 50.34,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-21T12:20:43.571521+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
