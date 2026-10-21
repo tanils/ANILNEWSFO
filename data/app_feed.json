@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-21T13:14:07.155719+00:00",
+  "generated_at_utc": "2026-10-21T14:05:51.272842+00:00",
   "news": [
     {
       "headline": "Global Market: Eurozone banking crisis fears return as government borrowing costs surge",
@@ -14,6 +14,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
+      "summary": "Moody’s has termed Jio Platforms’ IPO credit positive for Reliance Industries, citing debt repayment and funding flexibility. The Rs 30,200 crore issue will support investments while helping manage leverage amid elevated capital expenditure.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
+      "published": "Wed, 21 Oct 2026 19:32:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
+    {
       "headline": "Rs 30,213 crore, 100 minutes, Rs 2.5 lakh crore: How Jio IPO broke 3 records even before listing",
       "summary": "Reliance Industries’ Jio Platforms has set new IPO records, with its Rs 30,213 crore issue becoming India’s largest-ever public offering and getting fully subscribed within 100 minutes of opening. The IPO surpasses Hyundai Motor India’s Rs 27,870 crore issue in 2024. At the upper end of its Rs 1,065–1,119 price band, Jio Platforms is valued at around Rs 10.3 lakh crore. The issue closes on October 23.",
       "source": "Economic Times Markets",
@@ -24,14 +34,24 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Jio IPO or RIL shares? Where should investors bet as Ambani's Rs 30,213 crore issue opens",
-      "summary": "Jio Platforms is eyeing a staggering valuation of Rs 10 lakh crore for its upcoming IPO, sparking heated debates among analysts on whether to pursue Jio or Reliance Industries shares. The IPO holds the potential for investors to capitalize on India's booming digital economy, focusing specifically on Jio's telecommunications prowess, while Reliance offers broader sector diversification.",
+      "headline": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
+      "summary": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to banks and is set to unveil a new jewellery brand aimed at attracting younger consumers.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-or-ril-shares-where-should-investors-bet-as-ambanis-rs-30213-crore-issue-opens/articleshow/135081917.cms",
-      "published": "Wed, 21 Oct 2026 09:48:06 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
+      "published": "Wed, 21 Oct 2026 19:29:06 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "RELIANCE"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
+      "summary": "Despite the Sensex falling 143 points on Wednesday, five BSE 1000 stocks hit fresh 52-week highs. PC Jeweller led monthly gains at 45%, followed by Sky Gold and Diamonds, HFCL, South Indian Bank and Tatva Chintan Pharma Chem.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sky-gold-and-diamonds-among-5-stocks-that-hit-52-week-highs-and-rallied-up-to-45-in-a-month/slideshow/135093530.cms",
+      "published": "Wed, 21 Oct 2026 18:50:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HFCL, BSE"
     },
     {
       "headline": "Want exposure to India's biggest banks? Zerodha launches new ETF",
@@ -64,14 +84,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Indian bonds sell off on oil shock ahead of RBI policy minutes",
-      "summary": "Indian government bonds experienced a significant decline due to rising oil prices, raising concerns about inflation among investors. The benchmark bond yield has reached its highest point since March, leading to a more cautious trading environment. Additionally, consumer inflation in India rose to 5.54%, with forecasts indicating further increases in October.",
+      "headline": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-sell-off-on-oil-shock-ahead-of-rbi-policy-minutes/articleshow/135082397.cms",
-      "published": "Wed, 21 Oct 2026 10:11:16 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-jio-ipo-unlock-hidden-value-in-reliance-industries-shares/videoshow/135093782.cms",
+      "published": "Wed, 21 Oct 2026 19:05:50 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Global Market: BOJ's Himino says Japan inflation near 2% target, signals further rate hikes",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Reliance Industries shares jump 3% as Jio’s Rs 30,213 crore IPO gets fully subscribed on Day 1. What lies ahead?",
-      "summary": "Reliance Industries shares rose on Wednesday as Jio Platforms’ Rs 30,213 crore IPO was fully subscribed within an hour of opening. was fully subscribed within an hour of opening. With strong investor demand for the issue, attention is turning to Jio’s valuation, RIL’s diverse business portfolio and the potential value-unlocking opportunities for investors following the much-awaited listing.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-jump-3-as-jios-rs-30213-crore-ipo-gets-fully-subscribed-on-day-1-what-lies-ahead/articleshow/135085466.cms",
-      "published": "Wed, 21 Oct 2026 12:58:48 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Bonfiglioli Transmissions IPO allotment today; GMP signals 23% listing gain. Here's how to check status",
-      "summary": "Bonfiglioli Transmissions’ Rs 2,533.66 crore IPO was subscribed 46.05 times, with allotment expected to be finalised today. Shares are scheduled to list on the BSE and NSE on October 23, while a grey market premium of around 23% points to potential listing gains.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-allotment-today-gmp-signals-23-listing-gain-heres-how-to-check-status/articleshow/135085301.cms",
-      "published": "Wed, 21 Oct 2026 12:54:03 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T13:14:15.970890+00:00",
+      "chain_fetched_at_utc": "2026-10-21T14:06:00.808287+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T13:14:16.415841+00:00",
+      "chain_fetched_at_utc": "2026-10-21T14:06:01.282152+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-21T13:14:16.947342+00:00",
+      "chain_fetched_at_utc": "2026-10-21T14:06:01.725007+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
