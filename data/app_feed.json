@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-22T09:35:23.194740+00:00",
+  "generated_at_utc": "2026-10-22T10:37:05.161205+00:00",
   "news": [
     {
       "headline": "RIL stock: Jio's listing could unlock value, but will it drive a re-rating?",
@@ -54,6 +54,36 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Tata Motors CV Q2 Results Preview: Profit may rise up to 44% YoY, revenue 45%; margins, volume growth in focus",
+      "summary": "Tata Motors Commercial Vehicles is expected to post strong Q2FY27 revenue and profit growth, driven by 43% volume expansion. However, rising input costs, margin pressures and divergent brokerage estimates remain key investor concerns ahead of results and management commentary.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-preview-profit-may-rise-up-to-44-yoy-revenue-45-margins-volume-growth-in-focus/articleshow/135116132.cms",
+      "published": "Thu, 22 Oct 2026 16:02:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "TATAMOTORS"
+    },
+    {
+      "headline": "Jammu &amp; Kashmir Bank Q2 Results: Net profit rises over 10% YoY to Rs 546 crore, NII jumps 5% YoY",
+      "summary": "Jammu &amp; Kashmir Bank reported a 10.6% year-on-year rise in Q2 net profit to Rs 546.4 crore. Operating profit increased 26.7%, while asset quality improved, with gross NPA falling to 2.23%. Advances grew 23.7% to Rs 1.34 lakh crore, and deposits rose 16.3% to Rs 1.77 lakh crore.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jammu-kashmir-bank-q2-results-net-profit-rises-over-10-yoy-to-rs-546-crore-nii-jumps-5-yoy/articleshow/135116063.cms",
+      "published": "Thu, 22 Oct 2026 16:00:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Barclays Q3 profit rises 12% YoY, lender announces £500 million share buyback",
+      "summary": "Barclays reports a 12% rise in third-quarter pretax profit to £2.3 billion, broadly meeting expectations, and announces a £500 million share buyback. Strong equities trading and stable costs offset weaker fixed-income revenue, as investors assess the outlook for UK bank taxation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-q3-profit-rises-12-yoy-lender-announces-500-million-share-buyback/articleshow/135114665.cms",
+      "published": "Thu, 22 Oct 2026 15:06:46 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Global Market: China's yuan hits more than four-year high against dollar",
       "summary": "In a remarkable turn of events, China's yuan has surged against the US dollar, hitting levels unseen in over four years. This strength is linked to a declining dollar and prevailing central bank strategies. Although the People's Bank of China set a midpoint lower than anticipated, its actions aim to moderate currency appreciation. Analysts believe the yuan's resilience may hinge on sustained export performance and domestic demand influences.",
       "source": "Economic Times Markets",
@@ -64,7 +94,7 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Jio IPO Day 2: GMP at 22%, issue subscribed over 3.16; check brokerage views and key details",
+      "headline": "Jio IPO Day 2: Issue subscribed over 4X so far; GMP at 22%. Check brokerage views and key details",
       "summary": "Jio Platforms’ Rs 30,213 crore IPO entered Day 2 with a grey market premium of around 22%. The issue, priced at Rs 1,065–1,119 per share, closes on October 23. At the upper end, Jio is valued at around Rs 10.3 lakh crore, with brokerages citing its telecom dominance, improving profitability and growth prospects in broadband and AI.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-2-gmp-at-22-issue-subscribed-over-3-16-check-brokerage-views-and-key-details/articleshow/135106282.cms",
@@ -76,7 +106,7 @@
     {
       "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Price and Performance Overview",
       "summary": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms",
       "published": "Thu, 22 Oct 2026 08:52:34 +0530",
       "freshness": "new",
@@ -84,14 +114,14 @@
       "symbols": "HDFCBANK"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Current Trading Status",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-22-oct-2026/liveblog/135105522.cms",
-      "published": "Thu, 22 Oct 2026 08:27:24 +0530",
+      "headline": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36%",
+      "summary": "Swiggy Q2 Result: Food delivery and quick commerce company Swiggy Ltd on Thursday said its consolidated profit after tax narrowed to Rs 922 crore in the second quarter of FY27 from Rs 1,092 crore in the same quarter of last year. However, on a sequential basis, losses increased from Rs 792 crore posted in the preceding June quarter.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
+      "published": "Thu, 22 Oct 2026 15:57:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "AXISBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Swiggy shares slide over 5% ahead of Q2 results. What are analysts saying?",
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Adani Green Energy shares fall 4% after Q2 results. What are Jefferies, JM Financial saying?",
-      "summary": "Adani Green Energy reported a 15% year-on-year rise in Q2FY27 net profit to Rs 673 crore, while revenue grew 39% to Rs 4,520 crore. Shares fell 4% after the results. Jefferies maintained its Buy rating, while JM Financial retained Add, citing growth opportunities and operational challenges.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-shares-fall-4-after-q2-results-what-are-jefferies-jm-financial-saying/articleshow/135110271.cms",
-      "published": "Thu, 22 Oct 2026 12:18:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Bank of Korea holds interest rates at 3% after back-to-back hikes",
-      "summary": "The Bank of Korea kept its benchmark interest rate unchanged at 3.00% on Thursday, pausing after back-to-back 25-basis-point hikes in July and August. The decision was in line with expectations of all 34 economists surveyed by Reuters.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-holds-interest-rates-at-3-after-back-to-back-hikes/articleshow/135109341.cms",
-      "published": "Thu, 22 Oct 2026 11:38:01 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Nokia Q3 profit beats estimates on AI demand, maintains 2026 outlook",
-      "summary": "Nokia reported stronger-than-expected third-quarter operating profit and revenue growth, driven by rising demand from AI and cloud customers. Order intake from these segments surged 118% year-on-year, while the company maintained its full-year financial outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nokia-q3-profit-beats-estimates-on-ai-demand-maintains-2026-outlook/articleshow/135109366.cms",
-      "published": "Thu, 22 Oct 2026 11:36:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "HDFCBANK",
-      "price": 692.5999755859375,
-      "change_pct": -2.03,
-      "setup_quality_score": 62.59,
+      "price": 694.0499877929688,
+      "change_pct": -1.82,
+      "setup_quality_score": 63.15,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T09:35:30.799169+00:00",
+      "chain_fetched_at_utc": "2026-10-22T10:37:13.385928+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1207.0999755859375,
-      "change_pct": -0.24,
-      "setup_quality_score": 54.86,
+      "symbol": "RELIANCE",
+      "price": 1184.5,
+      "change_pct": -2.03,
+      "setup_quality_score": 57.12,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T09:35:31.054468+00:00",
+      "chain_fetched_at_utc": "2026-10-22T10:37:13.684645+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "LUPIN",
-      "price": 1916.199951171875,
-      "change_pct": -2.43,
-      "setup_quality_score": 48.64,
+      "price": 1922.0,
+      "change_pct": -2.14,
+      "setup_quality_score": 48.77,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T09:35:31.324789+00:00",
+      "chain_fetched_at_utc": "2026-10-22T10:37:14.062361+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
