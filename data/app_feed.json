@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-22T12:21:24.976263+00:00",
+  "generated_at_utc": "2026-10-22T13:11:59.851349+00:00",
   "news": [
+    {
+      "headline": "Indian bonds tumble on oil surge, RBI rate hike fears",
+      "summary": "Indian government bonds experienced a decline as the benchmark yield exceeded 7.45% on Thursday. Oil prices rose significantly, reaching $112.50 per barrel in Asian trading amid geopolitical tensions. The Reserve Bank of India has raised its repo rate to 5.50%, indicating a potential for further hikes. Inflation concerns are mounting, with expectations for retail inflation to surpass the central bank's tolerance limit.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
+      "published": "Thu, 22 Oct 2026 17:50:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Global Market: Japanese banks see rising corporate loan demand ahead of BOJ meeting",
       "summary": "Japanese banks report rising corporate funding demand despite the Bank of Japan’s 1.25% interest rate, reinforcing expectations of further monetary tightening. Persistent inflation risks, resilient lending and government concerns will shape the central bank’s upcoming policy decision.",
@@ -46,7 +56,7 @@
     {
       "headline": "Infosys Q2 results preview: Will the results provide oomph to surging IT stocks?",
       "summary": "Infosys is set to report an 11% rise in year-on-year revenues and an 8% increase in net profits. However, the company may lower its full-year revenue outlook due to declining discretionary spending and mounting pricing challenges. Analysts foresee sequential revenue growth driven by acquisitions and enhanced operating margins. The upcoming earnings report will be pivotal, offering valuable insights into client expenditures and potential recovery in demand.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-preview-will-the-results-provide-oomph-to-surging-it-stocks/articleshow/135107078.cms",
       "published": "Thu, 22 Oct 2026 09:56:16 +0530",
       "freshness": "new",
@@ -54,11 +64,21 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Global Market: South Korean shares fall over 1% as chip stocks retreat",
-      "summary": "South Korean shares fell as investors booked profits in semiconductor stocks after a sharp rally. Attention shifted to the Bank of Korea’s policy outlook, while falling government bond yields and a marginally weaker won reflected mixed sentiment across financial markets.",
+      "headline": "Sebi allows margin relief against early pay-in of securities for subsequent trades",
+      "summary": "The Securities and Exchange Board of India (Sebi) has announced a new directive that eases margin requirements for clients with a net sell obligation. This policy is particularly applicable when early pay-in requests are accepted by the clearing corporation, allowing clients to execute trades more efficiently. No margin will be collected on future trades up to the value of accepted early pay-in securities.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-over-1-as-chip-stocks-retreat/articleshow/135106872.cms",
-      "published": "Thu, 22 Oct 2026 09:45:35 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-margin-relief-against-early-pay-in-of-securities-for-subsequent-trades/articleshow/135119438.cms",
+      "published": "Thu, 22 Oct 2026 18:11:10 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "India's JSW Paints eyes 4, 5-year debt to refinance acquisition-led funding, bankers say",
+      "summary": "India's JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say/articleshow/135118523.cms",
+      "published": "Thu, 22 Oct 2026 17:48:22 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -104,14 +124,14 @@
       "symbols": "BEL"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Price and Performance Overview",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms",
-      "published": "Thu, 22 Oct 2026 08:52:34 +0530",
+      "headline": "HPCL Q2 Results: Profit slips 6% YoY to Rs 3,625 crore, revenue jumps 26%",
+      "summary": "HPCL reported Q2FY27 net profit of Rs 3,625 crore, recovering from a previous-quarter loss. Revenue rose 26.1% year-on-year, refining margins surged, fuel sales increased, and investments advanced infrastructure expansion, innovation, and green energy initiatives.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hpcl-q2-results-profit-slips-6-yoy-to-rs-3625-crore-revenue-jumps-26/articleshow/135119002.cms",
+      "published": "Thu, 22 Oct 2026 17:54:02 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Swiggy Q2 Results: Loss narrows YoY to Rs 922 crore; revenue jumps 36%",
@@ -132,47 +152,11 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "M&amp;M Financial Services shares crash 10% after Q2 results. What are Nomura and other analysts saying?",
-      "summary": "Mahindra &amp; Mahindra Financial Services shares fell sharply on despite a 55% year-on-year rise in Q2FY27 net profit to Rs 882 crore. Nomura lowered its target price to Rs 400 while retaining a Buy rating, citing asset quality concerns and rising funding costs. Motilal Oswal maintained its Buy rating.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mm-financial-services-shares-crash-10-after-q2-results-what-are-nomura-and-other-analysts-saying/articleshow/135107851.cms",
-      "published": "Thu, 22 Oct 2026 10:34:01 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Adani Total Gas Q2 Results: Net profit rises 6% YoY to Rs 173 crore, revenue jumps 34%",
-      "summary": "Adani Total Gas Q2 Results: Adani Total Gas reported a 5.9% year-on-year rise in Q2FY27 net profit to Rs 173.27 crore, while revenue from operations climbed 33.8% to Rs 2,109.65 crore. EBITDA grew 12% YoY, supported by higher CNG and PNG volumes and continued expansion of its city gas distribution network.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms",
-      "published": "Thu, 22 Oct 2026 16:19:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HDFCBANK",
-      "price": 694.0499877929688,
-      "change_pct": -1.82,
-      "setup_quality_score": 63.15,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T12:21:37.317026+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "RELIANCE",
       "price": 1184.5,
       "change_pct": -2.03,
@@ -183,7 +167,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T12:21:37.747168+00:00",
+      "chain_fetched_at_utc": "2026-10-22T13:12:08.658467+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "HDFCBANK",
+      "price": 694.0499877929688,
+      "change_pct": -1.82,
+      "setup_quality_score": 55.65,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-22T13:12:08.958435+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T12:21:38.147676+00:00",
+      "chain_fetched_at_utc": "2026-10-22T13:12:09.344116+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
