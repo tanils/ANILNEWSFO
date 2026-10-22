@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-22T10:37:05.161205+00:00",
+  "generated_at_utc": "2026-10-22T12:21:24.976263+00:00",
   "news": [
+    {
+      "headline": "Global Market: Japanese banks see rising corporate loan demand ahead of BOJ meeting",
+      "summary": "Japanese banks report rising corporate funding demand despite the Bank of Japan’s 1.25% interest rate, reinforcing expectations of further monetary tightening. Persistent inflation risks, resilient lending and government concerns will shape the central bank’s upcoming policy decision.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-banks-see-rising-corporate-loan-demand-ahead-of-boj-meeting/articleshow/135117826.cms",
+      "published": "Thu, 22 Oct 2026 17:10:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "RIL stock: Jio's listing could unlock value, but will it drive a re-rating?",
       "summary": "The anticipated IPO of Jio Platforms is likely to reshape valuation assessments for both Reliance Industries and Bharti Airtel. With Jio's market debut, Reliance may witness a decrease in its holding-company discount. Meanwhile, Airtel stands to gain from rising telecom tariffs, boosting average revenue per user and overall profitability. The enthusiasm from investors towards Jio's IPO highlights strong market confidence in the sector's trajectory.",
@@ -64,7 +74,7 @@
       "symbols": "TATAMOTORS"
     },
     {
-      "headline": "Jammu &amp; Kashmir Bank Q2 Results: Net profit rises over 10% YoY to Rs 546 crore, NII jumps 5% YoY",
+      "headline": "Jammu &amp; Kashmir Bank Q2 Results: Net profit rises over 10% YoY to Rs 546 crore, NII jumps 5%",
       "summary": "Jammu &amp; Kashmir Bank reported a 10.6% year-on-year rise in Q2 net profit to Rs 546.4 crore. Operating profit increased 26.7%, while asset quality improved, with gross NPA falling to 2.23%. Advances grew 23.7% to Rs 1.34 lakh crore, and deposits rose 16.3% to Rs 1.77 lakh crore.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jammu-kashmir-bank-q2-results-net-profit-rises-over-10-yoy-to-rs-546-crore-nii-jumps-5-yoy/articleshow/135116063.cms",
@@ -92,16 +102,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Jio IPO Day 2: Issue subscribed over 4X so far; GMP at 22%. Check brokerage views and key details",
-      "summary": "Jio Platforms’ Rs 30,213 crore IPO entered Day 2 with a grey market premium of around 22%. The issue, priced at Rs 1,065–1,119 per share, closes on October 23. At the upper end, Jio is valued at around Rs 10.3 lakh crore, with brokerages citing its telecom dominance, improving profitability and growth prospects in broadband and AI.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-2-gmp-at-22-issue-subscribed-over-3-16-check-brokerage-views-and-key-details/articleshow/135106282.cms",
-      "published": "Thu, 22 Oct 2026 09:18:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Price and Performance Overview",
@@ -144,11 +144,11 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "SoftBank-backed India's Oyo Hotels owner halves proposed IPO, filing shows",
-      "summary": "Prism, the company behind Oyo Hotels, has slashed its initial public offering (IPO) size from 66.5 billion to 33.5 billion rupees. Initially aiming for a lofty $12 billion valuation back in 2021, Prism has encountered a series of delays, including a confidential filing in March 2023 and its third postponement in May.",
+      "headline": "Adani Total Gas Q2 Results: Net profit rises 6% YoY to Rs 173 crore, revenue jumps 34%",
+      "summary": "Adani Total Gas Q2 Results: Adani Total Gas reported a 5.9% year-on-year rise in Q2FY27 net profit to Rs 173.27 crore, while revenue from operations climbed 33.8% to Rs 2,109.65 crore. EBITDA grew 12% YoY, supported by higher CNG and PNG volumes and continued expansion of its city gas distribution network.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-indias-oyo-hotels-owner-halves-proposed-ipo-filing-shows/articleshow/135106221.cms",
-      "published": "Thu, 22 Oct 2026 09:12:02 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms",
+      "published": "Thu, 22 Oct 2026 16:19:46 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T10:37:13.385928+00:00",
+      "chain_fetched_at_utc": "2026-10-22T12:21:37.317026+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T10:37:13.684645+00:00",
+      "chain_fetched_at_utc": "2026-10-22T12:21:37.747168+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T10:37:14.062361+00:00",
+      "chain_fetched_at_utc": "2026-10-22T12:21:38.147676+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
