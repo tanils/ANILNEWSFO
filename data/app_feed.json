@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-22T08:30:57.548213+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-22T09:35:23.194740+00:00",
   "news": [
+    {
+      "headline": "RIL stock: Jio's listing could unlock value, but will it drive a re-rating?",
+      "summary": "The anticipated IPO of Jio Platforms is likely to reshape valuation assessments for both Reliance Industries and Bharti Airtel. With Jio's market debut, Reliance may witness a decrease in its holding-company discount. Meanwhile, Airtel stands to gain from rising telecom tariffs, boosting average revenue per user and overall profitability. The enthusiasm from investors towards Jio's IPO highlights strong market confidence in the sector's trajectory.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ril-stock-jios-listing-could-unlock-value-but-will-it-drive-a-re-rating/articleshow/135113747.cms",
+      "published": "Thu, 22 Oct 2026 14:38:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
     {
       "headline": "Indian bonds steady after RBI minutes signal more rate hikes",
       "summary": "Indian bond yields remain steady at approximately 7.45%, influenced by growing inflation anxieties. The Reserve Bank of India recently increased the repo rate to 5.50%, hinting that further hikes may follow. With climbing oil prices and food inflation heightening economic concerns, analysts speculate another increase may occur in December, before a potential pause. The elevated energy costs pose significant challenges for India's economy, affecting the rupee and government finances.",
@@ -64,7 +74,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Price Drop Amidst High Trading Volume",
+      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Price and Performance Overview",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Indonesia imposes record $117 million in fines for stock market violations",
-      "summary": "Indonesia’s financial regulator imposed record fines of 2.1 trillion rupiah ($116.67 million) for trading violations involving three listed companies. The crackdown targets stock manipulation and IPO disclosure breaches, addressing concerns over market transparency following MSCI’s warning about potential downgrade of Indonesian equities from emerging-market status.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-imposes-record-117-million-in-fines-for-stock-market-violations/articleshow/135105734.cms",
-      "published": "Thu, 22 Oct 2026 10:59:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "HDFCBANK",
-      "price": 693.6500244140625,
-      "change_pct": -1.88,
-      "setup_quality_score": 60.04,
+      "price": 692.5999755859375,
+      "change_pct": -2.03,
+      "setup_quality_score": 62.59,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T08:31:07.863967+00:00",
+      "chain_fetched_at_utc": "2026-10-22T09:35:30.799169+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "AXISBANK",
-      "price": 1207.300048828125,
-      "change_pct": -0.22,
-      "setup_quality_score": 52.91,
+      "price": 1207.0999755859375,
+      "change_pct": -0.24,
+      "setup_quality_score": 54.86,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T08:31:08.174030+00:00",
+      "chain_fetched_at_utc": "2026-10-22T09:35:31.054468+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "LUPIN",
-      "price": 1921.5,
-      "change_pct": -2.16,
-      "setup_quality_score": 48.24,
+      "price": 1916.199951171875,
+      "change_pct": -2.43,
+      "setup_quality_score": 48.64,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T08:31:08.618639+00:00",
+      "chain_fetched_at_utc": "2026-10-22T09:35:31.324789+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
