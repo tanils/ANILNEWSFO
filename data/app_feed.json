@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-22T14:03:42.186556+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-22T14:37:51.750068+00:00",
   "news": [
     {
       "headline": "Indian bonds tumble on oil surge, RBI rate hike fears",
@@ -39,16 +39,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-after-rbi-minutes-signal-more-rate-hikes/articleshow/135109590.cms",
       "published": "Thu, 22 Oct 2026 11:47:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japanese bond yields fall to multiweek lows ahead of BOJ meeting",
-      "summary": "Japanese government bond yields fell to multiweek lows on Thursday as geopolitical tensions and inflation concerns boosted safe-haven demand. The 10-year yield dropped to 2.88%, while investors awaited the Bank of Japan’s policy meeting, with markets weighing potential rate hikes and global economic uncertainties.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-market-japanese-bond-yields-fall-to-multiweek-lows-ahead-of-boj-meeting/articleshow/135108616.cms",
-      "published": "Thu, 22 Oct 2026 11:05:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -124,6 +114,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
+      "summary": "Tesla's shares dipped by 2% after it reduced its capital spending forecast for 2026, now predicting $20 billion instead of the previous $25 billion. This move has raised eyebrows among investors, especially with Tesla's stock already down 14% this year. Yet, it still boasts a higher valuation than many traditional automakers. Meanwhile, potential merger talks with SpaceX hint at regulatory hurdles that might prolong uncertainty for investors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-slip-after-capex-cut-raises-doubts-over-musks-ai-and-robotics-push/articleshow/135121152.cms",
+      "published": "Thu, 22 Oct 2026 19:48:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "HPCL Q2 Results: Profit slips 6% YoY to Rs 3,625 crore, revenue jumps 26%",
       "summary": "HPCL reported Q2FY27 net profit of Rs 3,625 crore, recovering from a previous-quarter loss. Revenue rose 26.1% year-on-year, refining margins surged, fuel sales increased, and investments advanced infrastructure expansion, innovation, and green energy initiatives.",
       "source": "Economic Times Markets",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T14:03:50.068876+00:00",
+      "chain_fetched_at_utc": "2026-10-22T14:38:05.261586+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T14:03:50.345906+00:00",
+      "chain_fetched_at_utc": "2026-10-22T14:38:05.632552+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-22T14:03:50.661983+00:00",
+      "chain_fetched_at_utc": "2026-10-22T14:38:05.979084+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
