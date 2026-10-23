@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-23T12:03:24.393736+00:00",
+  "generated_at_utc": "2026-10-23T12:52:02.935197+00:00",
   "news": [
+    {
+      "headline": "Infosys ADRs crash 6% after Q2 results as revenue guidance cut spooks investors",
+      "summary": "Infosys ADRs fell 6.3% after the company lowered FY27 revenue growth guidance to 1-2%, despite September-quarter revenue beating estimates. Profit missed expectations, while large deal wins and AI revenue growth offered support amid cautious technology spending.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
+      "published": "Fri, 23 Oct 2026 17:33:48 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
+    },
     {
       "headline": "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
       "summary": "Infosys Q2 Results: IT services major Infosys Ltd on Friday reported 6% year-on-year (YoY) growth in its consolidated net profit at Rs 7,823 crore in the second quarter. The same stood at Rs 7,364 crore in the year-ago period. The company has trimmed its revenue growth guidance to 1-2% in constant currency for FY27 as against 1.5-3% given earlier.",
@@ -46,7 +56,7 @@
     {
       "headline": "Infosys shares jump 3% ahead of Q2 earnings announcement. What to expect?",
       "summary": "Infosys shares rose on Friday ahead of the IT major’s Q2 FY27 results, with analysts expecting an 11% year-on-year rise in revenue and an 8% increase in net profit. Investors will track management commentary on client spending, large deal wins and AI-led pricing pressure, alongside the company’s full-year revenue growth guidance.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-jump-3-ahead-of-q2-earnings-announcement-what-to-expect/articleshow/135133971.cms",
       "published": "Fri, 23 Oct 2026 09:37:46 +0530",
       "freshness": "new",
@@ -114,16 +124,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Jio IPO Day 3: GMP at 22%, issue subscribed over 5X; check brokerage views and key details",
-      "summary": "Jio Platforms’ ₹30,213 crore IPO entered its final day of bidding on October 23, with a grey market premium of around 22%, indicating positive listing sentiment. The issue was subscribed 5.57 times by the end of Day 2, while the retail portion was subscribed 1.54 times. Priced at ₹1,065–1,119 per share, the IPO values Jio at around ₹10.3 lakh crore at the upper end. Brokerages remain optimistic, citing its telecom leadership, improving profitability and growth opportunities in broadband and AI.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
-      "published": "Fri, 23 Oct 2026 10:06:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
       "summary": "Kotak Mahindra Bank is likely to report significant year-on-year growth in net profit for Q2FY27. Brokerages estimate profit after tax to rise between 27% and 31.9%, driven by strong net interest income growth. Loan and deposit growth will remain key factors influencing the bank's overall performance and profitability. Investors will closely monitor net interest margins and operating expenses for signs of sustainability.",
       "source": "Economic Times Markets",
@@ -134,14 +134,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Latest Price Update",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-23-oct-2026/liveblog/135132947.cms",
-      "published": "Fri, 23 Oct 2026 08:42:24 +0530",
+      "headline": "India's 10-year bond falls for 10th week in record slump",
+      "summary": "Indian government bonds have experienced their worst decline in thirty years, falling consecutively for ten weeks. Rising crude oil prices and a hawkish central bank stance have impacted the market negatively. The benchmark repo rate was recently raised to 5.5%, with further increases expected. The 2036 bond yield rose to 7.4740%, indicating a broader trend of increasing yields. These developments may significantly affect India's import bill and inflation outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
+      "published": "Fri, 23 Oct 2026 17:36:01 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Infosys dividend alert! IT major announces Rs 26 per share dividend. Check record date",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T12:03:34.032497+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:52:13.937327+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,23 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T12:03:34.373497+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:52:14.342029+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": 692.7999877929688,
-      "change_pct": -0.18,
-      "setup_quality_score": 52.77,
+      "symbol": "INFY",
+      "price": 1153.800048828125,
+      "change_pct": 0.04,
+      "setup_quality_score": 52.5,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T12:03:34.709739+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:52:14.717365+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
