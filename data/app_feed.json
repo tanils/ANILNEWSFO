@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-23T13:46:40.694734+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-23T14:23:09.602216+00:00",
   "news": [
     {
       "headline": "Infosys ADRs crash 6% after Q2 results as revenue guidance cut spooks investors",
@@ -66,7 +66,7 @@
     {
       "headline": "Dr Reddy’s Q2 Results: Net profit falls 36% YoY to Rs 913 crore, revenue declines marginally",
       "summary": "Dr Reddy’s Laboratories reported a 36% year-on-year profit decline to Rs 913.4 crore in Q2 FY27, while revenue slipped 1.5%. North America weakness pressured performance, offset partly by growth in India and emerging markets, alongside biosimilar approvals and strategic partnerships.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms",
       "published": "Fri, 23 Oct 2026 19:02:47 +0530",
       "freshness": "new",
@@ -136,7 +136,7 @@
     {
       "headline": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
       "summary": "Kotak Mahindra Bank is likely to report significant year-on-year growth in net profit for Q2FY27. Brokerages estimate profit after tax to rise between 27% and 31.9%, driven by strong net interest income growth. Loan and deposit growth will remain key factors influencing the bank's overall performance and profitability. Investors will closely monitor net interest margins and operating expenses for signs of sustainability.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-preview-pat-may-rise-up-to-32-yoy-margins-loan-growth-in-focus/articleshow/135134211.cms",
       "published": "Fri, 23 Oct 2026 09:54:08 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T13:46:49.699127+00:00",
+      "chain_fetched_at_utc": "2026-10-23T14:23:19.179842+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T13:46:50.034421+00:00",
+      "chain_fetched_at_utc": "2026-10-23T14:23:19.537598+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T13:46:50.387423+00:00",
+      "chain_fetched_at_utc": "2026-10-23T14:23:19.941791+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
