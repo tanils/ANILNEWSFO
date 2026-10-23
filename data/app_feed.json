@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-23T09:31:20.676632+00:00",
+  "generated_at_utc": "2026-10-23T10:29:26.427052+00:00",
   "news": [
     {
       "headline": "Infosys shares jump 3% ahead of Q2 earnings announcement. What to expect?",
@@ -14,6 +14,26 @@
       "symbols": "INFY"
     },
     {
+      "headline": "Global Market: Eurozone bond markets stabilise after volatile week",
+      "summary": "Eurozone government bonds stabilised after a volatile week as investors balanced sovereign debt concerns against safe-haven demand amid uncertainty over AI investments and global growth. French borrowing costs remain under pressure ahead of key central bank policy decisions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
+      "published": "Fri, 23 Oct 2026 15:19:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
+      "summary": "Adani Power has reported an impressive consolidated net profit of Rs 6,919 crore for the second quarter of FY27, which marks a striking 134% increase from last year's profit of Rs 2,953 crore during the same period. Additionally, their operational revenue surged to Rs 19,439 crore, representing a 45% growth from Rs 13,457 crore the previous year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
+      "published": "Fri, 23 Oct 2026 14:45:36 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ADANIPOWER"
+    },
+    {
       "headline": "Sterlite Technologies Q2 Results: Profit surges 12,817% YoY to Rs 517 crore, revenue jumps 145%",
       "summary": "Sterlite Technologies reported a 12,817% year-on-year jump in Q2 FY27 net profit to Rs 517 crore, while revenue surged 145% to a record Rs 2,529 crore. Strong demand for AI-ready digital infrastructure, improved margins and a one-time tariff refund gain supported performance, as its open order book reached Rs 35,274 crore.",
       "source": "Economic Times Markets",
@@ -22,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Q2 Results Live Updates: Adani Power Q2 profit soars 134% YoY to Rs 6,919 crore, revenue rises 45% YoY",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
+      "published": "Fri, 23 Oct 2026 12:04:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ADANIPOWER"
     },
     {
       "headline": "Safe-haven demand pushes Japan’s 10-year yield to two-month low",
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Q2 Results Live Updates: Infosys, Tata Motors, Adani Power in focus ahead of earnings today",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
-      "published": "Fri, 23 Oct 2026 12:04:58 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "TATAMOTORS, INFY, ADANIPOWER"
-    },
-    {
-      "headline": "Sensex plunges 1,200 pts from day's high, Nifty below 22,400. 4 factors behind Rs 10 lakh crore wipeout",
-      "summary": "The Sensex and Nifty extended losses on Friday as crude oil prices surged and foreign investor selling resumed. The selloff wiped out nearly Rs 10 lakh crore in market value, with smallcap and midcap stocks leading declines. Oil supply concerns and geopolitical tensions weighed on investor sentiment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-600-points-nifty-below-22450-4-key-factors-behind-rs-10-lakh-crore-wipeout/articleshow/135135895.cms",
-      "published": "Fri, 23 Oct 2026 11:10:02 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Bansal Wire Industries Q2 net profit jumps 38% to Rs 53 crore",
-      "summary": "Bansal Wire Industries reported a remarkable consolidated net profit of Rs 52.9 crore for the quarter ending in September, marking a substantial 38 percent growth compared to the previous year. The company's revenue surged by 23.9 percent, amounting to Rs 1,308.1 crore for the same period. Sales volume also experienced a 12.4 percent increase, reaching 1.29 LT, while both EBITDA and EBITDA per tonne achieved record highs this quarter.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bansal-wire-industries-q2-net-profit-jumps-38-to-rs-53-crore/articleshow/135135690.cms",
-      "published": "Fri, 23 Oct 2026 10:56:44 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "ADANIPOWER",
-      "price": 182.4600067138672,
-      "change_pct": -1.52,
-      "setup_quality_score": 61.52,
+      "price": 182.0399932861328,
+      "change_pct": -1.74,
+      "setup_quality_score": 64.23,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T09:31:30.884149+00:00",
+      "chain_fetched_at_utc": "2026-10-23T10:29:35.992517+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": 690.9000244140625,
-      "change_pct": -0.45,
-      "setup_quality_score": 53.17,
+      "symbol": "SHRIRAMFIN",
+      "price": 865.0,
+      "change_pct": -3.98,
+      "setup_quality_score": 55.05,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T09:31:31.321043+00:00",
+      "chain_fetched_at_utc": "2026-10-23T10:29:36.309898+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HEROMOTOCO",
-      "price": 5030.5,
-      "change_pct": -1.9,
-      "setup_quality_score": 52.35,
+      "symbol": "HDFCBANK",
+      "price": 692.7999877929688,
+      "change_pct": -0.18,
+      "setup_quality_score": 52.77,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T09:31:31.723442+00:00",
+      "chain_fetched_at_utc": "2026-10-23T10:29:36.641966+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
