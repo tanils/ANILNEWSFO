@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-23T08:27:16.278635+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-23T09:31:20.676632+00:00",
   "news": [
     {
       "headline": "Infosys shares jump 3% ahead of Q2 earnings announcement. What to expect?",
@@ -14,11 +14,11 @@
       "symbols": "INFY"
     },
     {
-      "headline": "Core4 Engineers SME IPO opens today: Check price band and other key details",
-      "summary": "Core4 Engineers’ Rs 54.82 crore SME IPO opens on October 23, 2026, and closes on October 27. Priced at Rs 88–93 per share, proceeds will fund working capital, facility acquisition, and corporate purposes. The company reported FY26 revenue of Rs 92 crore and profit of Rs 2 crore, reflecting strong annual growth.",
+      "headline": "Sterlite Technologies Q2 Results: Profit surges 12,817% YoY to Rs 517 crore, revenue jumps 145%",
+      "summary": "Sterlite Technologies reported a 12,817% year-on-year jump in Q2 FY27 net profit to Rs 517 crore, while revenue surged 145% to a record Rs 2,529 crore. Strong demand for AI-ready digital infrastructure, improved margins and a one-time tariff refund gain supported performance, as its open order book reached Rs 35,274 crore.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/core4-engineers-sme-ipo-opens-today-check-price-band-and-other-key-details/articleshow/135133511.cms",
-      "published": "Fri, 23 Oct 2026 09:08:07 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-technologies-q2-results-profit-surges-12817-yoy-to-rs-517-crore-revenue-jumps-145/articleshow/135140910.cms",
+      "published": "Fri, 23 Oct 2026 14:27:35 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -84,6 +84,16 @@
       "symbols": "HDFCBANK"
     },
     {
+      "headline": "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
+      "summary": "The market capitalisation of BSE-listed companies fell below Rs 450 lakh crore for the first time since April as Sensex and Nifty extended losses for a fourth straight session. Nearly Rs 25 lakh crore has been wiped out this week, with soaring crude prices and rising bond yields weighing on sentiment.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms",
+      "published": "Fri, 23 Oct 2026 13:59:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL, BSE"
+    },
+    {
       "headline": "Global Market: Bank Indonesia defends policy mix after market confusion",
       "summary": "Bank Indonesia has defended its latest policy package combining an unchanged benchmark rate, a higher deposit facility rate and reserve requirement cuts. The central bank says the measures aim to improve monetary policy transmission, boost banking liquidity and support credit growth.",
       "source": "Economic Times Markets",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan’s core inflation accelerates, putting BOJ rate hikes in focus",
-      "summary": "Japan’s core inflation rises to 2.1% in September, exceeding the Bank of Japan’s 2% target for the first time in nine months. Higher energy costs, yen weakness and AI-related demand could strengthen the case for further interest rate hikes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japans-core-inflation-accelerates-putting-boj-rate-hikes-in-focus/articleshow/135135200.cms",
-      "published": "Fri, 23 Oct 2026 10:42:44 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "ADANIPOWER",
-      "price": 177.1999969482422,
-      "change_pct": -4.36,
-      "setup_quality_score": 60.9,
+      "price": 182.4600067138672,
+      "change_pct": -1.52,
+      "setup_quality_score": 61.52,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T08:27:24.210319+00:00",
+      "chain_fetched_at_utc": "2026-10-23T09:31:30.884149+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HEROMOTOCO",
-      "price": 5038.5,
-      "change_pct": -1.75,
-      "setup_quality_score": 52.12,
+      "symbol": "HDFCBANK",
+      "price": 690.9000244140625,
+      "change_pct": -0.45,
+      "setup_quality_score": 53.17,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T08:27:24.549457+00:00",
+      "chain_fetched_at_utc": "2026-10-23T09:31:31.321043+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "INFY",
-      "price": 1163.0999755859375,
-      "change_pct": 0.85,
-      "setup_quality_score": 50.27,
+      "symbol": "HEROMOTOCO",
+      "price": 5030.5,
+      "change_pct": -1.9,
+      "setup_quality_score": 52.35,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T08:27:24.979204+00:00",
+      "chain_fetched_at_utc": "2026-10-23T09:31:31.723442+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
