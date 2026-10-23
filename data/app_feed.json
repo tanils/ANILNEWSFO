@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-23T14:23:09.602216+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-23T19:33:29.937089+00:00",
   "news": [
+    {
+      "headline": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
+      "summary": "Shriram Finance reported a 59.4% year-on-year rise in Q2 FY27 standalone profit to Rs 3,677 crore, driven by higher net interest income and lower funding costs. Assets under management grew 17%, while the board declared an interim dividend of Rs 6.50 per share.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
+      "published": "Fri, 23 Oct 2026 21:35:28 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SHRIRAMFIN"
+    },
     {
       "headline": "Infosys ADRs crash 6% after Q2 results as revenue guidance cut spooks investors",
       "summary": "Infosys ADRs fell 6.3% after the company lowered FY27 revenue growth guidance to 1-2%, despite September-quarter revenue beating estimates. Profit missed expectations, while large deal wins and AI revenue growth offered support amid cautious technology spending.",
@@ -64,6 +74,36 @@
       "symbols": "INFY"
     },
     {
+      "headline": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+      "summary": "Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ₹23,930 crore, up 42% from the previous year. Improved demand was driven by higher fleet utilization and industrial activity, according to managing director Girish Wagh. Consolidated profit also increased to ₹1,257 crore, aided by a drop in mark-to-market losses.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+      "published": "Sat, 24 Oct 2026 00:38:33 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "TATAMOTORS"
+    },
+    {
+      "headline": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
+      "summary": "Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore, supported by business growth, higher margins and improved gross asset quality. The bank raised its annual profit growth guidance to 100%, while loans and deposits expanded.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
+      "published": "Fri, 23 Oct 2026 21:30:28 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI does not target any specific Rupee level, focuses on curbing volatility, says Governor Sanjay Malhotra",
+      "summary": "Reserve Bank of India (RBI) Governor Sanjay Malhotra on Friday said the central bank does not target any specific exchange rate or level for the rupee against the US dollar, stressing that its primary objective is to ensure orderly conditions in the foreign exchange market and prevent excessive volatility.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
+      "published": "Fri, 23 Oct 2026 19:38:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Dr Reddy’s Q2 Results: Net profit falls 36% YoY to Rs 913 crore, revenue declines marginally",
       "summary": "Dr Reddy’s Laboratories reported a 36% year-on-year profit decline to Rs 913.4 crore in Q2 FY27, while revenue slipped 1.5%. North America weakness pressured performance, offset partly by growth in India and emerging markets, alongside biosimilar approvals and strategic partnerships.",
       "source": "Economic Times Markets",
@@ -112,94 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Infinx plans $300 million IPO in India, appoints three bankers",
-      "summary": "Infinx Technology Solutions has appointed Kotak Mahindra Capital, Nomura and Avendus to manage its proposed $300 million IPO, targeting FY28. Backed by KKR and Norwest Venture Partners, the healthcare IT firm provides AI-powered revenue cycle management services and has expanded through strategic investments and acquisitions, including i3 Verticals’ healthcare business.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/infinx-plans-300-million-ipo-in-india-appoints-three-bankers/articleshow/135137145.cms",
-      "published": "Fri, 23 Oct 2026 11:43:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rs 9,000 crore wiped out in a day: Why Swiggy investors are losing patience with Instamart",
-      "summary": "Swiggy shares plunged on Friday, wiping out around ₹9,000 crore in market value as widening Instamart losses overshadowed food delivery growth. Following Q2 results, brokerages cut their price targets, citing deteriorating quick-commerce profitability. Instamart’s adjusted EBITDA loss widened to ₹895 crore from ₹778 crore, while its contribution margin deteriorated to -1.4% despite 13.4% sequential growth in net order value.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
-      "published": "Fri, 23 Oct 2026 11:19:34 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
-      "summary": "Kotak Mahindra Bank is likely to report significant year-on-year growth in net profit for Q2FY27. Brokerages estimate profit after tax to rise between 27% and 31.9%, driven by strong net interest income growth. Loan and deposit growth will remain key factors influencing the bank's overall performance and profitability. Investors will closely monitor net interest margins and operating expenses for signs of sustainability.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-preview-pat-may-rise-up-to-32-yoy-margins-loan-growth-in-focus/articleshow/135134211.cms",
-      "published": "Fri, 23 Oct 2026 09:54:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India's 10-year bond falls for 10th week in record slump",
-      "summary": "Indian government bonds have experienced their worst decline in thirty years, falling consecutively for ten weeks. Rising crude oil prices and a hawkish central bank stance have impacted the market negatively. The benchmark repo rate was recently raised to 5.5%, with further increases expected. The 2036 bond yield rose to 7.4740%, indicating a broader trend of increasing yields. These developments may significantly affect India's import bill and inflation outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
-      "published": "Fri, 23 Oct 2026 17:36:01 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ADANIPOWER",
-      "price": 182.0399932861328,
-      "change_pct": -1.74,
-      "setup_quality_score": 64.23,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T14:23:19.179842+00:00",
+      "chain_fetched_at_utc": "2026-10-23T19:33:41.963543+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "SHRIRAMFIN",
-      "price": 865.0,
-      "change_pct": -3.98,
-      "setup_quality_score": 55.05,
+      "symbol": "ADANIPOWER",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T14:23:19.537598+00:00",
+      "chain_fetched_at_utc": "2026-10-23T19:33:42.413540+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "INFY",
-      "price": 1153.800048828125,
-      "change_pct": 0.04,
-      "setup_quality_score": 52.5,
+      "symbol": "SHRIRAMFIN",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T14:23:19.941791+00:00",
+      "chain_fetched_at_utc": "2026-10-23T19:33:42.786822+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
