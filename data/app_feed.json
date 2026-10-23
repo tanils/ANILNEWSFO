@@ -1,8 +1,48 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-23T10:29:26.427052+00:00",
+  "generated_at_utc": "2026-10-23T12:03:24.393736+00:00",
   "news": [
+    {
+      "headline": "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
+      "summary": "Infosys Q2 Results: IT services major Infosys Ltd on Friday reported 6% year-on-year (YoY) growth in its consolidated net profit at Rs 7,823 crore in the second quarter. The same stood at Rs 7,364 crore in the year-ago period. The company has trimmed its revenue growth guidance to 1-2% in constant currency for FY27 as against 1.5-3% given earlier.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135143193.cms",
+      "published": "Fri, 23 Oct 2026 16:21:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
+    },
+    {
+      "headline": "IndusInd Bank Q2 Results: Lender posts profit of Rs 1,176 crore vs Rs 445 crore loss a year ago",
+      "summary": "In the second quarter of this fiscal year, IndusInd Bank reported a standalone net profit of Rs 1,176 crore, showcasing a remarkable turnaround from a loss of Rs 445 crore in the same quarter last year. The bank's net interest income increased by 4% year-on-year to Rs 4,569 crore, driven by enhanced asset quality, while gross non-performing assets decreased to 2.73% of gross advances, indicating robust profitability and growth momentum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms",
+      "published": "Fri, 23 Oct 2026 16:13:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Tata Motors CV Q2 Results: Co swings to black with  Rs 1,254 crore profit; revenue jumps 37% YoY",
+      "summary": "Tata Motors CV Q2 Results: The improvement in profitability was driven by lower mark-to-market losses on investments in Tata Capital Ltd. The company reported a strong net cash position of Rs 15,900 crore as of September 30, 2026.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-automaker-swings-to-black-with-rs-1254-crore-profit-revenue-jumps-37-yoy/articleshow/135142700.cms",
+      "published": "Fri, 23 Oct 2026 16:13:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "TATAMOTORS"
+    },
+    {
+      "headline": "Infosys Q2 Results Live Updates: Infosys Q2 net profit jumps 6% YoY to Rs 7,823 crore, revenue rises 11%; co declares interim dividend of Rs 26/sh",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
+      "published": "Fri, 23 Oct 2026 12:04:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
+    },
     {
       "headline": "Infosys shares jump 3% ahead of Q2 earnings announcement. What to expect?",
       "summary": "Infosys shares rose on Friday ahead of the IT major’s Q2 FY27 results, with analysts expecting an 11% year-on-year rise in revenue and an 8% increase in net profit. Investors will track management commentary on client spending, large deal wins and AI-led pricing pressure, alongside the company’s full-year revenue growth guidance.",
@@ -42,16 +82,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Q2 Results Live Updates: Adani Power Q2 profit soars 134% YoY to Rs 6,919 crore, revenue rises 45% YoY",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
-      "published": "Fri, 23 Oct 2026 12:04:58 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ADANIPOWER"
     },
     {
       "headline": "Safe-haven demand pushes Japan’s 10-year yield to two-month low",
@@ -114,44 +144,14 @@
       "symbols": "HDFCBANK"
     },
     {
-      "headline": "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
-      "summary": "The market capitalisation of BSE-listed companies fell below Rs 450 lakh crore for the first time since April as Sensex and Nifty extended losses for a fourth straight session. Nearly Rs 25 lakh crore has been wiped out this week, with soaring crude prices and rising bond yields weighing on sentiment.",
+      "headline": "Infosys dividend alert! IT major announces Rs 26 per share dividend. Check record date",
+      "summary": "Infosys has declared an interim dividend of Rs 26 per equity share for its shareholders. The record date for this dividend is set for November 3, with payment scheduled for November 11. This announcement follows a final dividend of Rs 25 per share declared in June.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms",
-      "published": "Fri, 23 Oct 2026 13:59:38 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-dividend-alert-it-major-announces-rs-26-per-share-dividend-check-record-date/articleshow/135143574.cms",
+      "published": "Fri, 23 Oct 2026 16:36:19 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BEL, BSE"
-    },
-    {
-      "headline": "Global Market: Bank Indonesia defends policy mix after market confusion",
-      "summary": "Bank Indonesia has defended its latest policy package combining an unchanged benchmark rate, a higher deposit facility rate and reserve requirement cuts. The central bank says the measures aim to improve monetary policy transmission, boost banking liquidity and support credit growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-indonesia-defends-policy-mix-after-market-confusion/articleshow/135139934.cms",
-      "published": "Fri, 23 Oct 2026 13:37:42 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq CEO flags IPO slowdown amid market volatility",
-      "summary": "The IPO market is grappling with hurdles stemming from macroeconomic instability and fluctuating market conditions that are influencing corporate strategies. Numerous firms have either delayed or abandoned their public listing intentions lately. Nevertheless, Nasdaq maintains a sturdy and vibrant pipeline for future listings, even as analysts caution that a revival in IPO activity likely won't materialize until 2026 without a surge in investor interest.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-ceo-flags-ipo-slowdown-amid-market-volatility/articleshow/135139313.cms",
-      "published": "Fri, 23 Oct 2026 13:12:25 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Cyient shares rally 9% after Q2 revenue rises 25%; board declares Rs 12/sh interim dividend",
-      "summary": "Cyient shares surged on Friday after the company reported a 25% year-on-year rise in consolidated revenue to Rs 2,235 crore in Q2 FY27. Net profit declined 8% to Rs 132 crore. The board declared an interim dividend of Rs 12 per share, while its DET business reported stronger revenue and order intake.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-rally-9-after-q2-revenue-rises-25-board-declares-rs-12/sh-interim-dividend/articleshow/135137782.cms",
-      "published": "Fri, 23 Oct 2026 12:15:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "INFY"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T10:29:35.992517+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:03:34.032497+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T10:29:36.309898+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:03:34.373497+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-23T10:29:36.641966+00:00",
+      "chain_fetched_at_utc": "2026-10-23T12:03:34.709739+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
