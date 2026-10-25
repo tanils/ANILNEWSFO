@@ -1,22 +1,32 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-24T18:21:55.183734+00:00",
+  "generated_at_utc": "2026-10-25T18:33:44.908765+00:00",
   "news": [
+    {
+      "headline": "Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
+      "summary": "Recently, the market witnessed a downturn, with eight of the leading firms in India suffering major valuation losses. The declines of HDFC Bank and Bajaj Finance were particularly striking. The BSE Sensex plummeted by 1,605.44 points, indicating a bearish atmosphere across equities. While Tata Consultancy Services and Larsen &amp; Toubro showed some gains, the overall trend remained negative.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+      "published": "Sun, 25 Oct 2026 13:57:13 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK, BSE"
+    },
     {
       "headline": "Infosys upbeat on deals, cautious on growth as competition intensifies",
       "summary": "Infosys released its quarterly results, showing good revenue growth and stable operating margins. However, the management reduced the annual revenue guidance due to competitive pressures. The company secured a significant $2 billion deal, boosting its total contract value to $5.2 billion. Despite positive performance from some sectors, weaknesses in others contributed to the cautious outlook. The market response led to a rise in the stock price, affecting valuation metrics.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-guidance-shock-may-hit-stock-despite-numbers-bounce/articleshow/135160426.cms",
       "published": "Sat, 24 Oct 2026 08:24:06 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "INFY"
     },
     {
       "headline": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
       "summary": "Shriram Finance reported a 59.4% year-on-year rise in Q2 FY27 standalone profit to Rs 3,677 crore, driven by higher net interest income and lower funding costs. Assets under management grew 17%, while the board declared an interim dividend of Rs 6.50 per share.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
       "published": "Fri, 23 Oct 2026 21:35:28 +0530",
       "freshness": "recent",
@@ -44,24 +54,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Tata Motors CV Q2 Results: Co swings to black with  Rs 1,254 crore profit; revenue jumps 37% YoY",
-      "summary": "Tata Motors CV Q2 Results: The improvement in profitability was driven by lower mark-to-market losses on investments in Tata Capital Ltd. The company reported a strong net cash position of Rs 15,900 crore as of September 30, 2026.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-automaker-swings-to-black-with-rs-1254-crore-profit-revenue-jumps-37-yoy/articleshow/135142700.cms",
-      "published": "Fri, 23 Oct 2026 16:13:02 +0530",
-      "freshness": "recent",
+      "headline": "Swiggy may rebound to Rs 190, but charts do not signal a trend reversal: LKP’s Vatsal Bhuva",
+      "summary": "LKP Securities’ Vatsal Bhuva sees continued downside risks for Nifty and Bank Nifty, while identifying potential rebounds in Swiggy and HDFC Bank. He also recommends Oriental Hotels and Apollo Hospitals, citing improving technical indicators and favourable chart setups.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
+      "published": "Sun, 25 Oct 2026 11:11:46 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "TATAMOTORS"
-    },
-    {
-      "headline": "Infosys Q2 Results Live Updates: Infosys Q2 net profit jumps 6% YoY to Rs 7,823 crore, revenue rises 11%; co declares interim dividend of Rs 26/sh",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
-      "published": "Fri, 23 Oct 2026 12:04:58 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "INFY"
+      "symbols": "HDFCBANK"
     },
     {
       "headline": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
@@ -69,7 +69,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
       "published": "Sat, 24 Oct 2026 13:54:37 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -79,7 +79,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
       "published": "Sat, 24 Oct 2026 11:01:13 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -89,7 +89,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-posts-rs-1242-crore-net-profit-on-lower-provisions/articleshow/135160532.cms",
       "published": "Sat, 24 Oct 2026 08:30:04 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -99,7 +99,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
       "published": "Sat, 24 Oct 2026 00:38:33 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "TATAMOTORS"
     },
@@ -109,26 +109,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135160884.cms",
       "published": "Sat, 24 Oct 2026 00:21:12 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
       "summary": "Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore, supported by business growth, higher margins and improved gross asset quality. The bank raised its annual profit growth guidance to 100%, while loans and deposits expanded.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
       "published": "Fri, 23 Oct 2026 21:30:28 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "RBI does not target any specific Rupee level, focuses on curbing volatility, says Governor Sanjay Malhotra",
-      "summary": "Reserve Bank of India (RBI) Governor Sanjay Malhotra on Friday said the central bank does not target any specific exchange rate or level for the rupee against the US dollar, stressing that its primary objective is to ensure orderly conditions in the foreign exchange market and prevent excessive volatility.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
-      "published": "Fri, 23 Oct 2026 19:38:55 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -144,35 +134,29 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
-      "summary": "Adani Power has reported an impressive consolidated net profit of Rs 6,919 crore for the second quarter of FY27, which marks a striking 134% increase from last year's profit of Rs 2,953 crore during the same period. Additionally, their operational revenue surged to Rs 19,439 crore, representing a 45% growth from Rs 13,457 crore the previous year.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
-      "published": "Fri, 23 Oct 2026 14:45:36 +0530",
-      "freshness": "recent",
+      "headline": "Dividends &amp; stock splits: L&amp;T Tech, Shriram Finance among 24 stocks turning ex-record date this week. Do you own?",
+      "summary": "As many as 24 companies will turn ex-record date for dividends, stock splits and rights issues during the week starting October 26. Key names include Shriram Finance, CRISIL, Cyient, Chennai Petroleum and L&amp;T Technology Services.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-lt-tech-shriram-finance-among-24-stocks-turning-ex-record-date-this-week-do-you-own/articleshow/135183913.cms",
+      "published": "Sun, 25 Oct 2026 10:48:18 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ADANIPOWER"
+      "symbols": "SHRIRAMFIN"
+    },
+    {
+      "headline": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
+      "summary": "IDFC First Bank’s Q2 net profit tripled to Rs 1,045 crore, supported by strong loan and fee growth. Net interest income rose 21%, while net interest margin declined to 5.6%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
+      "published": "Sun, 25 Oct 2026 09:41:15 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ADANIPOWER",
-      "price": 182.0399932861328,
-      "change_pct": -1.74,
-      "setup_quality_score": 64.23,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-24T18:22:06.454436+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "SHRIRAMFIN",
       "price": 865.0,
       "change_pct": -3.98,
@@ -183,23 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-24T18:22:06.866075+00:00",
+      "chain_fetched_at_utc": "2026-10-25T18:33:53.681533+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 3,
-      "symbol": "INFY",
-      "price": 1153.800048828125,
-      "change_pct": 0.04,
-      "setup_quality_score": 52.5,
+      "rank": 2,
+      "symbol": "ADANIPOWER",
+      "price": 182.0399932861328,
+      "change_pct": -1.74,
+      "setup_quality_score": 62.73,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-24T18:22:07.214060+00:00",
+      "chain_fetched_at_utc": "2026-10-25T18:33:54.214512+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "HDFCBANK",
+      "price": 692.7999877929688,
+      "change_pct": -0.18,
+      "setup_quality_score": 54.27,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-25T18:33:54.526584+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
