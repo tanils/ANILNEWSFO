@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-26T16:17:36.651327+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-26T20:45:46.318934+00:00",
   "news": [
     {
       "headline": "India bonds give up gains as high oil prices weigh",
@@ -42,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ADANIPORTS"
+    },
+    {
+      "headline": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "summary": "Indian stock markets saw a notable recovery after early losses on Monday. Sensex rose nearly 483 points, while Nifty gained over 153 points during the trading session. This rebound followed a four-day decline that significantly impacted investor wealth. Analysts noted value buying supported the recovery, particularly in sectors like power, healthcare, and metals. Despite this, caution prevailed due to geopolitical uncertainties and upcoming policy decisions from major global banks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms",
+      "published": "Mon, 26 Oct 2026 22:08:34 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
@@ -114,16 +124,6 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Global Market: Japan bond yields edge higher ahead of key central bank meetings",
-      "summary": "Japanese government bond yields edged higher as investors assessed the monetary-policy outlook ahead of meetings by the Bank of Japan and the US Federal Reserve. Markets expected both central banks to keep rates unchanged while monitoring signals about possible December rate increases, inflation and economic growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
-      "published": "Mon, 26 Oct 2026 11:39:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "AU Small Finance Bank shares tumble 10% after Q2 results, but Jefferies and Motilal see up to 37% upside",
       "summary": "AU Small Finance Bank shares fell up to 10% despite a 53% year-on-year rise in Q2 net profit. Jefferies and Motilal Oswal retained Buy ratings, citing growth prospects, improving asset quality and lower credit costs.",
       "source": "Economic Times Stocks",
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "TATAPOWER",
-      "price": 338.5,
-      "change_pct": -2.76,
-      "setup_quality_score": 66.64,
+      "symbol": "ADANIPORTS",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T16:17:46.383921+00:00",
+      "chain_fetched_at_utc": "2026-10-26T20:45:57.946223+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "SHRIRAMFIN",
-      "price": 825.0,
-      "change_pct": -4.62,
-      "setup_quality_score": 61.13,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T16:17:46.779293+00:00",
+      "chain_fetched_at_utc": "2026-10-26T20:45:58.352060+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "KOTAKBANK",
-      "price": 440.75,
-      "change_pct": 2.38,
-      "setup_quality_score": 50.57,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T16:17:47.236071+00:00",
+      "chain_fetched_at_utc": "2026-10-26T20:45:58.725104+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
