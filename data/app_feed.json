@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-26T10:27:03.753372+00:00",
+  "generated_at_utc": "2026-10-26T11:31:22.858000+00:00",
   "news": [
+    {
+      "headline": "Asia-focused banks face bond market risks ahead of Q3 earnings",
+      "summary": "Asia-focused banks face mounting pressure from rising bond yields, inflation and currency volatility ahead of third-quarter earnings. HSBC, Standard Chartered and DBS confront profitability and capital risks, while Japanese and Southeast Asian lenders navigate bond losses, funding pressures and economic uncertainty.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
+      "published": "Mon, 26 Oct 2026 16:18:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "French bond selloff eases as country spared ratings downgrade",
       "summary": "On Monday, the selloff in French government bonds paused after Moody's maintained its rating of Aa3. Weekend protests were mostly peaceful, reducing tensions in the country. France's 10-year OAT yield fell following a rise to its highest level since June 2002. The focus now turns to the European Central Bank's upcoming policy decision on Thursday. Analysts expect the ECB to monitor the rising yields closely and evaluate their impact.",
@@ -16,7 +26,7 @@
     {
       "headline": "Sensex jumps 1,100 pts from day’s low, Nifty closes above 22,750 as D-St rebounds after 4-day losses. Is this relief rally sustainable?",
       "summary": "On Monday, the Indian stock market experienced a notable rebound, with the Sensex and Nifty indices recovering about 2% after previous declines. Major players like Kotak Mahindra Bank and Adani Ports contributed to this surge, boosting investor confidence. However, analysts caution against potential risks due to rising crude oil prices and economic uncertainties, indicating that while there's room for recovery, careful stock selection remains essential.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
       "published": "Mon, 26 Oct 2026 10:22:44 +0530",
       "freshness": "new",
@@ -126,7 +136,7 @@
     {
       "headline": "IndusInd Bank shares rise 2% after Q2 results. Why Jefferies cut target price despite lender swinging to profit",
       "summary": "IndusInd Bank announced a net profit of Rs 1,176 crore for the quarter ending September 2027. The bank's asset quality improved with gross non-performing assets declining to 2.73% from 3.6% a year earlier. Jefferies adjusted its target price for the bank's shares down to Rs 1,130 due to changing credit cost expectations. Motilal Oswal maintained a neutral stance with a target price of Rs 1,050, indicating a positive outlook.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
       "published": "Mon, 26 Oct 2026 09:22:32 +0530",
       "freshness": "new",
@@ -134,7 +144,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Position",
       "summary": "",
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-26-oct-2026/liveblog/135201707.cms",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Swiggy shares jump 5% a day after Q2 results sparked a 17% crash. Why brokerages remain bullish despite target price cuts",
-      "summary": "Swiggy shares rebounded nearly 5% after plunging 17% following its Q2FY27 results. While food delivery profitability improved, widening Instamart losses prompted Jefferies and Nomura to cut target prices, even as brokerages retained bullish ratings.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
-      "published": "Mon, 26 Oct 2026 12:43:51 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T10:27:11.705135+00:00",
+      "chain_fetched_at_utc": "2026-10-26T11:31:36.788852+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T10:27:12.113334+00:00",
+      "chain_fetched_at_utc": "2026-10-26T11:31:37.271329+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T10:27:12.470337+00:00",
+      "chain_fetched_at_utc": "2026-10-26T11:31:37.668122+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
