@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-26T15:26:38.643686+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-26T16:17:36.651327+00:00",
   "news": [
     {
       "headline": "India bonds give up gains as high oil prices weigh",
@@ -42,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ADANIPORTS"
+    },
+    {
+      "headline": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
+      "summary": "Tamilnad Mercantile Bank has set a remarkable milestone with a net profit of Rs 451 crore for the quarter from July to September. This success is buoyed by a substantial rise in interest income, totaling Rs 1,820 crore compared to the same period last year. Managing Director Salee Sukumaran Nair emphasized the role of net interest income in driving this profit.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms",
+      "published": "Mon, 26 Oct 2026 20:56:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Mahindra Bank shares climb 4% after Q2 results. What are Jefferies, Goldman Sachs saying?",
-      "summary": "Kotak Mahindra Bank reported strong Q2FY27 earnings, with consolidated profit rising 26% year-on-year. Jefferies, Goldman Sachs, Motilal Oswal and Nuvama maintained Buy ratings, citing growth prospects and improving earnings outlook.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
-      "published": "Mon, 26 Oct 2026 09:36:22 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T15:26:50.214569+00:00",
+      "chain_fetched_at_utc": "2026-10-26T16:17:46.383921+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T15:26:50.638918+00:00",
+      "chain_fetched_at_utc": "2026-10-26T16:17:46.779293+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T15:26:50.740712+00:00",
+      "chain_fetched_at_utc": "2026-10-26T16:17:47.236071+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
