@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-26T11:31:22.858000+00:00",
+  "generated_at_utc": "2026-10-26T13:30:59.424791+00:00",
   "news": [
+    {
+      "headline": "India bonds give up gains as high oil prices weigh",
+      "summary": "Indian government bonds declined on Monday due to rising oil prices affecting market sentiment and the rupee. The rupee fell for the third consecutive day, adding pressure on bond yields and currency. India's central bank is expected to consider interest rate hikes to stabilize the currency amidst inflation concerns. The Reserve Bank of India has raised its inflation forecast, anticipating a peak of 6% in consumer prices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-gains-as-high-oil-prices-weigh/articleshow/135211224.cms",
+      "published": "Mon, 26 Oct 2026 17:21:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Asia-focused banks face bond market risks ahead of Q3 earnings",
       "summary": "Asia-focused banks face mounting pressure from rising bond yields, inflation and currency volatility ahead of third-quarter earnings. HSBC, Standard Chartered and DBS confront profitability and capital risks, while Japanese and Southeast Asian lenders navigate bond losses, funding pressures and economic uncertainty.",
@@ -32,6 +42,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ADANIPORTS"
+    },
+    {
+      "headline": "Yes Bank among 6 stocks to hit 52-week lows and fall up to 32% in a month",
+      "summary": "Despite the Sensex gaining 483 points to close at 73,606, six BSE 100 stocks hit fresh 52-week lows. Yes Bank led monthly declines, followed by Power Finance Corporation, Tata Power, Canara Bank, Tata Consumer Products and Godrej Consumer Products.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-6-stocks-to-hit-52-week-lows-and-fall-up-to-32-in-a-month/slideshow/135212417.cms",
+      "published": "Mon, 26 Oct 2026 18:13:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "TATAPOWER, BSE"
     },
     {
       "headline": "Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1",
@@ -126,37 +146,33 @@
     {
       "headline": "Kotak Mahindra Bank shares climb 4% after Q2 results. What are Jefferies, Goldman Sachs saying?",
       "summary": "Kotak Mahindra Bank reported strong Q2FY27 earnings, with consolidated profit rising 26% year-on-year. Jefferies, Goldman Sachs, Motilal Oswal and Nuvama maintained Buy ratings, citing growth prospects and improving earnings outlook.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
       "published": "Mon, 26 Oct 2026 09:36:22 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IndusInd Bank shares rise 2% after Q2 results. Why Jefferies cut target price despite lender swinging to profit",
-      "summary": "IndusInd Bank announced a net profit of Rs 1,176 crore for the quarter ending September 2027. The bank's asset quality improved with gross non-performing assets declining to 2.73% from 3.6% a year earlier. Jefferies adjusted its target price for the bank's shares down to Rs 1,130 due to changing credit cost expectations. Motilal Oswal maintained a neutral stance with a target price of Rs 1,050, indicating a positive outlook.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
-      "published": "Mon, 26 Oct 2026 09:22:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Position",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-26-oct-2026/liveblog/135201707.cms",
-      "published": "Mon, 26 Oct 2026 08:40:05 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
+      "symbol": "TATAPOWER",
+      "price": 338.5,
+      "change_pct": -2.76,
+      "setup_quality_score": 66.64,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-10-26T13:31:13.106775+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
       "symbol": "SHRIRAMFIN",
       "price": 825.0,
       "change_pct": -4.62,
@@ -167,12 +183,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T11:31:36.788852+00:00",
+      "chain_fetched_at_utc": "2026-10-26T13:31:13.540961+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 2,
+      "rank": 3,
       "symbol": "KOTAKBANK",
       "price": 440.75,
       "change_pct": 2.38,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T11:31:37.271329+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "BSE",
-      "price": 3359.0,
-      "change_pct": 3.97,
-      "setup_quality_score": 50.45,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T11:31:37.668122+00:00",
+      "chain_fetched_at_utc": "2026-10-26T13:31:13.959635+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
