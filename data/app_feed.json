@@ -1,8 +1,48 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-26T08:47:07.381825+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-26T10:27:03.753372+00:00",
   "news": [
+    {
+      "headline": "French bond selloff eases as country spared ratings downgrade",
+      "summary": "On Monday, the selloff in French government bonds paused after Moody's maintained its rating of Aa3. Weekend protests were mostly peaceful, reducing tensions in the country. France's 10-year OAT yield fell following a rise to its highest level since June 2002. The focus now turns to the European Central Bank's upcoming policy decision on Thursday. Analysts expect the ECB to monitor the rising yields closely and evaluate their impact.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/french-bond-selloff-eases-as-country-spared-ratings-downgrade/articleshow/135206922.cms",
+      "published": "Mon, 26 Oct 2026 14:01:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sensex jumps 1,100 pts from day’s low, Nifty closes above 22,750 as D-St rebounds after 4-day losses. Is this relief rally sustainable?",
+      "summary": "On Monday, the Indian stock market experienced a notable rebound, with the Sensex and Nifty indices recovering about 2% after previous declines. Major players like Kotak Mahindra Bank and Adani Ports contributed to this surge, boosting investor confidence. However, analysts caution against potential risks due to rising crude oil prices and economic uncertainties, indicating that while there's room for recovery, careful stock selection remains essential.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
+      "published": "Mon, 26 Oct 2026 10:22:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ADANIPORTS"
+    },
+    {
+      "headline": "Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1",
+      "summary": "Sumitomo Life Insurance will maintain its investment pace for Japanese government bonds in the upcoming months. It intends to carefully monitor yields on super-long Japanese government bonds, assessing any market volatility. The firm expects its JGB holdings to decrease in the Asset Liability Management portfolio by the end of the fiscal year. Predictions suggest that the Bank of Japan will raise its policy rate by December.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/sumitomo-life-to-remain-cautious-on-jgb-yields-keep-investment-pace-unchanged-from-h1/articleshow/135207033.cms",
+      "published": "Mon, 26 Oct 2026 14:04:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: BOJ nears historic inflation milestone, shifts focus to rate hikes",
+      "summary": "The Bank of Japan is expected to declare its nearly 14-year battle to achieve 2% inflation successful while keeping interest rates unchanged at 1.25%. With wage growth and inflation expectations strengthening, policymakers may signal further tightening, potentially in December, as they balance persistent price pressures against economic growth and financial stability.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-nears-historic-inflation-milestone-shifts-focus-to-rate-hikes/articleshow/135206926.cms",
+      "published": "Mon, 26 Oct 2026 13:59:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "ECB Meeting: Five key questions on rates, inflation and Lagarde's exit",
       "summary": "The European Central Bank is widely expected to hold interest rates at 2.5% amid elevated energy prices, eurozone inflation and France’s financial instability. With inflation reaching 3.8% in September, markets anticipate further rate hikes. Policymakers will assess economic risks, bond market pressures and leadership changes before signalling future monetary policy decisions.",
@@ -94,16 +134,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "EAAA India Alternatives’ Rs 1,200 crore IPO kicks off; all you need to know",
-      "summary": "EAAA India Alternatives’ Rs 1,200-crore IPO opened today and will close on October 28, 2026, with a price band of Rs 1,585–Rs 1,665 per share. The offer is entirely an OFS. Its grey market premium stands at around 2%. FY26 income rose 23%, while profit increased 15%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-opens-today-check-gmp-anchor-investment-and-other-key-details/articleshow/135201979.cms",
-      "published": "Mon, 26 Oct 2026 09:00:50 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
       "summary": "",
       "source": "Economic Times Stocks",
@@ -122,36 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tonbo Imaging shares soar another 17% after a 64% listing pop. Buy, sell or hold the stock?",
-      "summary": "Tonbo Imaging shares rallied after a strong stock market debut, following heavy demand for its IPO. Investors will track revenue growth, order execution, profitability, working capital and cash flows to assess the defence electronics company’s long-term prospects.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tonbo-imaging-shares-soar-another-17-after-a-64-listing-pop-buy-sell-or-hold-the-stock/articleshow/135204062.cms",
-      "published": "Mon, 26 Oct 2026 11:23:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio’s record India IPO falls short of record payday for bankers",
-      "summary": "Jio Platforms raised about $3.1 billion through its record IPO, but intense competition among investment banks kept fees relatively low at around 0.65% of the issue size.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
-      "published": "Mon, 26 Oct 2026 11:16:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Oil, US Treasuries prop up Indian bonds",
-      "summary": "Indian government bonds increased in early trading as oil prices declined, following a previous rally. The Brent crude price slipped significantly after hitting a six-month high last week, which impacted the debt market. Foreign investors have sold a substantial amount of Indian government debt since August, contributing to a prolonged rise in benchmark yields. Concerns over inflation and the Reserve Bank of India's rate decisions are influencing market sentiments.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/oil-us-treasuries-prop-up-indian-bonds/articleshow/135203917.cms",
-      "published": "Mon, 26 Oct 2026 11:12:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -160,46 +160,46 @@
       "symbol": "SHRIRAMFIN",
       "price": 825.0,
       "change_pct": -4.62,
-      "setup_quality_score": 58.57,
+      "setup_quality_score": 61.13,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T08:47:15.351484+00:00",
+      "chain_fetched_at_utc": "2026-10-26T10:27:11.705135+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": 3370.300048828125,
-      "change_pct": 4.32,
-      "setup_quality_score": 50.98,
+      "symbol": "KOTAKBANK",
+      "price": 440.75,
+      "change_pct": 2.38,
+      "setup_quality_score": 50.57,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T08:47:15.740828+00:00",
+      "chain_fetched_at_utc": "2026-10-26T10:27:12.113334+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "KOTAKBANK",
-      "price": 440.8999938964844,
-      "change_pct": 2.42,
-      "setup_quality_score": 48.63,
+      "symbol": "BSE",
+      "price": 3359.0,
+      "change_pct": 3.97,
+      "setup_quality_score": 50.45,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T08:47:16.064097+00:00",
+      "chain_fetched_at_utc": "2026-10-26T10:27:12.470337+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
