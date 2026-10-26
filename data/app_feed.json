@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-26T14:33:57.593519+00:00",
+  "generated_at_utc": "2026-10-26T15:26:38.643686+00:00",
   "news": [
     {
       "headline": "India bonds give up gains as high oil prices weigh",
@@ -36,7 +36,7 @@
     {
       "headline": "Sensex jumps 1,100 pts from day’s low, Nifty closes above 22,750 as D-St rebounds after 4-day losses. Is this relief rally sustainable?",
       "summary": "On Monday, the Indian stock market experienced a notable rebound, with the Sensex and Nifty indices recovering about 2% after previous declines. Major players like Kotak Mahindra Bank and Adani Ports contributed to this surge, boosting investor confidence. However, analysts caution against potential risks due to rising crude oil prices and economic uncertainties, indicating that while there's room for recovery, careful stock selection remains essential.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
       "published": "Mon, 26 Oct 2026 10:22:44 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T14:34:08.285083+00:00",
+      "chain_fetched_at_utc": "2026-10-26T15:26:50.214569+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T14:34:08.756081+00:00",
+      "chain_fetched_at_utc": "2026-10-26T15:26:50.638918+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-26T14:34:09.128244+00:00",
+      "chain_fetched_at_utc": "2026-10-26T15:26:50.740712+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
