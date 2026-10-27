@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-27T13:34:03.340265+00:00",
+  "generated_at_utc": "2026-10-27T14:53:07.535760+00:00",
   "news": [
     {
       "headline": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
@@ -54,6 +54,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Coca-Cola raises profit forecast as premium drinks, sodas hold strong",
+      "summary": "Coca-Cola has lifted its annual profit forecast, driven by robust demand for a range of beverages, particularly zero-sugar options. The company now anticipates earnings per share growth of at least 9% by 2026. Their third-quarter revenue soared to $13.38 billion, exceeding analysts' expectations, while Coca-Cola's strong showing stands in sharp contrast to PepsiCo's recent downgrades and cost-cutting plans. Following these promising results, Coca-Cola shares rose nearly 1% in premarket trading.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
+      "published": "Tue, 27 Oct 2026 18:51:14 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide?",
       "summary": "",
       "source": "Economic Times Markets",
@@ -76,7 +86,7 @@
     {
       "headline": "TCS, Infosys, other IT stocks drop up to 3% as Anthropic IPO sparks rally in global AI stocks",
       "summary": "Indian IT stocks fell amid reports that Anthropic, the maker of Claude, is preparing for an IPO that could value it at around $1.5 trillion. While the listing would open up investment opportunities in a leading AI developer, rising infrastructure costs, mounting losses and concerns over growth sustainability remain key risks.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms",
       "published": "Tue, 27 Oct 2026 11:06:16 +0530",
       "freshness": "new",
@@ -92,6 +102,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "RIL to announce Q2 results on October 30, board to also consider fundraising",
+      "summary": "Reliance Industries will announce its September-quarter results on October 30, alongside considering fundraising through non-convertible debentures. Investors will track performance across O2C, telecom, retail and energy businesses amid share price weakness and market uncertainty.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
+      "published": "Tue, 27 Oct 2026 19:44:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Larsen &amp; Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Cipla Q2 net profit falls 35% to Rs 878 crore, revenue dips 2%",
-      "summary": "Cipla reported a 35% year-on-year decline in second-quarter net profit to Rs 878 crore, with revenue and EBITDA also falling amid weaker North American sales. India revenue grew 12%, while US regulatory approval and a biosimilar partnership supported its product pipeline.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
-      "published": "Tue, 27 Oct 2026 15:41:06 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
-      "summary": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 times, led by strong institutional demand. Investors will watch the listing amid Jio’s growth ambitions and financial performance.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
-      "published": "Tue, 27 Oct 2026 11:46:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T13:34:18.034343+00:00",
+      "chain_fetched_at_utc": "2026-10-27T14:53:19.235549+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T13:34:18.439740+00:00",
+      "chain_fetched_at_utc": "2026-10-27T14:53:19.594564+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T13:34:19.011276+00:00",
+      "chain_fetched_at_utc": "2026-10-27T14:53:19.960083+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
