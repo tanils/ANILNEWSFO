@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-27T14:53:07.535760+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-27T15:31:28.175540+00:00",
   "news": [
     {
       "headline": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
@@ -42,16 +42,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Indian bonds tick up on calm oil before Fed verdict",
-      "summary": "In early trade, Indian government bonds improved as oil prices found stability after last week's surge. Traders remained cautious ahead of a significant policy decision by the US Federal Reserve on Wednesday. India's bond yields decreased slightly, although overall demand for longer maturities has declined amid inflation concerns. The Indian rupee remained stable as fears of further rate hikes from the Reserve Bank of India persisted.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-up-on-calm-oil-before-fed-verdict/articleshow/135225679.cms",
-      "published": "Tue, 27 Oct 2026 11:14:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Coca-Cola raises profit forecast as premium drinks, sodas hold strong",
@@ -114,6 +104,16 @@
       "symbols": "RELIANCE"
     },
     {
+      "headline": "US stocks today: S&amp;P 500, Nasdaq advance as oil eases ahead of Fed decision",
+      "summary": "US stocks are experiencing an uptick with the S&amp;P 500 and Nasdaq gaining due to easing oil prices. The Federal Reserve is expected to maintain rates steady in its upcoming decision after last month's hike. Investors are keenly anticipating earnings results from major technology firms, which will provide insights into AI investments. Boeing and Xylem faced losses, while Royal Caribbean and General Motors reported positive forecasts.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
+      "published": "Tue, 27 Oct 2026 19:07:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Larsen &amp; Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
       "summary": "L&amp;T Q2 Results: Larsen &amp; Toubro announced significant financial results for the quarter ended September 30, 2026. The company reported a 33% increase in consolidated profit after tax compared to the previous year. Consolidated revenue also grew by 16%, driven by strong performance across various sectors. Additionally, L&amp;T achieved its highest quarterly order inflow and saw substantial international participation in its orders.",
       "source": "Economic Times Markets",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T14:53:19.235549+00:00",
+      "chain_fetched_at_utc": "2026-10-27T15:31:38.249593+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T14:53:19.594564+00:00",
+      "chain_fetched_at_utc": "2026-10-27T15:31:38.681157+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T14:53:19.960083+00:00",
+      "chain_fetched_at_utc": "2026-10-27T15:31:39.095493+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
