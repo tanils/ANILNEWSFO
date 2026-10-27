@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-27T15:31:28.175540+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-27T20:15:18.607122+00:00",
   "news": [
     {
       "headline": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
@@ -36,7 +36,7 @@
     {
       "headline": "Jio’s big-bang listing may give it stock market’s No.2 crown after Reliance Industries",
       "summary": "Jio Platforms could overtake Bharti Airtel to become India’s second-largest listed company after its October 28 debut, with a 22% grey market premium implying a market capitalisation of Rs 12.5 lakh crore. Its Rs 30,213-crore IPO drew 22.2 times subscription, while brokerages highlighted growth opportunities in broadband, enterprise technology and AI.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jios-big-bang-listing-may-give-it-stock-markets-no-2-crown-after-reliance-industries/articleshow/135227418.cms",
       "published": "Tue, 27 Oct 2026 12:46:38 +0530",
       "freshness": "new",
@@ -49,26 +49,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
       "published": "Tue, 27 Oct 2026 18:51:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide?",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms",
-      "published": "Tue, 27 Oct 2026 12:35:45 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
-      "summary": "China and Hong Kong stocks edged lower as weakness in technology and AI-related shares outweighed faster industrial-profit growth and fresh liquidity support from China’s central bank.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
-      "published": "Tue, 27 Oct 2026 11:54:46 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,54 +132,74 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Cipla Q2 net profit falls 35% to Rs 878 crore, revenue dips 2%",
+      "summary": "Cipla reported a 35% year-on-year decline in second-quarter net profit to Rs 878 crore, with revenue and EBITDA also falling amid weaker North American sales. India revenue grew 12%, while US regulatory approval and a biosimilar partnership supported its product pipeline.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
+      "published": "Tue, 27 Oct 2026 15:41:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
+      "summary": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 times, led by strong institutional demand. Investors will watch the listing amid Jio’s growth ambitions and financial performance.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
+      "published": "Tue, 27 Oct 2026 11:46:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HDFCBANK",
-      "price": 680.2000122070312,
-      "change_pct": -1.14,
-      "setup_quality_score": 59.61,
+      "symbol": "INFY",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T15:31:38.249593+00:00",
+      "chain_fetched_at_utc": "2026-10-27T20:15:32.510615+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "RELIANCE",
-      "price": 1196.199951171875,
-      "change_pct": -0.47,
-      "setup_quality_score": 54.7,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T15:31:38.681157+00:00",
+      "chain_fetched_at_utc": "2026-10-27T20:15:32.898789+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "SBIN",
-      "price": 945.0999755859375,
-      "change_pct": -1.63,
-      "setup_quality_score": 48.64,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T15:31:39.095493+00:00",
+      "chain_fetched_at_utc": "2026-10-27T20:15:33.261611+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
