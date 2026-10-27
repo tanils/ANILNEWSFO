@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-27T10:00:32.145684+00:00",
+  "generated_at_utc": "2026-10-27T10:57:00.761163+00:00",
   "news": [
     {
       "headline": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
@@ -96,7 +96,7 @@
     {
       "headline": "HAL, BEL, Paras Defence, other stocks rise up to 4% after DAC clears  proposals worth Rs 2.12 lakh crore",
       "summary": "India’s Defence Acquisition Council approved defence procurement proposals worth Rs 2.12 lakh crore, with 82% expected from domestic industry. The clearances cover helicopters, drones, air-defence systems, artillery and naval platforms, supporting military modernisation. Defence stocks may gain investor attention, while indigenous manufacturing, rising capital expenditure and policy support strengthen long-term sector growth prospects.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-paras-defence-other-stocks-in-focus-after-dac-clears-proposals-worth-rs-2-12-lakh-crore/articleshow/135223830.cms",
       "published": "Tue, 27 Oct 2026 09:17:22 +0530",
       "freshness": "new",
@@ -104,14 +104,24 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Market Performance",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-27-oct-2026/liveblog/135223178.cms",
-      "published": "Tue, 27 Oct 2026 08:20:23 +0530",
+      "headline": "Rupee boxed in range; traders focus on oil, outflows and RBI's defence",
+      "summary": "The Indian rupee had a day of modest variability against the dollar on Tuesday, finishing the day almost unchanged. Major external challenges, including escalating oil prices and considerable equity outflows, are to blame. The Reserve Bank of India has actively sought to stabilize the rupee's position. In light of current economic dynamics, investors are taking this opportunity to revisit their portfolio strategies, while mounting U.S.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence/articleshow/135231121.cms",
+      "published": "Tue, 27 Oct 2026 16:03:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "AXISBANK"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Cipla Q2 net profit falls 35% to Rs 878 crore, revenue dips 2%",
+      "summary": "Cipla reported a 35% year-on-year decline in second-quarter net profit to Rs 878 crore, with revenue and EBITDA also falling amid weaker North American sales. India revenue grew 12%, while US regulatory approval and a biosimilar partnership supported its product pipeline.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
+      "published": "Tue, 27 Oct 2026 15:41:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Didn’t get Jio IPO shares? Experts decode the listing-day playbook for investors",
-      "summary": "Jio Platforms’ Rs 30,188-crore IPO was subscribed 22.19 times, with the final issue price set at Rs 1,119 per share. As the stock prepares to list on the NSE and BSE on October 28, investors who missed the allotment are weighing whether to buy on debut or wait for a potential correction.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/didnt-get-jio-ipo-shares-experts-decode-the-listing-day-playbook-for-investors/articleshow/135225220.cms",
-      "published": "Tue, 27 Oct 2026 10:50:22 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -160,14 +160,14 @@
       "symbol": "HDFCBANK",
       "price": 680.2000122070312,
       "change_pct": -1.14,
-      "setup_quality_score": 60.57,
+      "setup_quality_score": 59.61,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:00:40.302293+00:00",
+      "chain_fetched_at_utc": "2026-10-27T10:57:09.907634+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -176,30 +176,30 @@
       "symbol": "RELIANCE",
       "price": 1196.199951171875,
       "change_pct": -0.47,
-      "setup_quality_score": 54.78,
+      "setup_quality_score": 54.7,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:00:41.126168+00:00",
+      "chain_fetched_at_utc": "2026-10-27T10:57:10.284262+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1205.699951171875,
-      "change_pct": -1.17,
-      "setup_quality_score": 54.41,
+      "symbol": "BSE",
+      "price": 3441.10009765625,
+      "change_pct": 2.44,
+      "setup_quality_score": 49.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:00:41.559316+00:00",
+      "chain_fetched_at_utc": "2026-10-27T10:57:10.717315+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
