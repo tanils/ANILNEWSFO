@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-27T10:57:00.761163+00:00",
+  "generated_at_utc": "2026-10-27T12:38:52.360965+00:00",
   "news": [
     {
       "headline": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
@@ -26,7 +26,7 @@
     {
       "headline": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
       "summary": "Private banks delivered mixed Q2 FY27 earnings, prompting analysts to identify lenders with attractive valuations and flag those investors may want to avoid. HDFC Bank reported a 5% YoY rise in net profit to Rs 19,510 crore, largely in line with expectations, but its shares have fallen 6% since the results.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
       "published": "Tue, 27 Oct 2026 09:41:29 +0530",
       "freshness": "new",
@@ -52,16 +52,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Wiscon Industries SME IPO opens today; check price band and other key details",
-      "summary": "Wiscon Industries’ Rs 110-crore IPO opened on October 27 and will close on October 29. The BSE SME issue, priced at Rs 194–204 per share, includes a fresh issue and an offer for sale. Proceeds will support machinery purchases, working capital, marketing and other corporate expenses.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/wiscon-industries-sme-ipo-opens-today-check-price-band-and-other-key-details/articleshow/135224316.cms",
-      "published": "Tue, 27 Oct 2026 09:52:03 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     },
     {
       "headline": "A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide?",
@@ -104,6 +94,36 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Larsen &amp; Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
+      "summary": "L&amp;T Q2 Results: Larsen &amp; Toubro announced significant financial results for the quarter ended September 30, 2026. The company reported a 33% increase in consolidated profit after tax compared to the previous year. Consolidated revenue also grew by 16%, driven by strong performance across various sectors. Additionally, L&amp;T achieved its highest quarterly order inflow and saw substantial international participation in its orders.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-surges-33-yoy-to-rs-5202-crore-revenue-grows-16/articleshow/135233297.cms",
+      "published": "Tue, 27 Oct 2026 17:39:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Mazagon Dock Shipbuilders shares crash 10% after Q2 net profit tumbles 54%; firm declares Rs 5/share dividend",
+      "summary": "Mazagon Dock Shipbuilders shares plunged 10% after the state-owned company reported a 54% year-on-year decline in Q2 FY27 net profit to Rs 344 crore. Revenue from operations fell 16.5% to Rs 2,446 crore, while margins contracted sharply. The company also declared an interim dividend of Rs 5 per share.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilders-shares-crash-10-after-q2-net-profit-tumbles-54-firm-declares-rs-5/share-dividend/articleshow/135232098.cms",
+      "published": "Tue, 27 Oct 2026 16:43:48 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: European shares fall as HSBC earnings drag banking stocks",
+      "summary": "European shares fell as HSBC's disappointing revenue weighed on banking stocks, while political unrest in France dampened investor sentiment. The STOXX 600 slipped, with gains in healthcare stocks following Novartis' upgraded earnings outlook offering some support.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-hsbc-earnings-drag-banking-stocks/articleshow/135231785.cms",
+      "published": "Tue, 27 Oct 2026 16:27:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Rupee boxed in range; traders focus on oil, outflows and RBI's defence",
       "summary": "The Indian rupee had a day of modest variability against the dollar on Tuesday, finishing the day almost unchanged. Major external challenges, including escalating oil prices and considerable equity outflows, are to blame. The Reserve Bank of India has actively sought to stabilize the rupee's position. In light of current economic dynamics, investors are taking this opportunity to revisit their portfolio strategies, while mounting U.S.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Global Market: Yuan holds near four-year high as China tempers appreciation pace",
-      "summary": "China’s yuan held near a four-year high against the US dollar as the central bank moderated its daily fixing. Export-related demand and stronger industrial profits supported the currency, while global markets awaited key central bank decisions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-yuan-holds-near-four-year-high-as-china-tempers-appreciation-pace/articleshow/135225936.cms",
-      "published": "Tue, 27 Oct 2026 11:31:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Japan’s Nikkei rises nearly 2% on AI optimism, Anthropic IPO filing",
-      "summary": "Japan’s Nikkei surged nearly 2%, snapping a three-session losing streak, as Anthropic’s US IPO plans and gains in American semiconductor stocks boosted AI-linked shares such as Advantest, SoftBank and Tokyo Electron.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-nearly-2-on-ai-optimism-anthropic-ipo-filing/articleshow/135225566.cms",
-      "published": "Tue, 27 Oct 2026 11:15:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:57:09.907634+00:00",
+      "chain_fetched_at_utc": "2026-10-27T12:39:05.457570+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,23 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:57:10.284262+00:00",
+      "chain_fetched_at_utc": "2026-10-27T12:39:05.860186+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BSE",
-      "price": 3441.10009765625,
-      "change_pct": 2.44,
-      "setup_quality_score": 49.66,
+      "symbol": "SBIN",
+      "price": 945.0999755859375,
+      "change_pct": -1.63,
+      "setup_quality_score": 48.64,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-27T10:57:10.717315+00:00",
+      "chain_fetched_at_utc": "2026-10-27T12:39:06.337227+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
