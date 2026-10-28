@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-28T09:32:37.260426+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-28T10:46:44.130532+00:00",
   "news": [
     {
       "headline": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
@@ -94,19 +94,19 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee rises 4 paise to 95.03 against US dollar in early trade",
-      "summary": "In early trade, the rupee appreciated by 4 paise to 95.03 against the US dollar amid persistent pressures. Forex traders cited strong dollar influence and elevated Brent crude oil prices, which were near USD 115 per barrel. Analysts expect the rupee to continue facing challenges amid macroeconomic factors and await RBI interventions. Investors are keenly observing the FOMC decision and any guidance from the Fed Chair.",
+      "headline": "US Market: Rising Treasury yields put US banks under pressure over bond losses",
+      "summary": "Rising US Treasury yields are deepening unrealised losses in American banks’ bond portfolios, forcing lenders to weigh immediate losses from selling securities against the capital and liquidity pressures of holding them.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-4-paise-to-95-03-against-us-dollar-in-early-trade/articleshow/135251622.cms",
-      "published": "Wed, 28 Oct 2026 09:45:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-rising-treasury-yields-put-us-banks-under-pressure-over-bond-losses/articleshow/135260352.cms",
+      "published": "Wed, 28 Oct 2026 15:25:28 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "From Dhirubhai Ambani’s Rs 10 crore IPO to Akash Ambani’s Rs 12.5 lakh crore Jio debut: Reliance’s biggest wealth story",
       "summary": "Jio Platforms’ Rs 12.5 lakh crore debut marks a new milestone in the Ambani family’s wealth creation journey, tracing Reliance’s evolution from its Rs 10 crore IPO in 1977 to a digital technology giant.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-dhirubhai-ambanis-rs-10-crore-ipo-to-akash-ambanis-rs-12-5-lakh-crore-jio-debut-reliances-biggest-wealth-story/articleshow/135258986.cms",
       "published": "Wed, 28 Oct 2026 14:38:29 +0530",
       "freshness": "new",
@@ -114,7 +114,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Ambani blue-chip bet gets bigger: Investors mark 82% of traded Jio shares for holding beyond listing",
+      "headline": "Ambani bluechip bet gets bigger: Investors mark 82% of traded Jio shares for holding beyond listing",
       "summary": "Jio Platforms saw nearly 82% of its traded volume marked for delivery on debut, with 10.66 crore shares carried into settlement out of 13.02 crore shares traded. The stock listed at a 21.36% premium to its IPO price, while Nomura, Motilal Oswal and Elara Securities initiated coverage with Buy ratings.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ambani-blue-chip-bet-gets-bigger-investors-mark-82-of-traded-shares-for-holding-beyond-listing/articleshow/135258717.cms",
@@ -158,48 +158,48 @@
     {
       "rank": 1,
       "symbol": "RELIANCE",
-      "price": 1158.300048828125,
-      "change_pct": -3.17,
-      "setup_quality_score": 61.23,
+      "price": 1158.0,
+      "change_pct": -3.19,
+      "setup_quality_score": 62.47,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T09:32:50.329982+00:00",
+      "chain_fetched_at_utc": "2026-10-28T10:46:52.260411+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "ADANIPORTS",
-      "price": 1759.800048828125,
-      "change_pct": 0.3,
-      "setup_quality_score": 55.95,
+      "price": 1761.300048828125,
+      "change_pct": 0.39,
+      "setup_quality_score": 56.09,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T09:32:50.699210+00:00",
+      "chain_fetched_at_utc": "2026-10-28T10:46:52.566222+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "BEL",
-      "price": 365.0,
-      "change_pct": -0.8,
-      "setup_quality_score": 52.2,
+      "price": 363.3500061035156,
+      "change_pct": -1.25,
+      "setup_quality_score": 52.88,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T09:32:51.225841+00:00",
+      "chain_fetched_at_utc": "2026-10-28T10:46:52.907141+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
