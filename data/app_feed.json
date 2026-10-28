@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-28T10:46:44.130532+00:00",
+  "generated_at_utc": "2026-10-28T11:36:57.877910+00:00",
   "news": [
     {
       "headline": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
@@ -22,16 +22,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Two SME IPOs open today: Ajwa Projects, Carver Roboweld. Check price band and key details",
-      "summary": "Ajwa Projects and Carver Roboweld will launch their SME IPOs on October 28, aiming to raise a combined Rs 66.34 crore. Both issues will close on October 30 and are expected to list on the BSE SME platform on November 4.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/two-sme-ipos-open-today-ajwa-projects-carver-roboweld-check-price-band-and-key-details/articleshow/135252002.cms",
-      "published": "Wed, 28 Oct 2026 10:02:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     },
     {
       "headline": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
@@ -94,6 +84,56 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day",
+      "summary": "Jio Platforms has become India’s most widely held listed stock, with 79.6 lakh shareholders following its blockbuster IPO, overtaking Tata Motors Passenger Vehicles, Reliance Industries and Vodafone Idea. From just 104 shareholders before the issue, Jio attracted over 1.38 crore applications and debuted at a market capitalisation of Rs 12.53 lakh crore.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms",
+      "published": "Wed, 28 Oct 2026 16:29:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE, TATAMOTORS"
+    },
+    {
+      "headline": "MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD",
+      "summary": "Mutual funds steadily increased their holdings in 39 BSE midcap stocks for three consecutive quarters through September 2026. While five stocks gained 15–75% in CY26, several others declined sharply despite continued institutional buying.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
+      "published": "Wed, 28 Oct 2026 16:12:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend",
+      "summary": "Info Edge reported a sharp year-on-year decline in Q2 net profit due to a large exceptional gain in the previous year, while revenue and operating profit grew. Recruitment, 99acres and matchmaking businesses recorded healthy growth, alongside AI-led expansion.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
+      "published": "Wed, 28 Oct 2026 16:11:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: Nomura Holdings Q2 profit rises 13% on wealth management growth",
+      "summary": "Nomura Holdings reported a 13% YoY rise in second-quarter net profit to 103.7 billion yen, supported by strong wholesale earnings and steady wealth management growth. Its wholesale income jumped 47% amid robust trading and investment banking activity.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-nomura-holdings-q2-profit-rises-13-on-wealth-management-growth/articleshow/135261885.cms",
+      "published": "Wed, 28 Oct 2026 16:08:46 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Market: European shares waver as earnings, rising oil weigh on sentiment",
+      "summary": "European shares edged lower as investors assessed mixed bank earnings and rising oil prices ahead of the European Central Bank’s policy decision. Technology and energy stocks gained, offering some support amid broader market weakness.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-waver-as-earnings-rising-oil-weigh-on-sentiment/articleshow/135261639.cms",
+      "published": "Wed, 28 Oct 2026 16:02:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US Market: Rising Treasury yields put US banks under pressure over bond losses",
       "summary": "Rising US Treasury yields are deepening unrealised losses in American banks’ bond portfolios, forcing lenders to weigh immediate losses from selling securities against the capital and liquidity pressures of holding them.",
       "source": "Economic Times Markets",
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Ambani bluechip bet gets bigger: Investors mark 82% of traded Jio shares for holding beyond listing",
-      "summary": "Jio Platforms saw nearly 82% of its traded volume marked for delivery on debut, with 10.66 crore shares carried into settlement out of 13.02 crore shares traded. The stock listed at a 21.36% premium to its IPO price, while Nomura, Motilal Oswal and Elara Securities initiated coverage with Buy ratings.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ambani-blue-chip-bet-gets-bigger-investors-mark-82-of-traded-shares-for-holding-beyond-listing/articleshow/135258717.cms",
-      "published": "Wed, 28 Oct 2026 14:21:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Adani Green’s debt maths: Why leverage may fall below 4x as capex cycle matures",
-      "summary": "Adani Green Energy Limited is looking forward to a decrease in leverage as its upcoming projects start functioning and yield cash flow. With a substantial ₹2.4 lakh crore earmarked for capital expenditures by FY30, the company aims to enhance its renewable energy capacity. As project loans are paid off, leverage is expected to dip below four times.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-greens-debt-maths-why-leverage-may-fall-below-4x-as-capex-cycle-matures/articleshow/135256023.cms",
-      "published": "Wed, 28 Oct 2026 12:37:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "No. 2 on Day 1: How Jio Platforms broke India’s market cap hierarchy in debut trade",
-      "summary": "Jio Platforms made a blockbuster stock market debut, listing at a 21.3% premium over its IPO price of Rs 1,119 at Rs 1,358 on the BSE. With a market capitalisation of around Rs 12.5 lakh crore, it became India’s second-most valuable listed company after parent Reliance Industries, overtaking Bharti Airtel. The debut also made Jio India’s largest listed telecom company, placing it ahead of major players such as TCS, SBI and Bajaj Finance.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/no-2-on-day-1-how-jio-platforms-broke-indias-market-cap-hierarchy-on-debut-itself/articleshow/135253571.cms",
-      "published": "Wed, 28 Oct 2026 11:11:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE, BSE"
-    },
-    {
-      "headline": "Akash Ambani announces Jio’s next big mission after data: Bring AI, cloud and space connectivity to every Indian",
-      "summary": "Jio Platforms made a strong stock market debut, listing at a 21.3% premium after its Rs 30,200 crore IPO was fully subscribed within 95 minutes. Managing Director Akash Ambani outlined Jio’s next phase of growth, focusing on democratising artificial intelligence, cloud computing, space connectivity and emerging digital technologies to transform lives across India.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/akash-ambani-announces-jios-next-big-mission-after-data-bring-ai-cloud-and-space-connectivity-to-every-indian/articleshow/135252824.cms",
-      "published": "Wed, 28 Oct 2026 10:37:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T10:46:52.260411+00:00",
+      "chain_fetched_at_utc": "2026-10-28T11:37:08.113981+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T10:46:52.566222+00:00",
+      "chain_fetched_at_utc": "2026-10-28T11:37:08.513267+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T10:46:52.907141+00:00",
+      "chain_fetched_at_utc": "2026-10-28T11:37:08.977849+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
