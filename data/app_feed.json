@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-28T14:30:50.142445+00:00",
+  "generated_at_utc": "2026-10-28T15:24:48.712448+00:00",
   "news": [
     {
       "headline": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
@@ -16,12 +16,22 @@
     {
       "headline": "Isha Ambani says Jio IPO marks a promise, renews Dhirubhai Ambani’s trust with investors",
       "summary": "Isha Ambani described Jio Platforms’ stock market debut as a promise to honour the trust of investors and customers, nearly five decades after Dhirubhai Ambani took Reliance Industries public. Jio’s Rs 30,200-crore IPO attracted over Rs 7 lakh crore in demand, with the stock listing at a 21.3% premium.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/isha-ambani-says-jio-ipo-marks-a-promise-renews-dhirubhai-ambanis-trust-with-investors/articleshow/135253885.cms",
       "published": "Wed, 28 Oct 2026 11:26:38 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
+      "summary": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alongside international expansion and investments.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
+      "published": "Wed, 28 Oct 2026 20:38:33 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HEROMOTOCO"
     },
     {
       "headline": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend",
-      "summary": "Info Edge reported a sharp year-on-year decline in Q2 net profit due to a large exceptional gain in the previous year, while revenue and operating profit grew. Recruitment, 99acres and matchmaking businesses recorded healthy growth, alongside AI-led expansion.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms",
-      "published": "Wed, 28 Oct 2026 16:11:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T14:31:03.488771+00:00",
+      "chain_fetched_at_utc": "2026-10-28T15:25:00.725825+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T14:31:03.920825+00:00",
+      "chain_fetched_at_utc": "2026-10-28T15:25:01.247952+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T14:31:04.353741+00:00",
+      "chain_fetched_at_utc": "2026-10-28T15:25:01.869273+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
