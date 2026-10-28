@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-28T11:36:57.877910+00:00",
+  "generated_at_utc": "2026-10-28T13:29:54.351478+00:00",
   "news": [
     {
       "headline": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
@@ -22,6 +22,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
+      "summary": "SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on SEBI’s oversight, and reinforces financial stability.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
+      "published": "Wed, 28 Oct 2026 18:45:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India bonds end flat as oil woes come up against short covering",
+      "summary": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about inflation, a wider fiscal deficit, and slower economic growth for India. The rupee weakened further against the dollar, prompting fears of aggressive policy tightening by the Reserve Bank of India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
+      "published": "Wed, 28 Oct 2026 18:04:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
@@ -56,7 +76,7 @@
     {
       "headline": "Jio Platforms listing at BSE: 'Will create value for decades to come', says Akash Ambani",
       "summary": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-listing-at-bse-will-create-value-for-decades-to-come-says-akash-ambani/videoshow/135252918.cms",
       "published": "Wed, 28 Oct 2026 10:37:15 +0530",
       "freshness": "new",
@@ -66,7 +86,7 @@
     {
       "headline": "Jio after listing: 5 factors that could drive big returns for long-term investors",
       "summary": "Jio Platforms recently debuted on the stock market with a strong initial premium over its IPO price. The company is well-positioned for growth due to its largest subscriber base and potential market expansion. Increased revenue can also result from higher average revenue per user and upcoming tariff hikes. Additionally, Jio's ventures into home broadband, AI, and cloud services present new revenue opportunities.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-after-listing-5-factors-that-could-drive-big-returns-for-long-term-investors/articleshow/135252625.cms",
       "published": "Wed, 28 Oct 2026 10:28:51 +0530",
       "freshness": "new",
@@ -74,11 +94,31 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "EAAA India Alternatives IPO Day 3: Check GMP, subscription status and key details",
-      "summary": "EAAA India Alternatives’ Rs 1,200-crore IPO entered its final subscription day on October 28, 2026, with 33% subscription on day two and a modest 1% grey market premium. The entirely offer-for-sale issue features a Rs 1,585–Rs 1,665 price band. FY26 income rose 23%, while profit increased 15%.",
+      "headline": "Bandhan Bank Q2 profit jumps 5.6 times as asset quality improves",
+      "summary": "Bandhan Bank reported a five-fold rise in Q2 profit to Rs 622 crore, supported by lower provisions and improving asset quality. Net interest income grew 14%, margins strengthened, gross advances increased 13%, and deposits rose 9% year-on-year.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-day-3-check-gmp-subscription-status-and-key-details/articleshow/135252160.cms",
-      "published": "Wed, 28 Oct 2026 10:05:57 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q2-profit-jumps-5-6-times-as-asset-quality-improves/articleshow/135265654.cms",
+      "published": "Wed, 28 Oct 2026 18:02:34 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Israeli stocks fall, shekel weakens as Netanyahu bloc beats election forecasts",
+      "summary": "Israel's election results indicate Prime Minister Netanyahu's right-wing bloc is projected to win 54 seats. While the opposition bloc led by Gadi Eisenkot is expected to secure 47 seats, neither group achieved a parliamentary majority. The shekel weakened significantly, and the Tel Aviv stock index fell following the surprising election results. Analysts predict a challenging path ahead for forming a stable government in Israel.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/israeli-stocks-fall-shekel-weakens-as-netanyahu-bloc-beats-election-forecasts/articleshow/135264785.cms",
+      "published": "Wed, 28 Oct 2026 17:35:05 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "TVS Motor Q2 Results: Profit jumps 52% YoY to Rs 1,377 crore; revenue rises 44%",
+      "summary": "TVS Motor Company reported a 52% rise in Q2 FY27 profit to Rs 1,377 crore, with revenue up 44%. Record sales, electric two-wheeler growth and strategic acquisitions boosted performance, while shares gained 2.52% on the NSE.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q2-results-profit-jumps-52-yoy-to-rs-1377-crore-revenue-rises-44/articleshow/135264582.cms",
+      "published": "Wed, 28 Oct 2026 17:27:39 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: Nomura Holdings Q2 profit rises 13% on wealth management growth",
-      "summary": "Nomura Holdings reported a 13% YoY rise in second-quarter net profit to 103.7 billion yen, supported by strong wholesale earnings and steady wealth management growth. Its wholesale income jumped 47% amid robust trading and investment banking activity.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-nomura-holdings-q2-profit-rises-13-on-wealth-management-growth/articleshow/135261885.cms",
-      "published": "Wed, 28 Oct 2026 16:08:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Market: European shares waver as earnings, rising oil weigh on sentiment",
-      "summary": "European shares edged lower as investors assessed mixed bank earnings and rising oil prices ahead of the European Central Bank’s policy decision. Technology and energy stocks gained, offering some support amid broader market weakness.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-waver-as-earnings-rising-oil-weigh-on-sentiment/articleshow/135261639.cms",
-      "published": "Wed, 28 Oct 2026 16:02:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US Market: Rising Treasury yields put US banks under pressure over bond losses",
-      "summary": "Rising US Treasury yields are deepening unrealised losses in American banks’ bond portfolios, forcing lenders to weigh immediate losses from selling securities against the capital and liquidity pressures of holding them.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-rising-treasury-yields-put-us-banks-under-pressure-over-bond-losses/articleshow/135260352.cms",
-      "published": "Wed, 28 Oct 2026 15:25:28 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "From Dhirubhai Ambani’s Rs 10 crore IPO to Akash Ambani’s Rs 12.5 lakh crore Jio debut: Reliance’s biggest wealth story",
-      "summary": "Jio Platforms’ Rs 12.5 lakh crore debut marks a new milestone in the Ambani family’s wealth creation journey, tracing Reliance’s evolution from its Rs 10 crore IPO in 1977 to a digital technology giant.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-dhirubhai-ambanis-rs-10-crore-ipo-to-akash-ambanis-rs-12-5-lakh-crore-jio-debut-reliances-biggest-wealth-story/articleshow/135258986.cms",
-      "published": "Wed, 28 Oct 2026 14:38:29 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T11:37:08.113981+00:00",
+      "chain_fetched_at_utc": "2026-10-28T13:30:03.581712+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T11:37:08.513267+00:00",
+      "chain_fetched_at_utc": "2026-10-28T13:30:03.978492+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T11:37:08.977849+00:00",
+      "chain_fetched_at_utc": "2026-10-28T13:30:04.298286+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
