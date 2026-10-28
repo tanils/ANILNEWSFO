@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-10-28T16:15:05.493925+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-10-28T20:34:57.048779+00:00",
   "news": [
     {
       "headline": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
@@ -54,34 +54,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
-      "summary": "BNP Paribas reported a 14% year-on-year rise in third-quarter net income to €3.46 billion, beating analyst estimates as record equity trading revenue boosted investment banking. The French lender also announced a €1.3 billion share buyback.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bnp-paribas-q3-profit-rises-14-to-beat-estimates-announces-1-3-billion-buyback/articleshow/135255907.cms",
-      "published": "Wed, 28 Oct 2026 12:34:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
       "summary": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, with analysts highlighting a potential advantage for Indian IT services firms.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
       "published": "Wed, 28 Oct 2026 12:16:27 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "INFY"
-    },
-    {
-      "headline": "Global Market: Japan bond yields rise as investors eye BOJ policy meeting",
-      "summary": "Japanese government bond yields rise as an AI-led equity rebound weakens safe-haven demand. Investors await the BOJ’s policy decision and guidance on future rate hikes amid persistent inflation, fiscal uncertainty and concerns over government borrowing.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-rise-as-investors-eye-boj-policy-meeting/articleshow/135254632.cms",
-      "published": "Wed, 28 Oct 2026 11:55:18 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Jio Platforms listing at BSE: 'Will create value for decades to come', says Akash Ambani",
@@ -99,6 +79,16 @@
       "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-after-listing-5-factors-that-could-drive-big-returns-for-long-term-investors/articleshow/135252625.cms",
       "published": "Wed, 28 Oct 2026 10:28:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
+      "summary": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute significantly to the ongoing inflation pressures faced by the economy. Traders are closely monitoring the upcoming Personal Consumption Expenditures inflation report for indications of future rate hikes.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+      "published": "Wed, 28 Oct 2026 23:31:23 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -152,54 +142,64 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE, TATAMOTORS"
+    },
+    {
+      "headline": "MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD",
+      "summary": "Mutual funds steadily increased their holdings in 39 BSE midcap stocks for three consecutive quarters through September 2026. While five stocks gained 15–75% in CY26, several others declined sharply despite continued institutional buying.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms",
+      "published": "Wed, 28 Oct 2026 16:12:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "RELIANCE",
-      "price": 1158.0,
-      "change_pct": -3.19,
-      "setup_quality_score": 62.47,
+      "symbol": "INFY",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T16:15:16.473248+00:00",
+      "chain_fetched_at_utc": "2026-10-28T20:35:13.519556+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ADANIPORTS",
-      "price": 1761.300048828125,
-      "change_pct": 0.39,
-      "setup_quality_score": 56.09,
+      "symbol": "HEROMOTOCO",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T16:15:16.961651+00:00",
+      "chain_fetched_at_utc": "2026-10-28T20:35:13.940417+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "BEL",
-      "price": 363.3500061035156,
-      "change_pct": -1.25,
-      "setup_quality_score": 52.88,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-28T16:15:17.425259+00:00",
+      "chain_fetched_at_utc": "2026-10-28T20:35:14.461211+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
