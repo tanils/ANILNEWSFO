@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-29T11:03:27.812608+00:00",
+  "generated_at_utc": "2026-10-29T11:43:47.488179+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
+    },
+    {
+      "headline": "ESAF Small Finance Bank posts Rs 160 crore Q2 profit as asset quality improves",
+      "summary": "ESAF Small Finance Bank reported a net profit of Rs 160 crore in Q2, reversing a Rs 116 crore loss in the year-ago period. Improved margins, lower provisions and stronger asset quality supported the turnaround, while advances and deposits grew 25% and 24%, respectively.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/esaf-small-finance-bank-posts-rs-160-crore-q2-profit-as-asset-quality-improves/articleshow/135303972.cms",
+      "published": "Thu, 29 Oct 2026 16:44:40 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth",
@@ -124,16 +134,6 @@
       "symbols": "TATAPOWER"
     },
     {
-      "headline": "TataPower, JSWEnergy, TorrentPower: Ambitseesbuyingopportunity in powerstocksaftervaluationreset",
-      "summary": "Ambit Capital sees the recent correction in power stocks as a re-entry opportunity, favouring Tata Power, JSW Energy and Torrent Power. Rising electricity demand, fresh capacity contracting and limited PPA visibility could drive the sector’s next growth phase.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
-      "published": "Thu, 29 Oct 2026 15:48:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "TATAPOWER"
-    },
-    {
       "headline": "Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend",
       "summary": "Asian Paints Q2 Results: The paint maker reported a 7% year-on-year rise in Q2 FY27 consolidated net profit to Rs 1,068 crore, while revenue grew 17% to Rs 9,977 crore. The company announced an interim dividend of Rs 5.75 per share, with November 4 set as the record date, even as shares fell 2%.",
       "source": "Economic Times Markets",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:03:36.408115+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:44:01.013938+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:03:36.769778+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:44:01.477222+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:03:37.126892+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:44:01.915396+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
