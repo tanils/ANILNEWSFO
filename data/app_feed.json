@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-29T13:40:46.474359+00:00",
+  "generated_at_utc": "2026-10-29T14:39:19.082736+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
+    },
+    {
+      "headline": "ECB keeps rates unchanged but points to mounting inflation risk",
+      "summary": "The European Central Bank has decided to maintain its current interest rates, signaling concerns over inflation driven by escalating energy costs. Meanwhile, borrowing expenses in France have seen a sharp rise, creating anxiety about the nation’s economic outlook amid political upheaval. ECB President Christine Lagarde's early resignation raises questions about the potential investigation into growing French debt.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ecb-keeps-rates-unchanged-but-points-to-mounting-inflation-risk/articleshow/135317600.cms",
+      "published": "Thu, 29 Oct 2026 19:02:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tata Power, JSW Energy, Torrent Power: Ambit sees buying opportunity in power stocks after valuation reset",
-      "summary": "Ambit Capital sees the recent correction in power stocks as a re-entry opportunity, favouring Tata Power, JSW Energy and Torrent Power. Rising electricity demand, fresh capacity contracting and limited PPA visibility could drive the sector’s next growth phase.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
-      "published": "Thu, 29 Oct 2026 15:48:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "TATAPOWER"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T13:40:55.778593+00:00",
+      "chain_fetched_at_utc": "2026-10-29T14:39:31.300028+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T13:40:56.166260+00:00",
+      "chain_fetched_at_utc": "2026-10-29T14:39:31.642407+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T13:40:56.665529+00:00",
+      "chain_fetched_at_utc": "2026-10-29T14:39:32.131283+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
