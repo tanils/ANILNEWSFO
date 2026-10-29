@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-29T14:39:19.082736+00:00",
+  "generated_at_utc": "2026-10-29T15:30:20.074377+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -86,7 +86,7 @@
     {
       "headline": "Adani group stocks jump up to 3%, add Rs 23,000 crore to total m-cap. What’s behind the surge?",
       "summary": "Adani Group stocks rose on Thursday, adding Rs 23,000 crore to their combined market capitalisation, as Q2 results and bullish brokerage calls lifted sentiment. Adani Power reported a 134% jump in net profit, while Jefferies raised its target price for Adani Ports and sees significant upside in Adani Enterprises.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-jump-up-to-3-add-rs-23000-crore-to-total-m-cap-whats-behind-the-surge/articleshow/135293658.cms",
       "published": "Thu, 29 Oct 2026 12:03:05 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T14:39:31.300028+00:00",
+      "chain_fetched_at_utc": "2026-10-29T15:30:32.586498+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T14:39:31.642407+00:00",
+      "chain_fetched_at_utc": "2026-10-29T15:30:32.962715+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T14:39:32.131283+00:00",
+      "chain_fetched_at_utc": "2026-10-29T15:30:33.396535+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
