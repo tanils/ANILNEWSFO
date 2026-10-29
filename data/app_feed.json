@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-29T11:43:47.488179+00:00",
+  "generated_at_utc": "2026-10-29T13:40:46.474359+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
+    },
+    {
+      "headline": "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore due to one-time deferred tax",
+      "summary": "Suzlon Energy reported a 69% year-on-year profit decline to ₹394 crore in Q2 FY27, despite 26% revenue growth to ₹4,869 crore. Record turbine deliveries, a 6,009 MW order book and a ₹2,048 crore net cash position strengthened its outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms",
+      "published": "Thu, 29 Oct 2026 16:46:50 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "ESAF Small Finance Bank posts Rs 160 crore Q2 profit as asset quality improves",
@@ -76,7 +86,7 @@
     {
       "headline": "Jupiter Wagons shares rally 8% on Rs 1,140 crore Railway Board order",
       "summary": "Jupiter Wagons shares rallied over 8% after securing a Rs 1,140 crore Railway Board order for 2,583 wagons. The company expects additional order inflows of around Rs 2,000 crore in Q4 FY27, supported by government and private-sector demand. Despite the gains, the stock has fallen 25% in three months and trades below seven of its eight simple moving averages.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-8-on-rs-1140-crore-railway-board-order/articleshow/135290681.cms",
       "published": "Thu, 29 Oct 2026 10:22:45 +0530",
       "freshness": "new",
@@ -84,19 +94,9 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Global Market: China’s yuan hits four-year high against dollar after Fed holds rates",
-      "summary": "China’s yuan climbed to a four-year high against the US dollar, supported by the central bank’s firm guidance and the Federal Reserve’s decision to hold interest rates steady. The People’s Bank of China continued managing appreciation, while investors awaited the European Central Bank’s policy decision for further currency market direction.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-against-dollar-after-fed-holds-rates/articleshow/135290040.cms",
-      "published": "Thu, 29 Oct 2026 10:02:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most?",
       "summary": "Jefferies sees a potential long-term capital gains tax (LTCG) cut as a possible trigger for foreign investors to return to Indian equities after record outflows. Banks, Reliance Industries, utilities and real estate stocks could be the biggest beneficiaries. Here’s where foreign investors are positioned and what a tax cut could mean.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/potential-ltcg-tax-cut-could-revive-fiis-india-bet-says-jefferies-which-stocks-may-benefit-most/articleshow/135290083.cms",
       "published": "Thu, 29 Oct 2026 10:02:23 +0530",
       "freshness": "new",
@@ -114,14 +114,34 @@
       "symbols": "ADANIPORTS"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Overview",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-29-oct-2026/liveblog/135288700.cms",
-      "published": "Thu, 29 Oct 2026 09:15:11 +0530",
+      "headline": "Vedanta Power Q2 results: Company swings to profit at Rs 83 crore; revenue rises 38% YoY",
+      "summary": "Vedanta Power reported a turnaround in Q2 FY27, posting ₹83 crore profit against a ₹1,688 crore loss last year. Revenue rose 38% to ₹2,908 crore, while EBITDA surged 122%, supported by record power sales and improved operations.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-power-q2-results-company-swings-to-profit-at-rs-83-crore-revenue-rises-38-yoy/articleshow/135317122.cms",
+      "published": "Thu, 29 Oct 2026 18:48:34 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Companies with high credit ratings shifting to bond market as bank loans become dearer",
+      "summary": "In the current economic climate, AAA-rated corporations are opting to secure financing via the bond market, finding it more cost-effective than traditional bank loans. The recent interest rate hikes by the Reserve Bank of India have further enhanced the appeal of bonds. Companies like REC and SIDBI have successfully tapped into this market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
+      "published": "Thu, 29 Oct 2026 17:43:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Godrej Consumer Q2 Results: Profit rises 14% YoY to Rs 523 crore, revenue jumps 19%; co declares Rs 5/share dividend",
+      "summary": "Godrej Consumer Products posted 13.8% profit growth to ₹522.92 crore and 19% revenue growth to ₹4,413.09 crore in Q2 FY27. Strong international performance, expanding home care brands and a ₹5 interim dividend supported its outlook for sustained growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms",
+      "published": "Thu, 29 Oct 2026 17:14:32 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Tata Power, JSW Energy, Torrent Power: Ambit sees buying opportunity in power stocks after valuation reset",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "TATAPOWER"
-    },
-    {
-      "headline": "Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend",
-      "summary": "Asian Paints Q2 Results: The paint maker reported a 7% year-on-year rise in Q2 FY27 consolidated net profit to Rs 1,068 crore, while revenue grew 17% to Rs 9,977 crore. The company announced an interim dividend of Rs 5.75 per share, with November 4 set as the record date, even as shares fell 2%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-q2-results-net-profit-rises-7-yoy-to-rs-1068-crore-firm-announces-rs-5-75/share-dividend/articleshow/135297927.cms",
-      "published": "Thu, 29 Oct 2026 14:16:07 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Jio Platforms is becoming more than a telecom company: Dolat Capital",
-      "summary": "Jio Platforms is poised to evolve beyond telecom as tariff hikes, 5G monetisation, home broadband and enterprise digital services drive its next growth phase, according to Dolat Capital. The brokerage initiated coverage with an Accumulate rating and a target price of Rs 1,435, citing strong growth prospects and rising free cash flow.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-is-becoming-more-than-a-telecom-company-dolat-capital/articleshow/135297190.cms",
-      "published": "Thu, 29 Oct 2026 13:53:51 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:44:01.013938+00:00",
+      "chain_fetched_at_utc": "2026-10-29T13:40:55.778593+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,23 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:44:01.477222+00:00",
+      "chain_fetched_at_utc": "2026-10-29T13:40:56.166260+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": 683.2999877929688,
-      "change_pct": -0.29,
-      "setup_quality_score": 52.94,
+      "symbol": "BSE",
+      "price": 3502.0,
+      "change_pct": 0.49,
+      "setup_quality_score": 46.73,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T11:44:01.915396+00:00",
+      "chain_fetched_at_utc": "2026-10-29T13:40:56.665529+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
