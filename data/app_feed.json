@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-10-29T09:48:09.480382+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-10-29T11:03:27.812608+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -14,14 +14,14 @@
       "symbols": "BEL, BSE"
     },
     {
-      "headline": "Global Market: Japan's Nikkei rises on Advantest forecast; Samsung slump caps gains",
-      "summary": "Japan’s Nikkei rose 0.3%, supported by Advantest’s 5.4% rally after it raised its full-year operating profit forecast by 14%. However, declines in technology stocks and an 8.7% fall in Hitachi limited gains. Investors remained cautious ahead of Japan’s earnings season and the Bank of Japan’s policy decision.",
+      "headline": "RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth",
+      "summary": "Reliance Industries is expected to report 15-17% year-on-year growth in September-quarter EBITDA, driven by a sharp recovery in its oil-to-chemicals business. Brokerages expect stronger refining margins, higher throughput and a weaker rupee to offset subdued retail and oil and gas performance. Investors will track O2C profitability, Jio Platforms’ earnings and retail margins as RIL announces results.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-on-advantest-forecast-samsung-slump-caps-gains/articleshow/135289677.cms",
-      "published": "Thu, 29 Oct 2026 09:48:20 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-preview-profit-outlook-brightens-as-o2c-business-set-to-drive-growth/articleshow/135299167.cms",
+      "published": "Thu, 29 Oct 2026 14:54:40 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Global Market: Japan bond yields steady ahead of BOJ policy decision",
@@ -29,6 +29,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-steady-ahead-of-boj-policy-decision/articleshow/135298606.cms",
       "published": "Thu, 29 Oct 2026 14:50:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Ambuja Cements Q2 Results: Net profit tanks 90% YoY to Rs 114 crore on tax reversal effect; revenue rises 10%",
+      "summary": "Ambuja Cements Q2 Results: The company reported a 90% year-on-year decline in Q2 FY27 net profit to Rs 114 crore due to a Rs 1,697 crore income tax provision reversal in the year-ago quarter. Revenue rose 10% to Rs 6,113 crore. Shareholders also approved the proposed amalgamation of ACC and Orient Cement with Ambuja, with completion expected in FY27, subject to approvals.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
+      "published": "Thu, 29 Oct 2026 14:43:35 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -84,19 +94,9 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Antala Industries SME IPO opens today: Check price band and key details",
-      "summary": "Antala Industries’ Rs 23.33 crore SME IPO opens on October 29, 2026, and closes on November 2. Priced at Rs 63–67 per share, the fresh issue will fund working capital, machinery purchases and general corporate purposes. The packaging manufacturer reported strong FY26 growth, with total income rising 49% and profit after tax increasing 133%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/antala-industries-sme-ipo-opens-today-check-price-band-and-key-details/articleshow/135289593.cms",
-      "published": "Thu, 29 Oct 2026 09:48:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Adani Ports shares rise 3% after Q2 results. Why did Jefferies and Nomura raise target prices?",
       "summary": "Adani Ports shares rose after the company reported strong Q2 FY27 earnings and raised its full-year guidance. Jefferies and Nomura increased their target prices, citing robust international port performance, higher earnings estimates and long-term growth prospects.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-rise-3-after-q2-results-why-did-jefferies-and-nomura-raise-target-prices/articleshow/135289609.cms",
       "published": "Thu, 29 Oct 2026 09:45:40 +0530",
       "freshness": "new",
@@ -106,7 +106,7 @@
     {
       "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Overview",
       "summary": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-29-oct-2026/liveblog/135288700.cms",
       "published": "Thu, 29 Oct 2026 09:15:11 +0530",
       "freshness": "new",
@@ -114,14 +114,24 @@
       "symbols": "HDFCBANK"
     },
     {
-      "headline": "Bombay Coated &amp; Special Steels IPO opens today; GMP at 11%. Should you subscribe?",
-      "summary": "Bombay Coated &amp; Special Steels’ Rs 183.06-crore IPO opens on October 29, 2026, with a price band of Rs 78–82 and an 11% grey market premium. The company reported 20% revenue growth and 7% profit growth in FY26. Anand Rathi recommends subscribing for long-term investment, citing reasonable valuation and growth prospects.",
+      "headline": "Tata Power, JSW Energy, Torrent Power: Ambit sees buying opportunity in power stocks after valuation reset",
+      "summary": "Ambit Capital sees the recent correction in power stocks as a re-entry opportunity, favouring Tata Power, JSW Energy and Torrent Power. Rising electricity demand, fresh capacity contracting and limited PPA visibility could drive the sector’s next growth phase.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bombay-coated-special-steels-ipo-opens-today-gmp-at-11-should-you-subscribe/articleshow/135288487.cms",
-      "published": "Thu, 29 Oct 2026 09:07:51 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
+      "published": "Thu, 29 Oct 2026 15:48:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "TATAPOWER"
+    },
+    {
+      "headline": "TataPower, JSWEnergy, TorrentPower: Ambitseesbuyingopportunity in powerstocksaftervaluationreset",
+      "summary": "Ambit Capital sees the recent correction in power stocks as a re-entry opportunity, favouring Tata Power, JSW Energy and Torrent Power. Rising electricity demand, fresh capacity contracting and limited PPA visibility could drive the sector’s next growth phase.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
+      "published": "Thu, 29 Oct 2026 15:48:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "TATAPOWER"
     },
     {
       "headline": "Asian Paints Q2 Results: Net profit rises 7% YoY to Rs 1,068 crore; firm announces Rs 5.75/share dividend",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential",
-      "summary": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 crore. Jefferies, Nomura and JM Financial cut their target prices but continue to see upside potential of up to 29%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms",
-      "published": "Thu, 29 Oct 2026 12:44:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
       "symbol": "ADANIPORTS",
-      "price": 1869.9000244140625,
-      "change_pct": 6.17,
-      "setup_quality_score": 65.67,
+      "price": 1872.0,
+      "change_pct": 6.29,
+      "setup_quality_score": 65.94,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T09:48:17.219972+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:03:36.408115+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "KOTAKBANK",
-      "price": 458.0,
-      "change_pct": 4.09,
-      "setup_quality_score": 56.34,
+      "price": 459.0,
+      "change_pct": 4.32,
+      "setup_quality_score": 56.92,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T09:48:17.566403+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:03:36.769778+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "HDFCBANK",
-      "price": 685.0,
-      "change_pct": -0.04,
-      "setup_quality_score": 52.56,
+      "price": 683.2999877929688,
+      "change_pct": -0.29,
+      "setup_quality_score": 52.94,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T09:48:17.901199+00:00",
+      "chain_fetched_at_utc": "2026-10-29T11:03:37.126892+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
