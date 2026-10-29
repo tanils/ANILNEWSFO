@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-29T15:30:20.074377+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-29T16:23:34.453629+00:00",
   "news": [
     {
       "headline": "Indian bonds track US Treasuries higher amid oil-price relief",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
+    },
+    {
+      "headline": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
+      "summary": "Sagility promoter Sagility B.V. is reportedly planning a 12% stake sale worth ₹2,377 crore through a block deal. The healthcare IT services firm posted 22.5% revenue growth and 8.1% adjusted profit growth in Q2 FY27.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms",
+      "published": "Thu, 29 Oct 2026 21:26:22 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "ECB keeps rates unchanged but points to mounting inflation risk",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Godrej Consumer Q2 Results: Profit rises 14% YoY to Rs 523 crore, revenue jumps 19%; co declares Rs 5/share dividend",
-      "summary": "Godrej Consumer Products posted 13.8% profit growth to ₹522.92 crore and 19% revenue growth to ₹4,413.09 crore in Q2 FY27. Strong international performance, expanding home care brands and a ₹5 interim dividend supported its outlook for sustained growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms",
-      "published": "Thu, 29 Oct 2026 17:14:32 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T15:30:32.586498+00:00",
+      "chain_fetched_at_utc": "2026-10-29T16:23:43.716840+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T15:30:32.962715+00:00",
+      "chain_fetched_at_utc": "2026-10-29T16:23:44.043889+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-29T15:30:33.396535+00:00",
+      "chain_fetched_at_utc": "2026-10-29T16:23:44.409910+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
