@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-10-30T15:17:55.361208+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-10-30T16:11:34.889316+00:00",
   "news": [
     {
       "headline": "Sebi issues final order against Axis Capital, imposes regulatory censure; Axis Bank shares fall over 1%",
@@ -46,7 +46,7 @@
     {
       "headline": "Reliance Industries Q2 results today: Can the old economy rescue the new Reliance?",
       "summary": "Reliance Industries is poised to reveal its Q2 earnings, with anticipation surrounding a notable profit revival in its oil-to-chemicals division. Analysts forecast a rise in consolidated EBITDA, supported by enhanced refining margins and solid petrochemical performance. Jio Platforms should offer consistent contributions, though Reliance Retail may face pressures with shrinking margins. Investors will keep a watchful eye on insights regarding future expansion in new energy ventures.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-today-can-the-old-economy-rescue-the-new-reliance/articleshow/135343621.cms",
       "published": "Fri, 30 Oct 2026 09:59:14 +0530",
       "freshness": "new",
@@ -54,7 +54,17 @@
       "symbols": "RELIANCE"
     },
     {
-      "headline": "Reliance Retail Q2 Results: Net profit falls 24% YoY to Rs 2,611 crore; gross revenue rises 6%",
+      "headline": "Record earnings! 5 big takeaways from RIL Q2 results investors should watch for Monday trading",
+      "summary": "Reliance Industries reported record Q2FY27 profit of Rs 29,550 crore and revenue of Rs 3.62 lakh crore, driven by strong refining margins and Jio growth. Retail profitability weakened, while declining debt improved the conglomerate's financial position.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
+      "published": "Fri, 30 Oct 2026 20:48:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
       "summary": "Reliance Retail Q2 Results: The company's gross revenue increased 6.4% YoY to Rs 91,716 crore in Q2FY27, compared with Rs 86,169 crore in the year-ago period. The growth came despite the absence of major festive occasions during the quarter, with the festive calendar shifting to the December quarter.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
@@ -87,16 +97,6 @@
       "headline": "Reliance Industries Q2 Results 2026 Live: RIL Q2 profit jumps 41% YoY to Rs 25,548 crore; co posts highest-ever quarterly revenue; Jio ARPU rises to Rs 218.8",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-      "published": "Fri, 30 Oct 2026 13:57:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Reliance Industries Q2 Results 2026 Live: RIL Q2 profit jumps 41% YoY to Rs 25,548 crore; co posts highest-ever quarterly revenue in Q2",
-      "summary": "",
-      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
       "published": "Fri, 30 Oct 2026 13:57:39 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T15:18:06.454892+00:00",
+      "chain_fetched_at_utc": "2026-10-30T16:11:44.369325+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T15:18:06.955246+00:00",
+      "chain_fetched_at_utc": "2026-10-30T16:11:44.689083+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T15:18:07.371371+00:00",
+      "chain_fetched_at_utc": "2026-10-30T16:11:45.073014+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
