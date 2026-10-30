@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-30T10:59:41.941606+00:00",
+  "generated_at_utc": "2026-10-30T11:36:14.130924+00:00",
   "news": [
     {
       "headline": "Sebi issues final order against Axis Capital, imposes regulatory censure; Axis Bank shares fall over 1%",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T10:59:51.362140+00:00",
+      "chain_fetched_at_utc": "2026-10-30T11:36:27.851610+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T10:59:51.732784+00:00",
+      "chain_fetched_at_utc": "2026-10-30T11:36:28.272048+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T10:59:52.637638+00:00",
+      "chain_fetched_at_utc": "2026-10-30T11:36:28.704897+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
