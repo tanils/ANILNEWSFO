@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-10-30T11:36:14.130924+00:00",
+  "generated_at_utc": "2026-10-30T13:29:53.273636+00:00",
   "news": [
     {
       "headline": "Sebi issues final order against Axis Capital, imposes regulatory censure; Axis Bank shares fall over 1%",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "AXISBANK"
+    },
+    {
+      "headline": "India bonds buckle for fourth straight month on oil's climb",
+      "summary": "Indian government bonds ended October with losses, marking a fourth consecutive decline in bond yields. Brent crude oil prices surged, raising inflation concerns for the country. The Reserve Bank of India raised its policy rate for the first time in nearly four years this month. Foreign investments in Indian bonds fell to a four-month low, causing further concerns about the rupee's performance.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
+      "published": "Fri, 30 Oct 2026 17:52:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Global Market: Japan's Nikkei falls 3% as AI spending concerns hit chip stocks; BOJ holds rates",
@@ -32,6 +42,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
+    },
+    {
+      "headline": "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9%",
+      "summary": "Bank of Baroda reported a 35.8% year-on-year rise in standalone net profit to Rs 6,532 crore in Q2FY27. Net interest income grew 9% to Rs 13,026 crore, while asset quality improved, with the gross NPA ratio declining to 1.78%. Global advances and deposits also recorded double-digit growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-results-standalone-profit-jumps-36-yoy-to-rs-6532-crore-nii-up-9/articleshow/135359927.cms",
+      "published": "Fri, 30 Oct 2026 17:19:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Coforge among 6 stocks hitting 52-week highs; rally up to 20% in a month",
+      "summary": "Six BSE 200 stocks, including Coforge, Indian Hotels and Kotak Mahindra Bank, hit fresh 52-week highs as the Sensex rallied, with monthly gains reaching 17%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-6-stocks-hitting-52-week-highs-rally-up-to-20-in-a-month/slideshow/135359688.cms",
+      "published": "Fri, 30 Oct 2026 17:02:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "Global Market: Bank of Japan achieves 2% inflation target after 13 years",
@@ -74,16 +104,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Price Movement Today",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-30-oct-2026/liveblog/135340952.cms",
-      "published": "Fri, 30 Oct 2026 08:40:05 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
       "headline": "GAIL Q2 Results: Profit zooms 139% YoY to Rs 4,720 crore, revenue rises 33%; board approves GAIL Gas IPO",
       "summary": "GAIL (India) has revealed a whopping 139.3% surge in its consolidated net profit for the FY27 September quarter, showcasing impressive operational revenue growth of 32.7% year-on-year. The board has sanctioned the IPO listing of its subsidiary GAIL Gas Ltd. on Indian stock exchanges, facilitating a 25% equity dilution. In a strategic move, GAIL will also transition six city gas distribution networks to its subsidiary by January 1, 2027.",
       "source": "Economic Times Markets",
@@ -94,7 +114,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL",
+      "headline": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results shortly. Brokerages estimate strong growth",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "BLS Polymers IPO allotment likely today; GMP hints at 45% listing gain. Here's how to check status",
-      "summary": "The shares are scheduled to list on the BSE and NSE on November 3, 2026. A grey market premium (GMP) of Rs 68 suggests potential listing gains of about 45%, although this is not guaranteed. The company plans to use the proceeds for manufacturing expansion, working capital, and general corporate purposes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bls-polymers-ipo-allotment-likely-today-gmp-hints-at-45-listing-gain-heres-how-to-check-status/articleshow/135343466.cms",
-      "published": "Fri, 30 Oct 2026 09:56:25 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Maxwell Engineering, HGS India among 4 SME IPOs to open on October 30; issues to raise Rs 201 crore",
-      "summary": "Four SME IPOs from Maxwell Engineering Solutions, HGS (India), Vectras Enprocon and Johnsoncab Electricals open for subscription on October 30, seeking to raise a combined Rs 201 crore. Here are the key details, including price bands, lot sizes and listing timelines.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/maxwell-engineering-hgs-india-among-4-sme-ipos-to-open-on-october-30-issues-to-raise-rs-201-crore/articleshow/135343041.cms",
-      "published": "Fri, 30 Oct 2026 09:55:37 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T11:36:27.851610+00:00",
+      "chain_fetched_at_utc": "2026-10-30T13:30:04.152265+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T11:36:28.272048+00:00",
+      "chain_fetched_at_utc": "2026-10-30T13:30:04.516719+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-30T11:36:28.704897+00:00",
+      "chain_fetched_at_utc": "2026-10-30T13:30:04.914327+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
