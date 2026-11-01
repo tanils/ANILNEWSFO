@@ -1,32 +1,22 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-10-31T19:33:12.588224+00:00",
+  "generated_at_utc": "2026-11-01T19:54:13.178988+00:00",
   "news": [
-    {
-      "headline": "Sebi issues final order against Axis Capital, imposes regulatory censure; Axis Bank shares fall over 1%",
-      "summary": "SEBI has issued a regulatory censure against Axis Capital, concluding proceedings linked to September 2024 restrictions. The regulator noted no recorded investor harm or fraudulent default, while Axis Bank expects no material business impact.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-issues-final-order-against-axis-capital-imposes-regulatory-censure-axis-bank-shares-fall-over-1/articleshow/135357153.cms",
-      "published": "Fri, 30 Oct 2026 16:15:07 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
     {
       "headline": "Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
       "summary": "Eight Nifty 500 stocks, including IndusInd Bank, Tata Motors and Delhivery, moved from losses to profits in the September 2026 quarter, according to StockEdge's profitability scan.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms",
       "published": "Sat, 31 Oct 2026 14:22:12 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "TATAMOTORS"
     },
     {
       "headline": "Reliance Industries Q2 Results: Profit shoots up 41% YoY to Rs 25,548 crore, revenue surges 29%",
       "summary": "Reliance Industries Q2 Results: Mukesh Ambani-led Reliance Industries Ltd (RIL) on Friday reported a 41% year-on-year (YoY) growth in consolidated net profit to Rs 25,548 crore for the September quarter of FY27, compared with Rs 18,165 crore in the corresponding period last year.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
       "published": "Fri, 30 Oct 2026 19:46:49 +0530",
       "freshness": "recent",
@@ -36,7 +26,7 @@
     {
       "headline": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
       "summary": "Bank of Baroda reported 36% year-on-year profit growth to Rs 6,532 crore in Q2FY27, boosted by NSE stake sale gains and higher interest income. The lender raised annual credit and deposit growth guidance amid strong loan demand.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
       "published": "Fri, 30 Oct 2026 21:32:22 +0530",
       "freshness": "recent",
@@ -49,7 +39,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-big-break-above-23200-can-open-doors-for-23500-for-nifty-sudeep-shah-picks-6-stocks-ahead-of-diwali/articleshow/135390885.cms",
       "published": "Sat, 31 Oct 2026 11:45:44 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
     },
@@ -59,7 +49,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-value-fashion-retailer-ratnadeep-retail-gets-sebi-nod-to-raise-funds-through-public-issue/articleshow/135389668.cms",
       "published": "Sat, 31 Oct 2026 11:04:32 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -69,7 +59,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
       "published": "Sat, 31 Oct 2026 09:59:30 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -79,14 +69,14 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
       "published": "Sat, 31 Oct 2026 09:31:50 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Record earnings! 5 big takeaways from RIL Q2 results investors should watch for Monday trading",
       "summary": "Reliance Industries reported record Q2FY27 profit of Rs 29,550 crore and revenue of Rs 3.62 lakh crore, driven by strong refining margins and Jio growth. Retail profitability weakened, while declining debt improved the conglomerate's financial position.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
       "published": "Fri, 30 Oct 2026 20:48:47 +0530",
       "freshness": "recent",
@@ -96,7 +86,7 @@
     {
       "headline": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
       "summary": "Reliance Retail Q2 Results: The company's gross revenue increased 6.4% YoY to Rs 91,716 crore in Q2FY27, compared with Rs 86,169 crore in the year-ago period. The growth came despite the absence of major festive occasions during the quarter, with the festive calendar shifting to the December quarter.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
       "published": "Fri, 30 Oct 2026 20:15:00 +0530",
       "freshness": "recent",
@@ -124,34 +114,44 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Reliance Industries Q2 Results 2026 Live: RIL Q2 profit jumps 41% YoY to Rs 25,548 crore; co posts highest-ever quarterly revenue; Jio ARPU rises to Rs 218.8",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-      "published": "Fri, 30 Oct 2026 13:57:39 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE"
-    },
-    {
-      "headline": "NTPC Q2 Results: Standalone profit rises 14% YoY to Rs 5,320 crore; revenue up 17%",
-      "summary": "NTPC has showcased a strong performance in the second quarter of FY27, with a significant 14% increase in standalone net profit year-on-year. The operational revenue saw a notable rise of 16.8% from the same quarter last year, reflecting solid financial health. An interim dividend of Rs 3 per share was announced for shareholders. In a move to bolster growth, NTPC is also increasing its capital expenditure on pumped storage initiatives.",
+      "headline": "Global beverage majors advance India IPO plans, from DRHP filing to board approval",
+      "summary": "Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a potential IPO for its Indian bottling operations, emphasizing the value in the domestic market. These developments indicate a growing interest in public listings among multinational beverage companies in India.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms",
-      "published": "Sat, 31 Oct 2026 16:57:35 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
+      "published": "Sun, 01 Nov 2026 14:45:28 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
-      "summary": "Reliance Industries Ltd has set a new benchmark with a record net profit of ₹29,550 crore for the September quarter, fueled by significant advancements in the oil-to-chemicals and digital segments. With a yearly revenue surge of 28.5% to ₹3.38 lakh crore, the O2C division's Ebitda skyrocketed 68%, reflecting the advantages of elevated energy prices and the firm’s adaptability in challenging market scenarios.",
+      "headline": "ITC Q2 Results Preview: Profit seen falling nearly 30% YoY as cigarette tax hikes bite",
+      "summary": "ITC is expected to report a weak Q2, with brokerages forecasting an 8% decline in cigarette volumes and a drop of up to 29% in cigarette operating profit following tax hikes. Nuvama expects consolidated revenue to fall 3% YoY and EBITDA to decline 20%. Growth in FMCG and paper businesses could provide some cushion against the pressure.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
-      "published": "Sat, 31 Oct 2026 05:30:00 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-profit-seen-falling-nearly-30-yoy-as-cigarette-tax-hikes-bite/articleshow/135419165.cms",
+      "published": "Sun, 01 Nov 2026 11:27:43 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "RELIANCE"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
+      "summary": "More than 40 companies have scheduled record dates for dividends, bonus issues, rights issues and stock splits during November 2–6, 2026. Major names include Infosys, Asian Paints, Coal India, Power Grid and Info Edge, while Sanofi India will offer the week’s highest announced dividend of Rs 75 per share.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-infosys-asian-paints-among-over-40-stocks-turning-ex-date-this-week/articleshow/135418410.cms",
+      "published": "Sun, 01 Nov 2026 10:34:32 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "INFY"
+    },
+    {
+      "headline": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+      "summary": "The Securities and Exchange Board of India (Sebi) has taken serious action against EKI Energy Services Ltd and its Managing Director due to financial misreporting. The regulatory body discovered that the company recognized revenue too early and inflated expenses, distorting profit reports. In addition to the company's penalties totaling Rs 88 lakh, several executives were also fined for their complicity in these discrepancies.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
+      "published": "Sun, 01 Nov 2026 09:23:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-31T19:33:20.385094+00:00",
+      "chain_fetched_at_utc": "2026-11-01T19:54:21.405904+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1217.0,
-      "change_pct": -0.65,
-      "setup_quality_score": 59.48,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-31T19:33:20.709341+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "RELIANCE",
       "price": 1164.9000244140625,
       "change_pct": -0.21,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-10-31T19:33:21.040544+00:00",
+      "chain_fetched_at_utc": "2026-11-01T19:54:21.699343+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "ICICIBANK",
+      "price": 1398.0,
+      "change_pct": 0.82,
+      "setup_quality_score": 53.73,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-01T19:54:22.205765+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
