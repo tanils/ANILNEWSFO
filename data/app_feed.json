@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-02T16:30:31.342143+00:00",
+  "generated_at_utc": "2026-11-02T17:26:14.285515+00:00",
   "news": [
     {
       "headline": "SBI Q2 Results Preview: PAT may rise up to 25% YoY; NII, margins, deposit growth in focus",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T16:30:41.671795+00:00",
+      "chain_fetched_at_utc": "2026-11-02T17:26:25.256157+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T16:30:42.030605+00:00",
+      "chain_fetched_at_utc": "2026-11-02T17:26:25.589189+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T16:30:42.424531+00:00",
+      "chain_fetched_at_utc": "2026-11-02T17:26:25.939507+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
