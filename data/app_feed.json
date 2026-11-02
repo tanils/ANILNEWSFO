@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-02T12:49:32.784916+00:00",
+  "generated_at_utc": "2026-11-02T13:49:21.248511+00:00",
   "news": [
     {
       "headline": "SBI Q2 Results Preview: PATmay rise up to 25% YoY; NII, margins, deposit growth in focus",
@@ -29,6 +29,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/south-eastern-coalfields-files-drhp-with-sebi-for-ipo-coal-india-to-offload-66-8-crore-shares/articleshow/135451367.cms",
       "published": "Mon, 02 Nov 2026 13:51:05 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "Coforge among 4 stocks that hit 52-week highs and rallied up to 15% in a month",
+      "summary": "Four BSE 100 stocks, Coforge, Eternal, Indian Hotels Company and Kotak Mahindra Bank, touched fresh 52-week highs as the Sensex surged over 1,200 points. All four stocks also delivered positive returns over the past month.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-15-in-a-month/slideshow/135463866.cms",
+      "published": "Mon, 02 Nov 2026 19:01:31 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
@@ -72,16 +82,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "RELIANCE"
-    },
-    {
-      "headline": "Yuan hovers near four-year high as investors eye US midterm elections",
-      "summary": "China’s yuan traded near a more than four-year high against the US dollar, supported by expectations of further appreciation. Investors tracked the central bank’s currency guidance, policy measures and potential market implications of the US midterm elections.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/yuan-hovers-near-four-year-high-as-investors-eye-us-midterm-elections/articleshow/135445025.cms",
-      "published": "Mon, 02 Nov 2026 09:49:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Reliance Industries shares rally 6% after Q2 results. Here’s why Jefferies, others analysts see up to 47% upside",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T12:49:41.472208+00:00",
+      "chain_fetched_at_utc": "2026-11-02T13:49:33.736940+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T12:49:41.962773+00:00",
+      "chain_fetched_at_utc": "2026-11-02T13:49:34.136080+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T12:49:42.772781+00:00",
+      "chain_fetched_at_utc": "2026-11-02T13:49:34.546124+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
