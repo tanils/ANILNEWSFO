@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-02T19:44:10.514702+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-02T23:13:39.540055+00:00",
   "news": [
     {
       "headline": "SBI Q2 Results Preview: PAT may rise up to 25% YoY; NII, margins, deposit growth in focus",
@@ -157,38 +157,6 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "SBIN",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T19:44:17.552230+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
-      "symbol": "RELIANCE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T19:44:17.950711+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "BSE",
       "price": NaN,
       "change_pct": NaN,
@@ -199,7 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T19:44:18.266059+00:00",
+      "chain_fetched_at_utc": "2026-11-02T23:13:50.255347+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "SBIN",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-02T23:13:50.629948+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-02T23:13:50.998860+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
