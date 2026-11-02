@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-02T18:47:24.235981+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-02T19:44:10.514702+00:00",
   "news": [
     {
       "headline": "SBI Q2 Results Preview: PAT may rise up to 25% YoY; NII, margins, deposit growth in focus",
@@ -76,7 +76,7 @@
     {
       "headline": "GAIL shares jump 4% as Q2 net profit rises over 8% to Rs 4,650 crore, revenue grows 17%",
       "summary": "GAIL shares rose nearly 4% after the company reported strong second-quarter profit and revenue growth, supported by its gas marketing and transmission businesses. Investor sentiment was also buoyed by the board’s in-principle approval to list subsidiary GAIL Gas through an IPO.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/gail-shares-jump-4-as-q2-net-profit-rises-over-8-to-rs-4650-crore-revenue-grows-17/articleshow/135447997.cms",
       "published": "Mon, 02 Nov 2026 11:48:57 +0530",
       "freshness": "new",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T18:47:35.725521+00:00",
+      "chain_fetched_at_utc": "2026-11-02T19:44:17.552230+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T18:47:36.106198+00:00",
+      "chain_fetched_at_utc": "2026-11-02T19:44:17.950711+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T18:47:36.536398+00:00",
+      "chain_fetched_at_utc": "2026-11-02T19:44:18.266059+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
