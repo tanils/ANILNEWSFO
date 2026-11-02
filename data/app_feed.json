@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-02T10:54:18.329981+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-02T12:49:32.784916+00:00",
   "news": [
+    {
+      "headline": "SBI Q2 Results Preview: PATmay rise up to 25% YoY; NII, margins, deposit growth in focus",
+      "summary": "State Bank of India will announce Q2FY27 results on November 3, with brokerages forecasting 11-13% NII growth and up to 25.2% profit growth. Investors will track margins, loan growth, deposits, credit costs and asset quality.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-preview-patmay-rise-up-to-25-yoy-nii-margins-deposit-growth-in-focus/articleshow/135458856.cms",
+      "published": "Mon, 02 Nov 2026 16:52:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SBIN"
+    },
     {
       "headline": "Goldman Sachs expects Bank of England to raise rates again in February",
       "summary": "Goldman Sachs has revised its outlook on the Bank of England's interest rates, now predicting a possible quarter-point rise in November's monetary policy meeting. This would be the first increase since 2023, influenced by climbing energy costs and robust economic growth. Although immediate policy shifts are unlikely, the Bank will vigilantly observe inflation risks, maintaining rates at 4.25% through mid-next year.",
@@ -24,14 +34,14 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Japan's Nikkei slips as Kioxia tumbles 13%; Tokyo Electron, Panasonic limit losses",
-      "summary": "Japan’s Nikkei slipped as Kioxia plunged 13.29% following a disappointing earnings outlook, while banking stocks also weakened. Gains in Tokyo Electron and Panasonic, supported by upbeat profit forecasts and AI-related demand, limited losses. Broader investor sentiment remained cautious following Wall Street’s technology selloff and concerns over AI investment sustainability.",
+      "headline": "Diwali cheer! Mukesh Ambani gets $8.5 billion richer in a day as RIL shares soar",
+      "summary": "Mukesh Ambani experienced a significant increase in wealth following a rally in Reliance Industries shares. The company's stock rose by 11.64%, marking its strongest gain in over six years. Reliance's quarterly earnings surpassed expectations, especially in its oil-to-chemicals and telecom sectors. Analysts have since shown increased optimism about the company's financial outlook and growth prospects. However, challenges remain for Reliance's retail business and overall stock recovery.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-slips-as-kioxia-tumbles-13-tokyo-electron-panasonic-limit-losses/articleshow/135444880.cms",
-      "published": "Mon, 02 Nov 2026 09:42:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-cheer-mukesh-ambani-gets-8-5-billion-richer-in-a-day-as-ril-shares-soar/articleshow/135460617.cms",
+      "published": "Mon, 02 Nov 2026 17:24:11 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "RELIANCE"
     },
     {
       "headline": "Explained: Why gold investors should tone down expectations as yellow metal plunges to a 1-year low",
@@ -76,7 +86,7 @@
     {
       "headline": "Reliance Industries shares rally 6% after Q2 results. Here’s why Jefferies, others analysts see up to 47% upside",
       "summary": "Reliance Industries shares rose up to 6% after the company reported a 41% YoY increase in Q2 net profit to Rs 25,548 crore, while revenue climbed 29% to Rs 3.32 lakh crore. The O2C business led earnings growth, with EBITDA surging 68% YoY to a record Rs 25,203 crore, supported by strong refining and petrochemical performance.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms",
       "published": "Mon, 02 Nov 2026 09:25:02 +0530",
       "freshness": "new",
@@ -92,26 +102,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Daily Performance and SMA Insights",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-02-nov-2026/liveblog/135443558.cms",
-      "published": "Mon, 02 Nov 2026 08:40:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's price action signals a bearish trend",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-02-nov-2026/liveblog/135443435.cms",
-      "published": "Mon, 02 Nov 2026 08:35:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
     },
     {
       "headline": "Missed Reliance Industries’ historic 12% one-day rally? Here’s what technical analysts are saying",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India bonds surge as oil cools on US-Iran deal hopes",
+      "summary": "Indian government bonds showed improvement as crude oil prices declined, which is expected to boost market demand. Traders are closely monitoring the upcoming US midterm elections for potential impacts on oil prices and economic policies. The falling crude prices are expected to alleviate inflation concerns and fiscal pressures for India. Furthermore, the Reserve Bank of India may adjust its interest rate plans based on these developments.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-surge-as-oil-cools-on-us-iran-deal-hopes/articleshow/135448296.cms",
+      "published": "Mon, 02 Nov 2026 11:52:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,23 +167,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T10:54:25.694598+00:00",
+      "chain_fetched_at_utc": "2026-11-02T12:49:41.472208+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1209.0,
-      "change_pct": -0.66,
-      "setup_quality_score": 53.49,
+      "symbol": "SBIN",
+      "price": 987.0,
+      "change_pct": 2.61,
+      "setup_quality_score": 48.8,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T10:54:25.965687+00:00",
+      "chain_fetched_at_utc": "2026-11-02T12:49:41.962773+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-02T10:54:26.285654+00:00",
+      "chain_fetched_at_utc": "2026-11-02T12:49:42.772781+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
