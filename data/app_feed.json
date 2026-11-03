@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-03T10:44:00.553489+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-03T12:16:53.734185+00:00",
   "news": [
     {
       "headline": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
@@ -96,7 +96,7 @@
     {
       "headline": "Karur Vysya Bank among 4 F&amp;O stocks with sharp rise in futures open interest",
       "summary": "A notable increase in futures open interest indicates a substantial rise in the number of active, unexpired futures contracts in a security.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/135481353.cms",
       "published": "Tue, 03 Nov 2026 09:28:40 +0530",
       "freshness": "new",
@@ -112,6 +112,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "European shares fall as tech stocks slide, Middle East tensions weigh",
+      "summary": "European shares declined as technology stocks led losses amid concerns over AI valuations and escalating US-Iran tensions. Rising oil prices added pressure, while stronger earnings expectations lifted healthcare stocks, with Bayer gaining 6% after raising its 2026 profit outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-fall-as-tech-stocks-slide-middle-east-tensions-weigh/articleshow/135495334.cms",
+      "published": "Tue, 03 Nov 2026 17:26:13 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "BLS E-Services Q2 Results: Net profit rises 12% YoY pc to Rs 20.5 cr",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "GRSE shares jump 9% after signing Rs 32,000 crore Indian Navy contract for five next-generation corvettes",
-      "summary": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence manufacturing, enhance maritime capabilities and reinforce GRSE's warship-building position, adding significantly to its order book and long-term business prospects.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-9-after-signing-rs-32000-crore-indian-navy-contract-for-five-next-generation-corvettes/articleshow/135487819.cms",
-      "published": "Tue, 03 Nov 2026 13:11:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T10:44:10.481845+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:17:03.852418+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T10:44:10.838271+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:17:04.237240+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T10:44:11.258322+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:17:04.581455+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
