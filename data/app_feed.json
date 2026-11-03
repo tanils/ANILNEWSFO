@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-03T14:38:01.479551+00:00",
+  "generated_at_utc": "2026-11-03T15:28:25.852104+00:00",
   "news": [
     {
       "headline": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T14:38:12.989059+00:00",
+      "chain_fetched_at_utc": "2026-11-03T15:28:37.120525+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T14:38:13.414658+00:00",
+      "chain_fetched_at_utc": "2026-11-03T15:28:37.457384+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T14:38:13.866242+00:00",
+      "chain_fetched_at_utc": "2026-11-03T15:28:37.848468+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
