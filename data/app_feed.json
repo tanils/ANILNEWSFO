@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-03T17:17:52.070181+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-03T21:16:43.393505+00:00",
   "news": [
     {
       "headline": "Loan growth, fall in provisions help SBI profits in Q2",
@@ -64,6 +64,26 @@
       "symbols": "ICICIBANK, TATASTEEL, ADANIPORTS"
     },
     {
+      "headline": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
+      "summary": "Yum Brands faced a setback in the third quarter as Taco Bell reported declining sales, primarily due to a cyclosporiasis outbreak that sparked customer concerns. While the outbreak severely impacted customer traffic, there was a notable recovery in sales during September and October. Although same-store sales remained flat, falling short of analysts' predictions, the company surpassed profit expectations, boosting investor trust in Yum Brands.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/taco-bell-sales-fall-more-than-expected-on-cyclosporiasis-outbreak-hit/articleshow/135510804.cms",
+      "published": "Wed, 04 Nov 2026 00:32:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Polymarket unit gets US industry organization's approval to be futures broker",
+      "summary": "Polymarket has received approval from the National Futures Association for PM Derivatives LLC to act as a broker. This approval allows the company to expand its operations if it obtains further approval from the Commodity Futures Trading Commission. The firm is actively under investigation by the CFTC regarding its marketing practices. Currently, Polymarket serves as a popular platform for betting on various events and elections.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker/articleshow/135510648.cms",
+      "published": "Wed, 04 Nov 2026 00:05:03 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Minda Corp Q2 Results: Net profit jumps 68% to Rs 143 crore on strong revenue growth",
       "summary": "Minda Corporation Ltd has reported a significant 68.2% year-on-year increase in consolidated net profit for Q2. Revenue from operations also increased by 42.6% year-on-year, reaching Rs 2,189 crore. The company's Chairman highlighted continued progress in their growth strategy across key vehicle segments. Electric vehicle-related products contributed around 35% of new order wins during this quarter. Minda plans to enhance its product offerings and invest in R&amp;D and manufacturing capabilities.",
       "source": "Economic Times Markets",
@@ -124,31 +144,11 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "MCX Q2 Results: Profit rockets 130% YoY to Rs 455 crore, revenue jumps 114%",
-      "summary": "Multi Commodity Exchange of India reported a 130% year-on-year jump in Q2FY26 consolidated net profit to Rs 454.57 crore, while revenue surged 114%. EBITDA rose 151%, margins expanded and shares touched a fresh 52-week high.",
+      "headline": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
+      "summary": "US Treasury yields climbed as stronger than expected September jobs data pointed to a resilient labour market, while investors awaited the midterm election results. Falling oil prices briefly eased pressure on bonds, but the move reversed as economic data reinforced growth expectations and uncertainty over future US fiscal policy kept investors cautious.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
-      "published": "Tue, 03 Nov 2026 20:44:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "DuPont raises annual profit forecasts on strong healthcare, aerospace demand",
-      "summary": "DuPont has raised its full-year profit forecasts and projected fourth-quarter earnings exceed analyst estimates. The company experienced strong demand in healthcare, aerospace, and industrial water markets during the third quarter. DuPont's healthcare and water technologies segment reported nearly 4% growth year-over-year, reaching $865 million in net sales. Additionally, the company recently concluded a $250 million share repurchase program and plans to buy back an additional $250 million of shares.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dupont-raises-annual-profit-forecasts-on-strong-healthcare-aerospace-demand/articleshow/135502681.cms",
-      "published": "Tue, 03 Nov 2026 19:44:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Ferrari nudges up full-year forecasts after beating consensus in Q3",
-      "summary": "Ferrari has revised its earnings outlook for 2026 due to impressive third-quarter performance that exceeded expectations. The company noted a 12% increase in adjusted EBITDA, greatly surpassing analyst forecasts. This growth stems from sales of high-margin vehicles and personalized customer requests. However, the total vehicle shipments dipped slightly, totaling 3,368 in the July-September timeframe. The robust order book extends through 2028, with more product launches on the horizon.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ferrari-nudges-up-full-year-forecasts-after-beating-consensus-in-q3/articleshow/135502546.cms",
-      "published": "Tue, 03 Nov 2026 19:38:36 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+      "published": "Wed, 04 Nov 2026 00:40:49 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BSE",
-      "price": 3665.699951171875,
-      "change_pct": 5.03,
-      "setup_quality_score": 63.42,
+      "symbol": "SBIN",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T17:18:05.852409+00:00",
+      "chain_fetched_at_utc": "2026-11-03T21:16:56.221904+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
       "symbol": "ICICIBANK",
-      "price": 1424.5,
-      "change_pct": 2.67,
-      "setup_quality_score": 59.86,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T17:18:06.318707+00:00",
+      "chain_fetched_at_utc": "2026-11-03T21:16:56.734439+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "ADANIPORTS",
-      "price": 1866.9000244140625,
-      "change_pct": 0.7,
-      "setup_quality_score": 55.85,
+      "symbol": "TATASTEEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T17:18:06.700500+00:00",
+      "chain_fetched_at_utc": "2026-11-03T21:16:57.088873+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
