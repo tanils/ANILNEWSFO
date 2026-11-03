@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-03T12:59:19.766001+00:00",
+  "generated_at_utc": "2026-11-03T14:38:01.479551+00:00",
   "news": [
     {
       "headline": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
@@ -14,14 +14,34 @@
       "symbols": "ADANIPORTS"
     },
     {
+      "headline": "Happiest Minds Q2 Results: Profit rises 15% to Rs 62 crore; revenue up 12% to Rs 645 crore",
+      "summary": "Happiest Minds Technologies has seen a 15.12% rise in consolidated net profit for the September quarter FY27. Revenue from operations also increased by 12.5% compared to the previous year. The company announced an interim dividend of Rs 3.05 per equity share for the 2026-27 fiscal year. An exceptional charge was included in the quarter's results due to a proposed merger with ITC Infotech.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q2-results-profit-rises-15-to-rs-62-crore-revenue-up-12-to-rs-645-crore/articleshow/135501133.cms",
+      "published": "Tue, 03 Nov 2026 18:45:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Hunting for Diwali winners? 8 brokerages name 58 stocks with big upside potential; Eternal, L&amp;T among top picks",
       "summary": "Eight brokerages have shortlisted 58 stocks for their Diwali 2026 portfolios across sectors such as banking, IT, defence, automobiles and hospitality. Eternal, L&amp;T and Indian Hotels are the most popular picks, featuring in four brokerage portfolios each, while Kotak Mahindra Bank appears in three. ICICI Bank, Tech Mahindra, Tata Steel and Adani Ports are among the other recurring recommendations.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hunting-for-diwali-winners-8-brokerages-name-58-stocks-with-big-upside-potential-eternal-lt-among-top-picks/articleshow/135482521.cms",
       "published": "Tue, 03 Nov 2026 10:24:32 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK, TATASTEEL, ADANIPORTS"
+    },
+    {
+      "headline": "Minda Corp Q2 Results: Net profit jumps 68% to Rs 143 crore on strong revenue growth",
+      "summary": "Minda Corporation Ltd has reported a significant 68.2% year-on-year increase in consolidated net profit for Q2. Revenue from operations also increased by 42.6% year-on-year, reaching Rs 2,189 crore. The company's Chairman highlighted continued progress in their growth strategy across key vehicle segments. Electric vehicle-related products contributed around 35% of new order wins during this quarter. Minda plans to enhance its product offerings and invest in R&amp;D and manufacturing capabilities.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/minda-corp-q2-results-net-profit-jumps-68-to-rs-143-crore-on-strong-revenue-growth/articleshow/135500886.cms",
+      "published": "Tue, 03 Nov 2026 18:36:33 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "MFs cut stakes in 8 smallcap stocks after two quarters of buying; shares tumble up to 30% in 3 months",
@@ -66,22 +86,12 @@
     {
       "headline": "LTCG abolition may cost just Rs 40,000–50,000 crore, SBI estimates show",
       "summary": "SBI Research estimates that abolishing long-term capital gains (LTCG) tax would cost the government just Rs 40,000–50,000 crore in FY27, far below the Rs 1.3 lakh crore collected in FY25. Weaker stock market returns and sustained foreign investor outflows have significantly reduced expected collections, suggesting the move may not derail the government's fiscal consolidation plans.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ltcg-abolition-may-cost-just-rs-4000050000-crore-sbi-estimates-show/articleshow/135482799.cms",
       "published": "Tue, 03 Nov 2026 10:31:23 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Asian companies to ramp up investments in US amid supply-chain shifts",
-      "summary": "Citi expects investments by South Korean, Japanese and Taiwanese companies in the US to rise as global supply chains shift. The bank also sees growing cross-border business flows involving India and China, creating opportunities in transaction banking and financial services.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asian-companies-to-ramp-up-investments-in-us-amid-supply-chain-shifts/articleshow/135482131.cms",
-      "published": "Tue, 03 Nov 2026 10:04:22 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Karur Vysya Bank among 4 F&amp;O stocks with sharp rise in futures open interest",
@@ -104,51 +114,41 @@
       "symbols": "BSE"
     },
     {
-      "headline": "NSE Q2 Results: Profit jumps 23% to Rs 2,578 crore, revenue rises 9%",
-      "summary": "NSE Q2 Results: The National Stock Exchange of India (NSE) reported a 23% year-on-year (YoY) increase in its consolidated profit after tax (PAT) to Rs 2,578 crore in the second quarter of FY27 (Q2FY27), compared with Rs 2,098 crore in the corresponding quarter of the previous fiscal year (Q2FY26).",
+      "headline": "DuPont raises annual profit forecasts on strong healthcare, aerospace demand",
+      "summary": "DuPont has raised its full-year profit forecasts and projected fourth-quarter earnings exceed analyst estimates. The company experienced strong demand in healthcare, aerospace, and industrial water markets during the third quarter. DuPont's healthcare and water technologies segment reported nearly 4% growth year-over-year, reaching $865 million in net sales. Additionally, the company recently concluded a $250 million share repurchase program and plans to buy back an additional $250 million of shares.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q2-results-profit-jumps-23-to-rs-2578-crore-revenue-rises-9/articleshow/135499601.cms",
-      "published": "Tue, 03 Nov 2026 18:09:02 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dupont-raises-annual-profit-forecasts-on-strong-healthcare-aerospace-demand/articleshow/135502681.cms",
+      "published": "Tue, 03 Nov 2026 19:44:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "European shares fall as tech stocks slide, Middle East tensions weigh",
-      "summary": "European shares declined as technology stocks led losses amid concerns over AI valuations and escalating US-Iran tensions. Rising oil prices added pressure, while stronger earnings expectations lifted healthcare stocks, with Bayer gaining 6% after raising its 2026 profit outlook.",
+      "headline": "Ferrari nudges up full-year forecasts after beating consensus in Q3",
+      "summary": "Ferrari has revised its earnings outlook for 2026 due to impressive third-quarter performance that exceeded expectations. The company noted a 12% increase in adjusted EBITDA, greatly surpassing analyst forecasts. This growth stems from sales of high-margin vehicles and personalized customer requests. However, the total vehicle shipments dipped slightly, totaling 3,368 in the July-September timeframe. The robust order book extends through 2028, with more product launches on the horizon.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-fall-as-tech-stocks-slide-middle-east-tensions-weigh/articleshow/135495334.cms",
-      "published": "Tue, 03 Nov 2026 17:26:13 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ferrari-nudges-up-full-year-forecasts-after-beating-consensus-in-q3/articleshow/135502546.cms",
+      "published": "Tue, 03 Nov 2026 19:38:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "BLS E-Services Q2 Results: Net profit rises 12% YoY pc to Rs 20.5 cr",
-      "summary": "BLS E-Services reported a 12.4 percent year-on-year increase in profit after tax for Q2 FY27. The total income for the quarter reached Rs 428.1 crore, up 55.1 percent year-on-year. Additionally, the company's operating EBITDA rose to Rs 28.8 crore, marking a 43.8 percent increase from the previous year. The Business Correspondent segment also achieved a Gross Transaction Value of over Rs 41,400 crore.",
+      "headline": "Bata India Q2 Results: Profit rises 30% at Rs 18 crore, revenue rises to Rs 862 crore",
+      "summary": "Bata India Ltd achieved a 30.4% increase in net profit for the September quarter of FY27. Revenue from operations also rose by 7.54% to Rs 861.78 crore compared to the previous year. The company noted significant growth in profit after tax, driven by higher average selling prices. Bata India aims to maintain this growth momentum despite rising input costs and wage revisions. Shares of Bata India Ltd increased by 1.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bls-e-services-q2-results-net-profit-rises-12-yoy-pc-to-rs-20-5-cr/articleshow/135490084.cms",
-      "published": "Tue, 03 Nov 2026 14:31:01 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bata-india-q2-results-profit-rises-30-at-rs-18-crore-revenue-rises-to-rs-862-crore/articleshow/135502156.cms",
+      "published": "Tue, 03 Nov 2026 19:21:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "SBI Q2 Results: Standalone profit rises 14% YoY to Rs 23,038 crore, NII jumps 15%",
-      "summary": "SBI Q2 Results: Net interest income in the reporting period increased 15% YoY to Rs 49,143 crore.",
+      "headline": "US stock futures mixed as Apple falls on margin warning, midterm results awaited",
+      "summary": "U.S. stock index futures reflect a mixed response as crude oil prices trend upwards ahead of midterm election outcomes. Apple's shares took a hit following its announcement regarding rising costs and potential holiday-quarter margin impacts. Despite Palantir Technologies exceeding revenue estimates, its stock plummeted post-results. Analysts are warning of heightened market volatility depending on elections and government expenditure.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-standalone-profit-rises-14-yoy-to-rs-23038-crore-nii-jumps-15/articleshow/135489000.cms",
-      "published": "Tue, 03 Nov 2026 13:59:49 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bayer raises 2026 profit outlook on strong pharmaceuticals performance",
-      "summary": "Bayer raised its 2026 profit outlook after its pharmaceuticals division delivered stronger-than-expected third-quarter sales. The German group also lowered its debt forecast, signalling improving growth momentum and a stronger financial position.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bayer-raises-2026-profit-outlook-on-strong-pharmaceuticals-performance/articleshow/135488937.cms",
-      "published": "Tue, 03 Nov 2026 13:50:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-mixed-as-apple-falls-on-margin-warning-midterm-results-awaited/articleshow/135501177.cms",
+      "published": "Tue, 03 Nov 2026 18:47:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:59:30.744993+00:00",
+      "chain_fetched_at_utc": "2026-11-03T14:38:12.989059+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:59:31.143861+00:00",
+      "chain_fetched_at_utc": "2026-11-03T14:38:13.414658+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:59:31.560601+00:00",
+      "chain_fetched_at_utc": "2026-11-03T14:38:13.866242+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
