@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-03T12:16:53.734185+00:00",
+  "generated_at_utc": "2026-11-03T12:59:19.766001+00:00",
   "news": [
     {
       "headline": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
@@ -22,16 +22,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK, TATASTEEL, ADANIPORTS"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Performance Overview",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-03-nov-2026/liveblog/135480973.cms",
-      "published": "Tue, 03 Nov 2026 09:16:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
     },
     {
       "headline": "MFs cut stakes in 8 smallcap stocks after two quarters of buying; shares tumble up to 30% in 3 months",
@@ -114,6 +104,16 @@
       "symbols": "BSE"
     },
     {
+      "headline": "NSE Q2 Results: Profit jumps 23% to Rs 2,578 crore, revenue rises 9%",
+      "summary": "NSE Q2 Results: The National Stock Exchange of India (NSE) reported a 23% year-on-year (YoY) increase in its consolidated profit after tax (PAT) to Rs 2,578 crore in the second quarter of FY27 (Q2FY27), compared with Rs 2,098 crore in the corresponding quarter of the previous fiscal year (Q2FY26).",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q2-results-profit-jumps-23-to-rs-2578-crore-revenue-rises-9/articleshow/135499601.cms",
+      "published": "Tue, 03 Nov 2026 18:09:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "European shares fall as tech stocks slide, Middle East tensions weigh",
       "summary": "European shares declined as technology stocks led losses amid concerns over AI valuations and escalating US-Iran tensions. Rising oil prices added pressure, while stronger earnings expectations lifted healthcare stocks, with Bayer gaining 6% after raising its 2026 profit outlook.",
       "source": "Economic Times Markets",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:17:03.852418+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:59:30.744993+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:17:04.237240+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:59:31.143861+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T12:17:04.581455+00:00",
+      "chain_fetched_at_utc": "2026-11-03T12:59:31.560601+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
