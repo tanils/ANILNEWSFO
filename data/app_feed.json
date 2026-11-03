@@ -1,12 +1,22 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-03T15:28:25.852104+00:00",
+  "generated_at_utc": "2026-11-03T16:29:32.733654+00:00",
   "news": [
+    {
+      "headline": "Loan growth, fall in provisions help SBI profits in Q2",
+      "summary": "State Bank of India reported a 14% year-on-year rise in Q2 FY27 net profit to Rs 23,038 crore, driven by 18% loan growth, higher net interest income, lower deposit costs and reduced loan loss provisions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/loan-growth-fall-in-provisions-help-sbi-profits-in-q2/articleshow/135505841.cms",
+      "published": "Tue, 03 Nov 2026 21:33:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SBIN"
+    },
     {
       "headline": "Diwali stocks by Motilal Oswal: Eternal, Adani Ports among 10 stocks with upside of up to 40%. See full list",
       "summary": "Motilal Oswal has identified ten stocks poised for remarkable growth in the market landscape. Anticipated leaders like Kotak Mahindra Bank and Titan are forecasted to achieve significant earnings boosts. Projections for FY27 suggest a revival of double-digit growth across various sectors. Notably, Adani Ports and Eternal stand out among the select recommendations, urging investors to consider these stocks for their portfolios.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stocks-by-motilal-oswal-eternal-adani-ports-among-10-stocks-with-upside-of-up-to-40-see-full-list/slideshow/135483770.cms",
       "published": "Tue, 03 Nov 2026 10:43:53 +0530",
       "freshness": "new",
@@ -66,22 +76,12 @@
     {
       "headline": "Record-breaking FII selling may have peaked, says Nomura. Why the Nifty target could rise",
       "summary": "FIIs may be nearing the end of their record selling spree in Indian equities as outflows ease, earnings beat expectations and valuations fall below post-pandemic averages, according to Nomura. Foreign investors sold around $8.8 billion since September 15, although the pace has moderated. Meanwhile, companies in Nomura’s BSE 200+ universe reported 34% year-on-year profit growth, beating consensus estimates by 18%.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/record-breaking-fii-selling-may-have-peaked-says-nomura-why-the-nifty-target-could-rise/articleshow/135484003.cms",
       "published": "Tue, 03 Nov 2026 11:14:00 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL, BSE"
-    },
-    {
-      "headline": "Anthropic IPO: What its latest financial filing reveals about AI growth",
-      "summary": "Anthropic reported third-quarter revenue of $16.96 billion, up more than 1,100% year-on-year, ahead of its potential mega IPO. However, slowing growth, a $23.29 billion net loss and nearly $895 billion in infrastructure commitments raise concerns over profitability.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-what-its-latest-financial-filing-reveals-about-ai-growth/slideshow/135484180.cms",
-      "published": "Tue, 03 Nov 2026 10:42:51 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "LTCG abolition may cost just Rs 40,000–50,000 crore, SBI estimates show",
@@ -104,14 +104,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Wiscon Industries SME shares to list today: Check subscription status and key detail",
-      "summary": "Wiscon Industries will debut on the BSE SME platform on November 3, 2026, following its Rs 110-crore IPO, subscribed 88% overall. The Delhi-based consumer electronics supplier plans to use proceeds for subsidiary expansion, working capital and marketing. Its revenue surged to Rs 73.39 crore in FY26, reflecting rapid business growth.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wiscon-industries-sme-shares-to-list-today-check-subscription-status-and-key-detail/articleshow/135480715.cms",
-      "published": "Tue, 03 Nov 2026 09:11:58 +0530",
+      "headline": "MCX Q2 Results: Profit rockets 130% YoY to Rs 455 crore, revenue jumps 114%",
+      "summary": "Multi Commodity Exchange of India reported a 130% year-on-year jump in Q2FY26 consolidated net profit to Rs 454.57 crore, while revenue surged 114%. EBITDA rose 151%, margins expanded and shares touched a fresh 52-week high.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
+      "published": "Tue, 03 Nov 2026 20:44:21 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "DuPont raises annual profit forecasts on strong healthcare, aerospace demand",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T15:28:37.120525+00:00",
+      "chain_fetched_at_utc": "2026-11-03T16:29:44.470018+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T15:28:37.457384+00:00",
+      "chain_fetched_at_utc": "2026-11-03T16:29:44.900207+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-03T15:28:37.848468+00:00",
+      "chain_fetched_at_utc": "2026-11-03T16:29:45.227724+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
