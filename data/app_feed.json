@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-04T15:46:08.745400+00:00",
+  "generated_at_utc": "2026-11-04T16:32:05.604567+00:00",
   "news": [
     {
       "headline": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
@@ -66,7 +66,7 @@
     {
       "headline": "Bharat Electronics shares gain 3% as Motilal raises target price after Q2; Elara Capital upgrades to Buy",
       "summary": "Bharat Electronics shares gained after Motilal Oswal raised its price target and Elara Capital upgraded its rating to Buy. Brokerages cited strong order visibility, healthy revenue growth and margin prospects, while delays in major defence orders remain a key risk.",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-shares-gain-3-as-motilal-raises-target-price-after-q2-elara-capital-upgrades-to-buy/articleshow/135524961.cms",
       "published": "Wed, 04 Nov 2026 10:50:50 +0530",
       "freshness": "new",
@@ -99,6 +99,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rally-most-since-april-as-oil-slides-after-us-midterm-verdict/articleshow/135543664.cms",
       "published": "Wed, 04 Nov 2026 20:45:23 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US stocks today: US stocks rally after Democrats' midterm sweep as AI infrastructure stocks slide",
+      "summary": "US stocks rallied after Democrats secured control of both chambers of Congress in the midterm elections, easing concerns over major policy shifts. The Dow, S&amp;P 500 and Nasdaq advanced, while data centre stocks declined amid AI regulation concerns. AMD gained on its upbeat 2027 growth forecast, while clean energy stocks surged.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
+      "published": "Wed, 04 Nov 2026 20:11:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Two SME IPOs list today: Carver Roboweld, Ajwa Projects shares make BSE SME debut",
-      "summary": "Ajwa Projects and Carver Roboweld are set to list on the BSE SME platform on November 4, 2026, after collectively raising Rs 66.34 crore. While Ajwa Projects’ IPO received modest subscription of 1.12 times, Carver Roboweld attracted strong investor demand, achieving an overall subscription of 25.80 times.",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/two-sme-ipos-list-today-carver-roboweld-ajwa-projects-shares-make-bse-sme-debut/articleshow/135521212.cms",
-      "published": "Wed, 04 Nov 2026 09:12:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T15:46:18.543027+00:00",
+      "chain_fetched_at_utc": "2026-11-04T16:32:23.093857+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T15:46:19.018865+00:00",
+      "chain_fetched_at_utc": "2026-11-04T16:32:23.483947+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T15:46:19.428302+00:00",
+      "chain_fetched_at_utc": "2026-11-04T16:32:24.308724+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
