@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-04T12:27:34.712111+00:00",
+  "generated_at_utc": "2026-11-04T13:16:05.065831+00:00",
   "news": [
     {
       "headline": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
@@ -94,16 +94,6 @@
       "symbols": "HDFCBANK, ICICIBANK"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank experiences a notable uptick in share price",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-04-nov-2026/liveblog/135520287.cms",
-      "published": "Wed, 04 Nov 2026 08:40:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
       "headline": "Titan Company Q2 results preview: Profit may rise up to 27% YoY; jewellery growth, margins in focus",
       "summary": "Titan Company is set to release its financial results for the quarter ending September 30, 2026. Brokerage forecasts suggest revenue growth could range from 18.8% to 27% compared to the previous year. Additionally, a substantial year-on-year profit increase of around 27% is anticipated. Key focal points will include jewellery performance, margins, and the growth trajectory of CaratLane, with brokerages recommending a buy on Titan shares due to potential upside.",
       "source": "Economic Times Markets",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus",
+      "summary": "Bitcoin traded near $78,000 as institutional outflows and macroeconomic uncertainty kept sentiment cautious across the cryptocurrency market. Investors tracked US midterm election results, potential changes in crypto regulation, Federal Reserve rate expectations, and ETF flows for cues on the market's next move.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-78600-ethereum-at-2300-as-us-midterm-results-put-crypto-regulation-in-focus/articleshow/135536095.cms",
+      "published": "Wed, 04 Nov 2026 16:10:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T12:27:44.550898+00:00",
+      "chain_fetched_at_utc": "2026-11-04T13:16:18.810002+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T12:27:44.937065+00:00",
+      "chain_fetched_at_utc": "2026-11-04T13:16:19.203063+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T12:27:45.307901+00:00",
+      "chain_fetched_at_utc": "2026-11-04T13:16:19.668842+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
