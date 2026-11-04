@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-04T13:16:05.065831+00:00",
+  "generated_at_utc": "2026-11-04T14:51:24.472933+00:00",
   "news": [
     {
       "headline": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T13:16:18.810002+00:00",
+      "chain_fetched_at_utc": "2026-11-04T14:51:33.585819+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T13:16:19.203063+00:00",
+      "chain_fetched_at_utc": "2026-11-04T14:51:34.071723+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T13:16:19.668842+00:00",
+      "chain_fetched_at_utc": "2026-11-04T14:51:34.386137+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
