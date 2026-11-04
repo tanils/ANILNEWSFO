@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-04T16:32:05.604567+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-04T17:28:10.013788+00:00",
   "news": [
     {
       "headline": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
@@ -134,16 +134,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "AMD forecasts fourth-quarter revenue above estimates on strong AI chip demand",
-      "summary": "Advanced Micro Devices estimates its fourth-quarter revenue will hit about $17 billion, driven primarily by robust demand for AI chips. Although the company's forecast for adjusted gross margin stands at 55%, it falls slightly short of analyst expectations. A remarkable 97% year-on-year increase in data-centre revenue showcases AMD's growth. However, the company currently faces challenges in sourcing high-bandwidth memory, essential for its AI processors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-forecasts-fourth-quarter-revenue-above-estimates-on-strong-ai-chip-demand/articleshow/135525070.cms",
-      "published": "Wed, 04 Nov 2026 10:56:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "NSE shares gain as Jefferies, other brokerages remain bullish after Q2 results. What lies ahead?",
       "summary": "NSE reported a 23% year-on-year rise in Q2 FY27 consolidated net profit to Rs 2,578 crore, driven by higher trading volumes and transaction revenue. The exchange also approved divesting up to 40% stake in its coal exchange subsidiary. Jefferies and Emkay maintained Buy ratings, projecting further upside in NSE shares.",
       "source": "Economic Times Stocks",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Two SME IPOs list today: Carver Roboweld, Ajwa Projects shares make BSE SME debut",
+      "summary": "Ajwa Projects and Carver Roboweld are set to list on the BSE SME platform on November 4, 2026, after collectively raising Rs 66.34 crore. While Ajwa Projects’ IPO received modest subscription of 1.12 times, Carver Roboweld attracted strong investor demand, achieving an overall subscription of 25.80 times.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/two-sme-ipos-list-today-carver-roboweld-ajwa-projects-shares-make-bse-sme-debut/articleshow/135521212.cms",
+      "published": "Wed, 04 Nov 2026 09:12:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T16:32:23.093857+00:00",
+      "chain_fetched_at_utc": "2026-11-04T17:28:21.111227+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T16:32:23.483947+00:00",
+      "chain_fetched_at_utc": "2026-11-04T17:28:21.518192+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-04T16:32:24.308724+00:00",
+      "chain_fetched_at_utc": "2026-11-04T17:28:21.899784+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
