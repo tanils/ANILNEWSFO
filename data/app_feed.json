@@ -1,37 +1,27 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-05T12:42:03.148690+00:00",
+  "generated_at_utc": "2026-11-05T13:28:39.835614+00:00",
   "news": [
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
-      "summary": "",
+      "headline": "Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
+      "summary": "Ten BSE 100 stocks, including Marico, Adani Ports, Divis Laboratories and ICICI Bank, hit fresh 52-week highs on Thursday as benchmark indices staged a sharp rally.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-05-nov-2026/liveblog/135557239.cms",
-      "published": "Thu, 05 Nov 2026 08:51:14 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/marico-among-10-stocks-hitting-52-week-highs-rally-up-to-14-in-a-month/slideshow/135574817.cms",
+      "published": "Thu, 05 Nov 2026 18:14:24 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "ICICIBANK, ADANIPORTS, BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Experiences Notable Price Increase",
-      "summary": "",
+      "headline": "Bank of England hikes rates to 4%, first raise since 2023, says more may come amid high UK inflation",
+      "summary": "In a decisive move, the Bank of England has escalated interest rates to 4% amidst spiraling inflation, projected to hit 4.8% in Q2 next year. Governor Andrew Bailey cautioned that further hikes may be necessary, especially with ongoing global conflicts. Market reactions were notably favorable, with the British pound gaining strength against the US dollar. Enhancements in economic data have prompted economists to revise growth forecasts upwards.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-05-nov-2026/liveblog/135556739.cms",
-      "published": "Thu, 05 Nov 2026 08:25:22 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms",
+      "published": "Thu, 05 Nov 2026 18:36:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Market Performance",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-05-nov-2026/liveblog/135556633.cms",
-      "published": "Thu, 05 Nov 2026 08:18:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "India bonds climb in step with Treasuries as oil sinks",
@@ -124,16 +114,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank Sees Significant Price Surge",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-05-nov-2026/liveblog/135557166.cms",
-      "published": "Thu, 05 Nov 2026 08:46:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "When Stocks Dampen Festive Cheer, Can Bonds Keep the Celebrations Going?",
       "summary": "Investors in India are navigating a challenging landscape as the equity markets descend into significant losses. Selling off assets at this juncture could incur financial damage, yet deferring such decisions may hinder urgent expenses. By maintaining fixed-income portfolios, investors can secure consistent cash flow to address short-term needs. To enhance portfolio resilience, diversifying between stocks and bonds becomes vital for achieving growth while safeguarding capital for future endeavors.",
       "source": "Economic Times Markets",
@@ -152,6 +132,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Qualcomm Earnings: 5 key takeaways from Q4 results",
+      "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future growth opportunities.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
+      "published": "Thu, 05 Nov 2026 11:01:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
+      "summary": "Asian markets experienced an upswing on Thursday, buoyed by a rebound in U.S. equities following the midterm elections. The Dow Jones leapt over 3% as political shifts occurred, leading to the loss of control for President Trump's party. Meanwhile, South Korea's Kospi mirrored struggles in the tech sector, particularly affecting AI stocks, while a drop in oil prices severely impacted energy firm shares.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms",
+      "published": "Thu, 05 Nov 2026 08:57:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,23 +167,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T12:42:19.303907+00:00",
+      "chain_fetched_at_utc": "2026-11-05T13:28:52.643117+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": 760.0,
-      "change_pct": 3.16,
-      "setup_quality_score": 53.6,
+      "symbol": "BSE",
+      "price": 3790.0,
+      "change_pct": 5.23,
+      "setup_quality_score": 64.34,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T12:42:19.752517+00:00",
+      "chain_fetched_at_utc": "2026-11-05T13:28:53.063495+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T12:42:20.240840+00:00",
+      "chain_fetched_at_utc": "2026-11-05T13:28:53.469981+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
