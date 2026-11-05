@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-05T14:56:19.438574+00:00",
+  "generated_at_utc": "2026-11-05T15:48:12.065046+00:00",
   "news": [
     {
       "headline": "Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
@@ -39,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
       "published": "Thu, 05 Nov 2026 12:32:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Elon Musk gambled $445 million to boost Republicans in midterms and came up short",
+      "summary": "Elon Musk's hefty USD 445 million investment in Republican candidates did not yield the desired electoral success, as Republicans faced significant losses, ceding control of Congress. This setback has prompted Democrats to contemplate investigating Musk's business operations. Critics have denounced his financial influence in politics, highlighting the risks of affluent individuals shaping policy. Anticipated changes in Texas's Democratic leadership suggest intensified scrutiny of Musk's ties to the state.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-gambled-445-million-to-boost-republicans-in-midterms-and-came-up-short/articleshow/135578644.cms",
+      "published": "Thu, 05 Nov 2026 20:57:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "City Union Bank among 5 F&amp;O stocks with a sharp rise in futures open interest",
-      "summary": "Five NSE F&amp;O stocks, including City Union Bank, Syrma SGS Technology and Karur Vysya Bank, recorded over 12% growth in futures open interest, indicating increased market positioning on November 4.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/city-union-bank-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135558474.cms",
-      "published": "Thu, 05 Nov 2026 09:36:29 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T14:56:28.779246+00:00",
+      "chain_fetched_at_utc": "2026-11-05T15:48:20.945600+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T14:56:29.178839+00:00",
+      "chain_fetched_at_utc": "2026-11-05T15:48:21.379535+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T14:56:29.584341+00:00",
+      "chain_fetched_at_utc": "2026-11-05T15:48:21.816545+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
