@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-05T16:44:50.959234+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-05T17:37:03.394454+00:00",
   "news": [
     {
       "headline": "Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
@@ -12,6 +12,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK, ADANIPORTS, BSE"
+    },
+    {
+      "headline": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+      "summary": "Paras Healthcare announced a profit after tax of Rs 40.35 crore in the September quarter. This performance shows a significant increase from the net profit of Rs 12.38 crore reported last year. Revenue from operations reached Rs 510.89 crore, with expenses at Rs 463.12 crore during the same period. The company utilized a portion of its IPO proceeds to strengthen its balance sheet.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
+      "published": "Thu, 05 Nov 2026 22:02:07 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Bank of England hikes rates to 4%, first raise since 2023, says more may come amid high UK inflation",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Cracker stocks this Diwali! Axis Direct selects 12 technical stock with 48% upside potential for Samvat 2083",
-      "summary": "Aurobindo Pharma, Hindustan Aeronautics, and IOL Chemicals demonstrate solid growth prospects for the coming year. Similarly, Jyoti CNC Automation and Karnataka Bank are expected to experience significant gains according to their long-term performance charts. Noteworthy mentions also include Dr. Lal Path Labs, Mayur Uniquoters, and Shivalik Bimetal Controls, all showcasing attractive target prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cracker-stocks-this-diwali-axis-direct-selects-10-technical-stock-with-48-upside-potential-for-samvat-2083/slideshow/135560312.cms",
-      "published": "Thu, 05 Nov 2026 09:57:46 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T16:44:59.918100+00:00",
+      "chain_fetched_at_utc": "2026-11-05T17:37:15.077766+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T16:45:00.256677+00:00",
+      "chain_fetched_at_utc": "2026-11-05T17:37:15.436854+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T16:45:00.605646+00:00",
+      "chain_fetched_at_utc": "2026-11-05T17:37:15.840326+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
