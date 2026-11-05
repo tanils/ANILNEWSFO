@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-05T13:28:39.835614+00:00",
+  "generated_at_utc": "2026-11-05T14:56:19.438574+00:00",
   "news": [
     {
       "headline": "Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
@@ -39,6 +39,46 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
       "published": "Thu, 05 Nov 2026 12:32:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Signature Global clocks Rs 67 cr profit in Q2 vs loss yr ago, revenue rises over 2-fold",
+      "summary": "Signature Global Ltd has reported a consolidated net profit of Rs 66.90 crore for the quarter ending September, marking a significant turnaround from last year's net loss of Rs 46.86 crore. With total income soaring from Rs 372.51 crore to Rs 870.70 crore, the company's chairman highlighted a robust demand for quality housing and its strong financial health. Since its establishment, Signature Global has successfully delivered 19.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-clocks-rs-67-cr-profit-in-q2-vs-loss-yr-ago-revenue-rises-over-2-fold/articleshow/135577590.cms",
+      "published": "Thu, 05 Nov 2026 20:10:22 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Glenmark Pharma Q2 Results: Net profit plunges 56% to Rs 264 crore, revenue down at Rs 4,247 cr",
+      "summary": "Glenmark Pharmaceuticals experienced a 56.78 percent drop in consolidated profit after tax during the September quarter. Total revenue from operations decreased to Rs 4,247.32 crore compared to the previous year. The company's total expenses also decreased during the same period, indicating some operational efficiency. A subsidiary of Glenmark Pharma entered into a settlement for USD 15 million with Humana Inc.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/glenmark-pharma-q2-results-net-profit-plunges-56-to-rs-264-crore-revenue-down-at-rs-4247-cr/articleshow/135577516.cms",
+      "published": "Thu, 05 Nov 2026 20:08:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi revises currency derivative norms for domestic investors, FPIs; allows to trade up to USD 5 mn",
+      "summary": "Sebi has revised its regulations to permit domestic and foreign portfolio investors to take positions in currency derivatives. Investors can now hold up to USD 5 million without establishing underlying exposure. The new guidelines also require FPIs to ensure their short positions do not exceed this limit. For amounts above the threshold, FPIs must have underlying exposure in Indian debt or equity securities.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
+      "published": "Thu, 05 Nov 2026 19:33:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Fed's Beth Hammack favors gradual rate-hike path to lower inflation",
+      "summary": "Cleveland's Federal Reserve President Beth Hammack has emphasized the need for additional rate hikes to achieve the target inflation rate of 2%. She proposes implementing smaller, more frequent adjustments to minimize impacts on households and markets. Dissatisfied with the last Fed meeting's outcome, Hammack argues that the current monetary policy lacks sufficient restrictiveness.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
+      "published": "Thu, 05 Nov 2026 19:32:00 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "When Stocks Dampen Festive Cheer, Can Bonds Keep the Celebrations Going?",
-      "summary": "Investors in India are navigating a challenging landscape as the equity markets descend into significant losses. Selling off assets at this juncture could incur financial damage, yet deferring such decisions may hinder urgent expenses. By maintaining fixed-income portfolios, investors can secure consistent cash flow to address short-term needs. To enhance portfolio resilience, diversifying between stocks and bonds becomes vital for achieving growth while safeguarding capital for future endeavors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/when-stocks-dampen-festive-cheer-can-bonds-keep-the-celebrations-going/articleshow/135570554.cms",
-      "published": "Thu, 05 Nov 2026 16:39:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "11 smallcap stocks maintain over 10% profit margin in Q1 and Q2, shares rally 150-350% in FY27",
-      "summary": "Eleven smallcap stocks have maintained net profit margins above 10% in both Q1 and Q2FY27, while delivering share price gains of 151% to 352% so far this fiscal year.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-smallcap-stocks-maintain-over-10-profit-margin-in-q1-and-q2-shares-rally-150-350-in-fy27/slideshow/135569927.cms",
-      "published": "Thu, 05 Nov 2026 16:04:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Qualcomm Earnings: 5 key takeaways from Q4 results",
-      "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future growth opportunities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
-      "published": "Thu, 05 Nov 2026 11:01:44 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
-      "summary": "Asian markets experienced an upswing on Thursday, buoyed by a rebound in U.S. equities following the midterm elections. The Dow Jones leapt over 3% as political shifts occurred, leading to the loss of control for President Trump's party. Meanwhile, South Korea's Kospi mirrored struggles in the tech sector, particularly affecting AI stocks, while a drop in oil prices severely impacted energy firm shares.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms",
-      "published": "Thu, 05 Nov 2026 08:57:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T13:28:52.643117+00:00",
+      "chain_fetched_at_utc": "2026-11-05T14:56:28.779246+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T13:28:53.063495+00:00",
+      "chain_fetched_at_utc": "2026-11-05T14:56:29.178839+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T13:28:53.469981+00:00",
+      "chain_fetched_at_utc": "2026-11-05T14:56:29.584341+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
