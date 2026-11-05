@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-05T10:43:35.156866+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-05T12:42:03.148690+00:00",
   "news": [
     {
       "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
@@ -49,6 +49,26 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
       "published": "Thu, 05 Nov 2026 12:32:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rising oil prices cap India bond rally; traders cash in gains",
+      "summary": "Indian government bonds saw a rise as traders reacted to a US Treasury rally and falling crude prices. The benchmark 6.94% 2036 bond yield declined by nearly 2 basis points after intraday fluctuations. Oil prices rebounded after initially falling, causing traders to lock in profits. Attention will turn to upcoming inflation data, with expectations for an increase in October.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rising-oil-prices-cap-india-bond-rally-traders-cash-in-gains/articleshow/135572997.cms",
+      "published": "Thu, 05 Nov 2026 17:43:35 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi approves net settlement of cash market trades for mutual funds",
+      "summary": "India’s Securities and Exchange Board of India (SEBI) has greenlit the introduction of net settlement for mutual fund schemes, set to take effect on April 1, 2027. This initiative is designed to streamline funding requirements and boost market efficiency. Previously, net settlement was exclusive to foreign portfolio investors. Eligible transactions will now be confined to sales or purchases of a specific security, while cross-scheme netting will remain prohibited.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-approves-net-settlement-of-cash-market-trades-for-mutual-funds/articleshow/135572968.cms",
+      "published": "Thu, 05 Nov 2026 17:41:45 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -114,44 +134,24 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Qualcomm Earnings: 5 key takeaways from Q4 results",
-      "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future growth opportunities.",
+      "headline": "When Stocks Dampen Festive Cheer, Can Bonds Keep the Celebrations Going?",
+      "summary": "Investors in India are navigating a challenging landscape as the equity markets descend into significant losses. Selling off assets at this juncture could incur financial damage, yet deferring such decisions may hinder urgent expenses. By maintaining fixed-income portfolios, investors can secure consistent cash flow to address short-term needs. To enhance portfolio resilience, diversifying between stocks and bonds becomes vital for achieving growth while safeguarding capital for future endeavors.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
-      "published": "Thu, 05 Nov 2026 11:01:44 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/when-stocks-dampen-festive-cheer-can-bonds-keep-the-celebrations-going/articleshow/135570554.cms",
+      "published": "Thu, 05 Nov 2026 16:39:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
-      "summary": "Asian markets experienced an upswing on Thursday, buoyed by a rebound in U.S. equities following the midterm elections. The Dow Jones leapt over 3% as political shifts occurred, leading to the loss of control for President Trump's party. Meanwhile, South Korea's Kospi mirrored struggles in the tech sector, particularly affecting AI stocks, while a drop in oil prices severely impacted energy firm shares.",
+      "headline": "11 smallcap stocks maintain over 10% profit margin in Q1 and Q2, shares rally 150-350% in FY27",
+      "summary": "Eleven smallcap stocks have maintained net profit margins above 10% in both Q1 and Q2FY27, while delivering share price gains of 151% to 352% so far this fiscal year.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/articleshow/135557308.cms",
-      "published": "Thu, 05 Nov 2026 08:57:09 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-smallcap-stocks-maintain-over-10-profit-margin-in-q1-and-q2-shares-rally-150-350-in-fy27/slideshow/135569927.cms",
+      "published": "Thu, 05 Nov 2026 16:04:09 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bharat Electronics among 5 stocks showing White Marubozu pattern",
-      "summary": "Five Nifty 50 stocks featured in the White Marubozu bullish scanner on November 4, after gaining over 3%. Bharat Electronics led the list, followed by Adani Enterprises, Titan Company, Jio Financial Services and Max Healthcare.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-5-stocks-showing-white-marubozu-pattern/slideshow/135559687.cms",
-      "published": "Thu, 05 Nov 2026 10:21:12 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "HEG Advanced Materials among 3 stocks closing above VWAP",
-      "summary": "Three Nifty50 stocks closed below their respective volume-weighted average prices on November 4, according to StockEdge’s technical scan data, indicating that their closing prices were lower than their average traded prices during the session",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/heg-advanced-materials-among-3-stocks-closing-above-vwap/slideshow/135558652.cms",
-      "published": "Thu, 05 Nov 2026 09:41:22 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T10:43:43.247716+00:00",
+      "chain_fetched_at_utc": "2026-11-05T12:42:19.303907+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T10:43:43.650611+00:00",
+      "chain_fetched_at_utc": "2026-11-05T12:42:19.752517+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-05T10:43:44.024574+00:00",
+      "chain_fetched_at_utc": "2026-11-05T12:42:20.240840+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
