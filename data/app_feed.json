@@ -1,12 +1,22 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-06T10:43:08.818614+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-06T12:24:08.405550+00:00",
   "news": [
+    {
+      "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
+      "summary": "Ske Jarzenske and other Trump Media investors are facing severe losses as the company's stock value has plummeted. Many investors had high hopes for the social media platform, believing in its potential profitability under Trump's leadership. Instead, Trump Media's shares have lost significant value, and discontent among shareholders has grown. The company's revenue remains stagnant, leading investors to question management practices and investor trust.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
+      "published": "Fri, 06 Nov 2026 16:58:37 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
     {
       "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Stock Performance Today",
       "summary": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-06-nov-2026/liveblog/135591146.cms",
       "published": "Fri, 06 Nov 2026 08:17:33 +0530",
       "freshness": "new",
@@ -22,6 +32,26 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "AXISBANK"
+    },
+    {
+      "headline": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
+      "summary": "This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices fell sharply, enticing foreign investors back to purchase a significant volume of Indian bonds. This shift alleviates pressure on the Reserve Bank of India to maintain elevated yields, contributing to a positive outlook for Indian debt moving forward.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
+      "published": "Fri, 06 Nov 2026 17:32:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
+      "summary": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operations grew significantly to Rs 5,734 crore, up from Rs 4,900 crore a year prior. Additionally, new orders reached Rs 6,228 crore, a notable 38% increase year-over-year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
+      "published": "Fri, 06 Nov 2026 16:52:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Maxwell Engineering shares list at 90% premium. Here's how HGS, other 2 SME issues debuted",
@@ -42,6 +72,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
+      "summary": "The Indian rupee strengthened past 94 per dollar after regaining appeal among emerging-market currencies recently. Significant foreign inflows into Indian equities and a sharp fall in oil prices are key factors. Analysts suggest India's equity markets may attract global investments as concerns about AI infrastructure spending grow. The Reserve Bank of India announced measures to support the rupee against maintaining fluctuations.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
+      "published": "Fri, 06 Nov 2026 16:05:18 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
@@ -104,54 +144,14 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-      "summary": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investor confidence. The benchmark bond yield improved significantly, declining by approximately 22 basis points. Furthermore, the surge in foreign investments into Indian bonds marked a notable high since July, leading to enhanced overall market sentiment.",
+      "headline": "British Airways parent profit drops on higher fuel costs",
+      "summary": "IAG, the owner of British Airways and Iberia, said Friday that its net profit dropped more than 12 percent in the third quarter on soaring fuel costs and flight disruptions caused by the Middle East conflict. The group said its overall flight capacity had been hit \"by cancellations due to the conflict in the Middle East, together with aircraft availability linked to engine issues and disruption related to air traffic control disruption\".",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-      "published": "Fri, 06 Nov 2026 12:33:11 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
+      "published": "Fri, 06 Nov 2026 17:00:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Great Diwali stock hunt: HAL, Eternal, 5 other stocks with upside of up to 75%",
-      "summary": "Kotak Neo has spotlighted seven stocks that show considerable growth potential, given India's stable economic forecast. APL Apollo Tubes and Eternal Limited are highlighted for their promising growth trajectory in the coming years. Furthermore, Hindustan Aeronautics and Titan are expected to experience moderate gains as their price-to-earnings ratios decrease. Notably, Jubilant Ingrevia is projected to have an impressive 72.5% upside, driven by anticipated earnings growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/great-diwali-stock-hunt-hal-eternal-5-other-stocks-with-upside-of-up-to-75/slideshow/135593656.cms",
-      "published": "Fri, 06 Nov 2026 09:44:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Authum Investment among 4 stocks showing bullish RSI upswing",
-      "summary": "Four Nifty500 stocks that gained over 8% on November 5 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-4-stocks-showing-bullish-rsi-upswing/slideshow/135593074.cms",
-      "published": "Fri, 06 Nov 2026 09:25:32 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Current Market Position",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-06-nov-2026/liveblog/135591447.cms",
-      "published": "Fri, 06 Nov 2026 08:30:42 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "HEROMOTOCO"
-    },
-    {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV's Price Movement Today",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-06-nov-2026/liveblog/135591235.cms",
-      "published": "Fri, 06 Nov 2026 08:20:56 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATAMOTORS"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T10:43:17.036901+00:00",
+      "chain_fetched_at_utc": "2026-11-06T12:24:20.608001+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T10:43:17.384821+00:00",
+      "chain_fetched_at_utc": "2026-11-06T12:24:21.035316+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T10:43:17.866045+00:00",
+      "chain_fetched_at_utc": "2026-11-06T12:24:21.474338+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
