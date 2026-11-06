@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-06T12:24:08.405550+00:00",
+  "generated_at_utc": "2026-11-06T13:12:46.017255+00:00",
   "news": [
     {
       "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
@@ -12,26 +12,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
-    },
-    {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Stock Performance Today",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-06-nov-2026/liveblog/135591146.cms",
-      "published": "Fri, 06 Nov 2026 08:17:33 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Performance",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-06-nov-2026/liveblog/135591018.cms",
-      "published": "Fri, 06 Nov 2026 08:11:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
     },
     {
       "headline": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
@@ -114,36 +94,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Current Price Update",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-06-nov-2026/liveblog/135591674.cms",
-      "published": "Fri, 06 Nov 2026 08:40:23 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's Performance Highlights",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-06-nov-2026/liveblog/135591226.cms",
-      "published": "Fri, 06 Nov 2026 08:20:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bharti Airtel Share Price Live Updates: Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements), Regulations, 2015",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-06-nov-2026/liveblog/135591214.cms",
-      "published": "Fri, 06 Nov 2026 08:20:07 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "British Airways parent profit drops on higher fuel costs",
       "summary": "IAG, the owner of British Airways and Iberia, said Friday that its net profit dropped more than 12 percent in the third quarter on soaring fuel costs and flight disruptions caused by the Middle East conflict. The group said its overall flight capacity had been hit \"by cancellations due to the conflict in the Middle East, together with aircraft availability linked to engine issues and disruption related to air traffic control disruption\".",
       "source": "Economic Times Markets",
@@ -151,6 +101,56 @@
       "published": "Fri, 06 Nov 2026 17:00:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Copper falls for 4th day, heads for worst week since March on AI rout",
+      "summary": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. While tight supply, particularly outside the US, has cushioned further losses, a significant drop in copper stocks within Chinese warehouses is intensifying supply anxieties.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
+      "published": "Fri, 06 Nov 2026 16:54:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
+      "summary": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investor confidence. The benchmark bond yield improved significantly, declining by approximately 22 basis points. Furthermore, the surge in foreign investments into Indian bonds marked a notable high since July, leading to enhanced overall market sentiment.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
+      "published": "Fri, 06 Nov 2026 12:33:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Great Diwali stock hunt: HAL, Eternal, 5 other stocks with upside of up to 75%",
+      "summary": "Kotak Neo has spotlighted seven stocks that show considerable growth potential, given India's stable economic forecast. APL Apollo Tubes and Eternal Limited are highlighted for their promising growth trajectory in the coming years. Furthermore, Hindustan Aeronautics and Titan are expected to experience moderate gains as their price-to-earnings ratios decrease. Notably, Jubilant Ingrevia is projected to have an impressive 72.5% upside, driven by anticipated earnings growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/great-diwali-stock-hunt-hal-eternal-5-other-stocks-with-upside-of-up-to-75/slideshow/135593656.cms",
+      "published": "Fri, 06 Nov 2026 09:44:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Authum Investment among 4 stocks showing bullish RSI upswing",
+      "summary": "Four Nifty500 stocks that gained over 8% on November 5 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-4-stocks-showing-bullish-rsi-upswing/slideshow/135593074.cms",
+      "published": "Fri, 06 Nov 2026 09:25:32 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Diwali 2026: Is Samvat 2083 the start of Dalal Street’s next big rally?",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
+      "published": "Fri, 06 Nov 2026 15:45:01 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -167,39 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T12:24:20.608001+00:00",
+      "chain_fetched_at_utc": "2026-11-06T13:12:56.384737+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": 788.25,
-      "change_pct": 3.72,
-      "setup_quality_score": 52.48,
+      "symbol": "M&M",
+      "price": 3287.199951171875,
+      "change_pct": 5.11,
+      "setup_quality_score": 48.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T12:24:21.035316+00:00",
+      "chain_fetched_at_utc": "2026-11-06T13:12:56.771111+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1322.9000244140625,
-      "change_pct": 3.35,
-      "setup_quality_score": 52.09,
+      "symbol": "BHARTIARTL",
+      "price": 2107.199951171875,
+      "change_pct": 2.45,
+      "setup_quality_score": 46.76,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T12:24:21.474338+00:00",
+      "chain_fetched_at_utc": "2026-11-06T13:12:57.138542+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
