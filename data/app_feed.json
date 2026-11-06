@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-06T16:13:23.544572+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-06T16:54:56.623136+00:00",
   "news": [
     {
       "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
@@ -14,8 +14,8 @@
       "symbols": "BEL"
     },
     {
-      "headline": "US stocks today: Nasdaq opens higher as chips pare losses, rate-hike fears linger",
-      "summary": "The Nasdaq opened higher on Friday as chip stocks came off heavy losses posted during a sharp selloff on fears that a Democratic-led Congress could result in tougher AI regulation,",
+      "headline": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
+      "summary": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data revive concerns over a December Fed rate hike. Airbnb rallies after raising its full-year revenue growth forecast, while Atlassian shares decline.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
       "published": "Fri, 06 Nov 2026 20:10:26 +0530",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T16:13:54.536382+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:55:40.456210+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T16:14:06.589861+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:55:52.546954+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T16:14:18.698554+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:56:04.657409+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
