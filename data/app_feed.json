@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-06T15:23:35.113913+00:00",
+  "generated_at_utc": "2026-11-06T16:13:23.544572+00:00",
   "news": [
     {
       "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
@@ -62,16 +62,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
-    },
-    {
-      "headline": "Stock Market Live Updates: Nasdaq opens higher as chips pare losses, rate-hike fears linger",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
-      "published": "Fri, 06 Nov 2026 18:39:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Authum Investment among 4 stocks showing bullish RSI upswing",
+      "summary": "Four Nifty500 stocks that gained over 8% on November 5 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-4-stocks-showing-bullish-rsi-upswing/slideshow/135593074.cms",
+      "published": "Fri, 06 Nov 2026 09:25:32 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T15:24:13.221191+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:13:54.536382+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T15:24:25.338856+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:14:06.589861+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T15:24:37.589919+00:00",
+      "chain_fetched_at_utc": "2026-11-06T16:14:18.698554+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
