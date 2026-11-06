@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-06T13:12:46.017255+00:00",
+  "generated_at_utc": "2026-11-06T14:35:13.033029+00:00",
   "news": [
     {
       "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
@@ -104,7 +104,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Copper falls for 4th day, heads for worst week since March on AI rout",
+      "headline": "Copper price falls for 4th day, heads for worst week since March on AI rout",
       "summary": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. While tight supply, particularly outside the US, has cushioned further losses, a significant drop in copper stocks within Chinese warehouses is intensifying supply anxieties.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
@@ -144,11 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Diwali 2026: Is Samvat 2083 the start of Dalal Street’s next big rally?",
+      "headline": "Stock Market Live Updates: Nasdaq futures rebound as Nvidia, chip stocks recover after AI selloff",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-      "published": "Fri, 06 Nov 2026 15:45:01 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
+      "published": "Fri, 06 Nov 2026 18:39:13 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T13:12:56.384737+00:00",
+      "chain_fetched_at_utc": "2026-11-06T14:35:59.188949+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T13:12:56.771111+00:00",
+      "chain_fetched_at_utc": "2026-11-06T14:36:11.272252+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T13:12:57.138542+00:00",
+      "chain_fetched_at_utc": "2026-11-06T14:36:23.396338+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
