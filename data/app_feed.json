@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-11-06T21:05:32.005082+00:00",
+  "generated_at_utc": "2026-11-07T19:38:12.445446+00:00",
   "news": [
     {
       "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
@@ -9,9 +9,19 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
       "published": "Fri, 06 Nov 2026 16:58:37 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
+      "summary": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+      "published": "Sat, 07 Nov 2026 11:13:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK, BEL"
     },
     {
       "headline": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
@@ -19,7 +29,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
       "published": "Fri, 06 Nov 2026 20:10:26 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -29,7 +39,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
       "published": "Fri, 06 Nov 2026 17:32:52 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -39,7 +49,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
       "published": "Fri, 06 Nov 2026 16:52:53 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -49,7 +59,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/maxwell-engineering-shares-list-at-90-premium-heres-how-hgs-other-2-sme-issues-debuted/articleshow/135594255.cms",
       "published": "Fri, 06 Nov 2026 10:33:51 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -59,9 +69,29 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-multibaggers-13-stocks-that-delivered-up-to-193-returns-since-last-dhanteras/slideshow/135594462.cms",
       "published": "Fri, 06 Nov 2026 10:11:27 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
+      "summary": "Angel One identifies seven stocks across banking, finance, pharmaceuticals, jewellery, engineering and defence, highlighting their earnings growth potential and expected upside as investors approach Samvat 2083.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms",
+      "published": "Sat, 07 Nov 2026 10:14:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Dollar jumps after strong US payrolls report",
+      "summary": "The US dollar index jumped significantly following the Labor Department's report indicating an increase of 165,000 jobs last month, which far exceeded economists' forecasts. As a result, the probability of a rate hike from the Federal Reserve climbed to nearly 80% for next month. Moreover, Federal Reserve officials voiced concerns about ongoing inflation, leading to declines for other currencies such as the euro and sterling against the dollar.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
+      "published": "Sat, 07 Nov 2026 09:41:35 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
@@ -69,7 +99,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
       "published": "Fri, 06 Nov 2026 16:05:18 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -79,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
       "published": "Fri, 06 Nov 2026 14:12:31 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -89,7 +119,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms",
       "published": "Fri, 06 Nov 2026 13:50:29 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -99,107 +129,77 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
       "published": "Fri, 06 Nov 2026 13:40:34 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "summary": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "published": "Sat, 07 Nov 2026 16:37:31 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "British Airways parent profit drops on higher fuel costs",
-      "summary": "IAG, the owner of British Airways and Iberia, said Friday that its net profit dropped more than 12 percent in the third quarter on soaring fuel costs and flight disruptions caused by the Middle East conflict. The group said its overall flight capacity had been hit \"by cancellations due to the conflict in the Middle East, together with aircraft availability linked to engine issues and disruption related to air traffic control disruption\".",
+      "headline": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+      "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
-      "published": "Fri, 06 Nov 2026 17:00:13 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "published": "Sat, 07 Nov 2026 11:31:15 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Copper price falls for 4th day, heads for worst week since March on AI rout",
-      "summary": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. While tight supply, particularly outside the US, has cushioned further losses, a significant drop in copper stocks within Chinese warehouses is intensifying supply anxieties.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
-      "published": "Fri, 06 Nov 2026 16:54:17 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-      "summary": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investor confidence. The benchmark bond yield improved significantly, declining by approximately 22 basis points. Furthermore, the surge in foreign investments into Indian bonds marked a notable high since July, leading to enhanced overall market sentiment.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-      "published": "Fri, 06 Nov 2026 12:33:11 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Great Diwali stock hunt: HAL, Eternal, 5 other stocks with upside of up to 75%",
-      "summary": "Kotak Neo has spotlighted seven stocks that show considerable growth potential, given India's stable economic forecast. APL Apollo Tubes and Eternal Limited are highlighted for their promising growth trajectory in the coming years. Furthermore, Hindustan Aeronautics and Titan are expected to experience moderate gains as their price-to-earnings ratios decrease. Notably, Jubilant Ingrevia is projected to have an impressive 72.5% upside, driven by anticipated earnings growth.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/great-diwali-stock-hunt-hal-eternal-5-other-stocks-with-upside-of-up-to-75/slideshow/135593656.cms",
-      "published": "Fri, 06 Nov 2026 09:44:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Authum Investment among 4 stocks showing bullish RSI upswing",
-      "summary": "Four Nifty500 stocks that gained over 8% on November 5 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-4-stocks-showing-bullish-rsi-upswing/slideshow/135593074.cms",
-      "published": "Fri, 06 Nov 2026 09:25:32 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BEL",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "ICICIBANK",
+      "price": 1571.199951171875,
+      "change_pct": 4.75,
+      "setup_quality_score": 63.62,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T21:05:45.577850+00:00",
+      "chain_fetched_at_utc": "2026-11-07T19:38:22.906121+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "M&M",
+      "price": 3287.199951171875,
+      "change_pct": 5.11,
+      "setup_quality_score": 48.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T21:05:46.053245+00:00",
+      "chain_fetched_at_utc": "2026-11-07T19:38:23.306875+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "RELIANCE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "BHARTIARTL",
+      "price": 2107.199951171875,
+      "change_pct": 2.45,
+      "setup_quality_score": 46.76,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-06T21:05:46.482149+00:00",
+      "chain_fetched_at_utc": "2026-11-07T19:38:23.683689+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
