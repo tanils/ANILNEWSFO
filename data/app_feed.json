@@ -1,211 +1,128 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-11-07T19:38:12.445446+00:00",
+  "generated_at_utc": "2026-11-08T19:58:37.305217+00:00",
   "news": [
     {
-      "headline": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
-      "summary": "Ske Jarzenske and other Trump Media investors are facing severe losses as the company's stock value has plummeted. Many investors had high hopes for the social media platform, believing in its potential profitability under Trump's leadership. Instead, Trump Media's shares have lost significant value, and discontent among shareholders has grown. The company's revenue remains stagnant, leading investors to question management practices and investor trust.",
+      "headline": "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
+      "summary": "Nifty reclaims 25,000 on a seven-session winning streak backed by robust Q2 earnings and firm macro data. Market analysts recommend top 5 stocks, including ITC, ICICI Bank, SBI, Force Motors, and M&amp;M, for the upcoming Muhurat trading session based on strong technical breakout structures.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
-      "published": "Fri, 06 Nov 2026 16:58:37 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
+      "published": "Sun, 08 Nov 2026 09:39:18 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
+      "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+      "published": "Sun, 08 Nov 2026 15:05:11 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "TATASTEEL"
+    },
+    {
+      "headline": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+      "summary": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspun Corp leading the rally with returns of up to 191% over the past year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+      "published": "Sun, 08 Nov 2026 10:58:18 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "HFCL, BSE"
+    },
+    {
+      "headline": "Muhurat Trading 2026 Highlights | Closing Bell: Sensex ends Muhurat Trading marginally lower, Nifty below 25,000; Divi's Labs surges 7%",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+      "published": "Sun, 08 Nov 2026 10:55:03 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "BEL"
     },
     {
-      "headline": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
-      "summary": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth.",
+      "headline": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
+      "summary": "India's macroeconomic environment is poised for robust growth, projected at over seven percent, bolstering equity markets. With falling crude oil prices, the rupee may strengthen, drawing foreign investors. Retail and domestic institutional investors are actively engaging despite foreign investor withdrawal. Clarity from recent US elections is predicted to alleviate geopolitical tensions, boosting business confidence and anticipation of renewed foreign investment in Indian markets.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
-      "published": "Sat, 07 Nov 2026 11:13:51 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms",
+      "published": "Sun, 08 Nov 2026 15:12:47 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK, BEL"
-    },
-    {
-      "headline": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
-      "summary": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data revive concerns over a December Fed rate hike. Airbnb rallies after raising its full-year revenue growth forecast, while Atlassian shares decline.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
-      "published": "Fri, 06 Nov 2026 20:10:26 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
-      "summary": "This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices fell sharply, enticing foreign investors back to purchase a significant volume of Indian bonds. This shift alleviates pressure on the Reserve Bank of India to maintain elevated yields, contributing to a positive outlook for Indian debt moving forward.",
+      "headline": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
+      "summary": "India's economy is projected to experience faster growth due to strong macroeconomic fundamentals and increased foreign interest. The Managing Director of the National Stock Exchange highlighted that the country is managing fiscal pressures effectively. Domestic financial savings have significantly increased, reaching nearly USD 1.4 trillion annually. Furthermore, foreign institutional investors are showing renewed enthusiasm for Indian markets ahead of the new Samvat year.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
-      "published": "Fri, 06 Nov 2026 17:32:52 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
-      "summary": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operations grew significantly to Rs 5,734 crore, up from Rs 4,900 crore a year prior. Additionally, new orders reached Rs 6,228 crore, a notable 38% increase year-over-year.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
-      "published": "Fri, 06 Nov 2026 16:52:53 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Maxwell Engineering shares list at 90% premium. Here's how HGS, other 2 SME issues debuted",
-      "summary": "Maxwell Engineering Solutions, HGS (India), Vectras Enprocon, and Johnsoncab Electricals recently marked their presence on the stock exchange, collectively raising around Rs 201 crore via their IPOs. Maxwell Engineering Solutions enjoyed a spectacular debut, while shares of HGS (India) also surged. However, Vectras Enprocon's performance was lackluster, with a tepid market response. Each firm presented varying subscription rates and price bands during their offerings.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/maxwell-engineering-shares-list-at-90-premium-heres-how-hgs-other-2-sme-issues-debuted/articleshow/135594255.cms",
-      "published": "Fri, 06 Nov 2026 10:33:51 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IPO multibaggers: 13 stocks that delivered up to 193% returns since last Dhanteras",
-      "summary": "India's IPO landscape has showcased remarkable performance, with numerous stocks delivering returns exceeding 100%. Leading the charge is Omnitech Engineering, boasting a stunning 192.62% rise from its IPO price. Other impressive performers include ESDS Software Solution and KSH International. This trend was notably observed from the last Dhanteras in October 2025 through to November 2026, encouraging investors to leverage these insights for strategic investment decisions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-multibaggers-13-stocks-that-delivered-up-to-193-returns-since-last-dhanteras/slideshow/135594462.cms",
-      "published": "Fri, 06 Nov 2026 10:11:27 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
-      "summary": "Angel One identifies seven stocks across banking, finance, pharmaceuticals, jewellery, engineering and defence, highlighting their earnings growth potential and expected upside as investors approach Samvat 2083.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms",
-      "published": "Sat, 07 Nov 2026 10:14:51 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms",
+      "published": "Sun, 08 Nov 2026 15:10:45 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Dollar jumps after strong US payrolls report",
-      "summary": "The US dollar index jumped significantly following the Labor Department's report indicating an increase of 165,000 jobs last month, which far exceeded economists' forecasts. As a result, the probability of a rate hike from the Federal Reserve climbed to nearly 80% for next month. Moreover, Federal Reserve officials voiced concerns about ongoing inflation, leading to declines for other currencies such as the euro and sterling against the dollar.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
-      "published": "Sat, 07 Nov 2026 09:41:35 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
-      "summary": "The Indian rupee strengthened past 94 per dollar after regaining appeal among emerging-market currencies recently. Significant foreign inflows into Indian equities and a sharp fall in oil prices are key factors. Analysts suggest India's equity markets may attract global investments as concerns about AI infrastructure spending grow. The Reserve Bank of India announced measures to support the rupee against maintaining fluctuations.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
-      "published": "Fri, 06 Nov 2026 16:05:18 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
-      "summary": "Anthropic's proposed $100 billion IPO faces uncertainty as investors question its $1.5 trillion valuation amid a global AI sell-off, rising infrastructure costs and concerns over profitability.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
-      "published": "Fri, 06 Nov 2026 14:12:31 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore",
-      "summary": "BMW Industries Ltd has reported an impressive 42.7 percent increase in net profit for the quarter ending on September 30. The firm's total income surged by 33 percent compared to the same quarter last fiscal year, while EBITDA rose by 25 percent, showcasing its resilience and growth. Notably, the new greenfield downstream steel complex in Bokaro commenced operations, with future plans focused on optimizing capacity utilization across these facilities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms",
-      "published": "Fri, 06 Nov 2026 13:50:29 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HCC Q2 profit slumps 53% to Rs 22 crore",
-      "summary": "Hindustan Construction Company reported a decline in consolidated net profit for the September quarter of FY27. Income and expenses also saw a reduction in comparison to the previous year's figures. The company secured an order of Rs 524 crore and participated in several project bids. Additionally, construction progressed on various projects including the Indore and Patna Metro.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
-      "published": "Fri, 06 Nov 2026 13:40:34 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
-      "summary": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
-      "published": "Sat, 07 Nov 2026 16:37:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
-      "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-      "published": "Sat, 07 Nov 2026 11:31:15 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ICICIBANK",
-      "price": 1571.199951171875,
-      "change_pct": 4.75,
-      "setup_quality_score": 63.62,
+      "symbol": "HCLTECH",
+      "price": 1442.0,
+      "change_pct": 0.14,
+      "setup_quality_score": 45.21,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-07T19:38:22.906121+00:00",
+      "chain_fetched_at_utc": "2026-11-08T19:58:50.743003+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "M&M",
-      "price": 3287.199951171875,
-      "change_pct": 5.11,
-      "setup_quality_score": 48.66,
+      "symbol": "TCS",
+      "price": 2498.800048828125,
+      "change_pct": 0.01,
+      "setup_quality_score": 45.02,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-07T19:38:23.306875+00:00",
+      "chain_fetched_at_utc": "2026-11-08T19:58:51.176594+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BHARTIARTL",
-      "price": 2107.199951171875,
-      "change_pct": 2.45,
-      "setup_quality_score": 46.76,
+      "symbol": "BSE",
+      "price": 3800.0,
+      "change_pct": 0.0,
+      "setup_quality_score": 41.5,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-07T19:38:23.683689+00:00",
+      "chain_fetched_at_utc": "2026-11-08T19:58:51.599872+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [],
-  "ai_status": "NO_AI_AVAILABLE",
-  "available_models": []
+  "ai_analyses": [
+    {
+      "provider": "GROQ",
+      "analysis": "**DAILY MARKET REPORT — 08 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n- **NIFTY**: 24,986 pts (‑0.18 % from prior close). Price is **above EMA‑20 (23,544)** and EMA‑50 (23,410) but **well below EMA‑200 (24,005)**. RSI 14 = 86.5 → **over‑bought**.  \n- **BANK NIFTY**: 58,851 pts (‑0.40 % from prior close). Also trading **above EMA‑20/50** but below EMA‑200. RSI 14 = 72.5 → **moderately over‑bought**.  \n- **Volume**: Both indices show **zero volume** in the fetched yFinance snapshot (likely a data‑feed limitation).  \n\n**Interpretation:** The indices are in a **short‑term pull‑back / range‑bound** phase after a recent rally that pushed NIFTY above 25,000. Momentum indicators (RSI) suggest a near‑term ceiling, while price remains above short‑term EMAs, indicating the broader trend is still bullish but vulnerable to a correction.\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| Time (IST) | Headline | Symbol(s) | Type |\n|------------|----------|-----------|------|\n| 09:39 | “Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session” | **ICICIBANK** | Catalyst (analyst recommendation) |\n| 15:05 | “Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers” | **TATASTEEL** | Context (price move) |\n| 10:58 | “Diwali turned lucky for these 8 stocks! … returns up to 191 %” | **HFCL, BSE** | Context (historical performance) |\n| 15:12 | “Lower crude, global stability to drive market growth in new Samvat” | – | Macro‑environment |\n| 15:10 | “Indian economy to grow faster, foreign capital returning to markets” | – | Macro‑environment |\n\n*All news items are **new** (≤ 15 hrs old) and sourced from **Economic Times Markets**.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n- Falling crude‑oil prices and a more stable global geopolitical backdrop are expected to **support rupee strength** and **foreign inflows** (source: ANMI President, 15:12 IST).  \n- NSE CEO cites **strong domestic savings** and **renewed foreign institutional interest** (source: 15:10 IST).  \n\nThese macro cues are **positive for equities** but have not yet translated into decisive price action on the indices (both showing modest declines).\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\nNo specific policy announcements in the supplied feed for today.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price/technical) | News Impact |\n|--------|------------------------|-------------|\n| **ICICIBANK** | Not present in market‑data snapshot (no price/technical). | Analyst recommendation for Muhurat session (potential short‑term buying interest). |\n| **TATASTEEL** | Not present in market‑data snapshot. | Listed among top gainers in Muhurat session (price momentum). |\n| **HFCL** | Not present in market‑data snapshot. | Historical double‑digit returns since Diwali 2025 (long‑term narrative). |\n| **BSE** | Price = 3,800 pts, RSI = 76.5, ATR = 112, volume ≈ 0.24 × 20‑day avg. | No fresh news; technical shows **over‑bought** condition. |\n| **HCLTECH** | Price = 1,442 pts, RSI = 66.8, ATR = 38, volume ≈ 0.04 × 20‑day avg. | No fresh news; price just above EMA‑20/50/200, modest bullish bias. |\n| **TCS** | Price = 2,498.8 pts, RSI = 55.2, ATR = 66.5, volume ≈ 0.05 × 20‑day avg. | No fresh news; price near EMA‑200, neutral stance. |\n\n---\n\n### 6. RESULTS / EARNINGS  \n\nNo earnings releases in the supplied data for today.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n- **Option‑chain data** for **all symbols** (including NIFTY, BANK NIFTY, HCLTECH, TCS, BSE) is **unavailable** (`expiry: null`, `source: unavailable`).  \n- Consequently, **Open Interest (OI), Change‑in‑OI, Volume, PCR, IV, Max‑Pain** cannot be assessed.  \n\n**Data‑Quality Verdict:** **DATA INSUFFICIENT** for any F&O‑based trade decision.\n\n---\n\n### 8. TECHNICAL SETUPS  \n\n| Symbol | Key Indicators | Interpretation |\n|--------|----------------|----------------|\n| **NIFTY** | Price > EMA‑20/50, RSI 86.5, ATR 352 | Short‑term over‑bought; possible pull‑back to near‑term support around **24,950 pts** (previous day low). |\n| **BANK NIFTY** | Price > EMA‑20/50, RSI 72.5, ATR 889 | Similar over‑bought bias; support near **58,600 pts** (previous day low). |\n| **BSE** | RSI 76.5, price near EMA‑200, ATR 112 | Over‑bought; watch for break below **3,714 pts** (previous day low). |\n| **HCLTECH** | RSI 66.8, price above all EMAs, ATR 38 | Mild bullish bias but volume very low (4 % of 20‑day avg). |\n| **TCS** | RSI 55.2, price ≈ EMA‑200, ATR 66.5 | Neutral; no clear breakout/breakdown. |\n\nNo **confirmed breakout** with supporting volume or OI is present.\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n- **ICICIBANK** – analyst recommendation for Muhurat session (catalyst) but **no price/option data** → watch for intraday price action.  \n- **HCLTECH** – price above all EMAs, modest bullish bias; monitor for volume pick‑up.  \n\n### 10. BEARISH WATCHLIST  \n\n- **NIFTY** – over‑bought RSI, recent dip below 25,000; watch for breakdown below **24,950 pts**.  \n- **BANK NIFTY** – similar over‑bought condition; watch for break below **58,600 pts**.  \n- **BSE** – high RSI, price near recent high; watch for reversal.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Symbol | Trap Check | Priced‑In Assessment |\n|--------|------------|----------------------|\n| **NIFTY** | No breakout; price slipped below 25,000 despite bullish EMAs – possible **false breakout trap**. | **PARTIALLY PRICED‑IN** – over‑bought momentum appears already reflected; further upside limited. |\n| **ICICIBANK** | No price data → cannot assess trap. | **CANNOT DETERMINE** – insufficient market data. |\n| **BSE** | High RSI with flat volume → risk of **reversal trap**. | **PARTIALLY PRICED‑IN** – over‑bought condition likely priced. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** No candidate reaches the required **≥ 90/100** “SUPER SETUP” score, and **critical option‑chain fields are missing**.  \n\n**Conclusion:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*All potential trades fail the data‑quality and confirmation gates.*\n\n---\n\n### 13. POSITION / RISK  \n\n- **Capital Available:** ₹25,000  \n- **Proposed Risk:** N/A (no trade).  \n\nIf a future trade is identified, risk per trade **must not exceed 10 % of capital (₹2,500)** and stop‑loss must be defined before entry.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n- **Option‑chain unavailable** for every candidate (expiry, OI, volume, bid‑ask missing).  \n- **Setup‑quality scores** for the only candidates with technical data (HCLTECH, TCS, BSE) are **< 50**, far below the 90‑point threshold.  \n- **Entry triggers** (price crossing a technical level with confirming volume/OI) are **absent**.  \n\nHence, the system must **refrain from opening any position** until richer data arrives.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The market is in a **short‑term over‑bought, range‑bound** condition.  \n- Macro fundamentals are positive, but **price action shows modest pull‑backs** on both NIFTY and BANK NIFTY.  \n- **No F&O data** (expiry, OI, volume) is available; **no candidate meets the 90‑point super‑setup threshold**.  \n- **Action:** Stay on the sidelines for now. Monitor the listed watchlist symbols for a **clear price breakout/breakdown** accompanied by **robust volume and a complete option‑chain** (OI, volume, tight bid‑ask). Once those conditions materialise, re‑evaluate for a single, well‑defined trade with a pre‑set entry, stop, and target.\n\n*Prepared by the DAILY INDIAN STOCK MARKET & F&O TRADING MASTER ANALYSIS system.*"
+    }
+  ],
+  "ai_status": "SINGLE_AI_AVAILABLE",
+  "available_models": [
+    "GROQ"
+  ]
 }
