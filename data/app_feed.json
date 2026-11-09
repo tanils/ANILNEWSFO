@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-09T13:17:08.085739+00:00",
+  "generated_at_utc": "2026-11-09T14:19:07.270353+00:00",
   "news": [
     {
       "headline": "MakeMyTrip's India arm gets Sebi nod to float IPO",
@@ -134,21 +134,21 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
+      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks futures rally on bargain hunting; Nvidia concerns cloud outlook",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
-      "published": "Mon, 09 Nov 2026 17:19:40 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
+      "published": "Mon, 09 Nov 2026 18:41:00 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
-      "summary": "Nvidia CEO Jensen Huang faces scrutiny after the company launched an independent probe into allegations that he was targeted by a foreign intelligence operation. The controversy has raised concerns over leadership, corporate governance, China-related business and investor confidence.",
+      "headline": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
-      "published": "Mon, 09 Nov 2026 12:13:18 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
+      "published": "Mon, 09 Nov 2026 17:19:40 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T13:17:18.411096+00:00",
+      "chain_fetched_at_utc": "2026-11-09T14:19:17.139286+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T13:17:18.710015+00:00",
+      "chain_fetched_at_utc": "2026-11-09T14:19:17.657163+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T13:17:19.019759+00:00",
+      "chain_fetched_at_utc": "2026-11-09T14:19:17.997236+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
