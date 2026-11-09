@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-09T17:48:52.636551+00:00",
+  "generated_at_utc": "2026-11-09T19:05:03.382902+00:00",
   "news": [
     {
       "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
@@ -114,10 +114,10 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks",
+      "headline": "US market remains tied to tech stocks despite sharp AI sell-off",
       "summary": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
       "published": "Mon, 09 Nov 2026 16:46:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T17:49:04.715903+00:00",
+      "chain_fetched_at_utc": "2026-11-09T19:05:15.433507+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T17:49:05.215509+00:00",
+      "chain_fetched_at_utc": "2026-11-09T19:05:15.852780+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T17:49:05.755345+00:00",
+      "chain_fetched_at_utc": "2026-11-09T19:05:16.403312+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
