@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-09T11:19:25.895021+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-09T13:17:08.085739+00:00",
   "news": [
     {
       "headline": "MakeMyTrip's India arm gets Sebi nod to float IPO",
@@ -24,34 +24,14 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Faces Slight Setback",
-      "summary": "",
+      "headline": "FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26",
+      "summary": "FIIs reduced stakes in 235 BSE smallcap companies for three consecutive quarters. Nine stocks suffered 50–70% declines in CY26, highlighting sustained foreign investor selling and significant market corrections.​",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-09-nov-2026/liveblog/135669204.cms",
-      "published": "Mon, 09 Nov 2026 08:30:01 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-10-smallcap-stocks-for-3-consecutive-quarters-shares-fall-up-to-70-in-cy26/slideshow/135680171.cms",
+      "published": "Mon, 09 Nov 2026 16:40:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
-    {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Positive Movement Today",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-09-nov-2026/liveblog/135669071.cms",
-      "published": "Mon, 09 Nov 2026 08:25:25 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-09-nov-2026/liveblog/135668930.cms",
-      "published": "Mon, 09 Nov 2026 08:19:30 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "BSE"
     },
     {
       "headline": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
@@ -94,11 +74,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Closes Lower Amid Market Fluctuations",
-      "summary": "",
+      "headline": "India bonds continue rally ahead of inflation data",
+      "summary": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-09-nov-2026/liveblog/135670809.cms",
-      "published": "Mon, 09 Nov 2026 09:52:58 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
+      "published": "Mon, 09 Nov 2026 17:41:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks",
+      "summary": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
+      "published": "Mon, 09 Nov 2026 16:46:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -144,51 +134,29 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Infosys Share Price Live Updates: Infosys Price Movement Analysis",
+      "headline": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669455.cms",
-      "published": "Mon, 09 Nov 2026 08:41:24 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
+      "published": "Mon, 09 Nov 2026 17:19:40 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "INFY"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
+      "summary": "Nvidia CEO Jensen Huang faces scrutiny after the company launched an independent probe into allegations that he was targeted by a foreign intelligence operation. The controversy has raised concerns over leadership, corporate governance, China-related business and investor confidence.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
+      "published": "Mon, 09 Nov 2026 12:13:18 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HDFCBANK",
-      "price": 798.1500244140625,
-      "change_pct": 1.26,
-      "setup_quality_score": 53.51,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T11:19:34.843454+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": 1589.0,
-      "change_pct": 1.13,
-      "setup_quality_score": 52.76,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T11:19:35.290460+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "SBIN",
       "price": 1042.0,
       "change_pct": 2.31,
@@ -199,7 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T11:19:35.684009+00:00",
+      "chain_fetched_at_utc": "2026-11-09T13:17:18.411096+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "TRENT",
+      "price": 3119.199951171875,
+      "change_pct": 1.31,
+      "setup_quality_score": 46.97,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-09T13:17:18.710015+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "HDFCBANK",
+      "price": 798.1500244140625,
+      "change_pct": 1.26,
+      "setup_quality_score": 46.01,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-09T13:17:19.019759+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
