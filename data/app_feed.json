@@ -1,128 +1,211 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-08T19:58:37.305217+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-09T11:19:25.895021+00:00",
   "news": [
     {
-      "headline": "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
-      "summary": "Nifty reclaims 25,000 on a seven-session winning streak backed by robust Q2 earnings and firm macro data. Market analysts recommend top 5 stocks, including ITC, ICICI Bank, SBI, Force Motors, and M&amp;M, for the upcoming Muhurat trading session based on strong technical breakout structures.",
+      "headline": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+      "summary": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity shares by MakeMyTrip and its subsidiary, ibibo Group Holdings. Proceeds from the sale are expected to enhance the cash position of the parent company.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
-      "published": "Sun, 08 Nov 2026 09:39:18 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
+      "published": "Mon, 09 Nov 2026 13:42:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Explained: Why Nvidia shares dropped 4% in overnight trade and what analysts warn can trigger a bloodbath?",
+      "summary": "Nvidia shares dropped over 4% after CEO Jensen Huang acknowledged an affair with Alice Huang. Jensen Huang's relationship with Alice, a Chinese national, raised security concerns following intelligence reports. Nvidia has initiated an investigation into these allegations, although the board believes no secrets were compromised. Analysts suggest the company's upcoming earnings report will be crucial for market sentiment. Concerns linger over Huang's position if further evidence of wrongdoing emerges.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
+      "published": "Mon, 09 Nov 2026 13:00:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Faces Slight Setback",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-09-nov-2026/liveblog/135669204.cms",
+      "published": "Mon, 09 Nov 2026 08:30:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "AXISBANK"
+    },
+    {
+      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Positive Movement Today",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-09-nov-2026/liveblog/135669071.cms",
+      "published": "Mon, 09 Nov 2026 08:25:25 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
+      "summary": "",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-09-nov-2026/liveblog/135668930.cms",
+      "published": "Mon, 09 Nov 2026 08:19:30 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "ICICIBANK"
     },
     {
-      "headline": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
-      "summary": "",
+      "headline": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
+      "summary": "The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee against the US dollar.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
-      "published": "Sun, 08 Nov 2026 15:05:11 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
+      "published": "Mon, 09 Nov 2026 15:34:34 +0530",
       "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATASTEEL"
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
-      "summary": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspun Corp leading the rally with returns of up to 191% over the past year.",
+      "headline": "India short bonds may underperform on rate hikes, cash squeeze",
+      "summary": "India's bond market is experiencing changes due to recent interest rate hikes and tightening liquidity conditions. The Reserve Bank of India is anticipated to raise interest rates significantly in the coming months. Short-term bonds are expected to be more sensitive to these monetary conditions, leading to their underperformance. There are expectations for the yield curve to flatten further as short-term yields rise.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
-      "published": "Sun, 08 Nov 2026 10:58:18 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
+      "published": "Mon, 09 Nov 2026 09:23:12 +0530",
       "freshness": "new",
-      "news_type": "context",
-      "symbols": "HFCL, BSE"
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Muhurat Trading 2026 Highlights | Closing Bell: Sensex ends Muhurat Trading marginally lower, Nifty below 25,000; Divi's Labs surges 7%",
+      "headline": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
+      "summary": "The Indian rupee snapped its six-session winning streak on Monday, November 9, as dollar purchases by state-run banks outweighed positive momentum. The currency touched a six-month high of 93.69 per dollar before closing slightly lower at 93.9275. Lower crude oil prices and foreign equity inflows provided some support.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
+      "published": "Mon, 09 Nov 2026 15:54:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+      "summary": "Nuvama Wealth Management Ltd achieved a consolidated net profit of Rs 303.5 crore for Q2 FY27. The company saw a revenue increase of 20.35% to Rs 1,366 crore for the same quarter. Client assets reached Rs 5.5 lakh crore, reflecting a 25% year-on-year growth. Wealth management, asset services, and capital markets drove this substantial growth. The company demonstrated strong operating profits with a return on equity remaining robust at 29%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
+      "published": "Mon, 09 Nov 2026 12:09:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Closes Lower Amid Market Fluctuations",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
-      "published": "Sun, 08 Nov 2026 10:55:03 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-09-nov-2026/liveblog/135670809.cms",
+      "published": "Mon, 09 Nov 2026 09:52:58 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Indian bonds drift with oil; inflation data in focus",
+      "summary": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the United States and India on the horizon. Scheduled for later today is a bond auction totaling 290.5 billion rupees. Analysts predict yields on the 10-year bond could oscillate between 7.30% and 7.10%, with particular attention on India's October inflation report due for release this Thursday.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
+      "published": "Mon, 09 Nov 2026 13:03:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
+      "summary": "Citi Research projects that India's benchmark Nifty 50 index could hit 28,000 points by the end of 2027. This forecast is based on strong earnings prospects and falling oil prices. Recent foreign portfolio investor activity has contributed significantly to the positive sentiment in the equity market. Additionally, lower oil prices could improve macroeconomic conditions and reduce inflation rates in India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
+      "published": "Mon, 09 Nov 2026 10:15:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Vedanta Aluminium Metal among 5 stocks showing bullish RSI upswing",
+      "summary": "Five Nifty200 stocks featured in StockEdge’s RSI Trending Up scan on November 8, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-metal-among-5-stocks-showing-bullish-rsi-upswing/slideshow/135670091.cms",
+      "published": "Mon, 09 Nov 2026 09:13:33 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
     },
     {
-      "headline": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
-      "summary": "India's macroeconomic environment is poised for robust growth, projected at over seven percent, bolstering equity markets. With falling crude oil prices, the rupee may strengthen, drawing foreign investors. Retail and domestic institutional investors are actively engaging despite foreign investor withdrawal. Clarity from recent US elections is predicted to alleviate geopolitical tensions, boosting business confidence and anticipation of renewed foreign investment in Indian markets.",
+      "headline": "L&amp;T Finance among 6 stocks that dropped below their VWAPs",
+      "summary": "Four Nifty500 stocks closed over 1% below their VWAPs on November 8, signalling weakness relative to their average traded prices during the session.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms",
-      "published": "Sun, 08 Nov 2026 15:12:47 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-6-stocks-that-dropped-below-their-vwaps/slideshow/135669893.cms",
+      "published": "Mon, 09 Nov 2026 09:03:49 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "BEL"
     },
     {
-      "headline": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-      "summary": "India's economy is projected to experience faster growth due to strong macroeconomic fundamentals and increased foreign interest. The Managing Director of the National Stock Exchange highlighted that the country is managing fiscal pressures effectively. Domestic financial savings have significantly increased, reaching nearly USD 1.4 trillion annually. Furthermore, foreign institutional investors are showing renewed enthusiasm for Indian markets ahead of the new Samvat year.",
+      "headline": "Infosys Share Price Live Updates: Infosys Price Movement Analysis",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms",
-      "published": "Sun, 08 Nov 2026 15:10:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669455.cms",
+      "published": "Mon, 09 Nov 2026 08:41:24 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "INFY"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HCLTECH",
-      "price": 1442.0,
-      "change_pct": 0.14,
-      "setup_quality_score": 45.21,
+      "symbol": "HDFCBANK",
+      "price": 798.1500244140625,
+      "change_pct": 1.26,
+      "setup_quality_score": 53.51,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-08T19:58:50.743003+00:00",
+      "chain_fetched_at_utc": "2026-11-09T11:19:34.843454+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "TCS",
-      "price": 2498.800048828125,
-      "change_pct": 0.01,
-      "setup_quality_score": 45.02,
+      "symbol": "ICICIBANK",
+      "price": 1589.0,
+      "change_pct": 1.13,
+      "setup_quality_score": 52.76,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-08T19:58:51.176594+00:00",
+      "chain_fetched_at_utc": "2026-11-09T11:19:35.290460+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "BSE",
-      "price": 3800.0,
-      "change_pct": 0.0,
-      "setup_quality_score": 41.5,
+      "symbol": "SBIN",
+      "price": 1042.0,
+      "change_pct": 2.31,
+      "setup_quality_score": 49.27,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-08T19:58:51.599872+00:00",
+      "chain_fetched_at_utc": "2026-11-09T11:19:35.684009+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 08 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n- **NIFTY**: 24,986 pts (‑0.18 % from prior close). Price is **above EMA‑20 (23,544)** and EMA‑50 (23,410) but **well below EMA‑200 (24,005)**. RSI 14 = 86.5 → **over‑bought**.  \n- **BANK NIFTY**: 58,851 pts (‑0.40 % from prior close). Also trading **above EMA‑20/50** but below EMA‑200. RSI 14 = 72.5 → **moderately over‑bought**.  \n- **Volume**: Both indices show **zero volume** in the fetched yFinance snapshot (likely a data‑feed limitation).  \n\n**Interpretation:** The indices are in a **short‑term pull‑back / range‑bound** phase after a recent rally that pushed NIFTY above 25,000. Momentum indicators (RSI) suggest a near‑term ceiling, while price remains above short‑term EMAs, indicating the broader trend is still bullish but vulnerable to a correction.\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| Time (IST) | Headline | Symbol(s) | Type |\n|------------|----------|-----------|------|\n| 09:39 | “Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session” | **ICICIBANK** | Catalyst (analyst recommendation) |\n| 15:05 | “Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers” | **TATASTEEL** | Context (price move) |\n| 10:58 | “Diwali turned lucky for these 8 stocks! … returns up to 191 %” | **HFCL, BSE** | Context (historical performance) |\n| 15:12 | “Lower crude, global stability to drive market growth in new Samvat” | – | Macro‑environment |\n| 15:10 | “Indian economy to grow faster, foreign capital returning to markets” | – | Macro‑environment |\n\n*All news items are **new** (≤ 15 hrs old) and sourced from **Economic Times Markets**.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n- Falling crude‑oil prices and a more stable global geopolitical backdrop are expected to **support rupee strength** and **foreign inflows** (source: ANMI President, 15:12 IST).  \n- NSE CEO cites **strong domestic savings** and **renewed foreign institutional interest** (source: 15:10 IST).  \n\nThese macro cues are **positive for equities** but have not yet translated into decisive price action on the indices (both showing modest declines).\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\nNo specific policy announcements in the supplied feed for today.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price/technical) | News Impact |\n|--------|------------------------|-------------|\n| **ICICIBANK** | Not present in market‑data snapshot (no price/technical). | Analyst recommendation for Muhurat session (potential short‑term buying interest). |\n| **TATASTEEL** | Not present in market‑data snapshot. | Listed among top gainers in Muhurat session (price momentum). |\n| **HFCL** | Not present in market‑data snapshot. | Historical double‑digit returns since Diwali 2025 (long‑term narrative). |\n| **BSE** | Price = 3,800 pts, RSI = 76.5, ATR = 112, volume ≈ 0.24 × 20‑day avg. | No fresh news; technical shows **over‑bought** condition. |\n| **HCLTECH** | Price = 1,442 pts, RSI = 66.8, ATR = 38, volume ≈ 0.04 × 20‑day avg. | No fresh news; price just above EMA‑20/50/200, modest bullish bias. |\n| **TCS** | Price = 2,498.8 pts, RSI = 55.2, ATR = 66.5, volume ≈ 0.05 × 20‑day avg. | No fresh news; price near EMA‑200, neutral stance. |\n\n---\n\n### 6. RESULTS / EARNINGS  \n\nNo earnings releases in the supplied data for today.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n- **Option‑chain data** for **all symbols** (including NIFTY, BANK NIFTY, HCLTECH, TCS, BSE) is **unavailable** (`expiry: null`, `source: unavailable`).  \n- Consequently, **Open Interest (OI), Change‑in‑OI, Volume, PCR, IV, Max‑Pain** cannot be assessed.  \n\n**Data‑Quality Verdict:** **DATA INSUFFICIENT** for any F&O‑based trade decision.\n\n---\n\n### 8. TECHNICAL SETUPS  \n\n| Symbol | Key Indicators | Interpretation |\n|--------|----------------|----------------|\n| **NIFTY** | Price > EMA‑20/50, RSI 86.5, ATR 352 | Short‑term over‑bought; possible pull‑back to near‑term support around **24,950 pts** (previous day low). |\n| **BANK NIFTY** | Price > EMA‑20/50, RSI 72.5, ATR 889 | Similar over‑bought bias; support near **58,600 pts** (previous day low). |\n| **BSE** | RSI 76.5, price near EMA‑200, ATR 112 | Over‑bought; watch for break below **3,714 pts** (previous day low). |\n| **HCLTECH** | RSI 66.8, price above all EMAs, ATR 38 | Mild bullish bias but volume very low (4 % of 20‑day avg). |\n| **TCS** | RSI 55.2, price ≈ EMA‑200, ATR 66.5 | Neutral; no clear breakout/breakdown. |\n\nNo **confirmed breakout** with supporting volume or OI is present.\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n- **ICICIBANK** – analyst recommendation for Muhurat session (catalyst) but **no price/option data** → watch for intraday price action.  \n- **HCLTECH** – price above all EMAs, modest bullish bias; monitor for volume pick‑up.  \n\n### 10. BEARISH WATCHLIST  \n\n- **NIFTY** – over‑bought RSI, recent dip below 25,000; watch for breakdown below **24,950 pts**.  \n- **BANK NIFTY** – similar over‑bought condition; watch for break below **58,600 pts**.  \n- **BSE** – high RSI, price near recent high; watch for reversal.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Symbol | Trap Check | Priced‑In Assessment |\n|--------|------------|----------------------|\n| **NIFTY** | No breakout; price slipped below 25,000 despite bullish EMAs – possible **false breakout trap**. | **PARTIALLY PRICED‑IN** – over‑bought momentum appears already reflected; further upside limited. |\n| **ICICIBANK** | No price data → cannot assess trap. | **CANNOT DETERMINE** – insufficient market data. |\n| **BSE** | High RSI with flat volume → risk of **reversal trap**. | **PARTIALLY PRICED‑IN** – over‑bought condition likely priced. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** No candidate reaches the required **≥ 90/100** “SUPER SETUP” score, and **critical option‑chain fields are missing**.  \n\n**Conclusion:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*All potential trades fail the data‑quality and confirmation gates.*\n\n---\n\n### 13. POSITION / RISK  \n\n- **Capital Available:** ₹25,000  \n- **Proposed Risk:** N/A (no trade).  \n\nIf a future trade is identified, risk per trade **must not exceed 10 % of capital (₹2,500)** and stop‑loss must be defined before entry.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n- **Option‑chain unavailable** for every candidate (expiry, OI, volume, bid‑ask missing).  \n- **Setup‑quality scores** for the only candidates with technical data (HCLTECH, TCS, BSE) are **< 50**, far below the 90‑point threshold.  \n- **Entry triggers** (price crossing a technical level with confirming volume/OI) are **absent**.  \n\nHence, the system must **refrain from opening any position** until richer data arrives.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The market is in a **short‑term over‑bought, range‑bound** condition.  \n- Macro fundamentals are positive, but **price action shows modest pull‑backs** on both NIFTY and BANK NIFTY.  \n- **No F&O data** (expiry, OI, volume) is available; **no candidate meets the 90‑point super‑setup threshold**.  \n- **Action:** Stay on the sidelines for now. Monitor the listed watchlist symbols for a **clear price breakout/breakdown** accompanied by **robust volume and a complete option‑chain** (OI, volume, tight bid‑ask). Once those conditions materialise, re‑evaluate for a single, well‑defined trade with a pre‑set entry, stop, and target.\n\n*Prepared by the DAILY INDIAN STOCK MARKET & F&O TRADING MASTER ANALYSIS system.*"
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
