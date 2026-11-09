@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-09T14:19:07.270353+00:00",
+  "generated_at_utc": "2026-11-09T16:50:14.433995+00:00",
   "news": [
+    {
+      "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
+      "summary": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "published": "Mon, 09 Nov 2026 20:14:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
     {
       "headline": "MakeMyTrip's India arm gets Sebi nod to float IPO",
       "summary": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity shares by MakeMyTrip and its subsidiary, ibibo Group Holdings. Proceeds from the sale are expected to enhance the cash position of the parent company.",
@@ -49,6 +59,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
       "published": "Mon, 09 Nov 2026 09:23:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
+      "summary": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
+      "published": "Mon, 09 Nov 2026 20:35:56 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks futures rally on bargain hunting; Nvidia concerns cloud outlook",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
-      "published": "Mon, 09 Nov 2026 18:41:00 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
-      "published": "Mon, 09 Nov 2026 17:19:40 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T14:19:17.139286+00:00",
+      "chain_fetched_at_utc": "2026-11-09T16:50:23.512627+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T14:19:17.657163+00:00",
+      "chain_fetched_at_utc": "2026-11-09T16:50:23.865800+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T14:19:17.997236+00:00",
+      "chain_fetched_at_utc": "2026-11-09T16:50:24.173170+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
