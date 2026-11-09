@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-09T16:50:14.433995+00:00",
+  "generated_at_utc": "2026-11-09T17:48:52.636551+00:00",
   "news": [
     {
       "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
@@ -94,6 +94,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+      "summary": "The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices. They claim that perpetual futures ought to be categorized as swaps due to their unique trading characteristics. Moreover, ongoing trading raises alarm about liquidity and counterparty risk, especially in turbulent market conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
+      "published": "Mon, 09 Nov 2026 22:28:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "India bonds continue rally ahead of inflation data",
       "summary": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
       "source": "Economic Times Markets",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "L&amp;T Finance among 6 stocks that dropped below their VWAPs",
-      "summary": "Four Nifty500 stocks closed over 1% below their VWAPs on November 8, signalling weakness relative to their average traded prices during the session.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-6-stocks-that-dropped-below-their-vwaps/slideshow/135669893.cms",
-      "published": "Mon, 09 Nov 2026 09:03:49 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T16:50:23.512627+00:00",
+      "chain_fetched_at_utc": "2026-11-09T17:49:04.715903+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T16:50:23.865800+00:00",
+      "chain_fetched_at_utc": "2026-11-09T17:49:05.215509+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T16:50:24.173170+00:00",
+      "chain_fetched_at_utc": "2026-11-09T17:49:05.755345+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
