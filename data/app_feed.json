@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-10T13:45:21.202517+00:00",
+  "generated_at_utc": "2026-11-10T15:12:38.971511+00:00",
   "news": [
     {
       "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
@@ -9,7 +9,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
       "published": "Mon, 09 Nov 2026 20:14:09 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
     },
@@ -30,6 +30,16 @@
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
       "published": "Mon, 09 Nov 2026 13:00:59 +0530",
       "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "BEL"
+    },
+    {
+      "headline": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+      "summary": "TSMC is set to invest up to $1 billion in the AI landscape, directing $500 million each to Anthropic and OpenAI. As Anthropic prepares for its IPO, this financial move by TSMC underscores its belief in a booming AI industry. With surging demand for AI chips, TSMC also aims to enhance its production capabilities, reinforcing its role in evolving AI infrastructure.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713301.cms",
+      "published": "Tue, 10 Nov 2026 19:52:30 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
     },
@@ -139,16 +149,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
       "published": "Mon, 09 Nov 2026 20:35:56 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
-      "summary": "The Indian rupee snapped its six-session winning streak on Monday, November 9, as dollar purchases by state-run banks outweighed positive momentum. The currency touched a six-month high of 93.69 per dollar before closing slightly lower at 93.9275. Lower crude oil prices and foreign equity inflows provided some support.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-      "published": "Mon, 09 Nov 2026 15:54:26 +0530",
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T13:45:30.413981+00:00",
+      "chain_fetched_at_utc": "2026-11-10T15:12:49.292357+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T13:45:30.793931+00:00",
+      "chain_fetched_at_utc": "2026-11-10T15:12:49.673727+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T13:45:31.176986+00:00",
+      "chain_fetched_at_utc": "2026-11-10T15:12:50.041673+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
