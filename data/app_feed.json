@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-09T23:51:46.582989+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-10T11:00:09.135944+00:00",
   "news": [
     {
       "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
@@ -19,7 +19,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
       "published": "Mon, 09 Nov 2026 13:42:31 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -29,9 +29,39 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
       "published": "Mon, 09 Nov 2026 13:00:59 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "Why Rocket Lab shares fell despite record revenue and booming Neutron demand",
+      "summary": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also weighed Neutron's delayed maiden launch, higher development costs and upbeat fourth-quarter revenue guidance.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-rocket-lab-shares-fell-despite-record-revenue-and-booming-neutron-demand/slideshow/135702575.cms",
+      "published": "Tue, 10 Nov 2026 11:47:40 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
+      "summary": "Anthropic initially shared its IPO filing details but later retracted the information due to inaccuracies. The company aimed to sell approximately 867 million shares priced between $70 and $80 each. A follow-up email clarified that these pricing details were incorrect. Anthropic indicated that an updated filing would be provided later. The company has chosen not to provide further comments regarding the situation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
+      "published": "Tue, 10 Nov 2026 07:48:28 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI said to query bank valuations of some bond derivative trades",
+      "summary": "India's central bank has informed some lenders about the need to adjust bond forward accounting practices. This change could impact billions of dollars in assets across the banking sector. The Reserve Bank of India suggested using Level 3 inputs for valuing bond-forward trades during recent audits. Banks have been in discussions with industry associations and clearinghouses for potential solutions and better pricing information.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
+      "published": "Tue, 10 Nov 2026 07:32:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26",
@@ -49,7 +79,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
       "published": "Mon, 09 Nov 2026 15:34:34 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -59,6 +89,36 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
       "published": "Mon, 09 Nov 2026 09:23:12 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US Treasury yields rise as Fed's Waller presses rate hike case",
+      "summary": "Following remarks from Federal Reserve Governor Christopher Waller, short-dated Treasury yields saw an uptick, as he proposed the necessity of action despite seemingly moderated inflation data. Waller highlighted a possible half-point rate increase if inflation intensifies, signaling potential shifts in monetary policy. Economists expect a modest rise in core inflation, guiding market anticipations as money markets now fully reflect a 25 basis point increase in December.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
+      "published": "Tue, 10 Nov 2026 16:25:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why The Trade Desk stock surged 15% despite revenue decline",
+      "summary": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 guidance boosted investor confidence despite declining profitability.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
+      "published": "Tue, 10 Nov 2026 11:01:01 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic plans IPO live stream with Amodei, JPMorgan CEO Dimon",
+      "summary": "Anthropic PBC is preparing for a live-streamed event featuring CEO Dario Amodei and JPMorgan Chase CEO Jamie Dimon. This event is aimed at marketing their upcoming initial public offering, which might break records. The IPO is set to begin marketing shortly and is planned to debut before the Thanksgiving holiday. Anthropic is targeting an offering size similar to SpaceX's IPO, which raised significant funding.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
+      "published": "Tue, 10 Nov 2026 09:54:56 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -79,7 +139,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
       "published": "Mon, 09 Nov 2026 15:54:26 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -89,69 +149,9 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
       "published": "Mon, 09 Nov 2026 12:09:56 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
-      "summary": "The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices. They claim that perpetual futures ought to be categorized as swaps due to their unique trading characteristics. Moreover, ongoing trading raises alarm about liquidity and counterparty risk, especially in turbulent market conditions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
-      "published": "Mon, 09 Nov 2026 22:28:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds continue rally ahead of inflation data",
-      "summary": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
-      "published": "Mon, 09 Nov 2026 17:41:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US market remains tied to tech stocks despite sharp AI sell-off",
-      "summary": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
-      "published": "Mon, 09 Nov 2026 16:46:25 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Indian bonds drift with oil; inflation data in focus",
-      "summary": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the United States and India on the horizon. Scheduled for later today is a bond auction totaling 290.5 billion rupees. Analysts predict yields on the 10-year bond could oscillate between 7.30% and 7.10%, with particular attention on India's October inflation report due for release this Thursday.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
-      "published": "Mon, 09 Nov 2026 13:03:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
-      "summary": "Citi Research projects that India's benchmark Nifty 50 index could hit 28,000 points by the end of 2027. This forecast is based on strong earnings prospects and falling oil prices. Recent foreign portfolio investor activity has contributed significantly to the positive sentiment in the equity market. Additionally, lower oil prices could improve macroeconomic conditions and reduce inflation rates in India.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-      "published": "Mon, 09 Nov 2026 10:15:45 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vedanta Aluminium Metal among 5 stocks showing bullish RSI upswing",
-      "summary": "Five Nifty200 stocks featured in StockEdge’s RSI Trending Up scan on November 8, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-metal-among-5-stocks-showing-bullish-rsi-upswing/slideshow/135670091.cms",
-      "published": "Mon, 09 Nov 2026 09:13:33 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T23:51:57.962845+00:00",
+      "chain_fetched_at_utc": "2026-11-10T11:00:20.330902+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T23:51:58.357021+00:00",
+      "chain_fetched_at_utc": "2026-11-10T11:00:20.821840+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-09T23:51:58.738019+00:00",
+      "chain_fetched_at_utc": "2026-11-10T11:00:21.197231+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
