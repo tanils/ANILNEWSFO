@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-10T12:55:18.539324+00:00",
+  "generated_at_utc": "2026-11-10T13:45:21.202517+00:00",
   "news": [
     {
       "headline": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T12:55:28.430834+00:00",
+      "chain_fetched_at_utc": "2026-11-10T13:45:30.413981+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T12:55:28.886964+00:00",
+      "chain_fetched_at_utc": "2026-11-10T13:45:30.793931+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-10T12:55:29.221973+00:00",
+      "chain_fetched_at_utc": "2026-11-10T13:45:31.176986+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
