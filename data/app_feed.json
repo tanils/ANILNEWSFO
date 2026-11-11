@@ -1,27 +1,17 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-11T12:05:07.335954+00:00",
+  "generated_at_utc": "2026-11-11T12:56:36.301693+00:00",
   "news": [
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Performance Overview",
-      "summary": "",
+      "headline": "Realty firms' land acquisition falls 56% to 1,445 acres in Jan-Sep: Anarock",
+      "summary": "In the first nine months of 2026, a notable drop in land acquisition activities by Indian real estate firms has been observed. Anarock attributes this decline to developers adopting a cautious strategy, influenced by rising costs and emphasized selectivity in land purchases. Notably, joint development agreements with landowners represented 25% of all deals, hinting at a stronger focus on project feasibility and connectivity.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-11-nov-2026/liveblog/135723764.cms",
-      "published": "Wed, 11 Nov 2026 08:25:30 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/realty-firms-land-acquisition-falls-56-to-1445-acres-in-jan-sep-anarock/articleshow/135736891.cms",
+      "published": "Wed, 11 Nov 2026 17:40:24 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-11-nov-2026/liveblog/135723758.cms",
-      "published": "Wed, 11 Nov 2026 08:25:23 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "BSE"
     },
     {
       "headline": "India bonds slip as Treasury rout offsets oil slide",
@@ -54,16 +44,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's stock shows resilience with a price increase",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-11-nov-2026/liveblog/135724188.cms",
-      "published": "Wed, 11 Nov 2026 08:40:06 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "CoreWeave stock jumps after earnings: 7 things driving the AI cloud company's rally",
       "summary": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and infrastructure spending concerns.",
       "source": "Economic Times Markets",
@@ -84,44 +64,14 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Tata Steel Share Price Live Updates: Tata Steel's Positive Price Action",
-      "summary": "",
+      "headline": "US Treasury rout hands India's 10-year bond its worst day in a month",
+      "summary": "On Wednesday, the Indian rupee gained strength against the dollar, reaching its highest point since April. This improvement was influenced by foreign investments in local stocks and upbeat sentiment in the non-deliverable forward market. Although inflation concerns in the US led to a stronger dollar, traders remained focused on foreign portfolio investments in Indian equities.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-live-updates-11-nov-2026/liveblog/135724245.cms",
-      "published": "Wed, 11 Nov 2026 08:42:23 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-rout-hands-indias-10-year-bond-its-worst-day-in-a-month/articleshow/135736836.cms",
+      "published": "Wed, 11 Nov 2026 17:36:33 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "TATASTEEL"
-    },
-    {
-      "headline": "Infosys Share Price Live Updates: Infosys experiences a decline below its 20-day Simple Moving Average",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-11-nov-2026/liveblog/135723760.cms",
-      "published": "Wed, 11 Nov 2026 08:25:25 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "INFY, BEL"
-    },
-    {
-      "headline": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Market Performance Today",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-live-11-nov-2026/liveblog/135723568.cms",
-      "published": "Wed, 11 Nov 2026 08:20:05 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "HEROMOTOCO"
-    },
-    {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV Price and Returns Overview",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-11-nov-2026/liveblog/135723223.cms",
-      "published": "Wed, 11 Nov 2026 08:03:02 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATAMOTORS"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "These 12 midcap stocks rally up to 30% in just one month",
@@ -152,22 +102,62 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nvidia Stock Sell-Off Deepens: Spy scandal, price target cuts put AI giant under pressure",
+      "summary": "Nvidia shares plunge nearly 10% amid technology sell-offs, leadership controversy and AI valuation concerns. Analyst price-target cuts deepen investor anxiety ahead of November 17 quarterly earnings.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-sell-off-deepens-spy-scandal-price-target-cuts-put-ai-giant-under-pressure/slideshow/135728557.cms",
+      "published": "Wed, 11 Nov 2026 12:10:00 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee rises 7 paise to 93.70 against US dollar in early trade",
+      "summary": "The rupee strengthened 7 paise to 93.70 against the US dollar in early trade on Wednesday, supported by sustained foreign fund inflows, easing crude oil prices and improving geopolitical sentiment. The domestic currency has emerged as one of Asia's best performers in FY27, with traders expecting continued overseas investor participation to provide a buffer against external uncertainties.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-trade/articleshow/135726644.cms",
+      "published": "Wed, 11 Nov 2026 10:46:44 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Positive Breakout: These 5 stocks rose above their 200 DMAs",
+      "summary": "Six Nifty 500 stocks gained over 2% and crossed above their respective 200-day moving averages on November 9, according to StockEdge data. A move above the 200-DMA is widely seen as a bullish technical signal, suggesting a potential shift towards an uptrend.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-rose-above-their-200-dmas/slideshow/135725922.cms",
+      "published": "Wed, 11 Nov 2026 10:04:09 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India’s rich pivot to real estate after stock returns falter",
+      "summary": "Investors in India are increasing their allocations towards high-yielding assets in real estate and logistics. Recent data shows a significant rise in investments through Alternative Investment Funds, nearly doubling in recent years. Family offices are now directing larger portions of their portfolios toward private credit and infrastructure while moving away from traditional investments. Specialized funds are attracting wealthy investors who want exposure to completed assets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
+      "published": "Wed, 11 Nov 2026 08:04:49 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "AXISBANK",
-      "price": 1336.4000244140625,
-      "change_pct": 1.96,
-      "setup_quality_score": 53.44,
+      "symbol": "BSE",
+      "price": 3906.0,
+      "change_pct": 2.34,
+      "setup_quality_score": 46.83,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T12:05:14.888058+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:56:44.136864+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,23 +173,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T12:05:15.307260+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:56:44.512336+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "INDUSINDBK",
-      "price": 900.0,
-      "change_pct": 0.56,
-      "setup_quality_score": 44.84,
+      "symbol": "AXISBANK",
+      "price": 1336.4000244140625,
+      "change_pct": 1.96,
+      "setup_quality_score": 45.94,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T12:05:15.679570+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:56:44.805889+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
