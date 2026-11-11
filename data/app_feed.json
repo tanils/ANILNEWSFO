@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-11T10:43:39.498553+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-11T12:05:07.335954+00:00",
   "news": [
     {
       "headline": "Axis Bank Share Price Live Updates: Axis Bank's Performance Overview",
@@ -124,31 +124,31 @@
       "symbols": "TATAMOTORS"
     },
     {
+      "headline": "These 12 midcap stocks rally up to 30% in just one month",
+      "summary": "While the Nifty 50 has rallied nearly 11% in a month, several midcap stocks have outperformed the broader index. Here are 12 midcap stocks that have surged between 15% and 30% during this period, according to ACE Equity data.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-midcap-stocks-rally-up-to-30-in-just-one-month/slideshow/135734690.cms",
+      "published": "Wed, 11 Nov 2026 16:10:03 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee touches strongest since April as foreign inflows offset firm dollar",
+      "summary": "On Wednesday, the Indian rupee surged to its healthiest value since April, closing at 93.69 against the dollar. This upswing was driven by a remarkable influx of foreign investments in local stocks, totaling nearly $6 billion in November. Even in light of a stronger dollar amid US inflation signals, the rupee stood firm. There's a notable optimistic shift in market sentiment, now eager for India's inflation data anticipated for October.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-touches-strongest-since-april-as-foreign-inflows-offset-firm-dollar/articleshow/135734005.cms",
+      "published": "Wed, 11 Nov 2026 16:07:51 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report",
       "summary": "Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impressive 117 billion rupees. The initiative seeks to draw in institutional investors, with the specifics of the offering currently being finalized. Following the completion of investor roadshows, a qualified institutions placement may take place soon.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
       "published": "Wed, 11 Nov 2026 13:06:59 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nvidia Stock Sell-Off Deepens: Spy scandal, price target cuts put AI giant under pressure",
-      "summary": "Nvidia shares plunge nearly 10% amid technology sell-offs, leadership controversy and AI valuation concerns. Analyst price-target cuts deepen investor anxiety ahead of November 17 quarterly earnings.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-sell-off-deepens-spy-scandal-price-target-cuts-put-ai-giant-under-pressure/slideshow/135728557.cms",
-      "published": "Wed, 11 Nov 2026 12:10:00 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee rises 7 paise to 93.70 against US dollar in early trade",
-      "summary": "The rupee strengthened 7 paise to 93.70 against the US dollar in early trade on Wednesday, supported by sustained foreign fund inflows, easing crude oil prices and improving geopolitical sentiment. The domestic currency has emerged as one of Asia's best performers in FY27, with traders expecting continued overseas investor participation to provide a buffer against external uncertainties.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-trade/articleshow/135726644.cms",
-      "published": "Wed, 11 Nov 2026 10:46:44 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T10:43:49.340682+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:05:14.888058+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T10:43:49.781640+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:05:15.307260+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T10:43:50.389675+00:00",
+      "chain_fetched_at_utc": "2026-11-11T12:05:15.679570+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
