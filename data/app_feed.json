@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-11T17:24:42.511865+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-11T22:17:14.441233+00:00",
   "news": [
     {
       "headline": "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
@@ -134,7 +134,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO oversubscribed multiple times amid strong investor demand; Nasdaq surges 400 pts: Stock Market Live Updates",
+      "headline": "US stocks end higher as CoreWeave results ease AI spending worries: Stock Market Highlights",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms",
@@ -157,49 +157,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BSE",
-      "price": 3906.0,
-      "change_pct": 2.34,
-      "setup_quality_score": 46.83,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T17:24:51.380193+00:00",
+      "chain_fetched_at_utc": "2026-11-11T22:17:24.197781+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "TRENT",
-      "price": 3222.699951171875,
-      "change_pct": 3.32,
-      "setup_quality_score": 46.62,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T17:24:51.791832+00:00",
+      "chain_fetched_at_utc": "2026-11-11T22:17:24.613839+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1336.4000244140625,
-      "change_pct": 1.96,
-      "setup_quality_score": 45.94,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T17:24:52.093432+00:00",
+      "chain_fetched_at_utc": "2026-11-11T22:17:25.037214+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
