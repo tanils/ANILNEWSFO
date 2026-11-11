@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-11T15:37:48.576910+00:00",
+  "generated_at_utc": "2026-11-11T16:33:31.062205+00:00",
   "news": [
     {
       "headline": "India to switch bonds worth 250 billion rupees next week",
@@ -114,6 +114,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Anthropic IPO oversubscribed multiple times amid strong investor demand; Nasdaq surges 400 pts: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms",
+      "published": "Wed, 11 Nov 2026 18:42:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Anthropic IPO: A $1.4 trillion bet on the future of AI",
       "summary": "",
       "source": "Economic Times Markets",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday",
-      "summary": "Indian equities opened higher on positive global cues but surrendered gains amid rising bond yields and hawkish Fed commentary. Smallcaps outperformed as risk appetite improved. Analysts highlighted stock-specific opportunities, including Astra Microwave and Neogen, for Thursday's trading session.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms",
-      "published": "Wed, 11 Nov 2026 20:44:07 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T15:37:58.440075+00:00",
+      "chain_fetched_at_utc": "2026-11-11T16:33:45.469334+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T15:37:58.793071+00:00",
+      "chain_fetched_at_utc": "2026-11-11T16:33:45.908078+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T15:37:59.410526+00:00",
+      "chain_fetched_at_utc": "2026-11-11T16:33:46.377796+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
