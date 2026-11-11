@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-11T16:33:31.062205+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-11T17:24:42.511865+00:00",
   "news": [
+    {
+      "headline": "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
+      "summary": "Yes Bank bondholders filed a contempt petition in the Supreme Court regarding the restoration of AT-1 bonds. The Supreme Court upheld a ruling that set aside the lender's write-off of 84 billion rupees in bonds. Axis Trustee Services, representing the bondholders, asked for directions to enforce the court's ruling. Yes Bank had not complied with the restoration order, prompting the trustee's legal action.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms",
+      "published": "Wed, 11 Nov 2026 22:25:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "India to switch bonds worth 250 billion rupees next week",
       "summary": "On November 16, the Reserve Bank of India will initiate a significant switch auction worth 250 billion rupees. This maneuver involves replacing six bonds that are set to mature between 2027 and 2029 with longer-term securities extending to maturity in 2062. By doing so, the government seeks to optimize its debt repayment schedule. This follows a similar strategy of bond buyback and issuance enacted in October.",
@@ -94,6 +104,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Anthropic’s IPO is said to be multiple times oversubscribed",
+      "summary": "Anthropic PBC is witnessing an overwhelming response for its initial public offering, potentially accumulating up to $90.4 billion. This bullish sentiment reflects a staggering anticipated market valuation of around $1.4 trillion. With a significant revenue run rate of $81 billion as of October 31, investor enthusiasm remains high. The IPO is managed by Goldman Sachs Group Inc.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
+      "published": "Wed, 11 Nov 2026 21:55:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Baird downgrades Nvidia on China curbs, AI demand worries",
       "summary": "Baird downgraded Nvidia's stock and cut its price target significantly due to various market risks. Concerns over US restrictions on chip sales to China have emerged, affecting Nvidia's revenue outlook. Demand for Nvidia's chips is showing signs of softening amid supply constraints and market uncertainties. Additionally, multiple brokerages have removed Nvidia from their top picks due to recent stock declines.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "CoreWeave stock jumps after earnings: 7 things driving the AI cloud company's rally",
-      "summary": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and infrastructure spending concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-jumps-after-earnings-7-things-driving-the-ai-cloud-companys-rally/slideshow/135729203.cms",
-      "published": "Wed, 11 Nov 2026 12:31:16 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Bharat Dynamics among 5 stocks showing RSI trending up",
-      "summary": "Five Nifty500 stocks that gained over 3% on November 9 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-stocks-showing-rsi-trending-up/slideshow/135724716.cms",
-      "published": "Wed, 11 Nov 2026 09:01:18 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T16:33:45.469334+00:00",
+      "chain_fetched_at_utc": "2026-11-11T17:24:51.380193+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T16:33:45.908078+00:00",
+      "chain_fetched_at_utc": "2026-11-11T17:24:51.791832+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T16:33:46.377796+00:00",
+      "chain_fetched_at_utc": "2026-11-11T17:24:52.093432+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
