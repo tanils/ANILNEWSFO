@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-11T14:41:38.923116+00:00",
+  "generated_at_utc": "2026-11-11T15:37:48.576910+00:00",
   "news": [
+    {
+      "headline": "India to switch bonds worth 250 billion rupees next week",
+      "summary": "On November 16, the Reserve Bank of India will initiate a significant switch auction worth 250 billion rupees. This maneuver involves replacing six bonds that are set to mature between 2027 and 2029 with longer-term securities extending to maturity in 2062. By doing so, the government seeks to optimize its debt repayment schedule. This follows a similar strategy of bond buyback and issuance enacted in October.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms",
+      "published": "Wed, 11 Nov 2026 19:43:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Fairfax Financial likely to exit IIFL Finance, sources say",
       "summary": "Canada's Fairfax Financial Holdings intends to divest its nearly 11% stake in IIFL Finance soon. The sale aims to raise funds for acquiring a significant stake in IDBI Bank from the Indian government. Fairfax's current share in IIFL Finance is valued at approximately 30 billion rupees, or $320 million. Additionally, Fairfax is attempting to improve its stake in IIFL Capital through an open offer.",
@@ -22,6 +32,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "US stocks: S&amp;P 500, Nasdaq rise as CoreWeave results ease AI spending concerns",
+      "summary": "The S&amp;P 500 and Nasdaq indices showed positive growth as CoreWeave posted impressive financial results, calming fears regarding AI expenditure. Following its projection of reaching profitability by 2028, CoreWeave's stock jumped 12.7%, boosting investor confidence about ongoing demand. AI infrastructure stocks mirrored this positive trend. Despite some volatility linked to interest rate fluctuations and inflation, most stocks rose in value, with oil prices recovering after Iran's comments.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-coreweave-lifts-ai-trade/articleshow/135741336.cms",
+      "published": "Wed, 11 Nov 2026 20:26:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Nasdaq futures rise nearly 2% as CoreWeave earnings calm AI spending fears",
@@ -74,21 +94,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets",
-      "summary": "The US dollar has gained against multiple currencies due to expectations of Federal Reserve interest rate hikes. Inflation data revealed an increase in consumer prices, prompting trader speculation about further monetary tightening. The Japanese yen has weakened to its lowest level in over two months, approaching significant mark. Many developed-market currencies are performing poorly against the dollar this year, attributed to widening interest-rate gaps.",
+      "headline": "Baird downgrades Nvidia on China curbs, AI demand worries",
+      "summary": "Baird downgraded Nvidia's stock and cut its price target significantly due to various market risks. Concerns over US restrictions on chip sales to China have emerged, affecting Nvidia's revenue outlook. Demand for Nvidia's chips is showing signs of softening amid supply constraints and market uncertainties. Additionally, multiple brokerages have removed Nvidia from their top picks due to recent stock declines.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms",
-      "published": "Wed, 11 Nov 2026 18:47:36 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/baird-downgrades-nvidia-on-china-curbs-ai-demand-worries/articleshow/135740853.cms",
+      "published": "Wed, 11 Nov 2026 20:04:53 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "S&amp;P 500, Nasdaq futures gain as CoreWeave results ease AI jitters: Stock Market Live Updates",
-      "summary": "",
+      "headline": "Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets",
+      "summary": "The US dollar has gained against multiple currencies due to expectations of Federal Reserve interest rate hikes. Inflation data revealed an increase in consumer prices, prompting trader speculation about further monetary tightening. The Japanese yen has weakened to its lowest level in over two months, approaching significant mark. Many developed-market currencies are performing poorly against the dollar this year, attributed to widening interest-rate gaps.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms",
-      "published": "Wed, 11 Nov 2026 18:42:11 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms",
+      "published": "Wed, 11 Nov 2026 18:47:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -124,31 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "US Treasury rout hands India's 10-year bond its worst day in a month",
-      "summary": "On Wednesday, the Indian rupee gained strength against the dollar, reaching its highest point since April. This improvement was influenced by foreign investments in local stocks and upbeat sentiment in the non-deliverable forward market. Although inflation concerns in the US led to a stronger dollar, traders remained focused on foreign portfolio investments in Indian equities.",
+      "headline": "Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday",
+      "summary": "Indian equities opened higher on positive global cues but surrendered gains amid rising bond yields and hawkish Fed commentary. Smallcaps outperformed as risk appetite improved. Analysts highlighted stock-specific opportunities, including Astra Microwave and Neogen, for Thursday's trading session.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-rout-hands-indias-10-year-bond-its-worst-day-in-a-month/articleshow/135736836.cms",
-      "published": "Wed, 11 Nov 2026 17:36:33 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "These 12 midcap stocks rally up to 30% in just one month",
-      "summary": "While the Nifty 50 has rallied nearly 11% in a month, several midcap stocks have outperformed the broader index. Here are 12 midcap stocks that have surged between 15% and 30% during this period, according to ACE Equity data.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/these-12-midcap-stocks-rally-up-to-30-in-just-one-month/slideshow/135734690.cms",
-      "published": "Wed, 11 Nov 2026 16:10:03 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee touches strongest since April as foreign inflows offset firm dollar",
-      "summary": "On Wednesday, the Indian rupee surged to its healthiest value since April, closing at 93.69 against the dollar. This upswing was driven by a remarkable influx of foreign investments in local stocks, totaling nearly $6 billion in November. Even in light of a stronger dollar amid US inflation signals, the rupee stood firm. There's a notable optimistic shift in market sentiment, now eager for India's inflation data anticipated for October.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-touches-strongest-since-april-as-foreign-inflows-offset-firm-dollar/articleshow/135734005.cms",
-      "published": "Wed, 11 Nov 2026 16:07:51 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms",
+      "published": "Wed, 11 Nov 2026 20:44:07 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T14:41:48.611659+00:00",
+      "chain_fetched_at_utc": "2026-11-11T15:37:58.440075+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T14:41:49.046982+00:00",
+      "chain_fetched_at_utc": "2026-11-11T15:37:58.793071+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-11T14:41:49.551385+00:00",
+      "chain_fetched_at_utc": "2026-11-11T15:37:59.410526+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
