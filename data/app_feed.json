@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-12T15:34:15.641149+00:00",
+  "generated_at_utc": "2026-11-12T16:14:57.308749+00:00",
   "news": [
     {
       "headline": "India bonds track Treasury weakness ahead of debt supply",
@@ -54,16 +54,6 @@
       "symbols": "TATAPOWER"
     },
     {
-      "headline": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
-      "summary": "Indian government bonds are anticipated to trade between softer oil prices and rising US yields. The market is waiting for domestic inflation data that could influence the Reserve Bank of India's rate strategy. A Reuters poll estimates an increase in annual consumer inflation, potentially leading to further tightening by the RBI. Investors are cautious ahead of a significant bond auction scheduled for Friday.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms",
-      "published": "Thu, 12 Nov 2026 08:18:53 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally?",
       "summary": "Bloom Energy shares jumped 13% after strong CoreWeave results eased concerns over AI infrastructure spending. But with the stock well below its record high, can the rally last?",
       "source": "Economic Times Markets",
@@ -72,6 +62,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BEL"
+    },
+    {
+      "headline": "Nvidia default risk nears record high as board weighs CEO’s fate",
+      "summary": "The cost of insuring Nvidia’s debt against default climbed close to a recent high as its board considered CEO Jensen Huang’s future. The board is reportedly evaluating interim and permanent successors following allegations about Huang’s personal conduct.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-default-risk-nears-record-high-as-board-weighs-ceos-fate/articleshow/135775893.cms",
+      "published": "Thu, 12 Nov 2026 21:30:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Zee Entertainment approves Rs 600-crore share buyback at Rs 91 apiece; promoters to stay out",
@@ -144,8 +144,8 @@
       "symbols": "BEL"
     },
     {
-      "headline": "US stocks: US market opens lower after Nvidia CEO steps down",
-      "summary": "Wall Street's main indexes opened lower on Thursday after Nvidia said CEO Jensen Huang was stepping down, leaving the AI industry without its biggest champion.",
+      "headline": "US stocks: S&amp;P 500, Nasdaq fall as Nvidia CEO exit rattles AI stocks",
+      "summary": "Nvidia's stock took a hit after CEO Jensen Huang stepped down, amid swirling personal controversies. This turmoil added noticeable pressure to the AI sector, dragging down the value of related stocks. Additionally, surging oil prices are exacerbating inflation worries across the market. Investors are keenly awaiting the Producer Price Index data for insights on inflation trends, even as some sectors continue to show resilience amidst the declines.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
       "published": "Thu, 12 Nov 2026 20:30:31 +0530",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T15:34:26.202677+00:00",
+      "chain_fetched_at_utc": "2026-11-12T16:15:09.356274+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T15:34:26.659505+00:00",
+      "chain_fetched_at_utc": "2026-11-12T16:15:09.718186+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T15:34:27.095236+00:00",
+      "chain_fetched_at_utc": "2026-11-12T16:15:10.084853+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
