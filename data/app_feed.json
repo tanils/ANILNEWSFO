@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-12T13:58:25.903927+00:00",
+  "generated_at_utc": "2026-11-12T15:34:15.641149+00:00",
   "news": [
     {
       "headline": "India bonds track Treasury weakness ahead of debt supply",
@@ -144,11 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Clean Max Enviro Energy pledges Rs 50,000 crore investment in Andhra Pradesh",
-      "summary": "Clean Max Enviro Energy Solutions has signed an MoU to invest Rs 50,000 crore in Andhra Pradesh. This investment will focus on developing 3GW of integrated power generation facilities using wind and solar energy. The power generated will support a compute factory being established in Kurnool in collaboration with Neysa. Clean Max aims to integrate generation, storage, and distribution to meet rising clean energy demands.",
+      "headline": "US stocks: US market opens lower after Nvidia CEO steps down",
+      "summary": "Wall Street's main indexes opened lower on Thursday after Nvidia said CEO Jensen Huang was stepping down, leaving the AI industry without its biggest champion.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
-      "published": "Thu, 12 Nov 2026 18:41:57 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
+      "published": "Thu, 12 Nov 2026 20:30:31 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:59:12.298908+00:00",
+      "chain_fetched_at_utc": "2026-11-12T15:34:26.202677+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:59:24.458749+00:00",
+      "chain_fetched_at_utc": "2026-11-12T15:34:26.659505+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:59:36.716124+00:00",
+      "chain_fetched_at_utc": "2026-11-12T15:34:27.095236+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
