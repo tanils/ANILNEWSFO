@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-12T17:43:30.166583+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-12T21:55:35.946915+00:00",
   "news": [
     {
       "headline": "India bonds track Treasury weakness ahead of debt supply",
@@ -74,6 +74,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Kalshi ends Donald Trump Jr's advisory contract due to Polymarket conflict",
+      "summary": "Prediction-market platform Kalshi has ended Donald Trump Jr.’s advisory role by mutual agreement after his venture-capital firm, 1789 Capital, increased its investment in rival Polymarket. Discussions began after 1789 Capital led Polymarket’s latest funding round, according to a Kalshi spokesperson.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/kalshi-ends-donald-trump-jrs-advisory-contract-due-to-polymarket-conflict/articleshow/135780903.cms",
+      "published": "Fri, 13 Nov 2026 00:16:11 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Nvidia default risk nears record high as board weighs CEO’s fate",
       "summary": "The cost of insuring Nvidia’s debt against default climbed close to a recent high as its board considered CEO Jensen Huang’s future. The board is reportedly evaluating interim and permanent successors following allegations about Huang’s personal conduct.",
       "source": "Economic Times Markets",
@@ -104,6 +114,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "US stocks: Retail buyers limit Nvidia stock rout",
+      "summary": "Retail investors poured a record $111 million into Nvidia shares during Thursday’s first half-hour of trading, helping the stock trim an opening loss of as much as 14% to about 5%. The dip-buying suggests confidence in the AI trade remains resilient despite CEO Jensen Huang’s departure and Nvidia’s loss of more than $1 trillion in market value over five weeks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-retail-buyers-limit-nvidia-stock-rout/articleshow/135782108.cms",
+      "published": "Fri, 13 Nov 2026 02:06:34 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US Fed sets new meeting schedule for 2027, as foretold by Chairman Kevin Warsh",
+      "summary": "The Federal Reserve will hold seven rate-setting meetings in 2027 instead of the customary eight, while dedicating its October gathering to broader monetary-policy strategy. The revised schedule also moves the year’s final policy meeting to November and removes designations for quarterly economic projections as Chair Kevin Warsh reviews the Fed’s communication practices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-sets-new-meeting-schedule-for-2027-as-foretold-by-chairman-kevin-warsh/articleshow/135781878.cms",
+      "published": "Fri, 13 Nov 2026 01:42:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Nebius beats quarterly revenue estimates on strong AI demand",
       "summary": "In the latest quarterly report, Nebius achieved impressive revenue of $981 million, exceeding analyst projections of $907.5 million. The company is optimistic about future sales, forecasting between $12 billion and $13 billion by 2027. However, its revenue predictions for 2026 are slightly lower than the market's expectations. With customers opting for longer agreements at elevated prices, prepayments have significantly surpassed capital investments.",
       "source": "Economic Times Markets",
@@ -122,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee slips with traders clinging to equity cues, awaiting inflation data",
-      "summary": "The Indian rupee faced a setback on Thursday, dipping to 94.0425 against the dollar amidst rising oil prices and escalating inflation fears. Previously, it had seen a peak of 93.62 thanks to foreign portfolio inflows. Investors are now holding their breath for October's consumer inflation figures, as they could significantly influence upcoming policy decisions and market sentiment surrounding the rupee.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data/articleshow/135765691.cms",
-      "published": "Thu, 12 Nov 2026 16:08:06 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nvidia shares plummet 10% in after-hours trade as investors consider a future without Huang",
-      "summary": "Nvidia Corp's stock faced a sharp decline following troubling reports about CEO Jensen Huang's personal affairs. With fears of his potential departure looming, investors reacted with caution, prompting multiple financial firms to downgrade Nvidia's ratings and adjust their price projections downwards. Analysts worry that such leadership turmoil could disrupt Nvidia's strategic direction, especially in the rapidly evolving AI sector.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-shares-slide-as-investors-consider-future-without-huang/articleshow/135753594.cms",
-      "published": "Thu, 12 Nov 2026 08:51:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Vishal Mega Mart among 5 stocks showing RSI trending up",
-      "summary": "Five Nifty500 stocks that gained over 4.5% on November 11 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-5-stocks-showing-rsi-trending-up/slideshow/135755604.cms",
-      "published": "Thu, 12 Nov 2026 10:06:34 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "SBIN",
-      "price": 1086.5,
-      "change_pct": 2.38,
-      "setup_quality_score": 48.97,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T17:43:42.893242+00:00",
+      "chain_fetched_at_utc": "2026-11-12T21:55:49.924960+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1342.9000244140625,
-      "change_pct": 0.49,
-      "setup_quality_score": 45.8,
+      "symbol": "TATAPOWER",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T17:43:43.681565+00:00",
+      "chain_fetched_at_utc": "2026-11-12T21:55:50.460777+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
       "symbol": "HDFCBANK",
-      "price": 812.2999877929688,
-      "change_pct": 0.71,
-      "setup_quality_score": 45.56,
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T17:43:44.334154+00:00",
+      "chain_fetched_at_utc": "2026-11-12T21:55:50.889046+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
