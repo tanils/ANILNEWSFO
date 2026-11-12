@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-12T13:10:24.105496+00:00",
+  "generated_at_utc": "2026-11-12T13:58:25.903927+00:00",
   "news": [
     {
       "headline": "India bonds track Treasury weakness ahead of debt supply",
@@ -94,6 +94,26 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Nebius beats quarterly revenue estimates on strong AI demand",
+      "summary": "In the latest quarterly report, Nebius achieved impressive revenue of $981 million, exceeding analyst projections of $907.5 million. The company is optimistic about future sales, forecasting between $12 billion and $13 billion by 2027. However, its revenue predictions for 2026 are slightly lower than the market's expectations. With customers opting for longer agreements at elevated prices, prepayments have significantly surpassed capital investments.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-beats-quarterly-revenue-estimates-on-strong-ai-demand/articleshow/135771184.cms",
+      "published": "Thu, 12 Nov 2026 18:47:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nasdaq, S&amp;P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+      "summary": "Futures tracking the Nasdaq 100 fell significantly after Nvidia shares plummeted due to leadership concerns. Reports about CEO Jensen Huang led to a decline in investor sentiment towards AI-linked stocks. Additionally, the upcoming Producer Price Index data is raising inflation expectations among investors. Concerns over economic impacts and geopolitical risks remain prevalent, with a December rate hike by the Federal Reserve anticipated.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
+      "published": "Thu, 12 Nov 2026 18:44:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Rupee slips with traders clinging to equity cues, awaiting inflation data",
       "summary": "The Indian rupee faced a setback on Thursday, dipping to 94.0425 against the dollar amidst rising oil prices and escalating inflation fears. Previously, it had seen a peak of 93.62 thanks to foreign portfolio inflows. Investors are now holding their breath for October's consumer inflation figures, as they could significantly influence upcoming policy decisions and market sentiment surrounding the rupee.",
       "source": "Economic Times Markets",
@@ -124,31 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Nvidia Boardroom Turmoil: What's Happening to Jensen Huang?",
-      "summary": "",
+      "headline": "Clean Max Enviro Energy pledges Rs 50,000 crore investment in Andhra Pradesh",
+      "summary": "Clean Max Enviro Energy Solutions has signed an MoU to invest Rs 50,000 crore in Andhra Pradesh. This investment will focus on developing 3GW of integrated power generation facilities using wind and solar energy. The power generated will support a compute factory being established in Kurnool in collaboration with Neysa. Clean Max aims to integrate generation, storage, and distribution to meet rising clean energy demands.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-boardroom-turmoil-whats-happening-to-jensen-huang/videoshow/135769095.cms",
-      "published": "Thu, 12 Nov 2026 17:41:01 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Unique Picks: 9 stocks held by just one MF scheme in October, rally up to 144% YTD",
-      "summary": "ETMarkets identified 36 stocks held by just one mutual fund scheme each, with equity MF holdings exceeding Rs 10 crore. More than half have gained in CY26, while nine stocks have rallied 50% to 145%, including two that more than doubled.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-9-stocks-held-by-just-one-mf-scheme-in-october-rally-up-to-144-ytd/slideshow/135763800.cms",
-      "published": "Thu, 12 Nov 2026 14:58:52 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern",
-      "summary": "Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
-      "published": "Thu, 12 Nov 2026 11:59:25 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
+      "published": "Thu, 12 Nov 2026 18:41:57 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:10:34.844425+00:00",
+      "chain_fetched_at_utc": "2026-11-12T13:59:12.298908+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:10:35.227920+00:00",
+      "chain_fetched_at_utc": "2026-11-12T13:59:24.458749+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T13:10:35.681212+00:00",
+      "chain_fetched_at_utc": "2026-11-12T13:59:36.716124+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
