@@ -1,8 +1,28 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-12T10:54:49.650033+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-12T13:10:24.105496+00:00",
   "news": [
+    {
+      "headline": "India bonds track Treasury weakness ahead of debt supply",
+      "summary": "Indian government bonds are currently facing losses as traders brace for an influx of debt supply and mounting inflation pressures. The 10-year US Treasury yield is nearing the 5% mark, fueled by predictions of the Federal Reserve's interest rate hikes in December. With India's retail inflation climbing to 6.09%, expectations rise for further rate adjustments by the Reserve Bank of India.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-weakness-ahead-of-debt-supply/articleshow/135769595.cms",
+      "published": "Thu, 12 Nov 2026 17:58:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month",
+      "summary": "Four BSE 100 stocks, including Punjab National Bank, Federal Bank and Kotak Mahindra Bank, hit fresh 52-week highs, with monthly gains ranging from 10% to 22%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-4-stocks-hitting-52-week-highs-rally-up-to-22-in-a-month/slideshow/135769519.cms",
+      "published": "Thu, 12 Nov 2026 17:51:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
     {
       "headline": "Indian bonds drift as US debt rout saps oil relief before CPI",
       "summary": "On Thursday morning, Indian government bonds remained stable, reflecting a pause after recent volatility. Market sentiment is influenced by declining oil prices and climbing US Treasury yields, with inflation data on the horizon. The Reserve Bank of India is expected to modify its policy rate in light of these figures. Meanwhile, the ongoing Iran conflict could affect oil pricing, as traders prepare for a significant bond auction set for Friday.",
@@ -34,26 +54,6 @@
       "symbols": "TATAPOWER"
     },
     {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank  Price Movement Analysis",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-12-nov-2026/liveblog/135753254.cms",
-      "published": "Thu, 12 Nov 2026 08:32:00 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Market Value",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-12-nov-2026/liveblog/135753052.cms",
-      "published": "Thu, 12 Nov 2026 08:20:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
       "headline": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
       "summary": "Indian government bonds are anticipated to trade between softer oil prices and rising US yields. The market is waiting for domestic inflation data that could influence the Reserve Bank of India's rate strategy. A Reuters poll estimates an increase in annual consumer inflation, potentially leading to further tightening by the RBI. Investors are cautious ahead of a significant bond auction scheduled for Friday.",
       "source": "Economic Times Markets",
@@ -62,16 +62,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135753001.cms",
-      "published": "Thu, 12 Nov 2026 08:17:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
     },
     {
       "headline": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally?",
@@ -84,31 +74,21 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Zee Entertainment approves Rs 600-crore share buyback at Rs 91 apiece; promoters to stay out",
+      "summary": "Zee Entertainment has approved a Rs 600 crore share buyback at Rs 91 per share, a 24% premium over its latest NSE closing price. The company will repurchase up to 6.59 crore shares through the tender offer route, with November 25 fixed as the record date. Promoters will not participate.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-approves-rs-600-crore-share-buyback-at-rs-91-apiece-promoters-to-stay-out/articleshow/135767979.cms",
+      "published": "Thu, 12 Nov 2026 17:16:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
       "summary": "Anthropic is gearing up for its highly anticipated IPO, aiming to raise as much as $64.4 billion with share prices ranging from $70 to $78. The company is targeting inclusion in major indexes soon after its debut, which is expected to boost passive investments. Similar to SpaceX's market entry, analysts forecast significant initial share price surges, with employees permitted to sell some of their shares on the opening day.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms",
       "published": "Thu, 12 Nov 2026 11:05:33 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Market Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-today-live-updates-12-nov-2026/liveblog/135753045.cms",
-      "published": "Thu, 12 Nov 2026 08:20:09 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's stock price trends upward",
-      "summary": "",
-      "source": "Economic Times Stocks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-12-nov-2026/liveblog/135752756.cms",
-      "published": "Thu, 12 Nov 2026 08:02:01 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -144,14 +124,34 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Slight Decline",
+      "headline": "Nvidia Boardroom Turmoil: What's Happening to Jensen Huang?",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-12-nov-2026/liveblog/135754348.cms",
-      "published": "Thu, 12 Nov 2026 09:15:24 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-boardroom-turmoil-whats-happening-to-jensen-huang/videoshow/135769095.cms",
+      "published": "Thu, 12 Nov 2026 17:41:01 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "TATAMOTORS"
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Unique Picks: 9 stocks held by just one MF scheme in October, rally up to 144% YTD",
+      "summary": "ETMarkets identified 36 stocks held by just one mutual fund scheme each, with equity MF holdings exceeding Rs 10 crore. More than half have gained in CY26, while nine stocks have rallied 50% to 145%, including two that more than doubled.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-9-stocks-held-by-just-one-mf-scheme-in-october-rally-up-to-144-ytd/slideshow/135763800.cms",
+      "published": "Thu, 12 Nov 2026 14:58:52 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern",
+      "summary": "Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
+      "published": "Thu, 12 Nov 2026 11:59:25 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T10:54:58.064930+00:00",
+      "chain_fetched_at_utc": "2026-11-12T13:10:34.844425+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": 1590.0,
-      "change_pct": 1.17,
-      "setup_quality_score": 46.25,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T10:54:58.396816+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "AXISBANK",
       "price": 1342.9000244140625,
       "change_pct": 0.49,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-12T10:54:58.736551+00:00",
+      "chain_fetched_at_utc": "2026-11-12T13:10:35.227920+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "HDFCBANK",
+      "price": 812.2999877929688,
+      "change_pct": 0.71,
+      "setup_quality_score": 45.56,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-12T13:10:35.681212+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
