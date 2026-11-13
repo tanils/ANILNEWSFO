@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-13T14:53:10.507009+00:00",
+  "generated_at_utc": "2026-11-13T15:41:51.993437+00:00",
   "news": [
     {
       "headline": "German yields set for biggest weekly rise in two months",
@@ -84,6 +84,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Chicago Fed's Goolsbee says on CNBC the Fed needs to guard against demand overheating",
+      "summary": "Chicago Fed president Austan Goolsbee stated that inflation has moved beyond temporary energy and tariff-related price shocks. He highlighted that increased demand from the AI buildout is pushing prices higher across many sectors including health care and services. Goolsbee emphasized the importance of upcoming inflation data for determining the Fed's rate increase pace. He noted that currently, there is no clear path back to the 2% inflation target.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
+      "published": "Fri, 13 Nov 2026 20:14:42 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "How US tech pain is European stock markets' gain",
       "summary": "European stock markets, particularly the STOXX 600, are performing well as tech turmoil affects global markets. This relative stability is attributed to Europe's lower exposure to tech giants compared to the US market. Companies in sectors such as energy and financials are supporting earnings growth, which is on track for 25% quarterly profit. Investors remain cautious, noting that broader market selloffs could still impact Europe.",
       "source": "Economic Times Markets",
@@ -134,21 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
-      "summary": "During his speech, US Treasury Secretary Scott Bessent advocated for the Federal Reserve to keep an open mind about interest rate adjustments. He pointed out that the current economic indicators could be skewed due to a supply shock from the ongoing conflict in Iran. Despite recent market volatility, Bessent stressed that the US economy remains robust.",
+      "headline": "US stocks: US market opens higher after soft producer prices data",
+      "summary": "On Friday morning, US stock indexes surged, opening on a high note after October's producer prices data came in softer than expected.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
-      "published": "Fri, 13 Nov 2026 20:01:51 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US stocks rise at open after softer producer inflation data: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
-      "published": "Fri, 13 Nov 2026 18:41:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
+      "published": "Fri, 13 Nov 2026 20:15:46 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T14:53:23.559306+00:00",
+      "chain_fetched_at_utc": "2026-11-13T15:42:01.073033+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T14:53:23.947349+00:00",
+      "chain_fetched_at_utc": "2026-11-13T15:42:01.513922+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T14:53:24.399983+00:00",
+      "chain_fetched_at_utc": "2026-11-13T15:42:01.926324+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
