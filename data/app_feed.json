@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-13T15:41:51.993437+00:00",
+  "generated_at_utc": "2026-11-13T16:42:28.437116+00:00",
   "news": [
+    {
+      "headline": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
+      "summary": "BofA Global Research anticipates that the Federal Reserve will implement a rate hike in January 2027. This adjustment follows the unexpectedly high Consumer Price Index report for October. Expectations of a 25-basis-point increase are supported by increasing inflation driven by various factors. Other banks like Goldman Sachs and Deutsche Bank have also revised their forecasts in light of recent data.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
+      "published": "Fri, 13 Nov 2026 21:15:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "German yields set for biggest weekly rise in two months",
       "summary": "As traders ramp up their expectations for European Central Bank interest rate hikes, yields on German government bonds are climbing steadily. This shift follows US inflation figures that were unexpectedly high, disrupting the bond market landscape. Meanwhile, global stock indices are witnessing a downturn, impacting the demand for traditionally safe assets.",
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "US stocks: US market opens higher after soft producer prices data",
-      "summary": "On Friday morning, US stock indexes surged, opening on a high note after October's producer prices data came in softer than expected.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
-      "published": "Fri, 13 Nov 2026 20:15:46 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T15:42:01.073033+00:00",
+      "chain_fetched_at_utc": "2026-11-13T16:42:40.436657+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T15:42:01.513922+00:00",
+      "chain_fetched_at_utc": "2026-11-13T16:42:41.037029+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T15:42:01.926324+00:00",
+      "chain_fetched_at_utc": "2026-11-13T16:42:41.533598+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
