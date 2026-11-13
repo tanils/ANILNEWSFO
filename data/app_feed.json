@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-13T13:24:59.931732+00:00",
+  "generated_at_utc": "2026-11-13T14:53:10.507009+00:00",
   "news": [
     {
       "headline": "German yields set for biggest weekly rise in two months",
@@ -39,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
       "published": "Fri, 13 Nov 2026 10:16:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "MAN Industries PAT rises to Rs 82 cr in Q2",
+      "summary": "MAN Industries (India) Ltd has announced a substantial increase in consolidated profit after tax during the September quarter. The company's revenue from operations also saw a notable rise year-on-year, reflecting strong performance. The acquisition of National Pipe Company has positively impacted scale and profitability for the firm. Shipping disruptions in the Strait of Hormuz temporarily affected revenue but shipments are being executed.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
+      "published": "Fri, 13 Nov 2026 19:30:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -124,31 +134,21 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Godrej Properties buys 31-acre land in Indore for Rs 130 cr to build housing project",
-      "summary": "Godrej Properties Ltd has successfully purchased a sprawling 31 acres of land in Indore for approximately Rs 130 crore. The company is set to embark on the creation of residential plots, providing an impressive saleable area of around 0.7 million square feet. This project marks the firm's third venture in Indore, reflecting a commitment to addressing the rising demand for thoughtfully designed communities.",
+      "headline": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
+      "summary": "During his speech, US Treasury Secretary Scott Bessent advocated for the Federal Reserve to keep an open mind about interest rate adjustments. He pointed out that the current economic indicators could be skewed due to a supply shock from the ongoing conflict in Iran. Despite recent market volatility, Bessent stressed that the US economy remains robust.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-buys-31-acre-land-in-indore-for-rs-130-cr-to-build-housing-project/articleshow/135804198.cms",
-      "published": "Fri, 13 Nov 2026 18:24:17 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
+      "published": "Fri, 13 Nov 2026 20:01:51 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Mutlibaggers: 7 stocks held by 100+ MF schemes in October rally up to 300% in FY27",
-      "summary": "An ETMarkets analysis identified seven stocks held by over 100 mutual fund schemes that have more than doubled in FY27 so far. Sterlite Technologies led with 303% gains, followed by Welspun Corp, Ather Energy and Laurus Labs.",
+      "headline": "US stocks rise at open after softer producer inflation data: Stock Market Live Updates",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms",
-      "published": "Fri, 13 Nov 2026 17:05:39 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?",
-      "summary": "In a significant update, MSCI has revealed modifications to its indices, impacting several Indian stocks starting November 30. This shift is predicted to boost India's representation within the MSCI Emerging Markets Index. Notable stocks like Coforge and LIC are anticipated to attract considerable investments, while PI Industries may experience a decline.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
-      "published": "Fri, 13 Nov 2026 11:36:12 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
+      "published": "Fri, 13 Nov 2026 18:41:45 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T13:25:06.444635+00:00",
+      "chain_fetched_at_utc": "2026-11-13T14:53:23.559306+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T13:25:06.693457+00:00",
+      "chain_fetched_at_utc": "2026-11-13T14:53:23.947349+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T13:25:06.938746+00:00",
+      "chain_fetched_at_utc": "2026-11-13T14:53:24.399983+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
