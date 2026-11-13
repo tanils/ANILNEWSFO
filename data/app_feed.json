@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-13T16:42:28.437116+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-13T17:21:24.757428+00:00",
   "news": [
     {
       "headline": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
@@ -49,6 +49,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
       "published": "Fri, 13 Nov 2026 10:16:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic IPO share orders from China are said to be rebuffed",
+      "summary": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements. Some investors are exploring alternative methods to participate in the public offering through offshore structures. Anthropic intends to complete its IPO on November 18, pricing the shares ahead of trading the next day.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
+      "published": "Fri, 13 Nov 2026 21:58:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Godrej Industries among 4 stocks showing RSI trending up",
-      "summary": "Four Nifty500 stocks that gained over 7% on November 12 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-industries-among-4-stocks-showing-rsi-trending-up/slideshow/135788392.cms",
-      "published": "Fri, 13 Nov 2026 09:06:57 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T16:42:40.436657+00:00",
+      "chain_fetched_at_utc": "2026-11-13T17:21:35.694043+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T16:42:41.037029+00:00",
+      "chain_fetched_at_utc": "2026-11-13T17:21:36.151030+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T16:42:41.533598+00:00",
+      "chain_fetched_at_utc": "2026-11-13T17:21:36.585852+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
