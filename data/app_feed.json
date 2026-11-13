@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-13T10:50:43.690476+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-13T12:33:03.575084+00:00",
   "news": [
     {
       "headline": "India bonds under pressure before debt supply; hot inflation prints pinch further",
@@ -76,9 +76,19 @@
     {
       "headline": "Kotak Bank Share Price Live Updates: Kotak Bank Experiences Minor Price Drop",
       "summary": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Stocks",
       "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-13-nov-2026/liveblog/135787036.cms",
       "published": "Fri, 13 Nov 2026 08:19:56 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%",
+      "summary": "Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore, up from Rs 103.11 crore. In the first half of FY27, the company posted an overall net loss of Rs 12.23 crore, a decrease from Rs 37.81 crore.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jagatjit-industries-q2-net-loss-narrows-to-rs-4-cr-revenue-rises-90/articleshow/135801327.cms",
+      "published": "Fri, 13 Nov 2026 17:01:30 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -114,6 +124,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Wipro Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-13-nov-2026/liveblog/135787119.cms",
+      "published": "Fri, 13 Nov 2026 08:25:07 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Godrej Industries among 4 stocks showing RSI trending up",
       "summary": "Four Nifty500 stocks that gained over 7% on November 12 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "ADANIPORTS"
-    },
-    {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV's Current Trading Status",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-13-nov-2026/liveblog/135787967.cms",
-      "published": "Fri, 13 Nov 2026 08:55:50 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATAMOTORS"
-    },
-    {
-      "headline": "Infosys Share Price Live Updates: Infosys Trading Volume Insights",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-updates-13-nov-2026/liveblog/135787862.cms",
-      "published": "Fri, 13 Nov 2026 08:50:51 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "INFY"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T10:50:56.342014+00:00",
+      "chain_fetched_at_utc": "2026-11-13T12:33:12.490989+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T10:50:56.734822+00:00",
+      "chain_fetched_at_utc": "2026-11-13T12:33:12.918544+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-13T10:50:57.132868+00:00",
+      "chain_fetched_at_utc": "2026-11-13T12:33:13.292656+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
