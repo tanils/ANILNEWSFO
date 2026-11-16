@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-16T18:52:17.608299+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-16T19:48:46.169487+00:00",
   "news": [
     {
       "headline": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
@@ -104,7 +104,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Dow crashes 550 pts, Nasdaq tumbles over 2% in run-up to Nvidia results, Anthropic debut: Stock Market Live Updates",
+      "headline": "US stocks tumble in run-up to Nvidia results, Anthropic debut: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
@@ -119,6 +119,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-reit-to-buy-majority-stake-in-5-billion-amazon-data-center-portfolio/articleshow/135890381.cms",
       "published": "Mon, 16 Nov 2026 18:34:02 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US stocks: Morgan Stanley turns bullish on global stocks, targets S&amp;P 500 at 8,700",
+      "summary": "Morgan Stanley has upgraded global equities to maximum overweight, citing favorable valuations for risk assets in the coming years. It projects an S&amp;P 500 target of 8,700 for 2027, reflecting a significant increase from current levels. Earnings growth is anticipated to be the main driver for this expected rise, alongside stabilization in oil prices and interest rates.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength/articleshow/135888237.cms",
+      "published": "Mon, 16 Nov 2026 17:27:08 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -142,16 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Barclays lowers 2027 year-end target for S&amp;P 500 index to 8,700",
-      "summary": "On Monday, Barclays revised its S&amp;P 500 index target for the 2027 year-end from 8,800 to 8,700. The adjustment reflects concerns regarding higher interest rates impacting financial conditions. Analysts believe that tighter financial conditions may lead to increased valuation dips. Strategies suggested by Barclays indicate limited potential for valuation expansion moving forward. Analysts emphasize careful monitoring of the evolving financial landscape in the coming years.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-lowers-2027-year-end-target-for-sp-500-index-to-8700/articleshow/135894874.cms",
-      "published": "Mon, 16 Nov 2026 21:20:17 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T18:52:32.932562+00:00",
+      "chain_fetched_at_utc": "2026-11-16T19:48:55.409859+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T18:52:33.931127+00:00",
+      "chain_fetched_at_utc": "2026-11-16T19:48:55.895363+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T18:52:34.345142+00:00",
+      "chain_fetched_at_utc": "2026-11-16T19:48:56.416671+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
