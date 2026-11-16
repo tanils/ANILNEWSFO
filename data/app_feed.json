@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-16T17:26:52.085179+00:00",
+  "generated_at_utc": "2026-11-16T18:52:17.608299+00:00",
   "news": [
     {
       "headline": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
@@ -84,6 +84,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Interest in Trump's meme coin dinner fades as $TRUMP sinks to record lows",
+      "summary": "President Donald Trump's third crypto gala dinner will be held on November 22 at his golf club. Interest in the event has dropped significantly, with only 185 holders of the $TRUMP token participating. The top 29 wallets will receive VIP access while the Trump family's earnings have reached billions from their crypto ventures. Many investors face substantial losses in the declining market following the midterm elections.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/interest-in-trumps-meme-coin-dinner-fades-as-trump-sinks-to-record-lows/articleshow/135899741.cms",
+      "published": "Mon, 16 Nov 2026 23:57:28 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "US stocks: Summit shares drop after US FDA declines to approve lung cancer drug",
       "summary": "Summit Therapeutics faced a notable decline in share value following the FDA's ruling on ivonescimab, which revealed insufficient overall survival benefits during late-stage trials. Despite Summit's emphasis on regional survival differences, analysts worry that this decision could have repercussions for similar treatments in development. Investors now eagerly await new trial results comparing ivonescimab with conventional lung cancer therapies.",
       "source": "Economic Times Markets",
@@ -94,7 +104,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Dollar climbs to its highest since April 2025 on Fed rate-hike bets; Nasdaq dips: Stock Market Live Updates",
+      "headline": "Dow crashes 550 pts, Nasdaq tumbles over 2% in run-up to Nvidia results, Anthropic debut: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "US stocks: Nvidia set to deliver first life-after-Huang briefing",
-      "summary": "Nvidia faces uncertainty following CEO Jensen Huang's departure due to personal controversies and crisis in leadership. Interim CEO Colette Kress is tasked with addressing concerns over Nvidia's impact on the AI ecosystem. Investors are eager for clarity regarding revenue expectations and ongoing financing commitments in the upcoming earnings report. Key numbers to watch include contributions from the new Vera Rubin data center platform.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms",
-      "published": "Mon, 16 Nov 2026 22:13:54 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "ITC",
-      "price": 295.1000061035156,
-      "change_pct": 3.54,
-      "setup_quality_score": 49.15,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T17:27:03.353160+00:00",
+      "chain_fetched_at_utc": "2026-11-16T18:52:32.932562+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BHARTIARTL",
-      "price": 2153.5,
-      "change_pct": 2.26,
-      "setup_quality_score": 40.39,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T17:27:04.074452+00:00",
+      "chain_fetched_at_utc": "2026-11-16T18:52:33.931127+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "SBIN",
-      "price": 1090.5,
-      "change_pct": 0.97,
-      "setup_quality_score": 39.49,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T17:27:04.486570+00:00",
+      "chain_fetched_at_utc": "2026-11-16T18:52:34.345142+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
