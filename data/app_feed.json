@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-16T16:22:11.724133+00:00",
+  "generated_at_utc": "2026-11-16T17:26:52.085179+00:00",
   "news": [
     {
       "headline": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
@@ -94,6 +94,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Dollar climbs to its highest since April 2025 on Fed rate-hike bets; Nasdaq dips: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
+      "published": "Mon, 16 Nov 2026 18:44:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio",
       "summary": "Blackstone Digital Infrastructure Trust has officially announced its commitment to acquire a 75.1% stake in joint ventures alongside Amazon Web Services. This significant deal values the AWS data center portfolio at around $5 billion, marking a bold entry into the market. The portfolio features 13 newly constructed powered shells with long-term leases back to AWS.",
       "source": "Economic Times Markets",
@@ -134,21 +144,11 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Dalal Street becomes best-performing stock market in a month. Can it rally more?",
-      "summary": "",
+      "headline": "US stocks: Nvidia set to deliver first life-after-Huang briefing",
+      "summary": "Nvidia faces uncertainty following CEO Jensen Huang's departure due to personal controversies and crisis in leadership. Interim CEO Colette Kress is tasked with addressing concerns over Nvidia's impact on the AI ecosystem. Investors are eager for clarity regarding revenue expectations and ongoing financing commitments in the upcoming earnings report. Key numbers to watch include contributions from the new Vera Rubin data center platform.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/dalal-street-becomes-best-performing-stock-market-in-a-month-can-it-rally-more/videoshow/135891640.cms",
-      "published": "Mon, 16 Nov 2026 19:18:06 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq tumbles over 500 pts as Nvidia woes weigh ahead of earnings: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
-      "published": "Mon, 16 Nov 2026 18:44:29 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms",
+      "published": "Mon, 16 Nov 2026 22:13:54 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T16:22:22.315103+00:00",
+      "chain_fetched_at_utc": "2026-11-16T17:27:03.353160+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T16:22:22.706744+00:00",
+      "chain_fetched_at_utc": "2026-11-16T17:27:04.074452+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T16:22:23.091989+00:00",
+      "chain_fetched_at_utc": "2026-11-16T17:27:04.486570+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
