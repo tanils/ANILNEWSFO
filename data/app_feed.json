@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-16T19:48:46.169487+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-16T23:51:05.678515+00:00",
   "news": [
     {
       "headline": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
@@ -104,16 +104,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks tumble in run-up to Nvidia results, Anthropic debut: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
-      "published": "Mon, 16 Nov 2026 18:44:29 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio",
       "summary": "Blackstone Digital Infrastructure Trust has officially announced its commitment to acquire a 75.1% stake in joint ventures alongside Amazon Web Services. This significant deal values the AWS data center portfolio at around $5 billion, marking a bold entry into the market. The portfolio features 13 newly constructed powered shells with long-term leases back to AWS.",
       "source": "Economic Times Markets",
@@ -124,7 +114,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks: Morgan Stanley turns bullish on global stocks, targets S&amp;P 500 at 8,700",
+      "headline": "Morgan Stanley turns bullish on global stocks, targets S&amp;P 500 at 8,700",
       "summary": "Morgan Stanley has upgraded global equities to maximum overweight, citing favorable valuations for risk assets in the coming years. It projects an S&amp;P 500 target of 8,700 for 2027, reflecting a significant increase from current levels. Earnings growth is anticipated to be the main driver for this expected rise, alongside stabilization in oil prices and interest rates.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength/articleshow/135888237.cms",
@@ -152,6 +142,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Barclays lowers 2027 year-end target for S&amp;P 500 index to 8,700",
+      "summary": "On Monday, Barclays revised its S&amp;P 500 index target for the 2027 year-end from 8,800 to 8,700. The adjustment reflects concerns regarding higher interest rates impacting financial conditions. Analysts believe that tighter financial conditions may lead to increased valuation dips. Strategies suggested by Barclays indicate limited potential for valuation expansion moving forward. Analysts emphasize careful monitoring of the evolving financial landscape in the coming years.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-lowers-2027-year-end-target-for-sp-500-index-to-8700/articleshow/135894874.cms",
+      "published": "Mon, 16 Nov 2026 21:20:17 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T19:48:55.409859+00:00",
+      "chain_fetched_at_utc": "2026-11-16T23:51:15.432150+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T19:48:55.895363+00:00",
+      "chain_fetched_at_utc": "2026-11-16T23:51:15.899087+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T19:48:56.416671+00:00",
+      "chain_fetched_at_utc": "2026-11-16T23:51:16.503270+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
