@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-16T10:58:46.318646+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-16T13:05:15.955556+00:00",
   "news": [
     {
       "headline": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
@@ -14,34 +14,24 @@
       "symbols": "BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Movement Today",
-      "summary": "",
+      "headline": "PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month",
+      "summary": "Four BSE 100 stocks, including PNB, Eternal, Federal Bank and Kotak Mahindra Bank, touched fresh 52-week highs. Here's how much these stocks have gained over the past month.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-16-nov-2026/liveblog/135870794.cms",
-      "published": "Mon, 16 Nov 2026 08:25:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-among-4-stocks-hitting-52-week-highs-stock-rallies-up-to-24-in-a-month/slideshow/135888569.cms",
+      "published": "Mon, 16 Nov 2026 17:33:47 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "BSE"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Activity Today",
-      "summary": "",
+      "headline": "India bonds dip as elevated inflation fuels rate hike expectations",
+      "summary": "Indian government bonds have taken a hit, driven by increased selling pressures and fears of imminent interest rate hikes. The benchmark bond yield climbed slightly, mirroring movements in US Treasuries. In light of fresh inflation data, expectations have intensified for rate increases in both the US and India, leading analysts to modify their inflation outlook for an upcoming RBI meeting.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-16-nov-2026/liveblog/135870632.cms",
-      "published": "Mon, 16 Nov 2026 08:16:53 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-elevated-inflation-fuels-rate-hike-expectations/articleshow/135888382.cms",
+      "published": "Mon, 16 Nov 2026 17:30:15 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Current Price and Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-16-nov-2026/liveblog/135870481.cms",
-      "published": "Mon, 16 Nov 2026 08:10:07 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper",
@@ -49,6 +39,26 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-propose-raising-fpi-beneficial-ownership-threshold-to-25-plans-consultation-paper/articleshow/135883637.cms",
       "published": "Mon, 16 Nov 2026 15:51:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi forms panel to simplify capital-raising rules",
+      "summary": "India's markets regulator has established a 10-member panel to review regulations concerning capital raising by companies. The panel, chaired by Ashish Chauhan of NSE, includes executives from various financial institutions. It will assess eligibility criteria, lock-in periods, and rules for securities allocation and allotment. Furthermore, the group will examine disclosure requirements for initial public offerings and follow-on offers. This initiative aims to simplify regulations and enhance access to capital markets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-forms-panel-to-simplify-capital-raising-rules/articleshow/135889803.cms",
+      "published": "Mon, 16 Nov 2026 18:14:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India's investments in US Treasuries jump USD 38.4 bn in Jun-Aug amid FCNR flows",
+      "summary": "India's investment in US Treasury securities increased by USD 38.4 billion due to FCNR(B) deposits during three months. The Reserve Bank of India introduced a special facility to encourage these foreign currency deposits. This facility led to significant inflows, improving India's foreign exchange reserves substantially. Experts suggest that investment in US Treasuries may slow down due to the closure of the FCNR(B) window. India's reserves grew to USD 740.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-investments-in-us-treasuries-jump-usd-38-4-bn-in-jun-aug-amid-fcnr-flows/articleshow/135888824.cms",
+      "published": "Mon, 16 Nov 2026 17:47:29 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -74,81 +84,41 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Coal India Share Price Live Updates: Coal India  Price Update: Slight Decline Observed",
-      "summary": "",
+      "headline": "S&amp;P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
+      "summary": "As the U.S. stock futures stumble, AI-related companies find themselves under pressure, particularly ahead of Nvidia's anticipated earnings report. The recent leadership shift at Nvidia is casting shadows of uncertainty over the tech sector, affecting not just chipmakers but the broader market sentiment. Additionally, investors are looking toward Anthropic's entrance, which could reshape technology portfolios.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135871357.cms",
-      "published": "Mon, 16 Nov 2026 08:55:08 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Market Update",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870814.cms",
-      "published": "Mon, 16 Nov 2026 08:25:48 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "HEROMOTOCO"
-    },
-    {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Decline in Market Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-16-nov-2026/liveblog/135870709.cms",
-      "published": "Mon, 16 Nov 2026 08:21:02 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATAMOTORS"
-    },
-    {
-      "headline": "Wipro Share Price Live Updates: Wipro's Stock Price Falls Below Critical Support",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-16-nov-2026/liveblog/135870480.cms",
-      "published": "Mon, 16 Nov 2026 08:10:06 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Infosys Share Price Live Updates: Infosys stock price update",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-updates-16-nov-2026/liveblog/135870277.cms",
-      "published": "Mon, 16 Nov 2026 08:01:36 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "INFY"
-    },
-    {
-      "headline": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ closes at Rs 1893.9, down by 0.5%",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-16-nov-2026/liveblog/135870270.cms",
-      "published": "Mon, 16 Nov 2026 08:01:17 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "ADANIPORTS"
-    },
-    {
-      "headline": "UPL Share Price Live Updates: UPL's market performance shows a slight drop",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-16-nov-2026/liveblog/135872604.cms",
-      "published": "Mon, 16 Nov 2026 09:47:59 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/articleshow/135888956.cms",
+      "published": "Mon, 16 Nov 2026 17:49:06 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Sun Pharma Share Price Live Updates: Sun Pharma's stock closes at Rs 1864.5",
-      "summary": "",
+      "headline": "Hong Kong debuts offshore yuan bond index to promote RMB assets",
+      "summary": "Hong Kong stock exchange has introduced its inaugural benchmark for offshore yuan bonds to enhance global yuan usage. A dozen asset managers are set to utilize this index for new investment products. The initiative aligns with China's ongoing efforts to internationalize the yuan currency due to geopolitical factors. This launch builds on previous measures to boost the offshore yuan market and develop related infrastructure.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-16-nov-2026/liveblog/135871948.cms",
-      "published": "Mon, 16 Nov 2026 09:20:11 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/hong-kong-debuts-offshore-yuan-bond-index-to-promote-rmb-assets/articleshow/135888402.cms",
+      "published": "Mon, 16 Nov 2026 17:32:10 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
+      "summary": "The $500 billion AI financing platform from Nvidia may wobble after Jensen Huang's departure. Analysts are wary about the impact of increasing interest rates, which could slow down new investments. Meanwhile, Nvidia's financial partners remain active in talks surrounding AI financing. A clear shift towards more traditional players may emerge, steering clear of the riskier neocloud investments.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-ai-financing-machine-may-survive-huang-but-with-less-risk-appetite/articleshow/135888314.cms",
+      "published": "Mon, 16 Nov 2026 17:29:00 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength",
+      "summary": "Morgan Stanley has adopted a maximum overweight stance on global equities for 2027, buoyed by attractive valuations and promising earnings growth perspectives. With an S&amp;P 500 index target of 8,700 points, indicating a potential rise of more than 15%, the firm displays confidence in Japan and Europe based on flourishing investment trends and positive economic conditions. Furthermore, expectations predict that elevated energy costs will level off by late 2027.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength/articleshow/135888237.cms",
+      "published": "Mon, 16 Nov 2026 17:27:08 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,39 +137,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T10:58:56.697229+00:00",
+      "chain_fetched_at_utc": "2026-11-16T13:05:26.485995+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": 816.5,
-      "change_pct": 1.55,
-      "setup_quality_score": 46.83,
+      "symbol": "BHARTIARTL",
+      "price": 2153.5,
+      "change_pct": 2.26,
+      "setup_quality_score": 40.39,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T10:58:57.048325+00:00",
+      "chain_fetched_at_utc": "2026-11-16T13:05:27.070307+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1342.4000244140625,
-      "change_pct": 0.86,
-      "setup_quality_score": 45.79,
+      "symbol": "SBIN",
+      "price": 1090.5,
+      "change_pct": 0.97,
+      "setup_quality_score": 39.49,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-16T10:58:57.426964+00:00",
+      "chain_fetched_at_utc": "2026-11-16T13:05:27.482268+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
