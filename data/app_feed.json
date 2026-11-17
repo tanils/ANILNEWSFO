@@ -1,12 +1,12 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-17T14:52:52.479116+00:00",
+  "generated_at_utc": "2026-11-17T16:27:07.977586+00:00",
   "news": [
     {
       "headline": "BlackRock raises its stake in Axis Bank to 5%",
       "summary": "BlackRock has successfully increased its stake in Axis Bank to 5 per cent by acquiring more shares from the open market. Specifically, the investment giant procured 18,560 crore additional shares, nudging its ownership from 4.99 per cent. This elevates BlackRock's total holding to 155,726,461 shares. Notably, during the second quarter ending September 2026, Axis Bank showcased impressive growth, with a substantial surge in both net and operating profits.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-raises-its-stake-in-axis-bank-to-5/articleshow/135929469.cms",
       "published": "Tue, 17 Nov 2026 19:58:06 +0530",
       "freshness": "new",
@@ -46,19 +46,9 @@
     {
       "headline": "Sebi lowers margin requirements for agri-derivatives contracts",
       "summary": "The Securities and Exchange Board of India has decided to lower the minimum margin requirements for agricultural commodities, reducing the initial margin to between 6% and 10%. This adjustment aims to align the margin standards for agricultural products with those for non-agricultural commodities, such as metals. Set to take effect on December 1, these new rules will be enforced for a year, with a potential extension based on market dynamics.",
-      "source": "Economic Times Stocks",
+      "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-lowers-margin-requirements-for-agri-derivatives-contracts/articleshow/135929718.cms",
       "published": "Tue, 17 Nov 2026 20:06:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq futures rise as tech stocks firm up ahead of Nvidia results, Anthropic IPO: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms",
-      "published": "Tue, 17 Nov 2026 18:37:43 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -104,6 +94,36 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Nike targets $5 billion more in revenue growth by 2031 in latest turnaround push",
+      "summary": "Nike has announced a bold new initiative designed to generate an additional $5 billion in revenue growth by fiscal 2031. According to CEO Elliott Hill, prioritizing performance sports will play a pivotal role in enhancing profitability and boosting sales. The company expects to see market revenue growth return by fiscal 2029, while focusing on five key performance sports and strategic countries.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nike-targets-5-billion-more-in-revenue-growth-by-2031-in-latest-turnaround-push/articleshow/135930431.cms",
+      "published": "Tue, 17 Nov 2026 20:27:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Signature Global-led consortium buys 194 acre land via auction for Rs 194 cr",
+      "summary": "A consortium led by Signature Global has successfully acquired 474.66 acres of land in Raigad, Maharashtra. The bid was valued at Rs 194 crore and enables the company to expand beyond Delhi-NCR. Signature Global will hold a 65 percent stake in the special purpose vehicle for this land. The management sees significant potential in the Mumbai Metropolitan Region property market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-led-consortium-buys-194-acre-land-via-auction-for-rs-194-cr/articleshow/135929748.cms",
+      "published": "Tue, 17 Nov 2026 20:08:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "BP launches offer to buy back up to $6 billion of bonds",
+      "summary": "BP is poised to execute a bond buyback strategy worth $6 billion, aiming to enhance its cash management. With oil price volatility in mind, the company is focused on maintaining a disciplined balance sheet. The bonds slated for repurchase are due from 2027 to 2034, primarily after 2030. Highlighting this effort, CEO Meg O'Neill stresses efficient debt management in light of the recent net debt reduction to $13.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bp-launches-offer-to-buy-back-up-to-6-billion-of-bonds/articleshow/135929675.cms",
+      "published": "Tue, 17 Nov 2026 20:04:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Sebi may limit leveraged stock bets to curb volatility: Report",
       "summary": "India's markets regulator is exploring potential limits on leveraged stock purchases amid increasing retail participation. Concerns have arisen as margin-funded stock bets have reached record levels in recent months. Discussions are ongoing regarding hard limits tied to a company's free float to manage risks effectively. While the regulator aims to mitigate market instability, it seeks to avoid disrupting retail investors' positions.",
       "source": "Economic Times Markets",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nvidia Earnings Preview: 6 key factors investors will watch",
-      "summary": "Nvidia’s fiscal Q3 2027 earnings report will test the sustainability of the AI boom, with revenue expected to reach $108.9 billion. Investors will scrutinise Data Center growth, hyperscaler demand, Blackwell and Rubin chip rollouts, margins and future guidance, alongside leadership uncertainty and rising costs, to assess its growth outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-preview-6-key-factors-investors-will-watch/slideshow/135911290.cms",
-      "published": "Tue, 17 Nov 2026 10:24:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "JGB yields climb as buyers hold back on long-dated debt",
-      "summary": "Japanese government bond yields generally increased on Tuesday except for the benchmark 10-year yield, which fell. The 20-year and 30-year JGB yields reached their highest levels in about a month and since October. Investors are wary of taking interest-rate risks ahead of the 20-year bond auction. Concerns about falling equities may also affect bond supply-demand conditions amidst uncertainty.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-climb-as-buyers-hold-back-on-long-dated-debt/articleshow/135910809.cms",
-      "published": "Tue, 17 Nov 2026 10:17:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T14:53:03.209060+00:00",
+      "chain_fetched_at_utc": "2026-11-17T16:27:18.036511+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T14:53:03.572402+00:00",
+      "chain_fetched_at_utc": "2026-11-17T16:27:18.500919+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T14:53:04.000906+00:00",
+      "chain_fetched_at_utc": "2026-11-17T16:27:18.928728+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
