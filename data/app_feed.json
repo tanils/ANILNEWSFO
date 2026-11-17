@@ -1,27 +1,27 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-17T11:41:50.684414+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-17T13:46:44.554560+00:00",
   "news": [
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Trading Status",
-      "summary": "",
+      "headline": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
+      "summary": "Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-17-nov-2026/liveblog/135908470.cms",
-      "published": "Tue, 17 Nov 2026 08:31:33 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms",
+      "published": "Tue, 17 Nov 2026 17:27:16 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "symbols": "BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Market Position",
-      "summary": "",
+      "headline": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
+      "summary": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit that lower oil prices could relieve inflationary pressure and bolster the rupee, alongside speculation of an upcoming RBI rate hike based on fresh inflation reports.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-17-nov-2026/liveblog/135908104.cms",
-      "published": "Tue, 17 Nov 2026 08:15:42 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
+      "published": "Tue, 17 Nov 2026 17:32:23 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "ICICIBANK"
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Australia sells A$6 billion of new 2057 Treasury bond",
@@ -29,6 +29,36 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/australia-sells-a6-billion-of-new-2057-treasury-bond/articleshow/135910893.cms",
       "published": "Tue, 17 Nov 2026 10:20:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nasdaq futures rise as tech stocks firm up ahead of Nvidia results, Anthropic IPO: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms",
+      "published": "Tue, 17 Nov 2026 18:37:43 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Centricity WealthTech launches private clients business for NRIs",
+      "summary": "Centricity WealthTech has launched its new global private clients business tailored for NRIs, aspiring to generate roughly Rs 60 crore in revenue by 2027-28. The company aims to elevate this target to an impressive Rs 400 crore annually within four years post-launch. To support this venture, more than 40 skilled private bankers have been recruited, addressing the surging demand for wealth management services among Indians residing abroad.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/companies/centricity-wealthtech-launches-private-clients-business-for-nris/articleshow/135926555.cms",
+      "published": "Tue, 17 Nov 2026 18:27:57 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Disney beats earnings forecasts, plans to increase content spending",
+      "summary": "In a promising financial update, Walt Disney has revealed a rise in quarterly revenue and earnings, attributed to greater theme park attendance and NFL broadcasts. Looking ahead, the company plans to elevate its content budget to $26 billion in the next fiscal year and raise its dividend by 33% to $2 per share.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/disney-beats-earnings-forecasts-plans-to-increase-content-spending/articleshow/135923706.cms",
+      "published": "Tue, 17 Nov 2026 17:05:48 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -49,26 +79,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-4-stocks-showing-rsi-trending-up/slideshow/135909214.cms",
       "published": "Tue, 17 Nov 2026 09:10:39 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Market Performance Snapshot",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908102.cms",
-      "published": "Tue, 17 Nov 2026 08:15:24 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's Price Update",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908013.cms",
-      "published": "Tue, 17 Nov 2026 08:10:06 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -124,16 +134,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Eicher Motors Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-17-nov-2026/liveblog/135908095.cms",
-      "published": "Tue, 17 Nov 2026 08:15:06 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
       "summary": "The Indian rupee saw a notable rise, achieving its peak value in seven months following a surge in foreign equity investments. Closing at 93.47 per dollar, this upswing was driven by an impressive influx of $10 billion this month. Additionally, traders observed substantial movements in the dollar-rupee non-deliverable forward market as bearish positions were unwound.",
       "source": "Economic Times Markets",
@@ -144,14 +144,14 @@
       "symbols": "BSE"
     },
     {
-      "headline": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ records a gain in closing price",
-      "summary": "",
+      "headline": "M3M India to invest Rs 1,650 cr to build luxury homes under Jacob &amp; Co brand in Gurugram",
+      "summary": "M3M India is set to invest Rs 1,650 crore in the luxurious M3M Jacob &amp; Co Residences, located in the prime Sector 111 on the Dwarka Expressway in Gurugram. This lavish development will feature 120 exclusive apartments, each spanning about 7,300 square feet and starting at a price of Rs 26 crore.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-17-nov-2026/liveblog/135910126.cms",
-      "published": "Tue, 17 Nov 2026 09:46:00 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/m3m-india-to-invest-rs-1650-cr-to-build-luxury-homes-under-jacob-co-brand-in-gurugram/articleshow/135926381.cms",
+      "published": "Tue, 17 Nov 2026 18:20:25 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "ADANIPORTS"
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,39 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T11:42:00.631665+00:00",
+      "chain_fetched_at_utc": "2026-11-17T13:46:54.852484+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": 1598.699951171875,
-      "change_pct": 0.86,
-      "setup_quality_score": 45.79,
+      "symbol": "SBIN",
+      "price": 1108.5999755859375,
+      "change_pct": 1.66,
+      "setup_quality_score": 40.37,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T11:42:01.449059+00:00",
+      "chain_fetched_at_utc": "2026-11-17T13:46:55.441799+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "INFY",
-      "price": 1130.0,
-      "change_pct": -1.32,
-      "setup_quality_score": 43.48,
+      "symbol": "AXISBANK",
+      "price": 1369.0,
+      "change_pct": 1.98,
+      "setup_quality_score": 40.05,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T11:42:01.893301+00:00",
+      "chain_fetched_at_utc": "2026-11-17T13:46:55.849833+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
