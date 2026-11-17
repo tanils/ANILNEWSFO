@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-17T17:04:04.067049+00:00",
+  "generated_at_utc": "2026-11-17T17:50:49.473596+00:00",
   "news": [
     {
       "headline": "BlackRock raises its stake in Axis Bank to 5%",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T17:04:17.360377+00:00",
+      "chain_fetched_at_utc": "2026-11-17T17:51:04.195369+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T17:04:17.805421+00:00",
+      "chain_fetched_at_utc": "2026-11-17T17:51:04.585846+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T17:04:18.253750+00:00",
+      "chain_fetched_at_utc": "2026-11-17T17:51:05.008733+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
