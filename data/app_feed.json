@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-17T13:46:44.554560+00:00",
+  "generated_at_utc": "2026-11-17T14:52:52.479116+00:00",
   "news": [
+    {
+      "headline": "BlackRock raises its stake in Axis Bank to 5%",
+      "summary": "BlackRock has successfully increased its stake in Axis Bank to 5 per cent by acquiring more shares from the open market. Specifically, the investment giant procured 18,560 crore additional shares, nudging its ownership from 4.99 per cent. This elevates BlackRock's total holding to 155,726,461 shares. Notably, during the second quarter ending September 2026, Axis Bank showcased impressive growth, with a substantial surge in both net and operating profits.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-raises-its-stake-in-axis-bank-to-5/articleshow/135929469.cms",
+      "published": "Tue, 17 Nov 2026 19:58:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "AXISBANK"
+    },
     {
       "headline": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
       "summary": "Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.",
@@ -29,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/australia-sells-a6-billion-of-new-2057-treasury-bond/articleshow/135910893.cms",
       "published": "Tue, 17 Nov 2026 10:20:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi lowers margin requirements for agri-derivatives contracts",
+      "summary": "The Securities and Exchange Board of India has decided to lower the minimum margin requirements for agricultural commodities, reducing the initial margin to between 6% and 10%. This adjustment aims to align the margin standards for agricultural products with those for non-agricultural commodities, such as metals. Set to take effect on December 1, these new rules will be enforced for a year, with a potential extension based on market dynamics.",
+      "source": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-lowers-margin-requirements-for-agri-derivatives-contracts/articleshow/135929718.cms",
+      "published": "Tue, 17 Nov 2026 20:06:13 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -132,31 +152,27 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-      "summary": "The Indian rupee saw a notable rise, achieving its peak value in seven months following a surge in foreign equity investments. Closing at 93.47 per dollar, this upswing was driven by an impressive influx of $10 billion this month. Additionally, traders observed substantial movements in the dollar-rupee non-deliverable forward market as bearish positions were unwound.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/robust-inflows-pullback-in-shorts-lift-rupee-to-seven-month-peak/articleshow/135921416.cms",
-      "published": "Tue, 17 Nov 2026 16:13:17 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "M3M India to invest Rs 1,650 cr to build luxury homes under Jacob &amp; Co brand in Gurugram",
-      "summary": "M3M India is set to invest Rs 1,650 crore in the luxurious M3M Jacob &amp; Co Residences, located in the prime Sector 111 on the Dwarka Expressway in Gurugram. This lavish development will feature 120 exclusive apartments, each spanning about 7,300 square feet and starting at a price of Rs 26 crore.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/m3m-india-to-invest-rs-1650-cr-to-build-luxury-homes-under-jacob-co-brand-in-gurugram/articleshow/135926381.cms",
-      "published": "Tue, 17 Nov 2026 18:20:25 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
+      "symbol": "AXISBANK",
+      "price": 1369.0,
+      "change_pct": 1.98,
+      "setup_quality_score": 50.55,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-17T14:53:03.209060+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
       "symbol": "LUPIN",
       "price": 1950.0,
       "change_pct": -1.35,
@@ -167,12 +183,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T13:46:54.852484+00:00",
+      "chain_fetched_at_utc": "2026-11-17T14:53:03.572402+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 2,
+      "rank": 3,
       "symbol": "SBIN",
       "price": 1108.5999755859375,
       "change_pct": 1.66,
@@ -183,23 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T13:46:55.441799+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
-      "symbol": "AXISBANK",
-      "price": 1369.0,
-      "change_pct": 1.98,
-      "setup_quality_score": 40.05,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-17T13:46:55.849833+00:00",
+      "chain_fetched_at_utc": "2026-11-17T14:53:04.000906+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
