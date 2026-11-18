@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-18T13:22:11.193211+00:00",
+  "generated_at_utc": "2026-11-18T14:31:58.084549+00:00",
   "news": [
+    {
+      "headline": "Real estate firm Assetz gets Sebi nod to float Rs 1,200-cr IPO",
+      "summary": "Assetz Ltd has obtained approval from Sebi to proceed with its plans for an initial public offering. The company aims to raise around Rs 1,200 crore in this IPO process. Assetz has developed a substantial land bank and project pipeline to meet housing demand in Bengaluru. With strong backing from investors like AGP Partners, the firm is expanding its presence in key markets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-gets-sebi-nod-to-float-rs-1200-cr-ipo/articleshow/135964641.cms",
+      "published": "Wed, 18 Nov 2026 18:54:30 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "India bonds reverse intraday gains to end lower as profit booking takes center stage",
       "summary": "Indian government bonds faced a setback as profit-seeking traders reacted to earlier gains, with the benchmark bond yield increasing to 7.2858% compared to the previous closure. The fluctuations in crude prices have influenced the market outlook on the Reserve Bank of India, prompting analysts to predict a potential rate increase in December amidst rising retail inflation.",
@@ -17,7 +27,7 @@
       "headline": "Anthropic IPO: Why Wall Street is betting big on Claude AI maker",
       "summary": "Anthropic is preparing for a blockbuster IPO that could value the Claude AI maker at up to $1.6 trillion. Strong investor demand, strategic stakes held by Amazon and Google, and bullish analyst forecasts are driving interest, although governance and profitability risks remain.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-why-wall-street-is-betting-big-on-claude-ai-maker/slideshow/135951884.cms",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-why-wall-street-is-betting-big-on-claude-ai-maker/slideshow/135951884.cms",
       "published": "Wed, 18 Nov 2026 11:42:00 +0530",
       "freshness": "new",
       "news_type": "catalyst",
@@ -42,6 +52,36 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "BSE"
+    },
+    {
+      "headline": "Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr",
+      "summary": "Prestige Estates Projects Ltd has successfully acquired a 50% stake in Advent Convention and Hotels International for an estimated Rs 500 crore. This partnership is set to develop a commercial project in Andheri, Mumbai, spanning 21,978.22 square meters, with projected leasable space of 1.50 million square feet. The total project valuation is forecasted at approximately Rs 4,500 crore, marking a significant expansion for Prestige in the Mumbai real estate market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965185.cms",
+      "published": "Wed, 18 Nov 2026 19:31:51 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gateway Distriparks to operate, manage common rail yard terminal at JNPA",
+      "summary": "Gateway Distriparks Limited has gained a mandate for operating the common rail yard terminal at Jawaharlal Nehru Port Authority. This terminal will enhance the handling of container trains and improve the efficiency of cargo movement. The contract spans eight years, focusing on train handling, container stacking, and inter-terminal transfers. Gateway aims to work closely with JNPA to improve rail connectivity for trade.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gateway-distriparks-to-operate-manage-common-rail-yard-terminal-at-jnpa/articleshow/135964806.cms",
+      "published": "Wed, 18 Nov 2026 19:14:28 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Kotak MF, BlackRock, others buy stake worth Rs 1,905 cr in Groww",
+      "summary": "Kotak Mahindra Mutual Fund (MF) led the buying spree, acquiring 2.05 crore shares or a 0.33 per cent stake, for Rs 448.95 crore, making it the biggest buyer in the transaction.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mf-blackrock-others-buy-stake-worth-rs-1905-cr-in-groww/articleshow/135964570.cms",
+      "published": "Wed, 18 Nov 2026 18:52:43 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
@@ -74,6 +114,26 @@
       "symbols": "TATAMOTORS"
     },
     {
+      "headline": "IndoSpace launches 1.05M sq ft Narasapura-II industrial and logistics park in Karnataka",
+      "summary": "IndoSpace has launched Narasapura-II, an industrial and logistics park in Karnataka with a size of approximately 1.05 million square feet. The company announced an investment of Rs 350 crore to enhance its presence in the region. This park aims to support businesses across various sectors including e-commerce and manufacturing. The location in Narasapura is strategically chosen for its connectivity to Bengaluru's markets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indospace-launches-1-05m-sq-ft-narasapura-ii-industrial-and-logistics-park-in-karnataka/articleshow/135964779.cms",
+      "published": "Wed, 18 Nov 2026 19:02:10 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nasdaq futures climb as Nvidia outlook eases AI jitters ahead of Anthropic pricing: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-nasdaq-sp-500-nvidia-forecast-anthropic-ipo-coreweave-nebius-fed-rate-fed-rate-hike-treasury-yield-news-18th-november-2026/liveblog/135964782.cms",
+      "published": "Wed, 18 Nov 2026 18:47:07 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "SpiceJet board approves up to Rs 5,500 crore fundraise amid operational challenges; stock hits 5% upper circuit",
       "summary": "SpiceJet's board of directors announced a fundraising plan to raise up to Rs 5,500 crore. The airline's shares have surged significantly, hitting the upper circuit for six consecutive sessions. Flight cancellations and operational disruptions have caused significant challenges for SpiceJet in recent days. The airline is focusing on rebuilding capacity and ensuring operational reliability going forward. The fundraising aims to strengthen its financial position and support fleet expansion efforts.",
       "source": "Economic Times Markets",
@@ -92,66 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "16 microcap stocks surge up to 390% in CY26, emerge as multibaggers",
-      "summary": "The Nifty Microcap 250 has outperformed the benchmark Nifty 50 in CY26, with several constituents delivering multibagger returns. Sixteen microcap stocks have more than doubled investors' wealth so far this year, led by Sigma Advanced Systems, while nearly 50 stocks in the index have gained over 50%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/16-microcap-stocks-surge-up-to-390-in-cy26-emerge-as-multibaggers/slideshow/135953025.cms",
-      "published": "Wed, 18 Nov 2026 12:14:42 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds rise tracking easing crude oil, US Treasury yields",
-      "summary": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-tracking-easing-crude-oil-us-treasury-yields/articleshow/135952296.cms",
-      "published": "Wed, 18 Nov 2026 12:06:17 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "SanDisk stock selloff deepens: What's driving the crash?",
-      "summary": "SanDisk shares have plunged 50% in three months amid AI spending concerns, NAND oversupply fears and investor selling. Upcoming stock split and earnings outlook remain key investor focus.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sandisk-stock-selloff-deepens-whats-driving-the-crash/slideshow/135951707.cms",
-      "published": "Wed, 18 Nov 2026 11:32:11 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global money rushes back into Indian stocks at record pace",
-      "summary": "Foreign investors have poured a record $9.61 billion into Indian equities so far in November, marking a sharp reversal after months of selling. Improving earnings prospects, easing crude prices and weakness in the global AI trade are driving renewed interest, with India emerging as one of Asia’s preferred equity markets.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-money-rushes-back-into-indian-stocks-at-record-pace/articleshow/135950745.cms",
-      "published": "Wed, 18 Nov 2026 11:06:23 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tata Chemicals among 4 stocks that show RSI Trending Up",
-      "summary": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price momentum and trend strength.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
-      "published": "Wed, 18 Nov 2026 09:47:00 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Prime Focus among 4 stocks that closed above VWAP",
-      "summary": "Four Nifty500 stocks, including Prime Focus, RHI Magnesita India, Laurus Labs and Tata Investment Corporation, closed more than 1.5% above their respective volume-weighted average prices (VWAPs) on November 18. The technical scan by StockEdge highlights stocks that ended the trading session above their volume-weighted average traded prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-that-closed-above-vwap/slideshow/135948232.cms",
-      "published": "Wed, 18 Nov 2026 09:34:31 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T13:22:24.958176+00:00",
+      "chain_fetched_at_utc": "2026-11-18T14:32:06.016590+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T13:22:25.425456+00:00",
+      "chain_fetched_at_utc": "2026-11-18T14:32:06.367377+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T13:22:25.895317+00:00",
+      "chain_fetched_at_utc": "2026-11-18T14:32:06.853413+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
