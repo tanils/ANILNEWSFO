@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-18T11:29:18.888980+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-18T13:22:11.193211+00:00",
   "news": [
+    {
+      "headline": "India bonds reverse intraday gains to end lower as profit booking takes center stage",
+      "summary": "Indian government bonds faced a setback as profit-seeking traders reacted to earlier gains, with the benchmark bond yield increasing to 7.2858% compared to the previous closure. The fluctuations in crude prices have influenced the market outlook on the Reserve Bank of India, prompting analysts to predict a potential rate increase in December amidst rising retail inflation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-reverse-intraday-gains-to-end-lower-as-profit-booking-takes-center-stage/articleshow/135962385.cms",
+      "published": "Wed, 18 Nov 2026 17:22:22 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Anthropic IPO: Why Wall Street is betting big on Claude AI maker",
       "summary": "Anthropic is preparing for a blockbuster IPO that could value the Claude AI maker at up to $1.6 trillion. Strong investor demand, strategic stakes held by Amazon and Google, and bullish analyst forecasts are driving interest, although governance and profitability risks remain.",
@@ -24,44 +34,14 @@
       "symbols": "SBIN"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Trading Price",
-      "summary": "",
+      "headline": "PI Industries among 5 stocks hitting 52-week low; slipped up to 26% in a month",
+      "summary": "Five BSE 500 stocks, including PI Industries, Aditya Birla Fashion and Retail and Thermax, hit fresh 52-week lows as the market weakened, with losses reaching 26% in a month.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-18-nov-2026/liveblog/135947577.cms",
-      "published": "Wed, 18 Nov 2026 09:10:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pi-industries-among-5-stocks-hitting-52-week-low-slipped-up-to-26-in-a-month/slideshow/135961979.cms",
+      "published": "Wed, 18 Nov 2026 17:01:06 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Price and Volatility Insights",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-18-nov-2026/liveblog/135946776.cms",
-      "published": "Wed, 18 Nov 2026 08:30:06 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Axis Bank's Market Update",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-today-live-18-nov-2026/liveblog/135946395.cms",
-      "published": "Wed, 18 Nov 2026 08:15:42 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
-    },
-    {
-      "headline": "IndusInd Bank Share Price Live Updates: Market Update: IndusInd Bank's Current Trading Status",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-18-nov-2026/liveblog/135947265.cms",
-      "published": "Wed, 18 Nov 2026 08:55:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "BSE"
     },
     {
       "headline": "Rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
@@ -94,46 +74,6 @@
       "symbols": "TATAMOTORS"
     },
     {
-      "headline": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ sees a price decline",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-18-nov-2026/liveblog/135947016.cms",
-      "published": "Wed, 18 Nov 2026 08:41:01 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "ADANIPORTS"
-    },
-    {
-      "headline": "Infosys Share Price Live Updates: Infosys ends the day at Rs 1108.8",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-18-nov-2026/liveblog/135947008.cms",
-      "published": "Wed, 18 Nov 2026 08:40:41 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "INFY"
-    },
-    {
-      "headline": "Titan Company Share Price Live Updates: Titan Company Falls Below Key Moving Average",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-18-nov-2026/liveblog/135946662.cms",
-      "published": "Wed, 18 Nov 2026 08:25:45 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Tata Steel Share Price Live Updates: Tata Steel's Current Price and Trends",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-updates-18-nov-2026/liveblog/135946643.cms",
-      "published": "Wed, 18 Nov 2026 08:25:05 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "TATASTEEL"
-    },
-    {
       "headline": "SpiceJet board approves up to Rs 5,500 crore fundraise amid operational challenges; stock hits 5% upper circuit",
       "summary": "SpiceJet's board of directors announced a fundraising plan to raise up to Rs 5,500 crore. The airline's shares have surged significantly, hitting the upper circuit for six consecutive sessions. Flight cancellations and operational disruptions have caused significant challenges for SpiceJet in recent days. The airline is focusing on rebuilding capacity and ensuring operational reliability going forward. The fundraising aims to strengthen its financial position and support fleet expansion efforts.",
       "source": "Economic Times Markets",
@@ -152,6 +92,66 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "16 microcap stocks surge up to 390% in CY26, emerge as multibaggers",
+      "summary": "The Nifty Microcap 250 has outperformed the benchmark Nifty 50 in CY26, with several constituents delivering multibagger returns. Sixteen microcap stocks have more than doubled investors' wealth so far this year, led by Sigma Advanced Systems, while nearly 50 stocks in the index have gained over 50%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/16-microcap-stocks-surge-up-to-390-in-cy26-emerge-as-multibaggers/slideshow/135953025.cms",
+      "published": "Wed, 18 Nov 2026 12:14:42 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India bonds rise tracking easing crude oil, US Treasury yields",
+      "summary": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-tracking-easing-crude-oil-us-treasury-yields/articleshow/135952296.cms",
+      "published": "Wed, 18 Nov 2026 12:06:17 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "SanDisk stock selloff deepens: What's driving the crash?",
+      "summary": "SanDisk shares have plunged 50% in three months amid AI spending concerns, NAND oversupply fears and investor selling. Upcoming stock split and earnings outlook remain key investor focus.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sandisk-stock-selloff-deepens-whats-driving-the-crash/slideshow/135951707.cms",
+      "published": "Wed, 18 Nov 2026 11:32:11 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global money rushes back into Indian stocks at record pace",
+      "summary": "Foreign investors have poured a record $9.61 billion into Indian equities so far in November, marking a sharp reversal after months of selling. Improving earnings prospects, easing crude prices and weakness in the global AI trade are driving renewed interest, with India emerging as one of Asia’s preferred equity markets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-money-rushes-back-into-indian-stocks-at-record-pace/articleshow/135950745.cms",
+      "published": "Wed, 18 Nov 2026 11:06:23 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Tata Chemicals among 4 stocks that show RSI Trending Up",
+      "summary": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price momentum and trend strength.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
+      "published": "Wed, 18 Nov 2026 09:47:00 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Prime Focus among 4 stocks that closed above VWAP",
+      "summary": "Four Nifty500 stocks, including Prime Focus, RHI Magnesita India, Laurus Labs and Tata Investment Corporation, closed more than 1.5% above their respective volume-weighted average prices (VWAPs) on November 18. The technical scan by StockEdge highlights stocks that ended the trading session above their volume-weighted average traded prices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-that-closed-above-vwap/slideshow/135948232.cms",
+      "published": "Wed, 18 Nov 2026 09:34:31 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,23 +167,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T11:29:25.810877+00:00",
+      "chain_fetched_at_utc": "2026-11-18T13:22:24.958176+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": 1601.300048828125,
-      "change_pct": 0.16,
-      "setup_quality_score": 44.74,
+      "symbol": "TRENT",
+      "price": 3190.0,
+      "change_pct": 0.43,
+      "setup_quality_score": 40.05,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T11:29:26.151945+00:00",
+      "chain_fetched_at_utc": "2026-11-18T13:22:25.425456+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -192,14 +192,14 @@
       "symbol": "INFY",
       "price": 1108.800048828125,
       "change_pct": -1.88,
-      "setup_quality_score": 44.32,
+      "setup_quality_score": 39.82,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T11:29:26.535863+00:00",
+      "chain_fetched_at_utc": "2026-11-18T13:22:25.895317+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
