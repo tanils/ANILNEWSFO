@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-18T16:43:16.226506+00:00",
+  "generated_at_utc": "2026-11-18T17:30:23.499220+00:00",
   "news": [
     {
       "headline": "Real estate firm Assetz gets Sebi nod to float Rs 1,200-cr IPO",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T16:43:25.655929+00:00",
+      "chain_fetched_at_utc": "2026-11-18T17:30:31.464489+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T16:43:26.013324+00:00",
+      "chain_fetched_at_utc": "2026-11-18T17:30:31.954077+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-18T16:43:26.396191+00:00",
+      "chain_fetched_at_utc": "2026-11-18T17:30:32.475499+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
