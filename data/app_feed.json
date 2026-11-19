@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-19T13:48:33.102223+00:00",
+  "generated_at_utc": "2026-11-19T14:40:49.401191+00:00",
   "news": [
     {
       "headline": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
@@ -39,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-ai-demand-drive-further-gains-in-panw-stock/slideshow/135979684.cms",
       "published": "Thu, 19 Nov 2026 11:15:13 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic IPO Live Updates: Nasdaq futures surge as AI optimism returns ahead of Anthropic debut",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
+      "published": "Thu, 19 Nov 2026 18:41:26 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -104,6 +114,16 @@
       "symbols": "BEL"
     },
     {
+      "headline": "Investors vs Economists: Should Govt Cut LTCG Tax?",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms",
+      "published": "Thu, 19 Nov 2026 19:01:48 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
       "summary": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and importers, improved participation from exporters may further enhance the rupee's strength.",
       "source": "Economic Times Markets",
@@ -132,16 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Sterlite Technologies among 3 stocks showing White Marubozu pattern",
-      "summary": "Three Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 19, indicating strong upward price momentum during the trading session.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135976918.cms",
-      "published": "Thu, 19 Nov 2026 09:24:26 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -157,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T13:48:46.922728+00:00",
+      "chain_fetched_at_utc": "2026-11-19T14:40:57.005614+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -173,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T13:48:47.340403+00:00",
+      "chain_fetched_at_utc": "2026-11-19T14:40:57.835128+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -189,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T13:48:47.897074+00:00",
+      "chain_fetched_at_utc": "2026-11-19T14:40:58.195209+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
