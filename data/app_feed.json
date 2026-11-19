@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-19T17:36:43.330767+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-19T18:36:56.427428+00:00",
   "news": [
     {
       "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
@@ -64,6 +64,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "AMD shares slide 8% as report says China links could invite US scrutiny",
+      "summary": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the presence of licensing revenue from two restricted Chinese entities adds another layer of difficulty for AMD as it strives to maintain competitiveness against Nvidia.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+      "published": "Thu, 19 Nov 2026 23:43:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
       "summary": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a potential future interest in Japanese government bonds, as local investors may re-enter the market.",
       "source": "Economic Times Markets",
@@ -94,7 +104,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO Live Updates: Dow plunges 1,000 pts, Nasdaq falls over 1% after Anthropic's trillion-dollar debut",
+      "headline": "Anthropic IPO Live Updates: US stocks fall sharply as Anthropic debut fails to reignite AI trade",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
@@ -142,64 +152,54 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BEL"
-    },
-    {
-      "headline": "Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?",
-      "summary": "Morgan Stanley has given an overweight rating to nine major largecap stocks in India in light of current market dynamics. While several stocks faced downturns over the past year, some others experienced increases. The analysis stresses that for India to excel on a global scale, earnings growth is vital. Companies like Hyundai Motor and Trent saw significant declines, while Adani Power distinguished itself with impressive growth, underscoring varied market outcomes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms",
-      "published": "Thu, 19 Nov 2026 09:27:05 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "ADANIPOWER"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "MARUTI",
-      "price": 13589.0,
-      "change_pct": 7.58,
-      "setup_quality_score": 59.49,
+      "symbol": "BEL",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T17:36:53.074323+00:00",
+      "chain_fetched_at_utc": "2026-11-19T18:37:03.472564+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BSE",
-      "price": 3765.0,
-      "change_pct": 0.25,
-      "setup_quality_score": 49.88,
+      "symbol": "ADANIPOWER",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T17:36:53.491069+00:00",
+      "chain_fetched_at_utc": "2026-11-19T18:37:03.910855+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "M&M",
-      "price": 3509.0,
-      "change_pct": 4.46,
-      "setup_quality_score": 48.73,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T17:36:53.894910+00:00",
+      "chain_fetched_at_utc": "2026-11-19T18:37:04.289713+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
