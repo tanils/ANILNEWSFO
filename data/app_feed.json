@@ -1,8 +1,18 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-19T16:01:53.358451+00:00",
+  "generated_at_utc": "2026-11-19T16:48:09.094880+00:00",
   "news": [
+    {
+      "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
+      "summary": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth creation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
+      "published": "Thu, 19 Nov 2026 21:29:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
       "summary": "Indian government bonds exhibited volatility and ended little changed as market participants awaited interest rate cues. The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution. The steadying of US Treasury yields suggests increased investor absorption of tighter financial conditions.",
@@ -44,6 +54,36 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Palo Alto's raised sales forecast powers rally in cybersecurity stocks",
+      "summary": "Palo Alto Networks recently announced its acquisition of AI startup Applied Compute for $4.5 billion. The company raised its annual forecast, which positively influenced various cybersecurity stocks. Investors are increasingly focused on cybersecurity due to the rise of AI-enabled cyberattacks and recent technology outages. Shares of other cybersecurity firms have surged in response to Palo Alto's optimistic outlook. The Nasdaq composite also enjoyed gains ahead of Anthropic's market debut.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks/articleshow/135997775.cms",
+      "published": "Thu, 19 Nov 2026 21:20:59 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
+      "summary": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a potential future interest in Japanese government bonds, as local investors may re-enter the market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
+      "published": "Thu, 19 Nov 2026 21:31:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+      "summary": "Walmart reported robust third-quarter sales figures, reflecting ongoing consumer demand for affordable shopping solutions. The retailer saw a significant surge in e-commerce sales, rising by 23%. With an emphasis on digital services and advertising, Walmart has effectively preserved its competitive advantage amid growing inflation concerns. Nonetheless, analysts express a cautious perspective regarding future sales forecasts, projecting a total sales growth of 4.9% to 5.2% for the fiscal year.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/walmart-raises-its-outlook-for-the-year-for-the-3rd-time-after-a-solid-quarter/articleshow/135997871.cms",
+      "published": "Thu, 19 Nov 2026 21:22:19 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Nasdaq rises over 1% at open as Anthropic IPO pricing bolsters AI trade",
       "summary": "The tech-heavy Nasdaq jumped over 1% at the open on Thursday, after Anthropic priced its IPO above the marketed range, fueling expectations for a strong market debut.",
       "source": "Economic Times Markets",
@@ -54,7 +94,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO Live Updates: Anthropic lists on Nasdaq at $1.5 trillion valuation in biggest IPO on record",
+      "headline": "Anthropic IPO Live Updates: Dow drops over 500 points as US market erases Anthropic-fueled gains",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
@@ -112,46 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "ADANIPOWER"
-    },
-    {
-      "headline": "CreditAccess Grameen among 7 stocks closing below VWAP",
-      "summary": "Seven Nifty 500 stocks, including CreditAccess Grameen, Swan Corp, Black Box and Torrent Pharmaceuticals, closed more than 1% below their respective Volume Weighted Average Prices (VWAPs) on November 18, according to StockEdge data. The technical scan identifies stocks that ended the session below their volume-weighted average traded prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-7-stocks-closing-below-vwap/slideshow/135976841.cms",
-      "published": "Thu, 19 Nov 2026 09:19:26 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Negative Breakout: These 6 stocks dropped below their 200 DMAs",
-      "summary": "Trading below the 200 DMA is generally viewed as a bearish signal, indicating that a stock is trading below its long-term trend. The 200 DMA is a widely tracked technical indicator that traders use to assess a stock's broader price trend.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-6-stocks-dropped-below-their-200-dmas/slideshow/135976592.cms",
-      "published": "Thu, 19 Nov 2026 09:07:46 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "Investors vs Economists: Should Govt Cut LTCG Tax?",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms",
-      "published": "Thu, 19 Nov 2026 19:01:48 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
-      "summary": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and importers, improved participation from exporters may further enhance the rupee's strength.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
-      "published": "Thu, 19 Nov 2026 15:59:20 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:02:02.905446+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:48:16.423850+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:02:03.338349+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:48:16.764232+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:02:03.813765+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:48:17.246103+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
