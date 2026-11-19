@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-19T11:28:20.587860+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-19T13:48:33.102223+00:00",
   "news": [
+    {
+      "headline": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
+      "summary": "Indian government bonds exhibited volatility and ended little changed as market participants awaited interest rate cues. The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution. The steadying of US Treasury yields suggests increased investor absorption of tighter financial conditions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms",
+      "published": "Thu, 19 Nov 2026 18:00:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
       "summary": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.",
@@ -24,41 +34,11 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Price and Trends",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-19-nov-2026/liveblog/135975925.cms",
-      "published": "Thu, 19 Nov 2026 08:20:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
       "headline": "Can AI demand drive further gains in PANW stock?",
       "summary": "Palo Alto Networks shares surged in after-hours trading after the cybersecurity firm reported better-than-expected fiscal Q1 2027 results, with revenue rising 39% year-on-year. The company also announced a $4.5 billion acquisition of AI startup Applied Compute and raised its full-year revenue guidance.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-ai-demand-drive-further-gains-in-panw-stock/slideshow/135979684.cms",
       "published": "Thu, 19 Nov 2026 11:15:13 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Price and Market Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-19-nov-2026/liveblog/135975883.cms",
-      "published": "Thu, 19 Nov 2026 08:17:20 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and Market Performance",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-19-nov-2026/liveblog/135975810.cms",
-      "published": "Thu, 19 Nov 2026 08:10:42 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -72,6 +52,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month",
+      "summary": "Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs on Thursday as Sensex rallied 990 points. Here's how these stocks have performed recently.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms",
+      "published": "Thu, 19 Nov 2026 17:56:29 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "BSE"
     },
     {
       "headline": "Star Health among 3 stocks showing RSI trending up",
@@ -114,65 +104,49 @@
       "symbols": "BEL"
     },
     {
-      "headline": "Infosys Share Price Live Updates: Infosys's closing price today stands at Rs 1090.6",
-      "summary": "",
+      "headline": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
+      "summary": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and importers, improved participation from exporters may further enhance the rupee's strength.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-19-nov-2026/liveblog/135976140.cms",
-      "published": "Thu, 19 Nov 2026 08:40:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
+      "published": "Thu, 19 Nov 2026 15:59:20 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "INFY"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Tata Motors PV Share Price Live Updates: Tata Motors PV enjoys a solid price surge",
-      "summary": "",
+      "headline": "Why AMD shares are rising: 7 things investors should know",
+      "summary": "AMD shares gained 5.3% after OpenAI revealed AI-driven improvements of up to 14% in its GPU design. A GTA VI connection adds to optimism around its gaming business.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-19-nov-2026/liveblog/135975918.cms",
-      "published": "Thu, 19 Nov 2026 08:20:23 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
+      "published": "Thu, 19 Nov 2026 11:59:37 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "TATAMOTORS"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Stock Update",
+      "headline": "Gold Rates Live Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-19-nov-2026/liveblog/135975880.cms",
-      "published": "Thu, 19 Nov 2026 08:17:06 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
+      "published": "Thu, 19 Nov 2026 11:28:41 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "HEROMOTOCO"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ closes with a gain",
-      "summary": "",
+      "headline": "Sterlite Technologies among 3 stocks showing White Marubozu pattern",
+      "summary": "Three Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 19, indicating strong upward price momentum during the trading session.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-today-live-updates-19-nov-2026/liveblog/135975822.cms",
-      "published": "Thu, 19 Nov 2026 08:11:36 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135976918.cms",
+      "published": "Thu, 19 Nov 2026 09:24:26 +0530",
       "freshness": "new",
       "news_type": "context",
-      "symbols": "ADANIPORTS"
+      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "HEROMOTOCO",
-      "price": 5556.0,
-      "change_pct": 5.77,
-      "setup_quality_score": 60.95,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T11:28:30.905168+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
       "symbol": "MARUTI",
       "price": 13589.0,
       "change_pct": 7.58,
@@ -183,23 +157,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T11:28:31.801852+00:00",
+      "chain_fetched_at_utc": "2026-11-19T13:48:46.922728+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
-      "rank": 3,
-      "symbol": "ADANIPORTS",
-      "price": 1917.0999755859375,
-      "change_pct": 0.76,
-      "setup_quality_score": 50.64,
+      "rank": 2,
+      "symbol": "BSE",
+      "price": 3765.0,
+      "change_pct": 0.25,
+      "setup_quality_score": 49.88,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T11:28:32.265348+00:00",
+      "chain_fetched_at_utc": "2026-11-19T13:48:47.340403+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "M&M",
+      "price": 3509.0,
+      "change_pct": 4.46,
+      "setup_quality_score": 48.73,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-19T13:48:47.897074+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
