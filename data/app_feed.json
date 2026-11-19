@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-19T18:36:56.427428+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-19T22:46:38.058146+00:00",
   "news": [
     {
       "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
@@ -104,7 +104,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO Live Updates: US stocks fall sharply as Anthropic debut fails to reignite AI trade",
+      "headline": "Anthropic IPO Highlights: US stocks tumble 2%, head for longest losing streak since 2024 despite strong Anthropic debut",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
@@ -157,7 +157,7 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BEL",
+      "symbol": "BSE",
       "price": NaN,
       "change_pct": NaN,
       "setup_quality_score": NaN,
@@ -167,28 +167,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T18:37:03.472564+00:00",
+      "chain_fetched_at_utc": "2026-11-19T22:46:45.312015+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ADANIPOWER",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T18:37:03.910855+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "HDFCBANK",
       "price": NaN,
       "change_pct": NaN,
@@ -199,7 +183,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T18:37:04.289713+00:00",
+      "chain_fetched_at_utc": "2026-11-19T22:46:45.696003+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "ADANIPOWER",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-19T22:46:46.079991+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
