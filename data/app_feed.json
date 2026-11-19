@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-19T14:40:49.401191+00:00",
+  "generated_at_utc": "2026-11-19T16:01:53.358451+00:00",
   "news": [
     {
       "headline": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
@@ -44,7 +44,17 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO Live Updates: Nasdaq futures surge as AI optimism returns ahead of Anthropic debut",
+      "headline": "Nasdaq rises over 1% at open as Anthropic IPO pricing bolsters AI trade",
+      "summary": "The tech-heavy Nasdaq jumped over 1% at the open on Thursday, after Anthropic priced its IPO above the marketed range, fueling expectations for a strong market debut.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
+      "published": "Thu, 19 Nov 2026 20:47:37 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic IPO Live Updates: Anthropic lists on Nasdaq at $1.5 trillion valuation in biggest IPO on record",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
@@ -62,6 +72,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Fund managers turn overweight on India, first such classification since Jan",
+      "summary": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global economy.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
+      "published": "Thu, 19 Nov 2026 20:32:14 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "BSE"
     },
     {
       "headline": "NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month",
@@ -132,26 +152,6 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Why AMD shares are rising: 7 things investors should know",
-      "summary": "AMD shares gained 5.3% after OpenAI revealed AI-driven improvements of up to 14% in its GPU design. A GTA VI connection adds to optimism around its gaming business.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
-      "published": "Thu, 19 Nov 2026 11:59:37 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Gold Rates Live Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
-      "published": "Thu, 19 Nov 2026 11:28:41 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T14:40:57.005614+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:02:02.905446+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T14:40:57.835128+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:02:03.338349+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T14:40:58.195209+00:00",
+      "chain_fetched_at_utc": "2026-11-19T16:02:03.813765+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
