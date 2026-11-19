@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-19T16:48:09.094880+00:00",
+  "generated_at_utc": "2026-11-19T17:36:43.330767+00:00",
   "news": [
     {
       "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
@@ -84,8 +84,8 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nasdaq rises over 1% at open as Anthropic IPO pricing bolsters AI trade",
-      "summary": "The tech-heavy Nasdaq jumped over 1% at the open on Thursday, after Anthropic priced its IPO above the marketed range, fueling expectations for a strong market debut.",
+      "headline": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
+      "summary": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were seen in firms like Palo Alto Networks. Overall, the market displayed a varied performance, reflecting ongoing uncertainties over the Federal Reserve's future rate strategies.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
       "published": "Thu, 19 Nov 2026 20:47:37 +0530",
@@ -94,7 +94,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic IPO Live Updates: Dow drops over 500 points as US market erases Anthropic-fueled gains",
+      "headline": "Anthropic IPO Live Updates: Dow plunges 1,000 pts, Nasdaq falls over 1% after Anthropic's trillion-dollar debut",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:48:16.423850+00:00",
+      "chain_fetched_at_utc": "2026-11-19T17:36:53.074323+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:48:16.764232+00:00",
+      "chain_fetched_at_utc": "2026-11-19T17:36:53.491069+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T16:48:17.246103+00:00",
+      "chain_fetched_at_utc": "2026-11-19T17:36:53.894910+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
