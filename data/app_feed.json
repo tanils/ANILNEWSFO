@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-20T14:20:43.554376+00:00",
+  "generated_at_utc": "2026-11-20T15:44:49.743528+00:00",
   "news": [
     {
       "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
@@ -29,6 +29,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
       "published": "Fri, 20 Nov 2026 16:15:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi proposes limiting tenure of chief executives, independent directors at exchanges",
+      "summary": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despite these proposed changes. SEBI is seeking public feedback on these recommendations by December 11.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
+      "published": "Fri, 20 Nov 2026 20:39:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -64,7 +74,17 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US futures slip as Anthropic debut fails to reassure AI investors: Stock Market Live Updates",
+      "headline": "Nasdaq falls 1% at open as Anthropic fails to steady AI trade",
+      "summary": "The Nasdaq fell more than 1% at the open on Friday, as Anthropic shares tumbled after a blockbuster debut, adding to pressure on an AI trade already rattled by valuation concerns.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
+      "published": "Fri, 20 Nov 2026 20:29:06 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US stocks seesaw as Anthropic fails to steady AI trade: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
@@ -137,7 +157,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T14:20:52.674436+00:00",
+      "chain_fetched_at_utc": "2026-11-20T15:44:59.097825+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -153,7 +173,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T14:20:53.164038+00:00",
+      "chain_fetched_at_utc": "2026-11-20T15:44:59.503498+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -169,20 +189,13 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T14:20:53.610436+00:00",
+      "chain_fetched_at_utc": "2026-11-20T15:45:00.138067+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 20 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n| Index | Spot (₹) | % Δ | EMA20 | EMA50 | EMA200 | RSI 14 | ATR 14 | Regime Interpretation |\n|-------|----------|-----|-------|-------|--------|--------|--------|-----------------------|\n| **NIFTY** | 25 800.60 | **+1.12 %** | 24 569.11 | 23 951.02 | 24 166.16 | **90.69** (over‑bought) | 353.22 | Bullish‑trend but nearing over‑bought levels; watch for pull‑back. |\n| **BANKNIFTY** | 64 635.20 | **+2.49 %** | 59 551.07 | 57 700.68 | 57 191.95 | **93.69** (extremely over‑bought) | 1 075.37 | Strong bullish bias, but RSI suggests possible short‑term consolidation. |\n| **Rupee (USD/INR)** | 93.15 | +0.18 % (≈ +17 paise) | – | – | – | – | – | Slightly stronger; supports equity inflows. |\n\n*Overall*: The equity market is in a **bullish / high‑momentum** regime, but the very high RSI values on both NIFTY and BANKNIFTY flag **potential short‑term range‑bound or corrective pressure**.\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| # | Headline (source) | Timestamp (IST) | FACT | NEWS IMPACT |\n|---|-------------------|-----------------|------|-------------|\n| 1 | “Treasury rally spills over to Indian bonds, debt supply slows move” – *Economic Times* | 10:49 IST | US Treasury yields fell, Indian G‑Sec prices rose modestly. | Positive for risk‑on sentiment; may sustain equity rally. |\n| 2 | “Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind” – *Economic Times* | 16:15 IST | INR = 93.15, foreign inflows > $12 bn in Nov. | Strengthening rupee reduces FX risk, encourages equity buying. |\n| 3 | “SEBI plans consultation paper to remove FPI constraints” – *Economic Times* | 14:49 IST | SEBI to ease FPI compliance. | Could boost foreign participation, further supporting equities. |\n\n*No single corporate earnings or sector‑specific news were supplied; the above macro‑level catalysts dominate the current landscape.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n* US Treasury rally (lower yields) → global risk‑on bias.  \n* Federal Reserve expected to stay hawkish – could limit upside in the longer run.  \n* Crude oil (Brent) stable; no major shock to Indian inflation outlook.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n* SEBI’s upcoming FPI‑friendly consultation paper may improve foreign fund flows.  \n* No new fiscal or monetary announcements were released in the supplied feed.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Recent Price Action | Technical Highlights |\n|--------|--------------------|-----------------------|\n| **AXISBANK** | ₹1 446.0 (+4.72 %) – up from previous close ₹1 380.80 | EMA20 = 1 316.27, EMA50 = 1 279.88, EMA200 = 1 276.52; RSI = 86.63 (over‑bought); Volume = 21.48 M (3.23 × 20‑day avg). |\n| **MARUTI** | ₹14 011.0 (+3.11 %) – up from previous close ₹13 589 | EMA20 = 12 574.72, EMA50 = 12 384.63, EMA200 = 13 315.0; RSI = 84.02; Volume = 1.65 M (2.64 × 20‑day avg). |\n| **PERSISTENT** | ₹6 124.0 (+4.15 %) – up from previous close ₹5 880 | EMA20 = 5 936.66, EMA50 = 5 776.61, EMA200 = 5 572.24; RSI = 55.01 (neutral); Volume = 1.79 M (3.25 × 20‑day avg). |\n\n*All three stocks show strong price gains with volume well above their 20‑day averages, indicating genuine participation.*\n\n---\n\n### 6. RESULTS / EARNINGS  \n\n*No earnings releases were present in the supplied data for the listed symbols.*\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n| Symbol / Index | Option‑chain data supplied? | Key fields (expiry, OI, ΔOI, volume, bid‑ask) | DATA‑QUALITY STATUS |\n|----------------|----------------------------|----------------------------------------------|----------------------|\n| **NIFTY** | **Unavailable** (source = “unavailable”) | All required fields missing | **DATA INSUFFICIENT** |\n| **BANKNIFTY** | **Unavailable** | – | **DATA INSUFFICIENT** |\n| **AXISBANK** | **Unavailable** | – | **DATA INSUFFICIENT** |\n| **MARUTI** | **Unavailable** | – | **DATA INSUFFICIENT** |\n| **PERSISTENT** | **Unavailable** | – | **DATA INSUFFICIENT** |\n| **Other candidates** (BSE, RELIANCE, etc.) | Not listed in the live‑scan data | – | **DATA INSUFFICIENT** |\n\n*Because every required option‑chain element (expiry, OI, change‑in‑OI, volume, liquidity) is missing, the data‑quality gate fails for all potential F&O setups.*\n\n---\n\n### 8. TECHNICAL SETUPS (Spot‑only)  \n\n| Symbol | Bias | Key Signals | Comment |\n|--------|------|--------------|---------|\n| **NIFTY** | Bullish but over‑bought | Price > EMA20/50/200, RSI ≈ 91 | Watch for a pull‑back toward EMA20 (~24 570) or a break above 26 200 for a fresh leg. |\n| **BANKNIFTY** | Bullish, over‑bought | Price > all EMAs, RSI ≈ 94 | Similar watch‑list; a break above 65 000 could confirm continuation. |\n| **AXISBANK** | Strong short‑term uptrend | Price > EMAs, RSI ≈ 87, volume 3.2× avg | Potential short‑term rally; risk of reversal near EMA20 (1 316). |\n| **MARUTI** | Uptrend, high momentum | Price > EMAs, RSI ≈ 84, volume 2.6× avg | Momentum may sustain; watch EMA20 (12 575) as near‑term support. |\n| **PERSISTENT** | Moderate uptrend | Price > EMAs, RSI ≈ 55 (neutral), volume 3.3× avg | Less over‑bought; could continue if broader market stays bullish. |\n\n*No single chart pattern (breakout, breakdown, double top/bottom, etc.) is confirmed with volume or OI evidence.*\n\n---\n\n### 9. BULLISH WATCHLIST (Spot‑only)  \n\n| Symbol | Reason |\n|--------|--------|\n| **AXISBANK** – price up 4.7 % with 3.2× volume; EMA20 now well‑below price. |\n| **MARUTI** – price up 3.1 % with 2.6× volume; strong momentum, RSI high but not extreme. |\n| **PERSISTENT** – price up 4.2 % with 3.3× volume; neutral RSI suggests room to move. |\n| **NIFTY** – index up 1.1 % and above all EMAs; bullish macro backdrop. |\n| **BANKNIFTY** – index up 2.5 % and above all EMAs; strong macro support. |\n\n*These symbols are **watch‑list candidates**; no F&O trade is recommended due to missing option data.*\n\n---\n\n### 10. BEARISH WATCHLIST (Spot‑only)  \n\n| Symbol | Reason |\n|--------|--------|\n| **NIFTY** – RSI ≈ 91 (over‑bought); potential pull‑back to EMA20 (~24 570). |\n| **BANKNIFTY** – RSI ≈ 94 (extremely over‑bought); possible short‑term consolidation. |\n| **AXISBANK** – RSI ≈ 87 (near over‑bought); watch for reversal near EMA20. |\n| **MARUTI** – RSI ≈ 84 (high); watch for corrective dip. |\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Asset | Priced‑in Assessment | Rationale |\n|------|----------------------|-----------|\n| **Macro (Rupee strength, FPI easing)** | **PARTIALLY PRICED‑IN** – Rupee already stronger; further appreciation may be limited unless new inflows arrive. |\n| **Equity rally** | **POTENTIALLY PRICED‑IN** – High RSI and strong recent gains suggest much of the bullish momentum is already reflected. |\n| **No specific corporate catalyst** | **CANNOT DETERMINE** – No earnings or sector news to evaluate. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*Reason:* All candidate symbols and indices lack the mandatory option‑chain details (expiry, OI, ΔOI, volume, bid‑ask spread). Without these, the data‑quality gate cannot be satisfied, and a triggerable entry cannot be defined.  \n\n*No trade is recommended at this time.*\n\n---\n\n### 13. POSITION / RISK  \n\n| Item | Detail |\n|------|--------|\n| **Maximum loss per trade** | Not applicable (no trade). |\n| **Capital at risk** | 0 % of ₹25 000 (no position taken). |\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n* **Missing option‑chain data** (expiry, OI, volume, liquidity) for every candidate.  \n* **Setup‑quality scores** for the top three candidates are **below the 90/100 “SUPER SETUP” threshold** (63.23, 56.08, 53.66).  \n* **Absence of a concrete entry trigger** (price break, pull‑back, etc.) confirmed by both price action and option‑chain evidence.  \n\nGiven these constraints, the system must refrain from opening any position.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian equity market is currently **bullish** with strong macro support (rupee strength, potential FPI easing, US Treasury rally).  \n- **NIFTY** and **BANKNIFTY** are trading well above their EMAs but show **over‑bought** RSI levels, indicating possible short‑term consolidation.  \n- **AXISBANK**, **MARUTI**, and **PERSISTENT** have shown robust price gains and volume spikes, making them **watch‑list candidates** for future opportunities.  \n- **All F&O data required for a qualified trade is unavailable**, and the highest setup‑quality scores are below the 90/100 threshold. Consequently, **no trade is recommended** at this moment.  \n\n*Continue monitoring the macro catalysts, the RSI‑driven over‑bought conditions, and await the release of a complete option‑chain (including OI and volume) before considering any CE/PE entry.*"
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
