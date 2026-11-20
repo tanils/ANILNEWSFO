@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-20T16:22:11.425849+00:00",
+  "generated_at_utc": "2026-11-20T17:13:36.912087+00:00",
   "news": [
     {
       "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
@@ -44,6 +44,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
+      "summary": "Following a rocky market debut, Anthropic’s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks, putting pressure on major U.S. stock indexes. Despite some companies reporting strong earnings, investor anxiety persists over potential interest rate hikes by the Federal Reserve.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
+      "published": "Fri, 20 Nov 2026 20:29:06 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
       "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuation and competitive threats added to investor caution.",
       "source": "Economic Times Markets",
@@ -74,17 +84,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nasdaq falls 1% at open as Anthropic fails to steady AI trade",
-      "summary": "The Nasdaq fell more than 1% at the open on Friday, as Anthropic shares tumbled after a blockbuster debut, adding to pressure on an AI trade already rattled by valuation concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
-      "published": "Fri, 20 Nov 2026 20:29:06 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq tumbles 500 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
+      "headline": "Nasdaq tumbles 650 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
@@ -157,7 +157,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T16:22:22.811338+00:00",
+      "chain_fetched_at_utc": "2026-11-20T17:13:46.734981+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -173,7 +173,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T16:22:23.200485+00:00",
+      "chain_fetched_at_utc": "2026-11-20T17:13:47.219333+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -189,7 +189,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T16:22:23.665277+00:00",
+      "chain_fetched_at_utc": "2026-11-20T17:13:47.616614+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
