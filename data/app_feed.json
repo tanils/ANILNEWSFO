@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-20T15:44:49.743528+00:00",
+  "generated_at_utc": "2026-11-20T16:22:11.425849+00:00",
   "news": [
     {
       "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
@@ -84,7 +84,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks seesaw as Anthropic fails to steady AI trade: Stock Market Live Updates",
+      "headline": "Nasdaq tumbles 500 pts as Anthropic fails to rekindle AI optimism: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
@@ -157,7 +157,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T15:44:59.097825+00:00",
+      "chain_fetched_at_utc": "2026-11-20T16:22:22.811338+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -173,7 +173,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T15:44:59.503498+00:00",
+      "chain_fetched_at_utc": "2026-11-20T16:22:23.200485+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -189,7 +189,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T15:45:00.138067+00:00",
+      "chain_fetched_at_utc": "2026-11-20T16:22:23.665277+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
