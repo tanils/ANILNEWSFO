@@ -1,8 +1,48 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-19T22:46:38.058146+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-20T11:22:33.376311+00:00",
   "news": [
+    {
+      "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
+      "summary": "Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With retail inflation and fluctuating oil prices in play, the Reserve Bank of India may entertain further rate hikes. Although benchmark Brent crude holds steady, it remains vulnerable to geopolitical shifts, prompting caution among traders as they await auction results.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
+      "published": "Fri, 20 Nov 2026 10:49:20 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+      "summary": "SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five business days. Additionally, KYC review cycles for applicable FPIs will be extended, reducing repetitive compliance activities.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
+      "published": "Fri, 20 Nov 2026 14:49:53 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Bonus Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-20-nov-2026/liveblog/136013270.cms",
+      "published": "Fri, 20 Nov 2026 10:00:52 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
+    },
+    {
+      "headline": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and  Maruti Suzuki feature in list",
+      "summary": "Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earnings season for Indian businesses in the September quarter, urging investors to weave these stocks into their financial strategies.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
+      "published": "Fri, 20 Nov 2026 09:01:23 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
+    },
     {
       "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
       "summary": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth creation.",
@@ -29,19 +69,19 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
       "published": "Thu, 19 Nov 2026 12:35:20 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "HDFCBANK"
     },
     {
-      "headline": "India bonds hold on to opening gains; moves in crude, Treasuries to stay main trigger",
-      "summary": "Indian government bonds have seen an uptick, supported by international buying activity, boosting bond prices positively. Early trading sessions showed minor fluctuations in the benchmark 6.94% 2036 bond yield. Meanwhile, US Treasury yields stabilized after recent volatility. Crude oil prices held firm, shaped by global supply and demand trends. Anticipation grows in Indian markets for a possible rate hike from the Reserve Bank of India in December.",
+      "headline": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+      "summary": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, utilities and financials.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hold-on-to-opening-gains-moves-in-crude-treasuries-to-stay-main-trigger/articleshow/135978286.cms",
-      "published": "Thu, 19 Nov 2026 10:41:46 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+      "published": "Fri, 20 Nov 2026 09:11:57 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "symbols": "TATAMOTORS"
     },
     {
       "headline": "Can AI demand drive further gains in PANW stock?",
@@ -49,6 +89,46 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-ai-demand-drive-further-gains-in-panw-stock/slideshow/135979684.cms",
       "published": "Thu, 19 Nov 2026 11:15:13 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
+      "summary": "The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish positions on the rupee, contributing to its recent gains. The Reserve Bank of India has taken measures to support the local currency amidst stabilization efforts.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
+      "published": "Fri, 20 Nov 2026 16:15:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "IndusInd Bank Share Price Live Updates: Grant Of Stock Options Under The Employee Stock Option Scheme Of The Bank",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-20-nov-2026/liveblog/136013258.cms",
+      "published": "Fri, 20 Nov 2026 10:00:24 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gold set for worst week since March as rate-hike expectations grow",
+      "summary": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate increase by the Federal Reserve in December. The President of the Chicago Fed underscored inflation concerns tied to artificial intelligence and energy supply disruptions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
+      "published": "Fri, 20 Nov 2026 07:15:04 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Stock Market Highlights: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
+      "published": "Fri, 20 Nov 2026 07:12:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -64,142 +144,62 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "AMD shares slide 8% as report says China links could invite US scrutiny",
-      "summary": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the presence of licensing revenue from two restricted Chinese entities adds another layer of difficulty for AMD as it strives to maintain competitiveness against Nvidia.",
+      "headline": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
+      "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuation and competitive threats added to investor caution.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
-      "published": "Thu, 19 Nov 2026 23:43:12 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
+      "published": "Fri, 20 Nov 2026 15:06:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
-      "summary": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a potential future interest in Japanese government bonds, as local investors may re-enter the market.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
-      "published": "Thu, 19 Nov 2026 21:31:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
-      "summary": "Walmart reported robust third-quarter sales figures, reflecting ongoing consumer demand for affordable shopping solutions. The retailer saw a significant surge in e-commerce sales, rising by 23%. With an emphasis on digital services and advertising, Walmart has effectively preserved its competitive advantage amid growing inflation concerns. Nonetheless, analysts express a cautious perspective regarding future sales forecasts, projecting a total sales growth of 4.9% to 5.2% for the fiscal year.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/walmart-raises-its-outlook-for-the-year-for-the-3rd-time-after-a-solid-quarter/articleshow/135997871.cms",
-      "published": "Thu, 19 Nov 2026 21:22:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
-      "summary": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were seen in firms like Palo Alto Networks. Overall, the market displayed a varied performance, reflecting ongoing uncertainties over the Federal Reserve's future rate strategies.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
-      "published": "Thu, 19 Nov 2026 20:47:37 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic IPO Highlights: US stocks tumble 2%, head for longest losing streak since 2024 despite strong Anthropic debut",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
-      "published": "Thu, 19 Nov 2026 18:41:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tiger-backed Razorpay set to file for India IPO as early as next week",
-      "summary": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
-      "published": "Thu, 19 Nov 2026 14:15:45 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Fund managers turn overweight on India, first such classification since Jan",
-      "summary": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global economy.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
-      "published": "Thu, 19 Nov 2026 20:32:14 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month",
-      "summary": "Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs on Thursday as Sensex rallied 990 points. Here's how these stocks have performed recently.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms",
-      "published": "Thu, 19 Nov 2026 17:56:29 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Star Health among 3 stocks showing RSI trending up",
-      "summary": "Three Nifty500 stocks that gained over 5% on November 18 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/star-health-among-3-stocks-showing-rsi-trending-up/slideshow/135977535.cms",
-      "published": "Thu, 19 Nov 2026 09:57:54 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BEL"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BSE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "PERSISTENT",
+      "price": 6124.0,
+      "change_pct": 4.15,
+      "setup_quality_score": 63.23,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T22:46:45.312015+00:00",
+      "chain_fetched_at_utc": "2026-11-20T11:22:41.478505+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "AXISBANK",
+      "price": 1446.0,
+      "change_pct": 4.72,
+      "setup_quality_score": 56.08,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T22:46:45.696003+00:00",
+      "chain_fetched_at_utc": "2026-11-20T11:22:41.882766+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "ADANIPOWER",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "HDFCBANK",
+      "price": 846.0,
+      "change_pct": 2.94,
+      "setup_quality_score": 55.47,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-19T22:46:46.079991+00:00",
+      "chain_fetched_at_utc": "2026-11-20T11:22:42.321624+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
