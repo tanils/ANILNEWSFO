@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-20T11:22:33.376311+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-20T13:31:12.544047+00:00",
   "news": [
     {
       "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
@@ -24,121 +24,11 @@
       "symbols": "BSE"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Bonus Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-20-nov-2026/liveblog/136013270.cms",
-      "published": "Fri, 20 Nov 2026 10:00:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and  Maruti Suzuki feature in list",
-      "summary": "Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earnings season for Indian businesses in the September quarter, urging investors to weave these stocks into their financial strategies.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
-      "published": "Fri, 20 Nov 2026 09:01:23 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
-      "summary": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth creation.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
-      "published": "Thu, 19 Nov 2026 21:29:26 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
-      "summary": "Indian government bonds exhibited volatility and ended little changed as market participants awaited interest rate cues. The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution. The steadying of US Treasury yields suggests increased investor absorption of tighter financial conditions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms",
-      "published": "Thu, 19 Nov 2026 18:00:52 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-      "summary": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
-      "published": "Thu, 19 Nov 2026 12:35:20 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
-      "summary": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, utilities and financials.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
-      "published": "Fri, 20 Nov 2026 09:11:57 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "TATAMOTORS"
-    },
-    {
-      "headline": "Can AI demand drive further gains in PANW stock?",
-      "summary": "Palo Alto Networks shares surged in after-hours trading after the cybersecurity firm reported better-than-expected fiscal Q1 2027 results, with revenue rising 39% year-on-year. The company also announced a $4.5 billion acquisition of AI startup Applied Compute and raised its full-year revenue guidance.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-ai-demand-drive-further-gains-in-panw-stock/slideshow/135979684.cms",
-      "published": "Thu, 19 Nov 2026 11:15:13 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
       "summary": "The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish positions on the rupee, contributing to its recent gains. The Reserve Bank of India has taken measures to support the local currency amidst stabilization efforts.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
       "published": "Fri, 20 Nov 2026 16:15:31 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "IndusInd Bank Share Price Live Updates: Grant Of Stock Options Under The Employee Stock Option Scheme Of The Bank",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-20-nov-2026/liveblog/136013258.cms",
-      "published": "Fri, 20 Nov 2026 10:00:24 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Gold set for worst week since March as rate-hike expectations grow",
-      "summary": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate increase by the Federal Reserve in December. The President of the Chicago Fed underscored inflation concerns tied to artificial intelligence and energy supply disruptions.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
-      "published": "Fri, 20 Nov 2026 07:15:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Stock Market Highlights: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
-      "published": "Fri, 20 Nov 2026 07:12:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Palo Alto's raised sales forecast powers rally in cybersecurity stocks",
-      "summary": "Palo Alto Networks recently announced its acquisition of AI startup Applied Compute for $4.5 billion. The company raised its annual forecast, which positively influenced various cybersecurity stocks. Investors are increasingly focused on cybersecurity due to the rise of AI-enabled cyberattacks and recent technology outages. Shares of other cybersecurity firms have surged in response to Palo Alto's optimistic outlook. The Nasdaq composite also enjoyed gains ahead of Anthropic's market debut.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks/articleshow/135997775.cms",
-      "published": "Thu, 19 Nov 2026 21:20:59 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -151,6 +41,76 @@
       "published": "Fri, 20 Nov 2026 15:06:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
+      "summary": "According to a new report, the appreciation of the Indian rupee could lead Indian IT companies to experience reduced earnings. The stronger rupee against foreign currencies may significantly impact profitability, especially for firms with substantial European exposure. As traditional cost-saving strategies grow scarce, maintaining margins will be a challenge, compounded by the current economic environment affecting pricing strategies in the industry.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
+      "published": "Fri, 20 Nov 2026 15:06:14 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "SELLAS Life Sciences shares plunge 19%: What triggered the sharp sell-off?",
+      "summary": "SELLAS Life Sciences shares plunged nearly 20% after the biotechnology company priced a $150 million public offering at $13 per share, a discount of around 28% to its previous close. The sell-off followed a sharp rally triggered by positive Phase 3 REGAL trial results for its experimental leukemia vaccine.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sellas-life-sciences-shares-plunge-19-what-triggered-the-sharp-sell-off/slideshow/136013890.cms",
+      "published": "Fri, 20 Nov 2026 10:17:39 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Indian finance hub eyes dual share model to kickstart public offers: Report",
+      "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market activity in GIFT City, which has faced challenges regarding limited primary market participation. One class of shares would be traded in rupees, while the other would be dollar-denominated, granting foreign investors easier access alongside reduced tax implications.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
+      "published": "Fri, 20 Nov 2026 13:02:59 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Who is Roaring Kitty? The man behind GameStop's meme rally",
+      "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 meme-stock rally and sparking fresh interest among retail investors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
+      "published": "Fri, 20 Nov 2026 12:20:28 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
+      "summary": "The Indian rupee has shown remarkable strength, breaking the 93 per dollar barrier for the first time since April. This positive shift was fueled by impressive foreign portfolio investments, exceeding $12 billion in November alone. Consequently, the rupee has left its Asian peers behind as it thrives against a strong dollar, all while navigating the Federal Reserve's anticipated hawkish stance, showcasing an encouraging signal for the Indian market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+      "published": "Fri, 20 Nov 2026 10:38:53 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee strengthens 17 paise to 93.15 against US dollar in early trade",
+      "summary": "Rupee gained 17 paise to trade at 93.15 against the US dollar in early trade on Friday. The appreciation was supported by strong foreign fund inflows into the domestic equity markets. Despite higher crude prices and negative stock market sentiment, the currency showed resilience. Analysts expect slight positive bias in rupee trading due to declining crude and gold prices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-strengthens-17-paise-to-93-15-against-us-dollar-in-early-trade/articleshow/136013858.cms",
+      "published": "Fri, 20 Nov 2026 10:24:03 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic shares close 17% higher on first day of trading amid protest, arrests outside Nasdaq",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms",
+      "published": "Fri, 20 Nov 2026 10:18:04 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -167,7 +127,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T11:22:41.478505+00:00",
+      "chain_fetched_at_utc": "2026-11-20T13:31:22.499036+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,29 +143,36 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T11:22:41.882766+00:00",
+      "chain_fetched_at_utc": "2026-11-20T13:31:23.049446+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": 846.0,
-      "change_pct": 2.94,
-      "setup_quality_score": 55.47,
+      "symbol": "MARUTI",
+      "price": 14011.0,
+      "change_pct": 3.11,
+      "setup_quality_score": 53.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-20T11:22:42.321624+00:00",
+      "chain_fetched_at_utc": "2026-11-20T13:31:23.636393+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [],
-  "ai_status": "NO_AI_AVAILABLE",
-  "available_models": []
+  "ai_analyses": [
+    {
+      "provider": "GROQ",
+      "analysis": "**DAILY MARKET REPORT — 20 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**NIFTY** – price ₹25,800.60, up +1.12 % from prior close. EMA‑20 ₹24,569, EMA‑50 ₹23,951, EMA‑200 ₹24,166 → price comfortably **above all EMAs**. RSI 90.7 % (over‑bought).  \n**BANK NIFTY** – price ₹64,635.20, up +2.49 % from prior close. EMA‑20 ₹59,551, EMA‑50 ₹57,701, EMA‑200 ₹57,192 → also **above all EMAs**. RSI 93.7 % (extremely over‑bought).  \n\n*Interpretation*: Both indices are in a **strong bullish bias** but showing classic over‑bought signals. Lack of volume data (reported as 0) prevents a clear view on participation strength. Given the recent macro‑catalysts (rupee strength, bond rally) the regime leans **bullish‑with‑caution** (possible short‑term pull‑back).\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| FACT (timestamp) | NEWS IMPACT | ANALYST / BROKER VIEW | MARKET INTERPRETATION |\n|------------------|------------|-----------------------|-----------------------|\n| **20 Nov 2026 10:49 IST** – Treasury rally spills over to Indian bonds (Economic Times) | Positive for fixed‑income, may ease funding pressures on corporates. | No specific broker comment in source. | Could support equity risk‑on sentiment as financing costs stay modest. |\n| **20 Nov 2026 14:49 IST** – SEBI to ease FPI constraints (Economic Times) | Improves foreign investor access → potential inflow boost. | No broker view supplied. | May underpin continued equity buying, especially in large‑cap stocks. |\n| **20 Nov 2026 16:15 IST** – Rupee climbs past 93/USD on $12 bn foreign equity inflows (Economic Times) | Stronger rupee reduces import‑cost pressure, but may hurt export‑oriented earnings. | No broker view supplied. | Signals fresh foreign capital into equities, reinforcing bullish bias. |\n\n*All three items are **new** (age ≤ 9 h) and classified as **catalyst** news.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n* No direct global data supplied in the evidence set (e.g., VIX, crude, DXY).  \n* The rupee’s appreciation is linked to “Federal Reserve’s anticipated hawkish stance” (news text) – suggests a **strong dollar** environment, yet the rupee is firm, indicating robust capital inflows.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n* SEBI’s forthcoming consultation paper (see above) aims to **simplify FPI onboarding** – a policy move that could increase foreign participation in Indian markets over the medium term.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price & technical) | News Impact | Interpretation |\n|--------|--------------------------|------------|----------------|\n| **PERSISTENT** | Price ₹6,124 (+4.15 %); EMA‑20 ₹5,937; RSI 55.0 % (source: yfinance, 13:31 UTC) | No specific news. | Momentum bullish, price above EMA‑20/50/200, but RSI neutral. |\n| **AXISBANK** | Price ₹1,446 (+4.72 %); EMA‑20 ₹1,316; RSI 86.6 % (source: yfinance, 13:31 UTC) | No specific news. | Strong price rise, RSI near over‑bought, volume 21.5 M (3.23× 20‑day avg). |\n| **MARUTI** | Price ₹14,011 (+3.11 %); EMA‑20 ₹12,575; RSI 84.0 % (source: yfinance, 13:31 UTC) | No specific news. | Clear bullish bias, high RSI, volume 1.65 M (2.64× avg). |\n\n*All three symbols appear in the **FNO candidate universe** with **setup‑quality scores** below the 90 / 100 “SUPER SETUP” threshold (63.2, 56.1, 53.7 respectively).*\n\n---\n\n### 6. RESULTS / EARNINGS  \n\n*No earnings releases are present in the supplied evidence for the listed candidates.*\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n- **Option‑chain data** for every candidate (NIFTY, BANKNIFTY, PERSISTENT, AXISBANK, MARUTI) is **unavailable** (`option_chain_available: false`, no expiry, OI, volume, or premium fields).  \n- **Data‑quality gate** therefore fails: critical fields (expiry, OI, change‑in‑OI, volume, LTP) are missing.  \n\n**Result:** **DATA INSUFFICIENT** to evaluate any F&O structure.\n\n---\n\n### 8. TECHNICAL SETUPS  \n\n| Symbol | Time‑frame | Key Indicators (from source) | Verdict |\n|--------|------------|------------------------------|---------|\n| **NIFTY** | Intraday / 1‑5 day swing | Price > EMA‑20/50/200, RSI 90.7 % (over‑bought) | Bullish but vulnerable to short‑term pull‑back. |\n| **BANKNIFTY** | Same | Price > EMA‑20/50/200, RSI 93.7 % (extremely over‑bought) | Similar bias; watch for corrective move. |\n| **AXISBANK** | Same | Price > EMA‑20/50/200, RSI 86.6 % (near over‑bought), volume 3.23× avg | Strong upward bias; watch for breakout confirmation. |\n| **PERSISTENT** | Same | Price > EMA‑20/50/200, RSI 55 % (neutral), volume 3.25× avg | Positive trend, but no over‑bought pressure. |\n| **MARUTI** | Same | Price > EMA‑20/50/200, RSI 84 % (high), volume 2.64× avg | Bullish, but high RSI suggests caution. |\n\n*All setups rely on **price vs EMA** and **RSI**; no single indicator is used in isolation.*\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n| Symbol | Reason (facts) |\n|--------|----------------|\n| **AXISBANK** | Price 4.72 % above prior close, above all EMAs, volume >3× avg, RSI 86.6 % (strong momentum). |\n| **PERSISTENT** | Price 4.15 % above prior close, above EMAs, volume >3× avg, RSI neutral (room to rise). |\n| **MARUTI** | Price 3.11 % above prior close, above EMAs, high volume, RSI 84 % (strong momentum). |\n\n*No F&O trade is recommended due to missing option data.*\n\n---\n\n### 10. BEARISH WATCHLIST  \n\n| Symbol | Reason (facts) |\n|--------|----------------|\n| **NIFTY** | RSI 90.7 % (extreme over‑bought) despite bullish EMAs; potential short‑term correction. |\n| **BANKNIFTY** | RSI 93.7 % (extreme over‑bought) with similar EMA picture; watch for pull‑back. |\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Asset | Trap Check | Priced‑In Assessment |\n|-------|------------|----------------------|\n| **NIFTY / BANKNIFTY** | No breakout volume; price rise may be **priced‑in** by the rupee strength and FPI inflows. | **PARTIALLY PRICED‑IN** – macro inflows support the rally, but over‑bought RSI suggests some risk of reversal. |\n| **AXISBANK** | No clear price‑action trap; high volume supports move. | **CANNOT DETERMINE** – insufficient news specific to the bank. |\n| **PERSISTENT / MARUTI** | No trap signals; price above EMAs with strong volume. | **CANNOT DETERMINE** – no catalyst to price‑in. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** No candidate meets the **≥ 90 / 100 setup‑quality score** *and* passes the **option‑chain data‑quality gate**.  \n\n**Conclusion:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*If future data provides a complete option chain (expiry, OI, volume, LTP) for any of the above symbols and the setup‑quality score rises to ≥ 90, a single high‑confidence CE/PE trade could be evaluated.*\n\n---\n\n### 13. POSITION / RISK  \n\n- **Capital available:** ₹25,000.  \n- **Proposed risk:** Not applicable (no trade).  \n- **Risk‑to‑capital guideline:** Any single trade should risk ≤ 10 % of capital (≈ ₹2,500).  \n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n- Missing option‑chain details (expiry, OI, volume, LTP).  \n- Setup‑quality scores below 90 / 100.  \n- Over‑bought RSI on indices without confirming breakout volume.  \n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian equity market is **bullish** on the back of a stronger rupee, foreign inflows, and easing FPI rules.  \n- **NIFTY** and **BANKNIFTY** are in over‑bought territory; watch for short‑term corrections.  \n- **AXISBANK**, **PERSISTENT**, and **MARUTI** show strong price‑above‑EMA momentum with solid volume, making them watchlist candidates.  \n- **Option‑chain data is unavailable**, preventing any qualified CE/PE trade.  \n- **Action:** Hold cash or existing positions, monitor for the release of a complete option chain and any new catalyst that could lift a candidate’s setup‑quality score above 90.  \n\n*Stay alert for updated OI/OI‑change, expiry, and premium information before initiating any F&O position.*"
+    }
+  ],
+  "ai_status": "SINGLE_AI_AVAILABLE",
+  "available_models": [
+    "GROQ"
+  ]
 }
