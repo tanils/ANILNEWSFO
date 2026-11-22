@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "night",
-  "generated_at_utc": "2026-11-21T21:11:56.599724+00:00",
+  "generated_at_utc": "2026-11-22T21:17:30.125719+00:00",
   "news": [
     {
       "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
@@ -29,7 +29,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
       "published": "Sat, 21 Nov 2026 12:51:34 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -39,6 +39,36 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
       "published": "Sat, 21 Nov 2026 11:39:54 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
+      "summary": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting was convened by the finance minister to explore strategies for restoring investor confidence. Among the discussed actions are temporary regulations on stock buyback limits for publicly listed companies.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
+      "published": "Sun, 22 Nov 2026 17:15:31 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+      "summary": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+      "published": "Sun, 22 Nov 2026 13:51:09 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+      "summary": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+      "published": "Sun, 22 Nov 2026 11:14:52 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -49,7 +79,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
       "published": "Sat, 21 Nov 2026 15:09:05 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -59,7 +89,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
       "published": "Sat, 21 Nov 2026 11:21:22 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -69,7 +99,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
       "published": "Sat, 21 Nov 2026 10:44:11 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -79,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
       "published": "Sat, 21 Nov 2026 10:42:07 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -89,7 +119,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-post-worst-week-in-over-a-year-as-ai-trade-unravels/articleshow/136045442.cms",
       "published": "Sat, 21 Nov 2026 10:38:46 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -104,52 +134,22 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Sebi proposes limiting tenure of chief executives, independent directors of stock exchanges, market infrastruction institutions",
-      "summary": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despite these proposed changes. SEBI is seeking public feedback on these recommendations by December 11.",
+      "headline": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+      "summary": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
-      "published": "Fri, 20 Nov 2026 20:39:36 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+      "published": "Sun, 22 Nov 2026 12:15:10 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
-      "summary": "Following a rocky market debut, Anthropic’s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks, putting pressure on major U.S. stock indexes. Despite some companies reporting strong earnings, investor anxiety persists over potential interest rate hikes by the Federal Reserve.",
+      "headline": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "summary": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
-      "published": "Fri, 20 Nov 2026 20:29:06 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
-      "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuation and competitive threats added to investor caution.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
-      "published": "Fri, 20 Nov 2026 15:06:25 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
-      "summary": "According to a new report, the appreciation of the Indian rupee could lead Indian IT companies to experience reduced earnings. The stronger rupee against foreign currencies may significantly impact profitability, especially for firms with substantial European exposure. As traditional cost-saving strategies grow scarce, maintaining margins will be a challenge, compounded by the current economic environment affecting pricing strategies in the industry.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
-      "published": "Fri, 20 Nov 2026 15:06:14 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "SELLAS Life Sciences shares plunge 19%: What triggered the sharp sell-off?",
-      "summary": "SELLAS Life Sciences shares plunged nearly 20% after the biotechnology company priced a $150 million public offering at $13 per share, a discount of around 28% to its previous close. The sell-off followed a sharp rally triggered by positive Phase 3 REGAL trial results for its experimental leukemia vaccine.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sellas-life-sciences-shares-plunge-19-what-triggered-the-sharp-sell-off/slideshow/136013890.cms",
-      "published": "Fri, 20 Nov 2026 10:17:39 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+      "published": "Sun, 22 Nov 2026 09:00:15 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     }
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-21T21:12:04.073841+00:00",
+      "chain_fetched_at_utc": "2026-11-22T21:17:39.248063+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-21T21:12:04.593159+00:00",
+      "chain_fetched_at_utc": "2026-11-22T21:17:39.656086+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-21T21:12:05.220153+00:00",
+      "chain_fetched_at_utc": "2026-11-22T21:17:40.051922+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
