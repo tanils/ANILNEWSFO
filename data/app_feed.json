@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-23T18:42:52.440474+00:00",
+  "generated_at_utc": "2026-11-23T19:29:18.491663+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -137,7 +137,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T18:43:02.162250+00:00",
+      "chain_fetched_at_utc": "2026-11-23T19:29:25.595263+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -153,7 +153,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T18:43:02.958295+00:00",
+      "chain_fetched_at_utc": "2026-11-23T19:29:25.962797+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -169,20 +169,13 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T18:43:03.603681+00:00",
+      "chain_fetched_at_utc": "2026-11-23T19:29:26.387274+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 23 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**FACT** – NIFTY closed ≈ 25 800 (previous close 25 800.60) and BANK NIFTY closed ≈ 64 635 (previous close 64 635.20).  \n**TECHNICAL** – Both indices are trading **below** their 20‑day EMA (NIFTY EMA20 ≈ 24 569, BANK NIFTY EMA20 ≈ 59 551) and **below** their 50‑day EMA. The 20‑day EMA is also below the 200‑day EMA for both indices, indicating a **medium‑term bearish bias**.  \n**VOLUME** – No volume data supplied for the indices (volume = 0).  \n**MARKET INTERPRETATION** – With price under EMA20/50/200 and no volume confirmation, the regime leans **bearish‑to‑range‑bound**. Absence of a clear breakout or breakdown suggests caution.\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| # | HEADLINE (source) | TIMESTAMP (IST) | CATALYST TYPE | **NEWS IMPACT** (summary) |\n|---|-------------------|-----------------|---------------|---------------------------|\n| 1 | *India bonds give up marginal opening gains as profit booking takes over* | 12:46 IST | Macro‑bond market | Profit‑taking and a weaker rupee pushed 6.94 % 2036 bond yield up to **7.2185 %**. |\n| 2 | *Rupee reversal, debt supply drag India bonds in holiday‑shortened week* | 18:37 IST | FX / Macro | Rupee fell 0.3 % after a brief rally; debt‑supply concerns from state bond auction. |\n| 3 | *Rupee retreats with stocks as rally takes a breather, positive bias lingers* | 15:58 IST | FX / Sentiment | Rupee settled at **92.91**/USD after a five‑day rise; profit‑taking in equities noted. |\n| 4 | *The great Indian stock market comeback. Can the rally sustain…* | 12:09 IST | Market sentiment | Indian equities rallied **9.7 %** in eight sessions, reversing a prior downtrend. |\n| 5 | *NSEL releases Rs 1,950 cr in one‑time settlement, ends 14‑year default* | 18:43 IST | Corporate / Legal | Settlement may lift sentiment in financial‑services space. |\n\n*No single news item directly targets any of the listed F&O candidates (RELIANCE, HDFCBANK, ICICIBANK, etc.).*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n| FACT | SOURCE |\n|------|--------|\n| US equity indices surged (Nasdaq + 6 %, S&P + 5 %, Dow + 3.5 %) after Nvidia’s CEO return. | Economic Times (18:42 IST) |\n| German 10‑yr bond yields rose 2 bp as equity rebound reduced safe‑haven demand. | Economic Times (15:25 IST) |\n| Brent crude ≈ $92 /barrel, keeping inflation pressure on India. | Economic Times (18:37 IST) |\n\n**INTERPRETATION** – Global risk‑on bias may support Indian equity rally, but domestic rupee weakness and bond‑yield pressure counterbalance it.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n* No policy‑driven announcements (e.g., RBI rate decision) were released today. The next RBI meeting is scheduled for **4 Dec 2026** (mentioned in bond‑market article).  \n\n**IMPACT** – Market participants are awaiting the RBI decision; current positioning remains tentative.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| SECTOR | FACT | IMPACT |\n|--------|------|--------|\n| Aviation | *Adani Airport* raised **USD 300 mn** equity infusion. | Positive for airport‑related stocks, but no F&O contracts for ADANIPORTS are in the candidate list. |\n| Financial Services | NSEL settlement of **Rs 1,950 cr** ends long‑standing default. | May improve sentiment for NBFCs and banks, but no concrete price move evidence. |\n| Energy / Metals | No specific news for listed stocks (LT, TATAMOTORS, etc.) today. |\n\n---\n\n### 6. RESULTS / EARNINGS  \n\n*No earnings releases for the candidate universe were reported in the supplied feed.*\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n| SYMBOL | OPTION‑CHAIN AVAILABLE? | EXPIRY | CALL OI / ΔOI | PUT OI / ΔOI | VOLUME | LIQUIDITY | **DATA QUALITY** |\n|--------|--------------------------|--------|--------------|-------------|--------|-----------|-------------------|\n| RELIANCE | **No** (source = unavailable) | – | – | – | – | – | **INSUFFICIENT** |\n| HDFCBANK | **No** (source = unavailable) | – | – | – | – | – | **INSUFFICIENT** |\n| ICICIBANK | **No** (source = unavailable) | – | – | – | – | – | **INSUFFICIENT** |\n| NIFTY | **No** (source = unavailable) | – | – | – | – | – | **INSUFFICIENT** |\n| BANK NIFTY | **No** (source = unavailable) | – | – | – | – | – | **INSUFFICIENT** |\n\n*All critical fields (expiry, OI, volume, LTP, bid‑ask) are missing. Therefore the data‑quality gate fails for every candidate.*\n\n---\n\n### 8. TECHNICAL SETUPS (price‑action limited)\n\n| SYMBOL | EMA20 | EMA50 | EMA200 | PREV DAY HIGH | PREV DAY LOW | VOLUME vs 20‑d avg |\n|--------|-------|-------|--------|---------------|--------------|--------------------|\n| RELIANCE | 1308.67 | 1274.75 | 1325.88 | 1383.0 | 1356.10 | 0.73 |\n| HDFCBANK | 777.19 | 748.94 | 788.65 | 850.35 | 815.50 | 1.43 |\n| ICICIBANK | 1524.59 | 1454.37 | 1389.96 | 1645.0 | 1600.90 | 1.34 |\n| NIFTY | 24569.11 | 23951.0 | 24146.19 | 25808.80 | 25345.20 | 0 |\n| BANK NIFTY | 59551.07 | 57700.65 | 57148.15 | 64680.80 | 62598.55 | 0 |\n\n**INTERPRETATION** – All three stocks are **below** EMA20 and EMA50, suggesting short‑term weakness. However, without current spot prices we cannot confirm a breakout or breakdown. Volume for HDFCBANK and ICICIBANK is above the 20‑day average, indicating decent participation, but no price level is available.\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n| SYMBOL | REASON (FACT‑based) |\n|--------|---------------------|\n| HDFCBANK | Volume > 1.4× 20‑day avg; EMA20 ≈ 777 vs. previous close ≈ 846 (price above EMA20, indicating possible short‑term bounce). |\n| ICICIBANK | Volume > 1.3× 20‑day avg; price (previous close ≈ 1640) **above** EMA20 (1524) – potential support. |\n| NIFTY | Recent 9.7 % rally over eight sessions (news) may provide upside bias, but price is below EMA20. |\n\n*No qualified option contracts; watch for price‑action confirmation.*\n\n---\n\n### 10. BEARISH WATCHLIST  \n\n| SYMBOL | REASON (FACT‑based) |\n|--------|---------------------|\n| RELIANCE | Price (previous close ≈ 1377.5) **below** EMA20 (1308) and EMA200 (1325) – bearish pressure. |\n| NIFTY & BANK NIFTY | Both indices trading below EMA20/50/200; no volume support. |\n| All candidates | Lack of option‑chain data prevents concrete directional bets. |\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| ASSET | PRICED‑IN STATUS | REASON |\n|-------|------------------|--------|\n| NIFTY | **PARTIALLY PRICED‑IN** | Rally news (9.7 % gain) reflected in recent price, but current price still below EMA20, indicating incomplete absorption. |\n| RELIANCE | **CANNOT DETERMINE** | No current price; OI/IV data missing. |\n| HDFCBANK / ICICIBANK | **CANNOT DETERMINE** | Same data gaps. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*All candidate symbols lack a usable option chain (expiry, OI, volume, LTP, bid‑ask). The data‑quality gate is not satisfied, so no trade can be recommended under the strict rules.*\n\n---\n\n### 13. POSITION / RISK  \n\n| ITEM | COMMENT |\n|------|---------|\n| Capital | ₹25,000 |\n| Max‑loss per trade (rule) | ≤ ₹5,000 (20 % of capital) – not applicable as no trade is recommended. |\n| Risk‑reward | N/A |\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n- **Missing critical option‑chain fields** (expiry, OI, volume, LTP) for every candidate → **DATA INSUFFICIENT**.  \n- **No triggerable entry price** (spot price not supplied).  \n- **Setup‑quality scores** are `NaN`; none reach the required **≥ 90/100** threshold.  \n\nHence, the system must refrain from opening any position.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian equity market shows a **bearish‑to‑range‑bound** technical backdrop (prices under EMA20/50/200).  \n- Macro‑level catalysts (bond‑yield rise, rupee weakness, global equity rally) are mixed; no single driver dominates.  \n- **Option‑chain data is unavailable** for all top‑ranked candidates (RELIANCE, HDFCBANK, ICICIBANK) and for the indices. This violates the mandatory data‑quality gate.  \n- Consequently, **no qualified CE/PE trade** can be constructed today.  \n- Traders should **monitor price action** around the EMA levels and wait for a clear entry trigger (e.g., a break above EMA20 on strong volume) **and** for a complete option‑chain snapshot before taking a position.\n\n*Stay disciplined, protect capital, and await a fully qualified setup.*"
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
