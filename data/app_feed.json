@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-23T12:15:03.169551+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-23T15:14:36.235829+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -14,62 +14,12 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee could rise to 91.50/$ on equity inflows, says HDFC Bank's treasury head",
-      "summary": "The Indian rupee is experiencing a noteworthy appreciation, fueled by solid equity investment and lesser geopolitical uncertainties. Experts foresee further strengthening, potentially reaching 91.50 against the US dollar. A rate hike by the Reserve Bank of India is on the horizon, influenced by climbing inflation. Bond yields are likewise projected to increase moderately due to tighter liquidity.",
+      "headline": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
+      "summary": "The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company Law Tribunal, buoyed by considerable backing from claimants.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms",
-      "published": "Mon, 23 Nov 2026 08:50:47 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
+      "published": "Mon, 23 Nov 2026 18:43:56 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "HDFC Bank among 5 stocks showing White Marubozu pattern",
-      "summary": "Five Nifty200 stocks featured in StockEdge’s White Marubozu bullish scanner on November 23, indicating strong buying momentum during the session, with prices moving higher from the opening level to the close.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-among-5-stocks-showing-white-marubozu-pattern/slideshow/136087788.cms",
-      "published": "Mon, 23 Nov 2026 08:25:27 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
-    },
-    {
-      "headline": "Stock Market Highlight: Sensex crashes 1,484 pts, Nifty ends below 25,350; Axis Bank slides 4%, Hindalco 3%",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-adani-energy-share-price-23-november-2026/liveblog/136086783.cms",
-      "published": "Mon, 23 Nov 2026 07:13:21 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK, BEL"
-    },
-    {
-      "headline": "South Korean shares slump nearly 3% on AI-driven tech selloff despite policy pledge",
-      "summary": "South Korean shares fell approximately 3% on Monday amid government efforts to stabilize the market. The KOSPI index dropped to its lowest level since January, raising investor concerns. Major technology stocks, including Samsung Electronics and SK Hynix, experienced significant losses during this decline. Authorities pledged to use stabilization funds but faced skepticism from investors regarding future returns. This situation reflects broader doubts about AI investments affecting global technology stocks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-slump-nearly-3-on-ai-driven-tech-selloff-despite-policy-pledge/articleshow/136086822.cms",
-      "published": "Mon, 23 Nov 2026 07:28:25 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
-      "summary": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability highlighted a broadening earnings recovery across market capitalisations and sectors.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
-      "published": "Sat, 21 Nov 2026 12:51:34 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
-      "summary": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investors should approach government bonds with caution due to elevated yields and inflation worries.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
-      "published": "Sat, 21 Nov 2026 11:39:54 +0530",
-      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -94,63 +44,83 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
-      "summary": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting was convened by the finance minister to explore strategies for restoring investor confidence. Among the discussed actions are temporary regulations on stock buyback limits for publicly listed companies.",
+      "headline": "Rupee reversal, debt supply drag India bonds in holiday-shortened week",
+      "summary": "Indian government bonds fell after the rupee lost its positive momentum against the dollar on Monday. A recent debt sale raised concerns about supply when the Indian states auctioned bonds at higher yields. The rupee also ended down 0.3%, reflecting increased dollar demand from large corporations. Benchmark Brent crude oil prices remained close to $92 a barrel, raising inflation concerns in India.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
-      "published": "Sun, 22 Nov 2026 17:15:31 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rupee-reversal-debt-supply-drag-india-bonds-in-holiday-shortened-week/articleshow/136103987.cms",
+      "published": "Mon, 23 Nov 2026 18:37:06 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Why gold’s five-year winning streak is under threat after dramatic selloff",
-      "summary": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+      "headline": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
+      "summary": "After a five-day rise, the Indian rupee faced a setback on Monday, driven by heightened dollar demand from major corporations. This shift in momentum was compounded by profit-taking activities. The rupee settled at 92.91 against the dollar, following a peak of 92.44. Additionally, underwhelming local stock performance fueled a bearish outlook for the rupee. Nevertheless, analysts predict a sustained positive sentiment towards stocks and currencies amid ongoing evaluations.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
-      "published": "Sun, 22 Nov 2026 13:51:09 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms",
+      "published": "Mon, 23 Nov 2026 15:58:38 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
-      "summary": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+      "headline": "German bond yields edge higher as equity rebound eases safe-haven demand",
+      "summary": "Germany's government bond yields increased marginally on Monday as equity markets began to rebound, leading to diminished interest in safe-haven assets. In the wake of a difficult week for stocks, investors indicated a readiness to engage with riskier assets. The yield on 10-year German bonds rose by 2 basis points, signaling a fall in bond prices.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
-      "published": "Sun, 22 Nov 2026 11:14:52 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/german-bond-yields-edge-higher-as-equity-rebound-eases-safe-haven-demand/articleshow/136097404.cms",
+      "published": "Mon, 23 Nov 2026 15:25:49 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
-      "summary": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
+      "headline": "Nasdaq soars 7% as Jensen Huang's return lifts Nvidia, US market: Stock Market Live Updates",
+      "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
-      "published": "Sat, 21 Nov 2026 15:09:05 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
+      "published": "Mon, 23 Nov 2026 18:42:48 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
-      "summary": "Max Healthcare, Deepak Fertilisers and Blue Star led Nifty 500 weekly gainers, surging 14.14%, 13.90% and 12.84%, respectively. Ten stocks outperformed the broader index, which gained 1.5%, highlighting strong momentum across healthcare, banking, real estate and other sectors.",
+      "headline": "Adani Airport raises $300 mn from 360 ONE Asset, taking total equity infusion to $1.35 bn",
+      "summary": "Adani Airport Holdings Ltd will raise USD 300 million to enhance its presence in India's aviation sector. This investment will contribute to its target of increasing passenger capacity from 96 million to 200 million. The company operates eight airports, handling about 95.3 million passengers in the last fiscal year. The funds will support modernizing existing infrastructure and developing airport cities for commercial activities.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
-      "published": "Sat, 21 Nov 2026 11:21:22 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-airport-raises-300-mn-from-360-one-asset-taking-total-equity-infusion-to-1-35-bn/articleshow/136104118.cms",
+      "published": "Mon, 23 Nov 2026 18:41:12 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-      "summary": "Gold prices plummeted by 3% on Friday, settling at a 14-month low of $3,502.49 per ounce. This sharp decline is largely due to a hawkish interest rate forecast and a significant selloff within AI stocks. Analysts point to forced liquidations of gold holdings as a factor, alongside increasing expectations of US borrowing costs, contributing to the commodity's bearish trend this week.",
+      "headline": "Nasdaq futures surge 3% as battered AI stocks gain ground",
+      "summary": "US stock futures showed a significant rebound on Monday after sharp declines in recent weeks. Investor interest is returning to AI-linked stocks following corrected valuations in the market. Chip stocks led this recovery, with major companies like Nvidia and AMD experiencing notable gains. Analysts remain cautious about confirming a sustainable recovery amid pervasive market concerns.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
-      "published": "Sat, 21 Nov 2026 10:44:11 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-surge-3-as-battered-ai-stocks-gain-ground/articleshow/136104059.cms",
+      "published": "Mon, 23 Nov 2026 18:39:42 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee retreats, Goldman calls it a 'port of stability' in AI storm",
+      "summary": "The Indian rupee initially rose to a seven-month high before retreating amid corporate dollar buying. It is on track for a monthly gain of over 2%, bolstered by significant foreign investment in Indian equities. Analysts noted that the rupee's early gains pushed it into overbought territory, prompting some selling. Despite recent fluctuations, the rupee has remained stable compared to other major currencies.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-goldman-calls-it-a-port-of-stability-in-ai-storm/articleshow/136092977.cms",
+      "published": "Mon, 23 Nov 2026 12:39:49 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Global Markets: 5 key triggers to watch this week",
+      "summary": "Global markets will track five key triggers this week, from Black Friday spending and ECB leadership changes to Asian inflation data, South Korea’s rate decision and business activity.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-triggers-to-watch-this-week/slideshow/136091589.cms",
+      "published": "Mon, 23 Nov 2026 11:14:38 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -167,7 +137,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T12:15:12.018024+00:00",
+      "chain_fetched_at_utc": "2026-11-23T15:14:45.614525+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -176,14 +146,14 @@
       "symbol": "PERSISTENT",
       "price": 6282.5,
       "change_pct": 2.59,
-      "setup_quality_score": 62.19,
+      "setup_quality_score": 57.69,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T12:15:12.908318+00:00",
+      "chain_fetched_at_utc": "2026-11-23T15:14:46.129714+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,13 +169,20 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T12:15:13.830431+00:00",
+      "chain_fetched_at_utc": "2026-11-23T15:14:46.552511+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [],
-  "ai_status": "NO_AI_AVAILABLE",
-  "available_models": []
+  "ai_analyses": [
+    {
+      "provider": "GROQ",
+      "analysis": "**DAILY MARKET REPORT — 23 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**NIFTY** – 25 349.65 (‑1.75 %)  \n- EMA‑20 = 24 643.44, EMA‑50 = 24 005.85, EMA‑200 = 24 158.17  \n- RSI‑14 = 77.9 (over‑bought)  \n- ATR‑14 = 371.86  \n\n**BANKNIFTY** – 62 585.35 (‑3.17 %)  \n- EMA‑20 = 59 840.05, EMA‑50 = 57 892.21, EMA‑200 = 57 202.25  \n- RSI‑14 = 78.9 (strongly over‑bought)  \n- ATR‑14 = 1 231.29  \n\nBoth major indices are **bearish‑biased** on the day, trading below their short‑term EMAs with very high RSI values, indicating a possible short‑term pull‑back. Volume data for the indices is unavailable, so the strength of the move cannot be confirmed on that front.\n\n---\n\n### 2. TOP CURRENT CATALYSTS (news items)\n\n| # | Headline (source) | Timestamp (IST) | **FACT** (what happened) | **NEWS IMPACT** (directional bias) |\n|---|-------------------|-----------------|--------------------------|-------------------------------------|\n| 1 | *India bonds give up marginal opening gains as profit booking takes over* | 12:46 am | Govt‑bond yields rose to 7.2185 % (6.94 % 2036 bond) after profit‑booking and rupee weakness. | Slightly **bearish** for risk assets (higher yields = higher cost of capital). |\n| 2 | *Rupee retreats with stocks as rally takes a breather, positive bias lingers* | 03:58 pm | Rupee fell to 92.91/USD after a 5‑day rise; stocks under‑performed. | **Neutral‑to‑bearish** for equities; profit‑taking evident. |\n| 3 | *The great Indian stock market comeback. Can the rally sustain…* | 12:09 am | Indian equities rallied ≈ 9.7 % over eight sessions, reversing a prior slump. | **Bullish** sentiment but recent pull‑back suggests the rally may be pausing. |\n| 4 | *Rupee reversal, debt supply drag India bonds in holiday‑shortened week* | 06:37 pm | Rupee down 0.3 %; bond supply concerns after state auction. | **Bearish** pressure on equities via currency and yield stress. |\n| 5 | *NSEL releases Rs 1,950 crn one‑time settlement* | 06:44 pm | Settlement ends 14‑yr default; no direct equity impact. | **Neutral**. |\n\n*No single catalyst directly targets any of the listed F&O stocks or indices.*\n\n---\n\n### 3. GLOBAL / MACRO  \n- US equity markets (Nasdaq) showed a 7 % surge on AI‑related news, but the effect on Indian markets is limited at present.  \n- German 10‑yr yields rose modestly, indicating a slight shift away from safe‑haven assets globally.  \n- Crude oil ≈ $92 /barrel, keeping inflation concerns alive for India.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n- RBI’s next policy meeting is scheduled for **4 Dec 2026**; markets are awaiting the decision, adding a near‑term “event‑driven” overlay.  \n- No new fiscal measures announced today.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n- No earnings, results, or sector‑specific announcements for the **F&O candidate universe** (RELIANCE, HDFCBANK, etc.) were present in the supplied feed.  \n\n---\n\n### 6. RESULTS / EARNINGS  \n- None reported in the current data set.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n| Symbol | Option‑chain data | **OI / ΔOI** | **Volume** | **Liquidity** | **Setup‑quality score** |\n|--------|-------------------|-------------|------------|---------------|--------------------------|\n| TATASTEEL | **Unavailable** (expiry = null, source = unavailable) | – | – | – | 69.0 |\n| PERSISTENT | **Unavailable** | – | – | – | 57.69 |\n| TCS | **Unavailable** | – | – | – | 51.26 |\n| NIFTY | **Unavailable** | – | – | – | – |\n| BANKNIFTY | **Unavailable** | – | – | – | – |\n\n*All critical fields required for a qualified F&O trade (expiry, OI, change‑in‑OI, volume, bid‑ask spread, IV) are missing.*  \n**Data‑quality status:** **⚪ DATA INSUFFICIENT** for every candidate.\n\n---\n\n### 8. TECHNICAL SETUPS (spot‑price only)\n\n| Symbol | Price | EMA‑20 | EMA‑50 | EMA‑200 | RSI | ATR | Recent trend |\n|--------|-------|--------|--------|---------|-----|-----|--------------|\n| **TATASTEEL** | 163.0 | 178.46 | 179.87 | 185.39 | 34.58 (near‑oversold) | 5.97 | **‑8.43 %** drop, price below all EMAs – bearish momentum, but RSI suggests possible short‑term bounce. |\n| **PERSISTENT** | 6 282.5 | 5 969.6 | 5 796.45 | 5 581.38 | 62.67 | 157.71 | **+2.59 %** up, price above EMAs – bullish bias, volume 2.1× 20‑day avg. |\n| **TCS** | 2 460.0 | 2 414.63 | 2 361.55 | 2 446.61 | 44.85 | 67.30 | **+3.53 %** up, price above EMA‑20/50, below EMA‑200 – mixed. |\n| **NIFTY** | 25 349.65 | 24 643.44 | 24 005.85 | 24 158.17 | 77.75 | 371.86 | **‑1.75 %** below EMA‑20/50, over‑bought RSI. |\n| **BANKNIFTY** | 62 585.35 | 59 840.05 | 57 892.21 | 57 202.25 | 78.9 | 1 231.29 | **‑3.17 %** below EMAs, over‑bought RSI. |\n\nNo confluence of price‑action, volume, and technicals points to a clear short‑term breakout or breakdown that can be safely captured with a defined option contract.\n\n---\n\n### 9. BULLISH WATCHLIST  \n- **PERSISTENT** – price above short‑term EMAs, volume > 2× 20‑day avg, RSI 62 (still room to rise).  \n- **TCS** – price above EMA‑20/50, moderate volume, RSI 44 (neutral).  \n\n*Note: No option‑chain data, so these remain **watch‑only**.*\n\n### 10. BEARISH WATCHLIST  \n- **TATASTEEL** – sharp 8 % fall, price well under all EMAs, RSI 34 (oversold but could trigger a short‑cover rally).  \n- **NIFTY / BANKNIFTY** – both trading below short‑term EMAs with very high RSI, indicating possible short‑term pull‑back.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Asset | Priced‑in assessment (based on supplied evidence) |\n|-------|---------------------------------------------------|\n| NIFTY / BANKNIFTY | **PARTIALLY PRICED‑IN** – over‑bought RSI suggests some of the recent weakness may already be reflected, but lack of volume data prevents a firm conclusion. |\n| TATASTEEL | **POTENTIALLY PRICED‑IN** – 8 % drop may have already absorbed negative sentiment; RSI near oversold could spark a short‑term bounce. |\n| PERSISTENT | **CANNOT DETERMINE** – limited news, no OI data. |\n| TCS | **CANNOT DETERMINE** – mixed technicals, no OI. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*Reasoning:*  \n- All candidate option chains are **unavailable** (expiry, OI, volume, bid‑ask spread missing).  \n- The highest setup‑quality score (TATASTEEL = 69) is **well below** the required **90/100** “SUPER SETUP” threshold.  \n- Without OI/ΔOI, volume, and liquidity evidence, a triggerable entry cannot be defined, nor can a risk‑managed stop/target be set.  \n\nHence, per the hard rules, the system must issue a **NO‑TRADE** recommendation.\n\n---\n\n### 13. POSITION / RISK  \n- No position taken.  \n- Capital of **₹25,000** remains fully unallocated.\n\n---\n\n### 14. NO‑TRADE CONDITIONS (summary)  \n\n| Condition | Status |\n|-----------|--------|\n| Spot timestamp present – **YES** | |\n| Option‑chain timestamp – **NO** (null) | |\n| Option LTP – **NO** | |\n| Expiry – **NO** | |\n| Call/Put OI & ΔOI – **NO** | |\n| Volume (option) – **NO** | |\n| Liquidity (bid‑ask) – **NO** | |\n| News catalyst aligned with price‑action & OI – **PARTIAL** (macro news only) | |\n| Setup‑quality ≥ 90 – **NO** (max 69) | |\n| Exact entry trigger defined – **NO** | |\n| Exact invalidation level defined – **NO** | |\n\nBecause multiple critical fields are missing, the setup fails the **Data‑Quality Gate** and the **Super‑Setup** threshold.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian market today shows a **bearish‑biased short‑term regime** on both NIFTY and BANKNIFTY, with over‑bought RSI levels and prices below short‑term EMAs.  \n- Macro news (bond yields, rupee weakness, profit‑taking) adds **downward pressure** on risk assets.  \n- Among the listed stocks, **TATASTEEL** has the strongest technical reversal signal but lacks any option‑chain data; its setup quality (69) is insufficient for a qualified trade.  \n- **All option‑chain information is unavailable**, making it impossible to verify OI, volume, or liquidity – the essential pillars for a disciplined F&O entry.  \n\n**Action:** Stay on the watchlist for the above bullish/bearish candidates. Re‑evaluate when a complete option‑chain (expiry, OI, volume, price) becomes available and when a catalyst aligns with a clear, triggerable price action. Until then, **no trade is recommended**."
+    }
+  ],
+  "ai_status": "SINGLE_AI_AVAILABLE",
+  "available_models": [
+    "GROQ"
+  ]
 }
