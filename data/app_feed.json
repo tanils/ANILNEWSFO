@@ -1,27 +1,57 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-22T21:17:30.125719+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-23T12:15:03.169551+00:00",
   "news": [
     {
-      "headline": "Treasury rally spills over to Indian bonds, debt supply slows move",
-      "summary": "Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With retail inflation and fluctuating oil prices in play, the Reserve Bank of India may entertain further rate hikes. Although benchmark Brent crude holds steady, it remains vulnerable to geopolitical shifts, prompting caution among traders as they await auction results.",
+      "headline": "India bonds give up marginal opening gains as profit booking takes over",
+      "summary": "Indian government bonds fell after initial gains due to profit booking by traders and a sharp rupee decline. The benchmark yield of the 6.94% 2036 bond increased to 7.2185% during trading hours. Last week, the yield had dropped significantly due to lower US Treasury yields and a stronger rupee. Investors now focus on the upcoming Reserve Bank of India's policy decision on December 4.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
-      "published": "Fri, 20 Nov 2026 10:49:20 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
+      "published": "Mon, 23 Nov 2026 12:46:54 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
-      "summary": "SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five business days. Additionally, KYC review cycles for applicable FPIs will be extended, reducing repetitive compliance activities.",
+      "headline": "Rupee could rise to 91.50/$ on equity inflows, says HDFC Bank's treasury head",
+      "summary": "The Indian rupee is experiencing a noteworthy appreciation, fueled by solid equity investment and lesser geopolitical uncertainties. Experts foresee further strengthening, potentially reaching 91.50 against the US dollar. A rate hike by the Reserve Bank of India is on the horizon, influenced by climbing inflation. Bond yields are likewise projected to increase moderately due to tighter liquidity.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
-      "published": "Fri, 20 Nov 2026 14:49:53 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms",
+      "published": "Mon, 23 Nov 2026 08:50:47 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "HDFC Bank among 5 stocks showing White Marubozu pattern",
+      "summary": "Five Nifty200 stocks featured in StockEdge’s White Marubozu bullish scanner on November 23, indicating strong buying momentum during the session, with prices moving higher from the opening level to the close.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-among-5-stocks-showing-white-marubozu-pattern/slideshow/136087788.cms",
+      "published": "Mon, 23 Nov 2026 08:25:27 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Stock Market Highlight: Sensex crashes 1,484 pts, Nifty ends below 25,350; Axis Bank slides 4%, Hindalco 3%",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-adani-energy-share-price-23-november-2026/liveblog/136086783.cms",
+      "published": "Mon, 23 Nov 2026 07:13:21 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "AXISBANK, BEL"
+    },
+    {
+      "headline": "South Korean shares slump nearly 3% on AI-driven tech selloff despite policy pledge",
+      "summary": "South Korean shares fell approximately 3% on Monday amid government efforts to stabilize the market. The KOSPI index dropped to its lowest level since January, raising investor concerns. Major technology stocks, including Samsung Electronics and SK Hynix, experienced significant losses during this decline. Authorities pledged to use stabilization funds but faced skepticism from investors regarding future returns. This situation reflects broader doubts about AI investments affecting global technology stocks.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-slump-nearly-3-on-ai-driven-tech-selloff-despite-policy-pledge/articleshow/136086822.cms",
+      "published": "Mon, 23 Nov 2026 07:28:25 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
@@ -44,12 +74,32 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "The great Indian stock market comeback. Can the rally sustain and what should investors do?",
+      "summary": "Indian equities staged a sharp 9.7% rally in eight sessions through November 12, reversing months of underperformance. A sell-off in US AI stocks, triggered by Republican losses in the midterm elections and fears of tighter AI regulation, spilled across global technology markets. Earlier, foreign investor outflows, elevated crude prices and rupee weakness had weighed heavily on Dalal Street sentiment.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-great-indian-stock-market-comeback-can-the-rally-sustain-and-what-should-investors-do/articleshow/136092236.cms",
+      "published": "Mon, 23 Nov 2026 12:09:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why is SanDisk stock falling? 5 factors weighing on shares",
+      "summary": "SanDisk shares plunged amid a broad semiconductor sell-off, with falling NAND price forecasts, weaker storage orders from Chinese cloud companies and concerns over AI spending weighing on sentiment. The stock has lost more than half its value over 30 trading sessions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-5-factors-weighing-on-shares/slideshow/136091195.cms",
+      "published": "Mon, 23 Nov 2026 11:11:26 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
       "summary": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting was convened by the finance minister to explore strategies for restoring investor confidence. Among the discussed actions are temporary regulations on stock buyback limits for publicly listed companies.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
       "published": "Sun, 22 Nov 2026 17:15:31 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -59,7 +109,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
       "published": "Sun, 22 Nov 2026 13:51:09 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -69,7 +119,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
       "published": "Sun, 22 Nov 2026 11:14:52 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -102,104 +152,54 @@
       "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "UK stocks sink as global selloff weighs on banks and miners",
-      "summary": "UK stocks experienced significant declines on Friday, resulting from a global market selloff linked to AI valuations. The FTSE 100 index closed at a five-month low, influenced by sharp declines in banking and mining stocks. Despite stronger-than-expected UK retail sales, declines in sectors outweighed positive news. Defensive consumer companies offered some support amid broader financial concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
-      "published": "Sat, 21 Nov 2026 10:42:07 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "European shares post worst week in over a year as AI trade unravels",
-      "summary": "European shares declined sharply, reflecting deeper worries about the sustainability of AI-related investments and overall economic growth. Concerns intensified after Anthropic's initial public offering did not restore confidence in the tech sector. The overall market decline affected various sectors, including cyclical stocks and semiconductor companies, due to profit-taking by investors. Despite recent losses, the STOXX 600 index remains up year-to-date, surpassing the performance of the S&amp;P 500.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-post-worst-week-in-over-a-year-as-ai-trade-unravels/articleshow/136045442.cms",
-      "published": "Sat, 21 Nov 2026 10:38:46 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
-      "summary": "The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish positions on the rupee, contributing to its recent gains. The Reserve Bank of India has taken measures to support the local currency amidst stabilization efforts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
-      "published": "Fri, 20 Nov 2026 16:15:31 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
-      "summary": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
-      "published": "Sun, 22 Nov 2026 12:15:10 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "summary": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
-      "published": "Sun, 22 Nov 2026 09:00:15 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "PERSISTENT",
-      "price": 6124.0,
-      "change_pct": 4.15,
-      "setup_quality_score": 63.23,
+      "symbol": "TATASTEEL",
+      "price": 163.0,
+      "change_pct": -8.43,
+      "setup_quality_score": 69.0,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-22T21:17:39.248063+00:00",
+      "chain_fetched_at_utc": "2026-11-23T12:15:12.018024+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "AXISBANK",
-      "price": 1446.0,
-      "change_pct": 4.72,
-      "setup_quality_score": 56.08,
+      "symbol": "PERSISTENT",
+      "price": 6282.5,
+      "change_pct": 2.59,
+      "setup_quality_score": 62.19,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-22T21:17:39.656086+00:00",
+      "chain_fetched_at_utc": "2026-11-23T12:15:12.908318+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "MARUTI",
-      "price": 14011.0,
-      "change_pct": 3.11,
-      "setup_quality_score": 53.66,
+      "symbol": "TCS",
+      "price": 2460.0,
+      "change_pct": 3.53,
+      "setup_quality_score": 51.26,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-22T21:17:40.051922+00:00",
+      "chain_fetched_at_utc": "2026-11-23T12:15:13.830431+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
