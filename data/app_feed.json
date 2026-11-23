@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-23T19:29:18.491663+00:00",
+  "generated_at_utc": "2026-11-23T20:30:23.903596+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -137,7 +137,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T19:29:25.595263+00:00",
+      "chain_fetched_at_utc": "2026-11-23T20:30:31.999906+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -153,7 +153,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T19:29:25.962797+00:00",
+      "chain_fetched_at_utc": "2026-11-23T20:30:32.450722+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -169,7 +169,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T19:29:26.387274+00:00",
+      "chain_fetched_at_utc": "2026-11-23T20:30:32.928292+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
