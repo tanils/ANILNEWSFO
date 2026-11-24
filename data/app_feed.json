@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-23T21:38:29.019369+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-24T02:36:03.705782+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -9,6 +9,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
       "published": "Mon, 23 Nov 2026 12:46:54 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "India’s rupee has become an accidental carry star",
+      "summary": "The Reserve Bank of India has made moves that temporarily attract carry traders to the rupee. Recent factors include decreasing oil prices and a shift in foreign investment from artificial intelligence stocks to Indian markets. However, these RBI incentives may not last, leaving uncertainty for traders. India's interest rate advantage has significantly diminished since 2011, raising concerns. Policymakers face challenges in ensuring sustained interest in the rupee amid historical depreciation.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms",
+      "published": "Tue, 24 Nov 2026 07:13:12 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -74,6 +84,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
+      "summary": "US stocks rebounded sharply on Monday after Nvidia reinstated Jensen Huang as chief executive following pressure from President Donald Trump, reversing part of last week’s tech-led market rout. Nvidia jumped 31%, helping the Nasdaq 100 rise 6.5% and the S&amp;P 500 4.7%, while Treasury yields and the dollar also climbed as investors reassessed both AI-sector sentiment and the Federal Reserve outlook.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-soars-on-huangs-return-to-nvidia-treasury-yields-rise/articleshow/136116751.cms",
+      "published": "Tue, 24 Nov 2026 06:24:33 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Nasdaq surges 6%, Dow soars 1,400 pts as markets rebound on Huang’s return: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
@@ -127,23 +147,23 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "RELIANCE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "AXISBANK",
+      "price": 1388.5999755859375,
+      "change_pct": -3.97,
+      "setup_quality_score": 27.95,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T21:38:39.959220+00:00",
+      "chain_fetched_at_utc": "2026-11-24T02:36:10.851999+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "HDFCBANK",
+      "symbol": "M&M",
       "price": NaN,
       "change_pct": NaN,
       "setup_quality_score": NaN,
@@ -153,23 +173,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T21:38:40.351297+00:00",
+      "chain_fetched_at_utc": "2026-11-24T02:36:11.198890+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "ICICIBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "TATASTEEL",
+      "price": 163.0,
+      "change_pct": -8.43,
+      "setup_quality_score": 69.0,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-23T21:38:40.930101+00:00",
+      "chain_fetched_at_utc": "2026-11-24T02:36:11.565318+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
