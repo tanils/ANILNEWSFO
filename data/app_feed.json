@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-24T02:36:03.705782+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-24T13:31:47.621652+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -9,9 +9,29 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
       "published": "Mon, 23 Nov 2026 12:46:54 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
+      "summary": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional investors.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
+      "published": "Tue, 24 Nov 2026 18:09:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
+      "summary": "With the rise in the share of MFs and also an overall net investment of Rs 1.69 lakh crore during the quarter, the share of Domestic Institutional Investors (DIIs) as a whole increased to an all-time high of 19.31% as on September 30, 2026, up from 19.16% as on June 30, 2026. Here are 10 stocks with the highest DII holding in the September quarter.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-reliance-industries-among-10-stocks-with-highest-dii-holding-in-q2-see-full-list/slideshow/136126992.cms",
+      "published": "Tue, 24 Nov 2026 11:45:03 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "RELIANCE, HDFCBANK"
     },
     {
       "headline": "India’s rupee has become an accidental carry star",
@@ -24,12 +44,72 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
+      "summary": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
+      "published": "Tue, 24 Nov 2026 18:08:23 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
+      "summary": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved market-making activities. Jain also pointed out declining demand from institutional investors for long-term sovereign debt amid uncertain interest rates.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+      "published": "Tue, 24 Nov 2026 14:56:23 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
+      "summary": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of the current fiscal year, according to an official statement. IIFCL will issue fresh shares to raise capital alongside the government stake sale. The proceeds from the stake sale will contribute to the government's disinvestment revenue.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
+      "published": "Tue, 24 Nov 2026 14:02:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Investors mint Rs 34.61 lakh cr in November as markets rally nearly 11%",
+      "summary": "In a remarkable surge this month, Indian equity markets have observed a substantial upswing, with the BSE Sensex climbing nearly 11 percent. This rally was largely propelled by foreign institutional investors, who contributed record-setting inflows exceeding Rs 1 lakh crore. Motivated by lower crude oil prices and impressive Q2 earnings, investor optimism soared, although a recent profit booking saw a minor dip of nearly 2 percent.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
+      "published": "Tue, 24 Nov 2026 13:28:46 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
+    },
+    {
+      "headline": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+      "summary": "The dollar is approaching a 20-month peak, thanks to the reinstatement of Nvidia's CEO, which has instilled confidence in the markets. Meanwhile, the euro and sterling struggle against the strong dollar, with the euro hovering near an 18-month low. The market forecasts a Fed rate hike, adjusting to anticipated shifts in monetary policy.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/articleshow/136118031.cms",
+      "published": "Tue, 24 Nov 2026 08:32:32 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Japanese bond yields fall as lower oil prices ease inflation concerns",
+      "summary": "Japanese government bond yields declined due to falling oil prices that eased inflation concerns. The 10-year JGB yield reached a two-week low of 2.715%. Meanwhile, Japan's benchmark Nikkei 225 index experienced a brief surge of 5% following Nvidia's leadership announcement. Shorter-dated US Treasury yields increased as market stability was reassured by the news. Additionally, markets anticipate a 25-basis-point Federal Reserve rate hike in December.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms",
+      "published": "Tue, 24 Nov 2026 08:34:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
       "summary": "The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company Law Tribunal, buoyed by considerable backing from claimants.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
       "published": "Mon, 23 Nov 2026 18:43:56 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -39,7 +119,7 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-great-indian-stock-market-comeback-can-the-rally-sustain-and-what-should-investors-do/articleshow/136092236.cms",
       "published": "Mon, 23 Nov 2026 12:09:55 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -49,136 +129,34 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-5-factors-weighing-on-shares/slideshow/136091195.cms",
       "published": "Mon, 23 Nov 2026 11:11:26 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
+      "summary": "Dario Amodei, CEO of Anthropic, sold shares worth USD 280.41 million after the company's IPO. He reported holding 202.8 million shares and additional shares through trusts. Anthropic's initial public offering raised USD 81.34 billion and made its Nasdaq debut last week. However, the stock price experienced fluctuations, closing down from its opening price. Despite the decline, shares remained above their initial offering price of USD 83.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
+      "published": "Tue, 24 Nov 2026 17:07:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee reversal, debt supply drag India bonds in holiday-shortened week",
-      "summary": "Indian government bonds fell after the rupee lost its positive momentum against the dollar on Monday. A recent debt sale raised concerns about supply when the Indian states auctioned bonds at higher yields. The rupee also ended down 0.3%, reflecting increased dollar demand from large corporations. Benchmark Brent crude oil prices remained close to $92 a barrel, raising inflation concerns in India.",
+      "headline": "The LTCG debate: Why markets need tax stability and not ad-hoc fixes",
+      "summary": "Foreign Institutional Investor capital is leaving Indian markets, raising concerns over the unpredictability of tax policies. Investors are urging for the reconsideration of Long-Term Capital Gains tax provisions. Historical changes in LTCG have created volatility that affects long-term investors negatively. A stable tax policy framework is essential to attract and retain investment in the Indian financial market.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/rupee-reversal-debt-supply-drag-india-bonds-in-holiday-shortened-week/articleshow/136103987.cms",
-      "published": "Mon, 23 Nov 2026 18:37:06 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-ltcg-debate-why-markets-need-tax-stability-and-not-ad-hoc-fixes/articleshow/136121257.cms",
+      "published": "Tue, 24 Nov 2026 11:38:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
-      "summary": "After a five-day rise, the Indian rupee faced a setback on Monday, driven by heightened dollar demand from major corporations. This shift in momentum was compounded by profit-taking activities. The rupee settled at 92.91 against the dollar, following a peak of 92.44. Additionally, underwhelming local stock performance fueled a bearish outlook for the rupee. Nevertheless, analysts predict a sustained positive sentiment towards stocks and currencies amid ongoing evaluations.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms",
-      "published": "Mon, 23 Nov 2026 15:58:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "German bond yields edge higher as equity rebound eases safe-haven demand",
-      "summary": "Germany's government bond yields increased marginally on Monday as equity markets began to rebound, leading to diminished interest in safe-haven assets. In the wake of a difficult week for stocks, investors indicated a readiness to engage with riskier assets. The yield on 10-year German bonds rose by 2 basis points, signaling a fall in bond prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/german-bond-yields-edge-higher-as-equity-rebound-eases-safe-haven-demand/articleshow/136097404.cms",
-      "published": "Mon, 23 Nov 2026 15:25:49 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
-      "summary": "US stocks rebounded sharply on Monday after Nvidia reinstated Jensen Huang as chief executive following pressure from President Donald Trump, reversing part of last week’s tech-led market rout. Nvidia jumped 31%, helping the Nasdaq 100 rise 6.5% and the S&amp;P 500 4.7%, while Treasury yields and the dollar also climbed as investors reassessed both AI-sector sentiment and the Federal Reserve outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-soars-on-huangs-return-to-nvidia-treasury-yields-rise/articleshow/136116751.cms",
-      "published": "Tue, 24 Nov 2026 06:24:33 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq surges 6%, Dow soars 1,400 pts as markets rebound on Huang’s return: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
-      "published": "Mon, 23 Nov 2026 18:42:48 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Adani Airport raises $300 mn from 360 ONE Asset, taking total equity infusion to $1.35 bn",
-      "summary": "Adani Airport Holdings Ltd will raise USD 300 million to enhance its presence in India's aviation sector. This investment will contribute to its target of increasing passenger capacity from 96 million to 200 million. The company operates eight airports, handling about 95.3 million passengers in the last fiscal year. The funds will support modernizing existing infrastructure and developing airport cities for commercial activities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-airport-raises-300-mn-from-360-one-asset-taking-total-equity-infusion-to-1-35-bn/articleshow/136104118.cms",
-      "published": "Mon, 23 Nov 2026 18:41:12 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq futures surge 3% as battered AI stocks gain ground",
-      "summary": "US stock futures showed a significant rebound on Monday after sharp declines in recent weeks. Investor interest is returning to AI-linked stocks following corrected valuations in the market. Chip stocks led this recovery, with major companies like Nvidia and AMD experiencing notable gains. Analysts remain cautious about confirming a sustainable recovery amid pervasive market concerns.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-surge-3-as-battered-ai-stocks-gain-ground/articleshow/136104059.cms",
-      "published": "Mon, 23 Nov 2026 18:39:42 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee retreats, Goldman calls it a 'port of stability' in AI storm",
-      "summary": "The Indian rupee initially rose to a seven-month high before retreating amid corporate dollar buying. It is on track for a monthly gain of over 2%, bolstered by significant foreign investment in Indian equities. Analysts noted that the rupee's early gains pushed it into overbought territory, prompting some selling. Despite recent fluctuations, the rupee has remained stable compared to other major currencies.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-goldman-calls-it-a-port-of-stability-in-ai-storm/articleshow/136092977.cms",
-      "published": "Mon, 23 Nov 2026 12:39:49 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Global Markets: 5 key triggers to watch this week",
-      "summary": "Global markets will track five key triggers this week, from Black Friday spending and ECB leadership changes to Asian inflation data, South Korea’s rate decision and business activity.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-triggers-to-watch-this-week/slideshow/136091589.cms",
-      "published": "Mon, 23 Nov 2026 11:14:38 +0530",
-      "freshness": "new",
-      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "AXISBANK",
-      "price": 1388.5999755859375,
-      "change_pct": -3.97,
-      "setup_quality_score": 27.95,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T02:36:10.851999+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 2,
-      "symbol": "M&M",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T02:36:11.198890+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "TATASTEEL",
       "price": 163.0,
       "change_pct": -8.43,
@@ -189,7 +167,39 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T02:36:11.565318+00:00",
+      "chain_fetched_at_utc": "2026-11-24T13:31:59.541899+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 2,
+      "symbol": "PERSISTENT",
+      "price": 6282.5,
+      "change_pct": 2.59,
+      "setup_quality_score": 57.69,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-24T13:31:59.954519+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "TCS",
+      "price": 2460.0,
+      "change_pct": 3.53,
+      "setup_quality_score": 51.26,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-24T13:32:00.376638+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
