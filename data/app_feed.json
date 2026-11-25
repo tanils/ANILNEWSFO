@@ -1,8 +1,18 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-25T12:37:31.022623+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-25T14:52:17.599469+00:00",
   "news": [
+    {
+      "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+      "summary": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues persist, adversely influencing overall forecasts.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+      "published": "Wed, 25 Nov 2026 18:36:00 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
     {
       "headline": "India bonds inch higher as oil steadies ahead of RBI verdict",
       "summary": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approaching, traders are treading carefully and shying away from large investments. The yield for the benchmark 2036 bond has dropped, suggesting a cautious market outlook.",
@@ -12,16 +22,6 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Axis Bank Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-25-nov-2026/liveblog/136148258.cms",
-      "published": "Wed, 25 Nov 2026 10:02:42 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "AXISBANK"
     },
     {
       "headline": "US Treasury gains lift India bonds ahead of RBI meet",
@@ -44,32 +44,12 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
-      "summary": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional investors.",
+      "headline": "RBI net buyer of dollars for fourth straight month in September, data shows",
+      "summary": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various measures. Indian equities have recently attracted investors, leading to a rise in the rupee's value.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
-      "published": "Tue, 24 Nov 2026 18:09:55 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+      "published": "Wed, 25 Nov 2026 18:49:28 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
-      "summary": "With the rise in the share of MFs and also an overall net investment of Rs 1.69 lakh crore during the quarter, the share of Domestic Institutional Investors (DIIs) as a whole increased to an all-time high of 19.31% as on September 30, 2026, up from 19.16% as on June 30, 2026. Here are 10 stocks with the highest DII holding in the September quarter.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-reliance-industries-among-10-stocks-with-highest-dii-holding-in-q2-see-full-list/slideshow/136126992.cms",
-      "published": "Tue, 24 Nov 2026 11:45:03 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "RELIANCE, HDFCBANK"
-    },
-    {
-      "headline": "India’s rupee has become an accidental carry star",
-      "summary": "The Reserve Bank of India has made moves that temporarily attract carry traders to the rupee. Recent factors include decreasing oil prices and a shift in foreign investment from artificial intelligence stocks to Indian markets. However, these RBI incentives may not last, leaving uncertainty for traders. India's interest rate advantage has significantly diminished since 2011, raising concerns. Policymakers face challenges in ensuring sustained interest in the rupee amid historical depreciation.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms",
-      "published": "Tue, 24 Nov 2026 07:13:12 +0530",
-      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -84,73 +64,83 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee pares FY27 losses, climbs 56 paise to 92.29/USD",
-      "summary": "On Wednesday, the rupee reached an eight-month high against the US dollar amid foreign investments. This rise in value was supported by decreasing crude oil prices below USD 90 per barrel. The local currency opened at 92.65 but climbed to 92.29 during intraday trading. Foreign investors displayed confidence in Indian equities as indicated by significant net purchases on Monday.",
+      "headline": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
+      "summary": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetition. The revised framework will take effect on December 24, 2026, enhancing efficiency in data management. Intermediaries are instructed to report account closures promptly to maintain accurate KYC records. Investors are also advised against engaging with grey market premium figures for IPOs.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
-      "published": "Wed, 25 Nov 2026 10:00:22 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "India pension funds pivot to bonds as equity exposure nears cap",
-      "summary": "As India’s largest pension funds edge closer to the equity caps, a strategic pivot towards government bonds has been observed. UTI Pension Fund is channeling 50% of its new investments into government bonds, a marked increase from last year, while SBI Pension Funds aims to cut stock allocations to just 25%. This shift comes as markets rally, and a heightened bond focus could bolster India's debt market significantly.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap/articleshow/136146220.cms",
-      "published": "Wed, 25 Nov 2026 08:12:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
-      "summary": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
-      "published": "Tue, 24 Nov 2026 18:08:23 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
+      "published": "Wed, 25 Nov 2026 18:41:00 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
-      "summary": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved market-making activities. Jain also pointed out declining demand from institutional investors for long-term sovereign debt amid uncertain interest rates.",
+      "headline": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
+      "summary": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmers. Corporate trading members will offer this facility based on certain conditions and net worth requirements. Public comments on the proposal are invited until December 16.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
-      "published": "Tue, 24 Nov 2026 14:56:23 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
+      "published": "Wed, 25 Nov 2026 18:39:04 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
-      "summary": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of the current fiscal year, according to an official statement. IIFCL will issue fresh shares to raise capital alongside the government stake sale. The proceeds from the stake sale will contribute to the government's disinvestment revenue.",
+      "headline": "PhonePe resumes IPO process; targets February-March listing at $12-15 billion valuation",
+      "summary": "PhonePe has resumed its initial public offering plans after deferring them due to market uncertainties. The company aims for a stock market listing valued between USD 12-15 billion in early 2024. It expects to raise approximately Rs 12,000-14,000 crore through an offer-for-sale. The digital payments firm has also reported significant revenue growth and is now profitable at the group level.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
-      "published": "Tue, 24 Nov 2026 14:02:38 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
+      "published": "Wed, 25 Nov 2026 17:15:14 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Investors mint Rs 34.61 lakh cr in November as markets rally nearly 11%",
-      "summary": "In a remarkable surge this month, Indian equity markets have observed a substantial upswing, with the BSE Sensex climbing nearly 11 percent. This rally was largely propelled by foreign institutional investors, who contributed record-setting inflows exceeding Rs 1 lakh crore. Motivated by lower crude oil prices and impressive Q2 earnings, investor optimism soared, although a recent profit booking saw a minor dip of nearly 2 percent.",
+      "headline": "HPE shares crash 17%, stock suffers its worst-ever single-day fall. Here's why",
+      "summary": "Hewlett Packard Enterprise shares plunged 17.1%, their steepest single-day fall since 2015, despite record quarterly revenue and stronger FY2027 guidance. Concerns over shrinking margins, rising component costs and supply constraints triggered the selloff.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
-      "published": "Tue, 24 Nov 2026 13:28:46 +0530",
-      "freshness": "recent",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/hpe-shares-crash-17-stock-suffers-its-worst-ever-single-day-fall-heres-why/slideshow/136148964.cms",
+      "published": "Wed, 25 Nov 2026 10:08:14 +0530",
+      "freshness": "new",
       "news_type": "catalyst",
-      "symbols": "BSE"
+      "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
-      "summary": "The dollar is approaching a 20-month peak, thanks to the reinstatement of Nvidia's CEO, which has instilled confidence in the markets. Meanwhile, the euro and sterling struggle against the strong dollar, with the euro hovering near an 18-month low. The market forecasts a Fed rate hike, adjusting to anticipated shifts in monetary policy.",
+      "headline": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
+      "summary": "Around 41 percent of high-net-worth investors in India are delving into the world of cryptocurrencies and virtual digital assets, despite many only possessing a fundamental comprehension of this evolving landscape. Regulatory ambiguity poses a significant hurdle, with 59 percent expressing concerns. Investors frequently turn to informal channels, such as peer networks and social media, for insights on digital assets.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/articleshow/136118031.cms",
-      "published": "Tue, 24 Nov 2026 08:32:32 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
+      "published": "Wed, 25 Nov 2026 19:19:47 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "US Stock Market Live Updates: Dow Jones plunges 900 pts, Nasdaq over 3% as AI rout intensifies",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
+      "summary": "The Indian rupee has shown significant strength against the US dollar, propelled by robust foreign portfolio investments. Surging to an eight-month high on Thursday, it closed at 92.23 per dollar. Analysts connect this to favorable market dynamics, including falling crude oil prices. With record foreign investments in Indian stocks this month, the market exudes increased confidence, suggesting a potential for continued rupee appreciation if circumstances remain favorable.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
+      "published": "Wed, 25 Nov 2026 16:23:26 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Why are investors betting on Abercrombie's growth story?",
+      "summary": "Abercrombie &amp; Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of the holiday season.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
+      "published": "Wed, 25 Nov 2026 11:09:11 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -167,28 +157,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T12:37:43.265322+00:00",
+      "chain_fetched_at_utc": "2026-11-25T14:52:26.824900+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BEL",
-      "price": 404.29998779296875,
-      "change_pct": 2.15,
-      "setup_quality_score": 54.62,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T12:37:43.702192+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "BAJAJFINSV",
       "price": 1925.0,
       "change_pct": 2.39,
@@ -199,7 +173,23 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T12:37:44.123049+00:00",
+      "chain_fetched_at_utc": "2026-11-25T14:52:27.220684+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "TCS",
+      "price": 2517.300048828125,
+      "change_pct": 2.33,
+      "setup_quality_score": 51.86,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-25T14:52:27.645655+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
