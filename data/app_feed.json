@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-25T19:33:04.931759+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-25T23:47:38.557816+00:00",
   "news": [
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
@@ -84,16 +84,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US markets pare early losses as AI selloff eases despite inflation, tariff concerns: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
-      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
       "summary": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetition. The revised framework will take effect on December 24, 2026, enhancing efficiency in data management. Intermediaries are instructed to report account closures promptly to maintain accurate KYC records. Investors are also advised against engaging with grey market premium figures for IPOs.",
       "source": "Economic Times Markets",
@@ -134,21 +124,31 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
-      "summary": "Around 41 percent of high-net-worth investors in India are delving into the world of cryptocurrencies and virtual digital assets, despite many only possessing a fundamental comprehension of this evolving landscape. Regulatory ambiguity poses a significant hurdle, with 59 percent expressing concerns. Investors frequently turn to informal channels, such as peer networks and social media, for insights on digital assets.",
+      "headline": "Fed survey shows continued growth and sticky inflation in recent weeks",
+      "summary": "The United States is currently experiencing modest economic growth; however, inflation continues to be a significant concern. This has prompted the Federal Reserve to contemplate potential interest rate adjustments. Recent reports show a marked increase in the Personal Consumption Expenditures Price Index for October versus a year ago. Businesses are facing rising expenses across multiple sectors, highlighting persistent economic challenges and uncertainties on the horizon.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
-      "published": "Wed, 25 Nov 2026 19:19:47 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms",
+      "published": "Thu, 26 Nov 2026 01:37:37 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
-      "summary": "The Indian rupee has shown significant strength against the US dollar, propelled by robust foreign portfolio investments. Surging to an eight-month high on Thursday, it closed at 92.23 per dollar. Analysts connect this to favorable market dynamics, including falling crude oil prices. With record foreign investments in Indian stocks this month, the market exudes increased confidence, suggesting a potential for continued rupee appreciation if circumstances remain favorable.",
+      "headline": "Copper slumps to lowest in 11 months as investors flee",
+      "summary": "Copper prices on the London Metal Exchange have plummeted to their lowest point in over 11 months, fueled by a shift away from technology and AI stocks, causing widespread market anxiety. Notably, open interest in copper reflects this trend, showing a significant dip in trading activity. Prices for other metals like tin and aluminum also saw sharp falls, as ongoing market uncertainties dampen investor confidence in commodities.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
-      "published": "Wed, 25 Nov 2026 16:23:26 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/copper-slumps-to-lowest-in-11-months-as-investors-flee/articleshow/136172100.cms",
+      "published": "Thu, 26 Nov 2026 01:23:49 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
+      "summary": "Around 41 percent of high-net-worth investors in India are delving into the world of cryptocurrencies and virtual digital assets, despite many only possessing a fundamental comprehension of this evolving landscape. Regulatory ambiguity poses a significant hurdle, with 59 percent expressing concerns. Investors frequently turn to informal channels, such as peer networks and social media, for insights on digital assets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
+      "published": "Wed, 25 Nov 2026 19:19:47 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T19:33:16.436058+00:00",
+      "chain_fetched_at_utc": "2026-11-25T23:47:50.781650+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T19:33:16.876328+00:00",
+      "chain_fetched_at_utc": "2026-11-25T23:47:51.271768+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T19:33:17.360945+00:00",
+      "chain_fetched_at_utc": "2026-11-25T23:47:51.709393+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
