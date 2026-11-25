@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-25T16:01:58.495808+00:00",
+  "generated_at_utc": "2026-11-25T17:36:07.350773+00:00",
   "news": [
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
@@ -114,6 +114,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Nasdaq sinks 600 pts  as AI rout, fresh Trump tariffs spook Wall St: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "HPE shares crash 17%, stock suffers its worst-ever single-day fall. Here's why",
       "summary": "Hewlett Packard Enterprise shares plunged 17.1%, their steepest single-day fall since 2015, despite record quarterly revenue and stronger FY2027 guidance. Concerns over shrinking margins, rising component costs and supply constraints triggered the selloff.",
       "source": "Economic Times Markets",
@@ -129,16 +139,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
       "published": "Wed, 25 Nov 2026 19:19:47 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US Stock Market Live Updates: Dow Jones plunges 800 pts, Nasdaq over 3% as AI rout intensifies",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
-      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T16:02:06.951577+00:00",
+      "chain_fetched_at_utc": "2026-11-25T17:36:16.077138+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T16:02:07.351448+00:00",
+      "chain_fetched_at_utc": "2026-11-25T17:36:16.500084+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T16:02:07.741149+00:00",
+      "chain_fetched_at_utc": "2026-11-25T17:36:16.990706+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
