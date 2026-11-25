@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-25T17:36:07.350773+00:00",
+  "generated_at_utc": "2026-11-25T18:11:10.530823+00:00",
   "news": [
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T17:36:16.077138+00:00",
+      "chain_fetched_at_utc": "2026-11-25T18:11:20.987832+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T17:36:16.500084+00:00",
+      "chain_fetched_at_utc": "2026-11-25T18:11:21.395446+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T17:36:16.990706+00:00",
+      "chain_fetched_at_utc": "2026-11-25T18:11:21.809482+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
