@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-25T18:49:06.668848+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-25T19:33:04.931759+00:00",
   "news": [
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
@@ -84,6 +84,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "US markets pare early losses as AI selloff eases despite inflation, tariff concerns: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
       "summary": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetition. The revised framework will take effect on December 24, 2026, enhancing efficiency in data management. Intermediaries are instructed to report account closures promptly to maintain accurate KYC records. Investors are also advised against engaging with grey market premium figures for IPOs.",
       "source": "Economic Times Markets",
@@ -109,16 +119,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
       "published": "Wed, 25 Nov 2026 17:15:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Nasdaq sinks 600 pts  as AI rout, fresh Trump tariffs spook Wall St: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
-      "published": "Wed, 25 Nov 2026 18:42:55 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T18:49:18.014788+00:00",
+      "chain_fetched_at_utc": "2026-11-25T19:33:16.436058+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T18:49:18.858294+00:00",
+      "chain_fetched_at_utc": "2026-11-25T19:33:16.876328+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T18:49:19.341735+00:00",
+      "chain_fetched_at_utc": "2026-11-25T19:33:17.360945+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
