@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-25T14:52:17.599469+00:00",
+  "generated_at_utc": "2026-11-25T16:01:58.495808+00:00",
   "news": [
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
@@ -19,6 +19,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
       "published": "Wed, 25 Nov 2026 10:59:37 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "RBI raises share of domestically held gold reserves, data shows",
+      "summary": "As of September, the Reserve Bank of India has expanded its domestic gold reserves to 880.52 metric tonnes. This figure comprises 740.13 metric tonnes held in the country and 140.39 metric tonnes stored internationally. However, the proportion of gold within the overall reserves has declined to 14.38%. Currently, India's total foreign exchange reserves stand at $705.3 billion, predominantly invested in foreign government securities.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
+      "published": "Wed, 25 Nov 2026 20:30:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -42,6 +52,16 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore",
+      "summary": "The Carlyle Group has divested 7.4 percent of its stake in Piramal Pharma through an open market deal, selling approximately 9.86 crore shares at an average rate of Rs 224.17 each. As a result, its stake decreased from 17.93 percent to 10.52 percent. Aditya Birla Sun Life Mutual Fund was the most significant buyer, acquiring over 2.12 crore shares. Subsequently, Piramal Pharma's share price dropped by 1.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
+      "published": "Wed, 25 Nov 2026 20:32:44 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BSE"
     },
     {
       "headline": "RBI net buyer of dollars for fourth straight month in September, data shows",
@@ -114,7 +134,7 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US Stock Market Live Updates: Dow Jones plunges 900 pts, Nasdaq over 3% as AI rout intensifies",
+      "headline": "US Stock Market Live Updates: Dow Jones plunges 800 pts, Nasdaq over 3% as AI rout intensifies",
       "summary": "",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
@@ -129,16 +149,6 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
       "published": "Wed, 25 Nov 2026 16:23:26 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Why are investors betting on Abercrombie's growth story?",
-      "summary": "Abercrombie &amp; Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of the holiday season.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
-      "published": "Wed, 25 Nov 2026 11:09:11 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -157,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T14:52:26.824900+00:00",
+      "chain_fetched_at_utc": "2026-11-25T16:02:06.951577+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -173,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T14:52:27.220684+00:00",
+      "chain_fetched_at_utc": "2026-11-25T16:02:07.351448+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -189,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T14:52:27.645655+00:00",
+      "chain_fetched_at_utc": "2026-11-25T16:02:07.741149+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
