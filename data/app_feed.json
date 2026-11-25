@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-24T20:18:56.674882+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-25T00:08:15.217928+00:00",
   "news": [
     {
       "headline": "India bonds give up marginal opening gains as profit booking takes over",
@@ -134,21 +134,21 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
-      "summary": "Dario Amodei, CEO of Anthropic, sold shares worth USD 280.41 million after the company's IPO. He reported holding 202.8 million shares and additional shares through trusts. Anthropic's initial public offering raised USD 81.34 billion and made its Nasdaq debut last week. However, the stock price experienced fluctuations, closing down from its opening price. Despite the decline, shares remained above their initial offering price of USD 83.",
+      "headline": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia",
+      "summary": "The Nasdaq and S&amp;P 500 indices experienced a drop as Nvidia and other tech shares fell. Investors reacted to potential new tariffs, raising concerns about market stability. Nvidia's CEO Jensen Huang was reinstated, which had previously spurred a market rally. In contrast, the Dow Jones Industrial Average saw gains amid varied sector performances. Anticipation for the upcoming Personal Consumption Expenditures report added further uncertainty to investor sentiment.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
-      "published": "Tue, 24 Nov 2026 17:07:14 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
+      "published": "Wed, 25 Nov 2026 02:39:28 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "The LTCG debate: Why markets need tax stability and not ad-hoc fixes",
-      "summary": "Foreign Institutional Investor capital is leaving Indian markets, raising concerns over the unpredictability of tax policies. Investors are urging for the reconsideration of Long-Term Capital Gains tax provisions. Historical changes in LTCG have created volatility that affects long-term investors negatively. A stable tax policy framework is essential to attract and retain investment in the Indian financial market.",
+      "headline": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
+      "summary": "Dario Amodei, CEO of Anthropic, sold shares worth USD 280.41 million after the company's IPO. He reported holding 202.8 million shares and additional shares through trusts. Anthropic's initial public offering raised USD 81.34 billion and made its Nasdaq debut last week. However, the stock price experienced fluctuations, closing down from its opening price. Despite the decline, shares remained above their initial offering price of USD 83.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-ltcg-debate-why-markets-need-tax-stability-and-not-ad-hoc-fixes/articleshow/136121257.cms",
-      "published": "Tue, 24 Nov 2026 11:38:55 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
+      "published": "Tue, 24 Nov 2026 17:07:14 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -167,7 +167,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T20:19:11.101236+00:00",
+      "chain_fetched_at_utc": "2026-11-25T00:08:32.039875+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +183,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T20:19:11.653810+00:00",
+      "chain_fetched_at_utc": "2026-11-25T00:08:32.652438+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,7 +199,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-24T20:19:12.273395+00:00",
+      "chain_fetched_at_utc": "2026-11-25T00:08:33.165250+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
