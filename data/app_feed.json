@@ -1,8 +1,38 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-25T23:47:38.557816+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-26T12:14:37.310549+00:00",
   "news": [
+    {
+      "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+      "summary": "Indian government bonds fell as oil prices surged, raising concerns about inflation and economic stability. The Reserve Bank of India highlighted rising food inflation pressures, indicating widespread price increases. Higher oil prices may widen the current account deficit and impact the rupee negatively. Investors are anticipating the monetary policy decision scheduled for December 4, with rate hikes expected. The overall economic situation reveals significant inflation challenges ahead for the country.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
+      "published": "Thu, 26 Nov 2026 10:50:12 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
+      "summary": "In the September 2026 quarter, Foreign Institutional Investors (FIIs) boosted their stakes in various firms, notably in Eternal and Adani Enterprises, despite facing mixed performance trends in stock values. While ICICI Bank and the Life Insurance Corporation of India saw a downturn, Welspun Corp and Lenskart Solutions marked notable stock price increases. Overall, the aggregate FII investment in NSE-listed companies observed a decline in value during this period.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms",
+      "published": "Thu, 26 Nov 2026 10:06:47 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK, BSE"
+    },
+    {
+      "headline": "Deutsche Bank, PNB ink pact to fund M&amp;As",
+      "summary": "Deutsche Bank and Punjab National Bank have signed a preliminary agreement to finance corporate acquisitions in India. This partnership follows recent reforms that allow domestic lenders to fund up to 75% of corporate deal values. State Bank of India has also entered a similar partnership with Mitsubishi UFJ Financial Group. The agreement aims to support Indian companies in their growth and strategic expansion efforts.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/deutsche-bank-pnb-ink-pact-to-fund-mas/articleshow/136176118.cms",
+      "published": "Thu, 26 Nov 2026 07:25:17 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "SBIN"
+    },
     {
       "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
       "summary": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues persist, adversely influencing overall forecasts.",
@@ -19,9 +49,29 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
       "published": "Wed, 25 Nov 2026 10:59:37 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "South Korea's central bank resumes tightening with quarter-point hike",
+      "summary": "The Bank of Korea raised its benchmark interest rate by a quarter percentage point to 3.25%. This increase follows a pause in October and is part of the tightening cycle. Economic growth has been upgraded to 3.9% for this year and 4.1% for next year. Policymakers remain cautious due to elevated inflation and a heated housing market.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike/articleshow/136176244.cms",
+      "published": "Thu, 26 Nov 2026 07:36:19 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gold extends losses as hot US inflation cements Fed hike bets",
+      "summary": "Gold prices dropped after reaching a low not seen since September 2025 due to rising inflation. Expectations for a Federal Reserve interest rate hike have increased following faster economic growth. Spot gold fell below the $3,500 level, affecting investor interest in non-yielding bullion. Along with gold, other metals like silver and platinum experienced slight gains amidst the economic changes.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-as-hot-us-inflation-cements-fed-hike-bets/articleshow/136176262.cms",
+      "published": "Thu, 26 Nov 2026 07:35:38 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "BEL"
     },
     {
       "headline": "RBI raises share of domestically held gold reserves, data shows",
@@ -49,6 +99,26 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms",
       "published": "Wed, 25 Nov 2026 17:19:18 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
+      "summary": "The Indian rupee has faced depreciation as a result of escalating oil prices combined with pressures from surrounding currencies. With Brent crude exceeding $96 per barrel, worries about India's import costs and inflation have intensified. Recent days have seen heightened hedging activity among importers, leading analysts to forecast potential testing of the rupee's support levels. Additionally, banks are urging central bank intervention to manage the growing dollar surplus.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms",
+      "published": "Thu, 26 Nov 2026 16:06:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Rupee has room to rally before RBI steps in, strategists say",
+      "summary": "India's rupee is experiencing a notable rally against the dollar, driven by foreign equity inflows and decreasing oil prices. Analysts project the rupee may reach levels between 90 and 91 per dollar. The Reserve Bank of India is likely to hold off on purchasing dollars for now. Exporters have reduced forward dollar purchases, showing caution toward market fluctuations.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-has-room-to-rally-before-rbi-steps-in-strategists-say/articleshow/136176673.cms",
+      "published": "Thu, 26 Nov 2026 08:13:43 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -79,78 +149,8 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
       "published": "Wed, 25 Nov 2026 17:21:51 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
-      "summary": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetition. The revised framework will take effect on December 24, 2026, enhancing efficiency in data management. Intermediaries are instructed to report account closures promptly to maintain accurate KYC records. Investors are also advised against engaging with grey market premium figures for IPOs.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
-      "published": "Wed, 25 Nov 2026 18:41:00 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
-      "summary": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmers. Corporate trading members will offer this facility based on certain conditions and net worth requirements. Public comments on the proposal are invited until December 16.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
-      "published": "Wed, 25 Nov 2026 18:39:04 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "PhonePe resumes IPO process; targets February-March listing at $12-15 billion valuation",
-      "summary": "PhonePe has resumed its initial public offering plans after deferring them due to market uncertainties. The company aims for a stock market listing valued between USD 12-15 billion in early 2024. It expects to raise approximately Rs 12,000-14,000 crore through an offer-for-sale. The digital payments firm has also reported significant revenue growth and is now profitable at the group level.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
-      "published": "Wed, 25 Nov 2026 17:15:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "HPE shares crash 17%, stock suffers its worst-ever single-day fall. Here's why",
-      "summary": "Hewlett Packard Enterprise shares plunged 17.1%, their steepest single-day fall since 2015, despite record quarterly revenue and stronger FY2027 guidance. Concerns over shrinking margins, rising component costs and supply constraints triggered the selloff.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/hpe-shares-crash-17-stock-suffers-its-worst-ever-single-day-fall-heres-why/slideshow/136148964.cms",
-      "published": "Wed, 25 Nov 2026 10:08:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Fed survey shows continued growth and sticky inflation in recent weeks",
-      "summary": "The United States is currently experiencing modest economic growth; however, inflation continues to be a significant concern. This has prompted the Federal Reserve to contemplate potential interest rate adjustments. Recent reports show a marked increase in the Personal Consumption Expenditures Price Index for October versus a year ago. Businesses are facing rising expenses across multiple sectors, highlighting persistent economic challenges and uncertainties on the horizon.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms",
-      "published": "Thu, 26 Nov 2026 01:37:37 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Copper slumps to lowest in 11 months as investors flee",
-      "summary": "Copper prices on the London Metal Exchange have plummeted to their lowest point in over 11 months, fueled by a shift away from technology and AI stocks, causing widespread market anxiety. Notably, open interest in copper reflects this trend, showing a significant dip in trading activity. Prices for other metals like tin and aluminum also saw sharp falls, as ongoing market uncertainties dampen investor confidence in commodities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/copper-slumps-to-lowest-in-11-months-as-investors-flee/articleshow/136172100.cms",
-      "published": "Thu, 26 Nov 2026 01:23:49 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
-      "summary": "Around 41 percent of high-net-worth investors in India are delving into the world of cryptocurrencies and virtual digital assets, despite many only possessing a fundamental comprehension of this evolving landscape. Regulatory ambiguity poses a significant hurdle, with 59 percent expressing concerns. Investors frequently turn to informal channels, such as peer networks and social media, for insights on digital assets.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
-      "published": "Wed, 25 Nov 2026 19:19:47 +0530",
-      "freshness": "new",
-      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -158,48 +158,48 @@
     {
       "rank": 1,
       "symbol": "BSE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "price": 3990.39990234375,
+      "change_pct": 5.7,
+      "setup_quality_score": 59.91,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T23:47:50.781650+00:00",
+      "chain_fetched_at_utc": "2026-11-26T12:14:47.208175+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "RELIANCE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "HCLTECH",
+      "price": 1468.5999755859375,
+      "change_pct": 6.42,
+      "setup_quality_score": 59.91,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T23:47:51.271768+00:00",
+      "chain_fetched_at_utc": "2026-11-26T12:14:47.649316+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "HDFCBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "WIPRO",
+      "price": 196.5399932861328,
+      "change_pct": 3.96,
+      "setup_quality_score": 57.26,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-25T23:47:51.709393+00:00",
+      "chain_fetched_at_utc": "2026-11-26T12:14:48.068934+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
