@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-26T12:14:37.310549+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-26T14:19:07.539755+00:00",
   "news": [
     {
       "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
@@ -24,86 +24,6 @@
       "symbols": "ICICIBANK, BSE"
     },
     {
-      "headline": "Deutsche Bank, PNB ink pact to fund M&amp;As",
-      "summary": "Deutsche Bank and Punjab National Bank have signed a preliminary agreement to finance corporate acquisitions in India. This partnership follows recent reforms that allow domestic lenders to fund up to 75% of corporate deal values. State Bank of India has also entered a similar partnership with Mitsubishi UFJ Financial Group. The agreement aims to support Indian companies in their growth and strategic expansion efforts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/deutsche-bank-pnb-ink-pact-to-fund-mas/articleshow/136176118.cms",
-      "published": "Thu, 26 Nov 2026 07:25:17 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "SBIN"
-    },
-    {
-      "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
-      "summary": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues persist, adversely influencing overall forecasts.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
-      "published": "Wed, 25 Nov 2026 18:36:00 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "India bonds inch higher as oil steadies ahead of RBI verdict",
-      "summary": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approaching, traders are treading carefully and shying away from large investments. The yield for the benchmark 2036 bond has dropped, suggesting a cautious market outlook.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
-      "published": "Wed, 25 Nov 2026 10:59:37 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "South Korea's central bank resumes tightening with quarter-point hike",
-      "summary": "The Bank of Korea raised its benchmark interest rate by a quarter percentage point to 3.25%. This increase follows a pause in October and is part of the tightening cycle. Economic growth has been upgraded to 3.9% for this year and 4.1% for next year. Policymakers remain cautious due to elevated inflation and a heated housing market.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-central-bank-resumes-tightening-with-quarter-point-hike/articleshow/136176244.cms",
-      "published": "Thu, 26 Nov 2026 07:36:19 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Gold extends losses as hot US inflation cements Fed hike bets",
-      "summary": "Gold prices dropped after reaching a low not seen since September 2025 due to rising inflation. Expectations for a Federal Reserve interest rate hike have increased following faster economic growth. Spot gold fell below the $3,500 level, affecting investor interest in non-yielding bullion. Along with gold, other metals like silver and platinum experienced slight gains amidst the economic changes.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-as-hot-us-inflation-cements-fed-hike-bets/articleshow/136176262.cms",
-      "published": "Thu, 26 Nov 2026 07:35:38 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "BEL"
-    },
-    {
-      "headline": "RBI raises share of domestically held gold reserves, data shows",
-      "summary": "As of September, the Reserve Bank of India has expanded its domestic gold reserves to 880.52 metric tonnes. This figure comprises 740.13 metric tonnes held in the country and 140.39 metric tonnes stored internationally. However, the proportion of gold within the overall reserves has declined to 14.38%. Currently, India's total foreign exchange reserves stand at $705.3 billion, predominantly invested in foreign government securities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
-      "published": "Wed, 25 Nov 2026 20:30:14 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "US Treasury gains lift India bonds ahead of RBI meet",
-      "summary": "On Wednesday, Indian government bonds rallied, influenced by a decrease in US Treasury yields. The benchmark 10-year bond yield fell to 7.1641%, marking a two-week low. The Indian rupee strengthened to its highest level for the fiscal year against the dollar. Overseas investors returned as net buyers of Indian debt, purchasing over 93 billion rupees. The Reserve Bank of India's upcoming decision will significantly affect market movements and trends.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms",
-      "published": "Wed, 25 Nov 2026 17:55:47 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Shapoor Mistry lobbied Modi twice for Tata Sons IPO as battle over listing intensifies",
-      "summary": "Shapoor Mistry, the head of the Shapoorji Pallonji Group, has reached out to Prime Minister Modi regarding the listing troubles faced by Tata Sons. He claims that Tata Trusts are obstructing the public offering for their own benefit and breaching regulations. Meanwhile, the Reserve Bank of India has pressured Tata Sons to meet listing necessities.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms",
-      "published": "Wed, 25 Nov 2026 17:19:18 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
       "summary": "The Indian rupee has faced depreciation as a result of escalating oil prices combined with pressures from surrounding currencies. With Brent crude exceeding $96 per barrel, worries about India's import costs and inflation have intensified. Recent days have seen heightened hedging activity among importers, leading analysts to forecast potential testing of the rupee's support levels. Additionally, banks are urging central bank intervention to manage the growing dollar surplus.",
       "source": "Economic Times Markets",
@@ -114,44 +34,44 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Rupee has room to rally before RBI steps in, strategists say",
-      "summary": "India's rupee is experiencing a notable rally against the dollar, driven by foreign equity inflows and decreasing oil prices. Analysts project the rupee may reach levels between 90 and 91 per dollar. The Reserve Bank of India is likely to hold off on purchasing dollars for now. Exporters have reduced forward dollar purchases, showing caution toward market fluctuations.",
+      "headline": "Why is SanDisk stock falling despite surging profits?",
+      "summary": "SanDisk shares tumble amid fading AI optimism, declining NAND price forecasts and semiconductor sector weakness. Despite strong earnings and data centre demand, investors fear potential memory-chip oversupply and weakening future profitability.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-has-room-to-rally-before-rbi-steps-in-strategists-say/articleshow/136176673.cms",
-      "published": "Thu, 26 Nov 2026 08:13:43 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
+      "published": "Thu, 26 Nov 2026 10:32:15 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore",
-      "summary": "The Carlyle Group has divested 7.4 percent of its stake in Piramal Pharma through an open market deal, selling approximately 9.86 crore shares at an average rate of Rs 224.17 each. As a result, its stake decreased from 17.93 percent to 10.52 percent. Aditya Birla Sun Life Mutual Fund was the most significant buyer, acquiring over 2.12 crore shares. Subsequently, Piramal Pharma's share price dropped by 1.",
+      "headline": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+      "summary": "The rupee fell 20 paise to 92.40 against the US dollar in early trade. Higher crude oil prices and proposed tariffs by the US administration increased dollar demand. Foreign fund inflows supported the rupee but it faced pressure from rising crude prices. The US proposed 25 percent tariffs on imports from India, which raised inflation concerns. India rejected these allegations and expressed commitment to finalize a bilateral trade deal.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
-      "published": "Wed, 25 Nov 2026 20:32:44 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+      "published": "Thu, 26 Nov 2026 10:54:36 +0530",
       "freshness": "new",
       "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month",
+      "summary": "Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week highs on Thursday. NSE led monthly gains, surging 35%, followed by Prestige Estates at 32%.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms",
+      "published": "Thu, 26 Nov 2026 17:58:07 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "BSE"
     },
     {
-      "headline": "RBI net buyer of dollars for fourth straight month in September, data shows",
-      "summary": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various measures. Indian equities have recently attracted investors, leading to a rise in the rupee's value.",
+      "headline": "Adani firms plan public bond sale to raise at least Rs 2,000 crore",
+      "summary": "Adani Enterprises and Adani Power are planning public bond offerings to raise at least Rs 20 billion ($220 million), according to sources. The fundraising could help revive India's subdued public debt market, where issuances have lagged the previous fiscal year's levels. Both companies are working with local bond arrangers.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
-      "published": "Wed, 25 Nov 2026 18:49:28 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million/articleshow/136178950.cms",
+      "published": "Thu, 26 Nov 2026 10:19:08 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Fed policymakers at odds over causes of high inflation",
-      "summary": "US inflation is expected to increase again in October, with potential implications for Federal Reserve interest rate decisions. Economists predict the Personal Consumption Expenditures Price Index to reach 3.8% this month. Analysts are divided regarding whether inflation is caused by demand or supply shocks stemming from recent policies. Market forecasts suggest three more rate hikes, signaling ongoing concerns about rising prices.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
-      "published": "Wed, 25 Nov 2026 17:21:51 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
+      "news_type": "context",
+      "symbols": "ADANIPOWER"
     }
   ],
   "fno_candidates": [
@@ -167,7 +87,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T12:14:47.208175+00:00",
+      "chain_fetched_at_utc": "2026-11-26T14:19:14.252408+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -183,7 +103,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T12:14:47.649316+00:00",
+      "chain_fetched_at_utc": "2026-11-26T14:19:14.659655+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,13 +119,20 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T12:14:48.068934+00:00",
+      "chain_fetched_at_utc": "2026-11-26T14:19:15.026534+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [],
-  "ai_status": "NO_AI_AVAILABLE",
-  "available_models": []
+  "ai_analyses": [
+    {
+      "provider": "GROQ",
+      "analysis": "**DAILY MARKET REPORT — 26 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**FACT** – NIFTY is at 25 884.5 (+0.25 %) and BANK NIFTY at 63 535.3 (‑0.26 %). Both indices are trading **above** their 20‑day EMA (NIFTY EMA20 = 24 862.96, BANK NIFTY EMA20 = 60 524.86) and show **very high RSI** (NIFTY RSI = 77.84, BANK NIFTY RSI = 78.24).  \n**INTERPRETATION** – The technical picture points to a **short‑term bullish bias** but the extreme RSI suggests the market may be **over‑bought** and vulnerable to a pull‑back. Volume data for the indices is unavailable, so the strength of the move cannot be confirmed.  \n\n**REGIME TAG** – *BULLISH‑BUT‑OVERBOUGHT / HIGH‑VOLATILITY‑DRIVEN* (no clear breakout volume, price is near recent highs).\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| # | Headline (source) | Timestamp (IST) | FACT (what happened) | NEWS IMPACT (potential market effect) |\n|---|-------------------|-----------------|----------------------|----------------------------------------|\n| 1 | **India bonds tumble as Brent tops $95/barrel, RBI flags food‑inflation risks** (Economic Times) | 10:50 IST | Govt bond yields rose; oil price > $95; RBI warns of food‑inflation pressure. | Higher inflation expectations → possible **rate‑hike** bias, pressure on equities, especially rate‑sensitive sectors. |\n| 2 | **Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2** (Economic Times) | 10:06 IST | FIIs accumulated large positions in Eternal & Adani Enterprises; ICICI Bank & LIC fell. | **Sector tilt** toward infrastructure / energy; may lift related stocks (e.g., ADANIPOWER). |\n| 3 | **Spike in oil prices partly reverses rupee rally, forward premiums surge** (Economic Times) | 16:06 IST | Brent > $96; rupee weakened to ~₹92.40/USD; importers increasing hedging. | **Currency & commodity stress** – could hurt import‑heavy stocks and increase volatility. |\n| 4 | **NSE among 6 stocks hitting 52‑week highs; stock rallies up to 35 % in a month** (Economic Times) | 17:58 IST | NSE (the exchange) posted a 35 % monthly gain, joining other 52‑week‑high makers. | **Positive market breadth** – may reinforce bullish sentiment in large‑cap space. |\n\n*No single news item alone justifies a CE/PE recommendation; all must be corroborated by price‑action and options data.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n- **Oil price surge** (Brent > $95 → $96) is the dominant macro driver, feeding into **inflation** concerns and **rupee depreciation** (₹92.40/USD).  \n- **RBI** is expected to meet on **4 Dec** for a possible **rate‑hike**; markets are pricing in tighter monetary policy.  \n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n- RBI’s explicit warning on **food‑inflation** adds to the inflation narrative.  \n- No new fiscal measures reported in the supplied feed.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price & technical) | Recent news |\n|--------|--------------------------|-------------|\n| **BSE** | Price = ₹3 990.40, +5.7 %; EMA20 = 3 734.1, EMA50 = 3 580.07, RSI = 74.28, Volume = 1.67× 20‑day avg. | No specific corporate news in the feed. |\n| **HCLTECH** | Price = ₹1 468.60, +6.42 %; EMA20 = 1 381.5, EMA50 = 1 350.2, RSI = 60.93, Volume = 1.66× 20‑day avg. | No specific corporate news in the feed. |\n| **WIPRO** | Price = ₹196.54, +3.96 %; EMA20 = 189.66, EMA50 = 184.42, RSI = 53.02, Volume = 1.79× 20‑day avg. | No specific corporate news in the feed. |\n| **ADANIPOWER** | No price/technical data supplied in the live‑scan (only bond‑sale news). | Planning a **public bond issue** of ≥ ₹2 000 cr (≈ $220 m). |\n\nAll three stocks listed in the **FNO candidate universe** have **no option‑chain data** (option_chain_available = false).  \n\n---\n\n### 6. RESULTS / EARNINGS  \n\n- No earnings releases or results are present in the supplied evidence for the day.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n| Symbol | Option‑chain data available? | Key fields (OI, ΔOI, volume, PCR, IV, max‑pain) | DATA QUALITY |\n|--------|-----------------------------|-----------------------------------------------|--------------|\n| **BSE** | **No** (option_chain_available = false) | – | **INSUFFICIENT** |\n| **HCLTECH** | **No** | – | **INSUFFICIENT** |\n| **WIPRO** | **No** | – | **INSUFFICIENT** |\n| **NIFTY** | **No** | – | **INSUFFICIENT** |\n| **BANK NIFTY** | **No** | – | **INSUFFICIENT** |\n\nBecause **critical fields** (expiry, OI, ΔOI, volume, LTP, bid‑ask) are missing, the **Data‑Quality Gate** fails for every candidate.\n\n---\n\n### 8. TECHNICAL SETUPS (price‑action only)\n\n| Symbol | Bias (price vs EMA) | RSI | ATR | Comment |\n|--------|----------------------|-----|-----|---------|\n| BSE | Price > EMA20/50/200 (strong uptrend) | 74.28 (over‑bought) | 127.48 | Uptrend but risk of short‑term pull‑back. |\n| HCLTECH | Price > EMA20/50/200 (strong uptrend) | 60.93 (neutral‑high) | 40.19 | Momentum building; no over‑bought warning yet. |\n| WIPRO | Price > EMA20/50, < EMA200 (mixed) | 53.02 (mid‑range) | 5.03 | Near‑term rally, but still below longer‑term EMA. |\n| NIFTY / BANK NIFTY | Both > EMA20/50/200, RSI > 77 (over‑bought) | – | – | Broad market bullish but fragile. |\n\nNo **breakout with confirming volume** is evident (volume data for indices missing; for stocks volume is modestly above 20‑day average).\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n- **BSE** – Strong price above all EMAs, high volume, but over‑bought RSI.  \n- **HCLTECH** – Largest intraday gain (+6.4 %) with solid volume; still below over‑bought levels.  \n\n*Both lack option‑chain data, so they remain **watch‑only**.*\n\n### 10. BEARISH WATCHLIST  \n\n- **BANK NIFTY** – Slight decline (‑0.26 %) while RSI is extremely high; could test support near 63 200.  \n- **NIFTY** – Near‑term pull‑back risk due to over‑bought condition.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Symbol | Trap signals | Priced‑in assessment |\n|--------|--------------|----------------------|\n| BSE | Over‑bought RSI + no volume surge → possible **reverse‑trap** if price stalls near recent high (₹3 837.6). | **PARTIALLY PRICED‑IN** – bullish news (market breadth) already reflected; risk of correction remains. |\n| HCLTECH | Momentum but still below over‑bought; no clear trap. | **CANNOT DETERMINE** – insufficient macro‑option data. |\n| NIFTY / BANK NIFTY | High RSI + macro inflation pressure → **potential reversal trap**. | **POTENTIALLY PRICED‑IN** – markets already pricing in rate‑hike risk; further upside limited. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**⚪ DATA INSUFFICIENT** – No candidate meets the **minimum 90/100 “SUPER SETUP” score** *and* passes the **option‑chain data‑quality gate** (expiry, OI, volume, LTP, liquidity).  \n\n**Result:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*If/when an option chain becomes available for any of the above stocks (or for NIFTY / BANK NIFTY) with complete OI, volume and pricing data, a re‑evaluation will be performed.*\n\n---\n\n### 13. POSITION / RISK  \n\n- **Capital available:** ₹25 000.  \n- **Maximum loss per trade (if a trade were taken):** Should not exceed **10 %** of capital (₹2 500) per the trader’s risk‑management rule.  \n- Current proposals would exceed this limit (e.g., a single ATM CE/PE on BSE would require > ₹5 000 premium), reinforcing the **NO‑TRADE** decision.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n| Condition | Status |\n|-----------|--------|\n| Setup‑quality score ≥ 90/100 | **Not met** (top scores ≈ 60). |\n| Complete option‑chain data (expiry, OI, ΔOI, volume, LTP, bid‑ask) | **Missing** for all candidates. |\n| Clear entry trigger (price break with confirming volume & OI) | **Absent**. |\n| Invalidation level defined | **Not defined** (no trade). |\n\nAll mandatory gates fail → **NO TRADE**.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian market is **bullish but over‑bought**, with macro pressure from rising oil prices and looming RBI rate‑hike expectations.  \n- **BSE** and **HCLTECH** show the strongest price momentum, yet **no option‑chain data** is available, preventing any reliable F&O trade construction.  \n- **NIFTY** and **BANK NIFTY** are also lacking option data; their technical over‑bought state suggests caution.  \n- **Action:** Hold cash (₹25 000) or consider **plain‑vanilla equity positions** (outside the scope of this F&O‑only analysis) while awaiting **complete options market data** and a **higher‑quality setup** (score ≥ 90, confirmed entry trigger).  \n\n*Stay alert for the next data release (e.g., option‑chain snapshots, RBI decision on 4 Dec) before initiating any F&O position.*"
+    }
+  ],
+  "ai_status": "SINGLE_AI_AVAILABLE",
+  "available_models": [
+    "GROQ"
+  ]
 }
