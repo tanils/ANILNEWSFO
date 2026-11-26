@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-26T14:19:07.539755+00:00",
+  "generated_at_utc": "2026-11-26T15:45:22.133706+00:00",
   "news": [
     {
       "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
@@ -39,6 +39,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
       "published": "Thu, 26 Nov 2026 10:32:15 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday",
+      "summary": "Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kansai Nerolac and Agarwal Eye, outlining entry levels, stop losses and upside targets.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms",
+      "published": "Thu, 26 Nov 2026 20:20:06 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -87,7 +97,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T14:19:14.252408+00:00",
+      "chain_fetched_at_utc": "2026-11-26T15:45:33.581427+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -103,7 +113,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T14:19:14.659655+00:00",
+      "chain_fetched_at_utc": "2026-11-26T15:45:33.957615+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -119,20 +129,13 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T14:19:15.026534+00:00",
+      "chain_fetched_at_utc": "2026-11-26T15:45:34.381021+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 26 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**FACT** – NIFTY is at 25 884.5 (+0.25 %) and BANK NIFTY at 63 535.3 (‑0.26 %). Both indices are trading **above** their 20‑day EMA (NIFTY EMA20 = 24 862.96, BANK NIFTY EMA20 = 60 524.86) and show **very high RSI** (NIFTY RSI = 77.84, BANK NIFTY RSI = 78.24).  \n**INTERPRETATION** – The technical picture points to a **short‑term bullish bias** but the extreme RSI suggests the market may be **over‑bought** and vulnerable to a pull‑back. Volume data for the indices is unavailable, so the strength of the move cannot be confirmed.  \n\n**REGIME TAG** – *BULLISH‑BUT‑OVERBOUGHT / HIGH‑VOLATILITY‑DRIVEN* (no clear breakout volume, price is near recent highs).\n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| # | Headline (source) | Timestamp (IST) | FACT (what happened) | NEWS IMPACT (potential market effect) |\n|---|-------------------|-----------------|----------------------|----------------------------------------|\n| 1 | **India bonds tumble as Brent tops $95/barrel, RBI flags food‑inflation risks** (Economic Times) | 10:50 IST | Govt bond yields rose; oil price > $95; RBI warns of food‑inflation pressure. | Higher inflation expectations → possible **rate‑hike** bias, pressure on equities, especially rate‑sensitive sectors. |\n| 2 | **Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2** (Economic Times) | 10:06 IST | FIIs accumulated large positions in Eternal & Adani Enterprises; ICICI Bank & LIC fell. | **Sector tilt** toward infrastructure / energy; may lift related stocks (e.g., ADANIPOWER). |\n| 3 | **Spike in oil prices partly reverses rupee rally, forward premiums surge** (Economic Times) | 16:06 IST | Brent > $96; rupee weakened to ~₹92.40/USD; importers increasing hedging. | **Currency & commodity stress** – could hurt import‑heavy stocks and increase volatility. |\n| 4 | **NSE among 6 stocks hitting 52‑week highs; stock rallies up to 35 % in a month** (Economic Times) | 17:58 IST | NSE (the exchange) posted a 35 % monthly gain, joining other 52‑week‑high makers. | **Positive market breadth** – may reinforce bullish sentiment in large‑cap space. |\n\n*No single news item alone justifies a CE/PE recommendation; all must be corroborated by price‑action and options data.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n- **Oil price surge** (Brent > $95 → $96) is the dominant macro driver, feeding into **inflation** concerns and **rupee depreciation** (₹92.40/USD).  \n- **RBI** is expected to meet on **4 Dec** for a possible **rate‑hike**; markets are pricing in tighter monetary policy.  \n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n- RBI’s explicit warning on **food‑inflation** adds to the inflation narrative.  \n- No new fiscal measures reported in the supplied feed.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price & technical) | Recent news |\n|--------|--------------------------|-------------|\n| **BSE** | Price = ₹3 990.40, +5.7 %; EMA20 = 3 734.1, EMA50 = 3 580.07, RSI = 74.28, Volume = 1.67× 20‑day avg. | No specific corporate news in the feed. |\n| **HCLTECH** | Price = ₹1 468.60, +6.42 %; EMA20 = 1 381.5, EMA50 = 1 350.2, RSI = 60.93, Volume = 1.66× 20‑day avg. | No specific corporate news in the feed. |\n| **WIPRO** | Price = ₹196.54, +3.96 %; EMA20 = 189.66, EMA50 = 184.42, RSI = 53.02, Volume = 1.79× 20‑day avg. | No specific corporate news in the feed. |\n| **ADANIPOWER** | No price/technical data supplied in the live‑scan (only bond‑sale news). | Planning a **public bond issue** of ≥ ₹2 000 cr (≈ $220 m). |\n\nAll three stocks listed in the **FNO candidate universe** have **no option‑chain data** (option_chain_available = false).  \n\n---\n\n### 6. RESULTS / EARNINGS  \n\n- No earnings releases or results are present in the supplied evidence for the day.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n| Symbol | Option‑chain data available? | Key fields (OI, ΔOI, volume, PCR, IV, max‑pain) | DATA QUALITY |\n|--------|-----------------------------|-----------------------------------------------|--------------|\n| **BSE** | **No** (option_chain_available = false) | – | **INSUFFICIENT** |\n| **HCLTECH** | **No** | – | **INSUFFICIENT** |\n| **WIPRO** | **No** | – | **INSUFFICIENT** |\n| **NIFTY** | **No** | – | **INSUFFICIENT** |\n| **BANK NIFTY** | **No** | – | **INSUFFICIENT** |\n\nBecause **critical fields** (expiry, OI, ΔOI, volume, LTP, bid‑ask) are missing, the **Data‑Quality Gate** fails for every candidate.\n\n---\n\n### 8. TECHNICAL SETUPS (price‑action only)\n\n| Symbol | Bias (price vs EMA) | RSI | ATR | Comment |\n|--------|----------------------|-----|-----|---------|\n| BSE | Price > EMA20/50/200 (strong uptrend) | 74.28 (over‑bought) | 127.48 | Uptrend but risk of short‑term pull‑back. |\n| HCLTECH | Price > EMA20/50/200 (strong uptrend) | 60.93 (neutral‑high) | 40.19 | Momentum building; no over‑bought warning yet. |\n| WIPRO | Price > EMA20/50, < EMA200 (mixed) | 53.02 (mid‑range) | 5.03 | Near‑term rally, but still below longer‑term EMA. |\n| NIFTY / BANK NIFTY | Both > EMA20/50/200, RSI > 77 (over‑bought) | – | – | Broad market bullish but fragile. |\n\nNo **breakout with confirming volume** is evident (volume data for indices missing; for stocks volume is modestly above 20‑day average).\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n- **BSE** – Strong price above all EMAs, high volume, but over‑bought RSI.  \n- **HCLTECH** – Largest intraday gain (+6.4 %) with solid volume; still below over‑bought levels.  \n\n*Both lack option‑chain data, so they remain **watch‑only**.*\n\n### 10. BEARISH WATCHLIST  \n\n- **BANK NIFTY** – Slight decline (‑0.26 %) while RSI is extremely high; could test support near 63 200.  \n- **NIFTY** – Near‑term pull‑back risk due to over‑bought condition.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Symbol | Trap signals | Priced‑in assessment |\n|--------|--------------|----------------------|\n| BSE | Over‑bought RSI + no volume surge → possible **reverse‑trap** if price stalls near recent high (₹3 837.6). | **PARTIALLY PRICED‑IN** – bullish news (market breadth) already reflected; risk of correction remains. |\n| HCLTECH | Momentum but still below over‑bought; no clear trap. | **CANNOT DETERMINE** – insufficient macro‑option data. |\n| NIFTY / BANK NIFTY | High RSI + macro inflation pressure → **potential reversal trap**. | **POTENTIALLY PRICED‑IN** – markets already pricing in rate‑hike risk; further upside limited. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**⚪ DATA INSUFFICIENT** – No candidate meets the **minimum 90/100 “SUPER SETUP” score** *and* passes the **option‑chain data‑quality gate** (expiry, OI, volume, LTP, liquidity).  \n\n**Result:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*If/when an option chain becomes available for any of the above stocks (or for NIFTY / BANK NIFTY) with complete OI, volume and pricing data, a re‑evaluation will be performed.*\n\n---\n\n### 13. POSITION / RISK  \n\n- **Capital available:** ₹25 000.  \n- **Maximum loss per trade (if a trade were taken):** Should not exceed **10 %** of capital (₹2 500) per the trader’s risk‑management rule.  \n- Current proposals would exceed this limit (e.g., a single ATM CE/PE on BSE would require > ₹5 000 premium), reinforcing the **NO‑TRADE** decision.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n| Condition | Status |\n|-----------|--------|\n| Setup‑quality score ≥ 90/100 | **Not met** (top scores ≈ 60). |\n| Complete option‑chain data (expiry, OI, ΔOI, volume, LTP, bid‑ask) | **Missing** for all candidates. |\n| Clear entry trigger (price break with confirming volume & OI) | **Absent**. |\n| Invalidation level defined | **Not defined** (no trade). |\n\nAll mandatory gates fail → **NO TRADE**.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian market is **bullish but over‑bought**, with macro pressure from rising oil prices and looming RBI rate‑hike expectations.  \n- **BSE** and **HCLTECH** show the strongest price momentum, yet **no option‑chain data** is available, preventing any reliable F&O trade construction.  \n- **NIFTY** and **BANK NIFTY** are also lacking option data; their technical over‑bought state suggests caution.  \n- **Action:** Hold cash (₹25 000) or consider **plain‑vanilla equity positions** (outside the scope of this F&O‑only analysis) while awaiting **complete options market data** and a **higher‑quality setup** (score ≥ 90, confirmed entry trigger).  \n\n*Stay alert for the next data release (e.g., option‑chain snapshots, RBI decision on 4 Dec) before initiating any F&O position.*"
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
