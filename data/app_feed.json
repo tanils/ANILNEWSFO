@@ -1,17 +1,47 @@
 {
   "app_version": 1,
-  "phase": "night",
-  "generated_at_utc": "2026-11-27T00:01:33.949769+00:00",
+  "phase": "pre_market",
+  "generated_at_utc": "2026-11-27T12:00:15.894873+00:00",
   "news": [
+    {
+      "headline": "SC asks HDFC Bank, three others to ok staff prosecution",
+      "summary": "The Supreme Court has ordered HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Housing Finance to grant prosecution sanctions. This order pertains to allegations concerning fraudulent subvention schemes involving real estate developers and financial institutions. Homebuyers were subjected to loan recovery proceedings, even when builders failed to meet their financial obligations. The banks must comply within a week or their heads will have to appear in court.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136206787.cms",
+      "published": "Fri, 27 Nov 2026 01:32:16 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK, ICICIBANK"
+    },
     {
       "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
       "summary": "Indian government bonds fell as oil prices surged, raising concerns about inflation and economic stability. The Reserve Bank of India highlighted rising food inflation pressures, indicating widespread price increases. Higher oil prices may widen the current account deficit and impact the rupee negatively. Investors are anticipating the monetary policy decision scheduled for December 4, with rate hikes expected. The overall economic situation reveals significant inflation challenges ahead for the country.",
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
       "published": "Thu, 26 Nov 2026 10:50:12 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Eurozone bond yields rise as investors return to riskier assets, oil prices rebound",
+      "summary": "Eurozone government bond yields edged higher as investors shifted back towards riskier assets and oil prices rebounded amid escalating Middle East tensions. Markets also assessed the European Central Bank's policy outlook, with money markets pricing in two 25-bps rate hikes by June 2027, despite expectations of a weekly decline in yields.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-investors-return-to-riskier-assets-oil-prices-rebound/articleshow/136218279.cms",
+      "published": "Fri, 27 Nov 2026 15:56:25 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Dividend Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-27-nov-2026/liveblog/136209072.cms",
+      "published": "Fri, 27 Nov 2026 10:03:08 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "ICICIBANK"
     },
     {
       "headline": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
@@ -19,9 +49,49 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms",
       "published": "Thu, 26 Nov 2026 10:06:47 +0530",
-      "freshness": "new",
+      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "ICICIBANK, BSE"
+    },
+    {
+      "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
+      "summary": "Indian government bonds decreased in early trading due to rising oil prices and cautious investor sentiment. The benchmark 6.94% 2036 bond yield increased significantly amid higher expectations for a rate hike. New Delhi is set to raise 330 billion rupees through a bond sale, contributing to market tension. Concerns over food-price pressures and inflation continue to influence the Reserve Bank of India's upcoming decision.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+      "published": "Fri, 27 Nov 2026 11:40:03 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "HDFC Bank, SBI, 8 other stocks JPMorgan is bullish on as markets gear up to enter 2027. See full list",
+      "summary": "As we step into 2027, Indian equities show promise, buoyed by favorable economic indicators. JPMorgan has rated ten stocks as Overweight, signaling significant growth potential in contenders like HDFC Bank, SBI, and Bajaj Finance. However, market experts advise a cautious and selective investment strategy given the prevailing uncertainties, emphasizing the importance of thorough analysis for informed financial decisions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-sbi-8-other-stocks-jpmorgan-is-bullish-on-as-markets-gear-up-to-enter-2027-see-full-list/slideshow/136208713.cms",
+      "published": "Fri, 27 Nov 2026 09:35:05 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "HDFCBANK"
+    },
+    {
+      "headline": "Dubai seals deal for $159 billion Islamic banking giant",
+      "summary": "Dubai Islamic Bank PJSC will acquire Emirates Islamic Bank PJSC in an all-stock deal to boost its banking presence. The merger will result in the formation of a strong Islamic banking group with substantial assets. This transaction indicates a strategic move to combine corporate and retail banking services effectively. Emirates NBD Bank, the owner of Emirates Islamic, will hold a significant stake in the new entity.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dubai-seals-deal-for-159-billion-islamic-banking-giant/articleshow/136206936.cms",
+      "published": "Fri, 27 Nov 2026 07:42:29 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gold steady, heads for weekly gain as markets await Fed signals",
+      "summary": "Gold prices have remained steady as investors closely monitor anticipated guidance from the US Federal Reserve regarding interest rates. Current forecasts suggest a possible rate hike next month, which may influence gold's market attractiveness. October saw a slight uptick in China's gold imports through Hong Kong, hinting at increased demand. Meanwhile, spot silver prices dipped, contrasted by a marginal rise in platinum.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-heads-for-weekly-gain-as-markets-await-fed-signals/articleshow/136206965.cms",
+      "published": "Fri, 27 Nov 2026 07:35:41 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
@@ -29,6 +99,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms",
       "published": "Thu, 26 Nov 2026 16:06:16 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Dollar lingers near 22-month peak as AI worries simmer",
+      "summary": "The US dollar is stable after recent fluctuations, as traders look to equity markets for guidance. This week, the dollar index reached a 22-month peak before retreating slightly. Anticipation of a Federal Reserve interest rate hike is supporting the currency's value. Analysts suggest that the trajectory of AI-related stocks could impact various currencies like the Australian and Mexican pesos.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-lingers-near-22-month-peak-as-ai-worries-simmer/articleshow/136207046.cms",
+      "published": "Fri, 27 Nov 2026 07:36:22 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -39,6 +119,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
       "published": "Thu, 26 Nov 2026 10:32:15 +0530",
+      "freshness": "recent",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Tata Consumer Products Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-updates-27-nov-2026/liveblog/136209138.cms",
+      "published": "Fri, 27 Nov 2026 10:04:21 +0530",
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
@@ -62,84 +152,54 @@
       "freshness": "new",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
-      "summary": "The rupee fell 20 paise to 92.40 against the US dollar in early trade. Higher crude oil prices and proposed tariffs by the US administration increased dollar demand. Foreign fund inflows supported the rupee but it faced pressure from rising crude prices. The US proposed 25 percent tariffs on imports from India, which raised inflation concerns. India rejected these allegations and expressed commitment to finalize a bilateral trade deal.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
-      "published": "Thu, 26 Nov 2026 10:54:36 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month",
-      "summary": "Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week highs on Thursday. NSE led monthly gains, surging 35%, followed by Prestige Estates at 32%.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms",
-      "published": "Thu, 26 Nov 2026 17:58:07 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "BSE"
-    },
-    {
-      "headline": "Adani firms plan public bond sale to raise at least Rs 2,000 crore",
-      "summary": "Adani Enterprises and Adani Power are planning public bond offerings to raise at least Rs 20 billion ($220 million), according to sources. The fundraising could help revive India's subdued public debt market, where issuances have lagged the previous fiscal year's levels. Both companies are working with local bond arrangers.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million/articleshow/136178950.cms",
-      "published": "Thu, 26 Nov 2026 10:19:08 +0530",
-      "freshness": "new",
-      "news_type": "context",
-      "symbols": "ADANIPOWER"
     }
   ],
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "BSE",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "SHRIRAMFIN",
+      "price": 923.5,
+      "change_pct": -3.99,
+      "setup_quality_score": 62.98,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T00:01:45.361387+00:00",
+      "chain_fetched_at_utc": "2026-11-27T12:00:27.377106+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ADANIPOWER",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "BEL",
+      "price": 411.45001220703125,
+      "change_pct": 1.72,
+      "setup_quality_score": 56.16,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T00:01:45.848409+00:00",
+      "chain_fetched_at_utc": "2026-11-27T12:00:28.201902+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "ICICIBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
+      "symbol": "PERSISTENT",
+      "price": 6320.0,
+      "change_pct": 1.94,
+      "setup_quality_score": 47.91,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T00:01:46.341871+00:00",
+      "chain_fetched_at_utc": "2026-11-27T12:00:28.682268+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
