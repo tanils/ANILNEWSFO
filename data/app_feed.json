@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-26T19:15:35.899237+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-27T00:01:33.949769+00:00",
   "news": [
     {
       "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
@@ -107,28 +107,12 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T19:15:44.767825+00:00",
+      "chain_fetched_at_utc": "2026-11-27T00:01:45.361387+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "ICICIBANK",
-      "price": NaN,
-      "change_pct": NaN,
-      "setup_quality_score": NaN,
-      "option_chain_available": false,
-      "expiry": null,
-      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
-      "calls": [],
-      "puts": [],
-      "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T19:15:45.120020+00:00",
-      "chain_provider_timestamp": null,
-      "chain_warning": null
-    },
-    {
-      "rank": 3,
       "symbol": "ADANIPOWER",
       "price": NaN,
       "change_pct": NaN,
@@ -139,20 +123,29 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-26T19:15:45.491040+00:00",
+      "chain_fetched_at_utc": "2026-11-27T00:01:45.848409+00:00",
+      "chain_provider_timestamp": null,
+      "chain_warning": null
+    },
+    {
+      "rank": 3,
+      "symbol": "ICICIBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
+      "option_chain_available": false,
+      "expiry": null,
+      "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
+      "calls": [],
+      "puts": [],
+      "chain_source": "unavailable",
+      "chain_fetched_at_utc": "2026-11-27T00:01:46.341871+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 26 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n| Index / Stock | Recent Trend (prev close vs EMA) | Volume vs 20‑day avg | Regime* |\n|---------------|----------------------------------|----------------------|---------|\n| **NIFTY** | Prev Close 25 819 > EMA‑20 24 755 (above) | 0 % (no volume data) | **Bullish‑ish** (price above short‑term EMA) |\n| **BANKNIFTY** | Prev Close 63 703 > EMA‑20 60 208 (above) | 0 % (no volume data) | **Bullish‑ish** |\n| **BSE** | Prev Close 3 775 > EMA‑20 3 707 (above) | 1.67 × 20‑day avg (strong) | **Bullish‑ish, high‑volume** |\n| **ICICIBANK** | Prev Close 1 640 ≈ EMA‑20 1 540 (slightly above) | 0.87 × 20‑day avg (weak) | **Neutral‑to‑Bullish** |\n| **ADANIPOWER** | Prev Close 206 ≈ EMA‑20 203.5 (slightly above) | 0.86 × 20‑day avg (weak) | **Neutral‑to‑Bullish** |\n\n\\*Regime classification follows the supplied EMA‑20 relationship and volume signal. No VIX, breadth or global data were supplied, so the assessment is limited to price‑EMA and volume.\n\n---\n\n### 2. TOP CURRENT CATALYSTS (from news feed)\n\n| Timestamp (IST) | Headline | FACT | NEWS IMPACT |\n|------------------|----------|------|-------------|\n| 10:50 | *India bonds tumble as Brent tops $95, RBI flags food inflation* | Brent > $95 /barrel; RBI warns food‑inflation risk; bond yields rise. | **Bearish‑to‑Neutral** for risk‑off assets; could pressure equities via higher rates. |\n| 10:06 | *Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2* | FIIs net‑bought these stocks in Q2 2026. | **Positive** for the named stocks; no direct impact on BSE/ICICIBANK/ADANIPOWER. |\n| 16:06 | *Spike in oil prices partly reverses rupee rally, forward premiums surge* | Brent ≈ $96 /barrel; rupee at 92.40 /USD; forward premiums up. | **Bearish** for INR‑denominated equities; may lift import‑cost pressure. |\n| 10:32 | *Why is SanDisk stock falling despite surging profits?* | US‑stock; no Indian relevance. | **Neutral** for Indian market. |\n| 21:21 | *Ashiana Housing JV buys 10‑acre land in Chennai* | Large land purchase for senior‑living project. | **Neutral‑to‑Positive** for Ashiana (not in our F&O universe). |\n| 20:20 | *Market Trading Guide: Tech Mahindra, Angel One …* | Analyst‑recommended entry/stop/target levels (no raw numbers supplied). | **Neutral** – no concrete data to act on. |\n| 10:54 | *Rupee falls 20 paise to 92.40* | Same as oil‑price story; rupee pressure. | **Bearish** for INR‑denominated equities. |\n| 17:58 | *NSE among 6 stocks hitting 52‑week highs* | NSE (exchange) up 35 % month‑to‑date. | **Positive market sentiment** but not a stock‑specific catalyst. |\n| 10:19 | *Adani firms plan public bond sale (≥ Rs 2 000 cr)* | Bond issuance announced. | **Neutral‑to‑Bearish** for Adani equities (dilution risk). |\n\n---\n\n### 3. GLOBAL / MACRO  \n*Only the above macro‑level news (oil price, RBI inflation warning, rupee move) were supplied. No additional data on crude, DXY, yields, or global equity indices were provided.*\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n*RBI’s inflation warning (food‑price risk) and upcoming monetary‑policy meeting (Dec 4) are the only policy items supplied.*\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n*No sector‑wide data were supplied beyond the individual headlines listed above.*\n\n---\n\n### 6. RESULTS / EARNINGS  \n*No earnings releases were present in the supplied evidence.*\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n| Symbol | Option‑chain data supplied? | Expiry | Call OI / Put OI | Volume (option) | LTP (option) |\n|--------|----------------------------|--------|------------------|-----------------|--------------|\n| **BSE** | **No** (option_chain_available = false) | – | – | – | – |\n| **ICICIBANK** | **No** | – | – | – | – |\n| **ADANIPOWER** | **No** | – | – | – | – |\n| **NIFTY** | **No** | – | – | – | – |\n| **BANKNIFTY** | **No** | – | – | – | – |\n\n*All critical fields required for the data‑quality gate (expiry, OI, change‑in‑OI, option LTP, volume, liquidity) are missing.*  \n**Result:** **DATA INSUFFICIENT** for any F&O‑based trade.\n\n---\n\n### 8. TECHNICAL SETUPS (price‑EMA, ATR, volume)\n\n| Symbol | EMA‑20 vs Prev Close | ATR (14) | Volume vs 20‑d avg | Interpretation |\n|--------|----------------------|----------|--------------------|----------------|\n| **BSE** | 3 707 < 3 775 (≈ +2 %) | 127.48 | 1.67 × avg (strong) | Slightly bullish; strong turnover suggests interest. |\n| **ICICIBANK** | 1 540 < 1 640 (≈ +6 %) | 41.4 | 0.87 × avg (weak) | Price above EMA‑20 but low volume – caution. |\n| **ADANIPOWER** | 203.5 ≈ 206 (≈ +1 %) | 4.76 | 0.86 × avg (weak) | Near‑EMA, low volume – neutral. |\n| **NIFTY** | 24 755 < 25 819 (≈ +4 %) | 386.79 | 0 % (no data) | Bullish on EMA, but missing volume. |\n| **BANKNIFTY** | 60 208 < 63 703 (≈ +5 %) | 1 297.85 | 0 % (no data) | Bullish on EMA, missing volume. |\n\nNo confluence of breakout, strong volume, and OI evidence is present for any instrument.\n\n---\n\n### 9. BULLISH WATCHLIST  \n*(Based on price above EMA‑20 and any positive news)*  \n\n| Symbol | Reason |\n|--------|--------|\n| **BSE** – price > EMA‑20, volume 1.67× avg, overall market upbeat. |\n| **NIFTY** – price > EMA‑20, macro‑bias bullish despite inflation concerns. |\n| **BANKNIFTY** – same as NIFTY. |\n\n*No option‑chain data → cannot construct a qualified F&O trade.*\n\n---\n\n### 10. BEARISH WATCHLIST  \n| Symbol | Reason |\n|--------|--------|\n| **ICICIBANK** – price > EMA‑20 but volume below 1× avg; RBI inflation warning may hurt banking sector. |\n| **ADANIPOWER** – price marginally above EMA‑20, weak volume; bond‑sale news could add pressure. |\n| **Overall market** – RBI inflation warning, rising oil, rupee weakness → risk‑off bias. |\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n*Given the lack of option‑chain evidence, no trap can be confirmed. The macro news (oil, RBI) appears **partially priced‑in** – markets have already moved modestly (e.g., rupee at 92.40).*\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n**DATA INSUFFICIENT** – all required F&O fields (expiry, OI, change‑in‑OI, option LTP, volume, liquidity) are missing for every candidate in the universe. Consequently, no trade can be validated against the hard rules.\n\n**Result:** **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**\n\n---\n\n### 13. POSITION / RISK  \n*Not applicable – no trade recommended.*\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n- Missing option‑chain expiry and OI data → fails **Data Quality Gate**.  \n- No triggerable entry condition can be defined without a current spot price or option premium.  \n- No setup reaches the required **90/100** “SUPER SETUP” score (scores are `NaN`).  \n\n---\n\n### 15. FINAL SUMMARY  \n- The market shows a **bullish‑ish bias** on the major indices (price above EMA‑20) but is under **inflation‑risk pressure** from rising oil and RBI warnings.  \n- **Liquidity is strong only for BSE** (stock‑level volume), but **no option‑chain data** are available for any of the top‑ranked F&O candidates.  \n- Because the essential option‑chain fields (expiry, OI, volume, LTP) are absent, we cannot meet the evidence‑first, trigger‑based criteria required for a qualified trade.  \n- **Action:** Hold cash or stay in the market with a **plain‑vanilla equity position** if desired, but **do not place any CE/PE F&O trade** until a complete, up‑to‑date option chain with OI and volume is available and a clear entry trigger materialises.\n\n---"
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
