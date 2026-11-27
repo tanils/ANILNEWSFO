@@ -1,7 +1,7 @@
 {
   "app_version": 1,
   "phase": "live_scan",
-  "generated_at_utc": "2026-11-27T17:39:26.253158+00:00",
+  "generated_at_utc": "2026-11-27T18:25:33.859244+00:00",
   "news": [
     {
       "headline": "India bonds slump as oil spike adds to RBI hike bets",
@@ -44,16 +44,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "US stocks edge higher as battered AI shares claw back losses: Stock Market Live Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-gold-silver-price-coreqeave-nebius-meta-nvidia-ai-stocks-fed-rate-hike-treasury-yield-news-27th-november-2026/liveblog/136223511.cms",
-      "published": "Fri, 27 Nov 2026 18:16:59 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
       "headline": "Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month",
       "summary": "Six BSE 1000 stocks, including Dishman Carbogen Amcis, Happiest Minds and TCI Express, touched fresh 52-week lows on Friday amid weakness in the broader market.",
       "source": "Economic Times Markets",
@@ -69,6 +59,16 @@
       "source": "Economic Times Markets",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms",
       "published": "Fri, 27 Nov 2026 18:56:12 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nasdaq jumps 2%, Dow gains 600 pts as US stocks log weekly gains: Stock Market Live Updates",
+      "summary": "",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-gold-silver-price-coreqeave-nebius-meta-nvidia-ai-stocks-fed-rate-hike-treasury-yield-news-27th-november-2026/liveblog/136223511.cms",
+      "published": "Fri, 27 Nov 2026 18:16:59 +0530",
       "freshness": "new",
       "news_type": "context",
       "symbols": "MARKET/SECTOR"
@@ -117,7 +117,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T17:39:35.843629+00:00",
+      "chain_fetched_at_utc": "2026-11-27T18:25:44.700215+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -133,7 +133,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T17:39:36.362015+00:00",
+      "chain_fetched_at_utc": "2026-11-27T18:25:45.403902+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -149,20 +149,13 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T17:39:36.768057+00:00",
+      "chain_fetched_at_utc": "2026-11-27T18:25:45.923754+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [
-    {
-      "provider": "GROQ",
-      "analysis": "**DAILY MARKET REPORT — 27 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n**NIFTY** – Down 1.07 % from previous close, RSI 66.9 (over‑bought), price below EMA‑20 (25 633) and EMA‑50 (24 205).  \n**BANK NIFTY** – Down 0.78 % from previous close, RSI 71.7 (strong over‑bought), price below EMA‑20 (60 764) and EMA‑50 (58 517).  \n\nBoth indices are **bearish‑biased** on the short‑term (price below short‑term EMAs, negative daily change) but still in a high‑RSI zone, suggesting a possible short‑term pull‑back rather than a clean breakout.  \n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| Time (IST) | Headline | FACT | NEWS IMPACT |\n|------------|----------|------|-------------|\n| 17:24 | “India bonds slump as oil spike adds to RBI hike bets” | Benchmark 10‑yr yield 7.265 % (highest in a week). | Higher inflation expectations → risk‑off bias for equities. |\n| 15:56 | “Eurozone bond yields rise as investors return to riskier assets, oil prices rebound” | Eurozone yields up, ECB outlook unchanged. | Global risk‑off pressure may spill into Indian markets. |\n| 22:03 | “Blackstone sells 1.55 % stake in IGI … shares rose 1 %” | Sale of 67.16 L shares at ₹417 each. | Minor positive price reaction, limited broader impact. |\n| 11:40 | “India bonds decline ahead of fresh debt sale … inflation worries” | Govt‑bond yields rise, RBI rate‑hike expectations. | Reinforces risk‑off sentiment. |\n| 16:31 | “Ion Exchange India among 6 stocks hitting 52‑week low” | Six BSE‑1000 stocks, including BEL, hit fresh 52‑wk lows. | Highlights sector‑wide weakness. |\n\n*All news are **new** (≤ 12 h old) and therefore current.*\n\n---\n\n### 3. GLOBAL / MACRO  \n\n* Oil prices have risen sharply, feeding inflation concerns in India.  \n* US Treasury yields are higher, supporting expectations of a tighter RBI stance.  \n* Eurozone yields are also climbing, indicating a broader move to risk‑off assets.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n\n* RBI is expected to consider a policy rate hike in the upcoming meeting (no official decision yet).  \n* Fresh sovereign‑bond issuance (₹330 bn) adds supply pressure on yields.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n\n| Symbol | Fact (price & technical) | News Impact |\n|--------|--------------------------|-------------|\n| **SHRIRAMFIN** | Price ₹923.5, –3.99 % on day; EMA‑20 ₹953.8, EMA‑50 ₹960.5; RSI 40.2; volume 3.32 × 20‑day avg. | No specific corporate news; price under EMA‑20 suggests short‑term weakness. |\n| **BEL** | Price ₹411.45, +1.72 %; EMA‑20 ₹396.4, EMA‑50 ₹392.6; RSI 64.8; volume 1.51 × 20‑day avg. | No corporate news; price above short‑term EMAs, RSI approaching over‑bought. |\n| **PERSISTENT** | Price ₹6 320, +1.94 %; EMA‑20 ₹6 034, EMA‑50 ₹5 844; RSI 59.1; volume 0.92 × 20‑day avg. | No corporate news; price comfortably above EMAs, moderate RSI. |\n\nAll three stocks are in the **fno_candidate_universe** but **option‑chain data is unavailable** (no expiry, OI, volume, or premium information).\n\n---\n\n### 6. RESULTS / EARNINGS  \n\nNo earnings releases or results were present in the supplied evidence for the listed stocks or indices on 27 Nov 2026.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n* **Option‑chain availability:** `option_chain_available = false` for SHRIRAMFIN, BEL, PERSISTENT, NIFTY, BANKNIFTY.  \n* **Critical fields missing:** expiry, call/put OI, change‑in‑OI, option volume, LTP, bid‑ask spread, PCR, IV.  \n\n**Result:** **DATA INSUFFICIENT** for any F&O‑based trade assessment.\n\n---\n\n### 8. TECHNICAL SETUPS  \n\n| Symbol / Index | Trend | Key Levels (Prev Day) | Indicator Confluence |\n|----------------|-------|----------------------|----------------------|\n| **NIFTY** | Down (price 25 607 < EMA‑20 24 933) | High 25 974.9, Low 25 733.5 | RSI 66.9 (over‑bought), ATR 367 |\n| **BANKNIFTY** | Down (price 63 040 < EMA‑20 60 764) | High 64 104.8, Low 63 332.3 | RSI 71.7 (strong over‑bought), ATR 1 229 |\n| **SHRIRAMFIN** | Down (price 923.5 < EMA‑20 953.8) | High 987.85, Low 956.65 | RSI 40.2 (near‑oversold), high volume |\n| **BEL** | Up (price 411.45 > EMA‑20 396.4) | High 410, Low 403.05 | RSI 64.8 (approaching over‑bought) |\n| **PERSISTENT** | Up (price 6 320 > EMA‑20 6 034) | High 6 299.5, Low 6 117 | RSI 59.1 (neutral) |\n\nNo single chart pattern (breakout, breakdown, reversal) is confirmed with volume spikes or OI evidence.\n\n---\n\n### 9. BULLISH WATCHLIST  \n\n* **BEL** – price above short‑term EMAs, volume modestly above average, RSI 64.8.  \n* **PERSISTENT** – price comfortably above EMAs, moderate upside momentum.\n\n*Note: No option‑chain data → cannot construct a qualified CE/PE trade.*\n\n---\n\n### 10. BEARISH WATCHLIST  \n\n* **SHRIRAMFIN** – price below EMA‑20/50, negative daily change, RSI 40.2 (possible oversold but still trending down).  \n* **NIFTY** & **BANKNIFTY** – both below short‑term EMAs, negative daily % change, high RSI (potential short‑term pull‑back).\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Asset | Potential Trap | Priced‑In Assessment |\n|-------|----------------|----------------------|\n| **NIFTY / BANKNIFTY** | Breakout attempts into previous‑day highs with weak volume (volume = 0 in data) → trap risk. | **PARTIALLY PRICED‑IN** – macro risk‑off news already reflected in lower prices; further downside may still be open. |\n| **SHRIRAMFIN** | Downward move into EMA‑20 with rising volume could be a short‑term trap if reversal occurs. | **CANNOT DETERMINE** – no OI or option data to gauge positioning. |\n| **BEL / PERSISTENT** | Upward move near over‑bought RSI without strong volume → risk of reversal. | **CANNOT DETERMINE** – missing OI/option data. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\n*Reason:* All candidate stocks and indices lack the required option‑chain details (expiry, OI, volume, premium, liquidity). The highest setup‑quality score (SHRIRAMFIN 62.98) is well below the 90/100 threshold for a “SUPER SETUP”. Without OI/volume confirmation in the options market, a triggerable entry cannot be defined.\n\n---\n\n### 13. POSITION / RISK  \n\nNo position is recommended. Capital of ₹25,000 remains unallocated pending a qualified setup.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n* Missing option‑chain data (expiry, OI, volume, LTP).  \n* Setup‑quality scores < 90/100.  \n* Insufficient confirmation from OI/option‑volume to pair with price action.  \n\nAll these trigger the **⚪ DATA INSUFFICIENT** / **🚫 NO TRADE** state.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The Indian equity market is under **bearish pressure** due to rising oil prices, higher global yields, and RBI rate‑hike expectations.  \n- NIFTY and BANKNIFTY are trading below short‑term EMAs with high RSI, indicating a possible short‑term pull‑back but no clean breakout.  \n- Among the listed stocks, **SHRIRAMFIN** shows the strongest short‑term weakness, while **BEL** and **PERSISTENT** are modestly bullish.  \n- **Critical limitation:** No option‑chain information is available for any candidate, making any F&O trade speculative and non‑compliant with the data‑quality gate.  \n\n**Action:** Hold cash, monitor for the release of a complete option chain (expiry, OI, volume) and for a higher‑scoring setup (≥ 90) before entering any CE/PE position. Keep an eye on macro developments (oil, RBI policy) that could trigger a clearer directional move."
-    }
-  ],
-  "ai_status": "SINGLE_AI_AVAILABLE",
-  "available_models": [
-    "GROQ"
-  ]
+  "ai_analyses": [],
+  "ai_status": "NO_AI_AVAILABLE",
+  "available_models": []
 }
