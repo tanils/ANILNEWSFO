@@ -1,25 +1,15 @@
 {
   "app_version": 1,
-  "phase": "pre_market",
-  "generated_at_utc": "2026-11-27T12:00:15.894873+00:00",
+  "phase": "live_scan",
+  "generated_at_utc": "2026-11-27T14:14:20.227656+00:00",
   "news": [
     {
-      "headline": "SC asks HDFC Bank, three others to ok staff prosecution",
-      "summary": "The Supreme Court has ordered HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Housing Finance to grant prosecution sanctions. This order pertains to allegations concerning fraudulent subvention schemes involving real estate developers and financial institutions. Homebuyers were subjected to loan recovery proceedings, even when builders failed to meet their financial obligations. The banks must comply within a week or their heads will have to appear in court.",
+      "headline": "India bonds slump as oil spike adds to RBI hike bets",
+      "summary": "Indian government bonds experienced a decline this week, largely influenced by rising oil prices and US Treasury yields. The benchmark bond yield reached its highest point in a week at 7.2650% on Friday. Analysts are anticipating a potential increase in interest rates from the Reserve Bank of India in their upcoming policy decision. A surge in oil prices raises inflation concerns, especially since retail inflation exceeded the RBI's tolerance threshold.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136206787.cms",
-      "published": "Fri, 27 Nov 2026 01:32:16 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
+      "published": "Fri, 27 Nov 2026 17:24:01 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK, ICICIBANK"
-    },
-    {
-      "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
-      "summary": "Indian government bonds fell as oil prices surged, raising concerns about inflation and economic stability. The Reserve Bank of India highlighted rising food inflation pressures, indicating widespread price increases. Higher oil prices may widen the current account deficit and impact the rupee negatively. Investors are anticipating the monetary policy decision scheduled for December 4, with rate hikes expected. The overall economic situation reveals significant inflation challenges ahead for the country.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
-      "published": "Thu, 26 Nov 2026 10:50:12 +0530",
-      "freshness": "recent",
       "news_type": "catalyst",
       "symbols": "MARKET/SECTOR"
     },
@@ -34,26 +24,6 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "ICICI Bank Share Price Live Updates: ICICI Bank Dividend Updates",
-      "summary": "",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-27-nov-2026/liveblog/136209072.cms",
-      "published": "Fri, 27 Nov 2026 10:03:08 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK"
-    },
-    {
-      "headline": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
-      "summary": "In the September 2026 quarter, Foreign Institutional Investors (FIIs) boosted their stakes in various firms, notably in Eternal and Adani Enterprises, despite facing mixed performance trends in stock values. While ICICI Bank and the Life Insurance Corporation of India saw a downturn, Welspun Corp and Lenskart Solutions marked notable stock price increases. Overall, the aggregate FII investment in NSE-listed companies observed a decline in value during this period.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms",
-      "published": "Thu, 26 Nov 2026 10:06:47 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "ICICIBANK, BSE"
-    },
-    {
       "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
       "summary": "Indian government bonds decreased in early trading due to rising oil prices and cautious investor sentiment. The benchmark 6.94% 2036 bond yield increased significantly amid higher expectations for a rate hike. New Delhi is set to raise 330 billion rupees through a bond sale, contributing to market tension. Concerns over food-price pressures and inflation continue to influence the Reserve Bank of India's upcoming decision.",
       "source": "Economic Times Markets",
@@ -64,93 +34,63 @@
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "HDFC Bank, SBI, 8 other stocks JPMorgan is bullish on as markets gear up to enter 2027. See full list",
-      "summary": "As we step into 2027, Indian equities show promise, buoyed by favorable economic indicators. JPMorgan has rated ten stocks as Overweight, signaling significant growth potential in contenders like HDFC Bank, SBI, and Bajaj Finance. However, market experts advise a cautious and selective investment strategy given the prevailing uncertainties, emphasizing the importance of thorough analysis for informed financial decisions.",
+      "headline": "Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month",
+      "summary": "Six BSE 1000 stocks, including Dishman Carbogen Amcis, Happiest Minds and TCI Express, touched fresh 52-week lows on Friday amid weakness in the broader market.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-sbi-8-other-stocks-jpmorgan-is-bullish-on-as-markets-gear-up-to-enter-2027-see-full-list/slideshow/136208713.cms",
-      "published": "Fri, 27 Nov 2026 09:35:05 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ion-exchange-india-among-6-stocks-hitting-52-week-low-shares-slipped-up-to-20-in-a-month/slideshow/136219516.cms",
+      "published": "Fri, 27 Nov 2026 16:31:59 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "HDFCBANK"
+      "news_type": "context",
+      "symbols": "BSE"
     },
     {
-      "headline": "Dubai seals deal for $159 billion Islamic banking giant",
-      "summary": "Dubai Islamic Bank PJSC will acquire Emirates Islamic Bank PJSC in an all-stock deal to boost its banking presence. The merger will result in the formation of a strong Islamic banking group with substantial assets. This transaction indicates a strategic move to combine corporate and retail banking services effectively. Emirates NBD Bank, the owner of Emirates Islamic, will hold a significant stake in the new entity.",
+      "headline": "Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD",
+      "summary": "The capital market industry is hoping for some relief in capital gains taxation, including a possible reduction in short-term capital gains tax, in the upcoming Union Budget 2027-28, said Lakha Nair, Managing Director and Head of Corporate Finance, Axis Capital Limited.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dubai-seals-deal-for-159-billion-islamic-banking-giant/articleshow/136206936.cms",
-      "published": "Fri, 27 Nov 2026 07:42:29 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms",
+      "published": "Fri, 27 Nov 2026 18:56:12 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Gold steady, heads for weekly gain as markets await Fed signals",
-      "summary": "Gold prices have remained steady as investors closely monitor anticipated guidance from the US Federal Reserve regarding interest rates. Current forecasts suggest a possible rate hike next month, which may influence gold's market attractiveness. October saw a slight uptick in China's gold imports through Hong Kong, hinting at increased demand. Meanwhile, spot silver prices dipped, contrasted by a marginal rise in platinum.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-heads-for-weekly-gain-as-markets-await-fed-signals/articleshow/136206965.cms",
-      "published": "Fri, 27 Nov 2026 07:35:41 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
-      "summary": "The Indian rupee has faced depreciation as a result of escalating oil prices combined with pressures from surrounding currencies. With Brent crude exceeding $96 per barrel, worries about India's import costs and inflation have intensified. Recent days have seen heightened hedging activity among importers, leading analysts to forecast potential testing of the rupee's support levels. Additionally, banks are urging central bank intervention to manage the growing dollar surplus.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms",
-      "published": "Thu, 26 Nov 2026 16:06:16 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Dollar lingers near 22-month peak as AI worries simmer",
-      "summary": "The US dollar is stable after recent fluctuations, as traders look to equity markets for guidance. This week, the dollar index reached a 22-month peak before retreating slightly. Anticipation of a Federal Reserve interest rate hike is supporting the currency's value. Analysts suggest that the trajectory of AI-related stocks could impact various currencies like the Australian and Mexican pesos.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-lingers-near-22-month-peak-as-ai-worries-simmer/articleshow/136207046.cms",
-      "published": "Fri, 27 Nov 2026 07:36:22 +0530",
-      "freshness": "new",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Why is SanDisk stock falling despite surging profits?",
-      "summary": "SanDisk shares tumble amid fading AI optimism, declining NAND price forecasts and semiconductor sector weakness. Despite strong earnings and data centre demand, investors fear potential memory-chip oversupply and weakening future profitability.",
-      "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
-      "published": "Thu, 26 Nov 2026 10:32:15 +0530",
-      "freshness": "recent",
-      "news_type": "catalyst",
-      "symbols": "MARKET/SECTOR"
-    },
-    {
-      "headline": "Tata Consumer Products Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+      "headline": "Nasdaq futures rise as investors return to battered AI stocks: Stock Market Live Updates",
       "summary": "",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-updates-27-nov-2026/liveblog/136209138.cms",
-      "published": "Fri, 27 Nov 2026 10:04:21 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-gold-silver-price-coreqeave-nebius-meta-nvidia-ai-stocks-fed-rate-hike-treasury-yield-news-27th-november-2026/liveblog/136223511.cms",
+      "published": "Fri, 27 Nov 2026 18:16:59 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue",
-      "summary": "Ashiana Housing Ltd recently revealed its acquisition of nearly 10 acres in Chennai aimed at a senior living initiative. In collaboration with Arihant Foundations, the project estimates a saleable area of around 9 lakh square feet, with an anticipated revenue potential of Rs 1,100 crore. The land purchase cost remains undisclosed, furthering Ashiana's commitment to senior living and group housing developments across various regions.",
+      "headline": "Rupee rally takes a hit as AI trade revival dents shares, currency sees weekly dip",
+      "summary": "The Indian rupee has seen a downturn against the US dollar, driven by a drop in local stocks and a rise in oil prices. Interestingly, foreign investments in Indian equities have rebounded, reaching approximately $16 billion this month. With growing interest in AI markets, the rupee's stability could be at risk.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-jv-buys-10-acre-land-in-chennai-for-senior-living-project-eyes-rs-1100-cr-revenue/articleshow/136197134.cms",
-      "published": "Thu, 26 Nov 2026 21:21:45 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rally-takes-a-hit-as-ai-trade-revival-dents-shares-currency-sees-weekly-dip/articleshow/136218142.cms",
+      "published": "Fri, 27 Nov 2026 15:53:05 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     },
     {
-      "headline": "Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday",
-      "summary": "Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kansai Nerolac and Agarwal Eye, outlining entry levels, stop losses and upside targets.",
+      "headline": "Can SpaceX's AI ambitions drive further upside in its stock?",
+      "summary": "SpaceX shares rally on bullish trading signals as Elon Musk expands the company's AI ambitions. Strong revenue growth and a proposed satellite data centre network fuel optimism, despite valuation concerns.",
       "source": "Economic Times Markets",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms",
-      "published": "Thu, 26 Nov 2026 20:20:06 +0530",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-spacexs-ai-ambitions-drive-further-upside-in-its-stock/slideshow/136213079.cms",
+      "published": "Fri, 27 Nov 2026 12:23:29 +0530",
       "freshness": "new",
-      "news_type": "catalyst",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Nvidia stock plunges 35% from record high: Is it a buying opportunity?",
+      "summary": "Nvidia has lost over $2 trillion in market value as shares plunged 35% from record highs amid concerns about the sustainability of AI investments. Despite the correction, strong hyperscaler demand supports growth projections, with revenue expected to rise 75% in 2027. Valuation, regulatory scrutiny and spending risks remain key concerns.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-plunges-35-from-record-high-is-it-a-buying-opportunity/slideshow/136209377.cms",
+      "published": "Fri, 27 Nov 2026 10:07:47 +0530",
+      "freshness": "new",
+      "news_type": "context",
       "symbols": "MARKET/SECTOR"
     }
   ],
@@ -167,7 +107,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T12:00:27.377106+00:00",
+      "chain_fetched_at_utc": "2026-11-27T14:14:28.238182+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -176,14 +116,14 @@
       "symbol": "BEL",
       "price": 411.45001220703125,
       "change_pct": 1.72,
-      "setup_quality_score": 56.16,
+      "setup_quality_score": 51.66,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T12:00:28.201902+00:00",
+      "chain_fetched_at_utc": "2026-11-27T14:14:28.570965+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -199,13 +139,20 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T12:00:28.682268+00:00",
+      "chain_fetched_at_utc": "2026-11-27T14:14:29.001699+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
   ],
   "breakouts": [],
-  "ai_analyses": [],
-  "ai_status": "NO_AI_AVAILABLE",
-  "available_models": []
+  "ai_analyses": [
+    {
+      "provider": "GROQ",
+      "analysis": "**DAILY MARKET REPORT — 27 Nov 2026**\n\n---\n\n### 1. MARKET REGIME  \n- **NIFTY** – 25 607.20 (‑1.07 % from prior close). RSI 14 = 66.96, EMA‑20 = 24 933.84, EMA‑50 = 24 205.09, EMA‑200 = 24 227.52.  \n- **BANKNIFTY** – 63 040.90 (‑0.78 % from prior close). RSI 14 = 71.71, EMA‑20 = 60 764.49, EMA‑50 = 58 517.15, EMA‑200 = 57 462.62.  \n\nBoth indices are **below the previous close but still trading above their 20‑day EMAs** and have **high RSI values**, suggesting a **short‑term bearish bias within a still‑elevated‑momentum, range‑bound to mildly volatile environment**.  \n\n---\n\n### 2. TOP CURRENT CATALYSTS  \n\n| FACT (timestamp) | NEWS IMPACT | COMMENT |\n|------------------|-------------|---------|\n| **India bonds slump as oil spike adds to RBI hike bets** – Economic Times, 27 Nov 2026 17:24 IST (age ≈ 2 h) | Higher oil → inflation pressure → expectations of RBI rate‑hike → bond‑yield rise (7.265 %). | **Bearish for risk assets**; could weigh on equities and indices. |\n| **India bonds decline ahead of fresh debt sale** – Economic Times, 27 Nov 2026 11:40 IST (age ≈ 8 h) | Same theme –‑ rising yields, inflation worries. | Reinforces the above bias. |\n| **Eurozone bond yields rise as investors return to riskier assets** – Economic Times, 27 Nov 2026 15:56 IST (age ≈ 4 h) | Global risk‑off sentiment, oil rebound. | Adds to overall market caution. |\n| **Rupee rally takes a hit as AI trade revival dents shares** – Economic Times, 27 Nov 2026 15:53 IST (age ≈ 4 h) | Weakening INR, modest equity sell‑off. | Supports the bearish tilt. |\n| **Capital market industry hopes for relief in capital‑gains tax (Budget 2027‑28)** – Economic Times, 27 Nov 2026 18:56 IST (age ≈ 1 h) | Policy‑side optimism but no immediate price impact. | Neutral / low materiality. |\n\n*All news items are **catalyst‑type** with materiality scores ≤ 6; none constitute a strong directional trigger on their own.*\n\n---\n\n### 3. GLOBAL / MACRO  \n- Oil price rebound and higher US Treasury yields are lifting global bond yields (Eurozone, India).  \n- No major geopolitical shock beyond “Middle‑East tensions” mentioned; the primary macro driver is **inflation‑linked rate‑hike expectations**.\n\n---\n\n### 4. INDIA GOVERNMENT / POLICY  \n- RBI likely to consider a policy rate increase in the upcoming meeting (not yet announced).  \n- Fresh sovereign‑debt issuance (₹330 bn) adds supply pressure on bonds, reinforcing the rate‑hike narrative.\n\n---\n\n### 5. SECTOR / COMPANY NEWS  \n- **BEL** (Bharat Electronics) up +1.72 % on the day, trading at ₹411.45, volume ≈ 15.5 M (1.5× 20‑day avg).  \n- **SHRIRAMFIN** down ‑3.99 % to ₹923.50, volume ≈ 21 M (3.3× avg).  \n- **Other listed candidates** (e.g., TATAMOTORS, ADANIPORTS, etc.) have no fresh news in the feed.\n\n---\n\n### 6. RESULTS / EARNINGS  \n- No earnings releases or corporate results are present in the supplied evidence for the current session.\n\n---\n\n### 7. F&O / OI CONFIRMATION  \n\n| Symbol | Option‑chain data available? | Setup‑quality score* | Deep‑chain checked |\n|--------|-----------------------------|----------------------|--------------------|\n| **SHRIRAMFIN** | **No** (source = unavailable) | 62.98 | ✔ |\n| **BEL** | **No** | 51.66 | ✔ |\n| **PERSISTENT** | **No** | 47.91 | ✔ |\n| **NIFTY** | **No** | – | – |\n| **BANKNIFTY** | **No** | – | – |\n\n\\*Score is the system‑generated “setup‑quality” metric; a **SUPER SETUP** requires ≥ 90 / 100 **and** complete option‑chain evidence.\n\n**Result:** *All candidate option‑chains are missing critical fields (expiry, OI, volume, LTP, bid‑ask). According to the **Data Quality Gate**, this constitutes **DATA INSUFFICIENT** for any F&O trade.*\n\n---\n\n### 8. TECHNICAL SETUPS (Spot / Index)  \n\n| Symbol | Price | EMA‑20 | EMA‑50 | EMA‑200 | RSI | ATR | Key levels (Prev Day) |\n|--------|-------|--------|--------|---------|-----|-----|-----------------------|\n| NIFTY | 25 607.20 | 24 933.84 | 24 205.09 | 24 227.52 | 66.96 | 367.07 | High = 25 974.95, Low = 25 733.50 |\n| BANKNIFTY | 63 040.90 | 60 764.49 | 58 517.15 | 57 462.62 | 71.71 | 1 229.27 | High = 64 104.75, Low = 63 332.30 |\n| SHRIRAMFIN | 923.50 | 953.82 | 960.49 | 978.46 | 40.17 | 29.63 | High = 987.85, Low = 956.65 |\n| BEL | 411.45 | 396.41 | 392.61 | 404.46 | 64.82 | 7.75 | High = 410.00, Low = 403.05 |\n\n- **NIFTY & BANKNIFTY**: price below previous close but still above EMA‑20, indicating **potential short‑term pull‑back** rather than a clean breakout.  \n- **SHRIRAMFIN**: price **below** EMA‑20/50/200 and RSI ≈ 40 (moderately oversold). Volume is high (3.3× avg), but without option data we cannot validate a directional OI build‑up.  \n- **BEL**: price **above** EMA‑20/50/200, RSI ≈ 65 (approaching overbought), modest volume increase (1.5× avg). No option data to confirm OI.\n\n---\n\n### 9. BULLISH WATCHLIST  \n- **BEL** – price above all EMAs, modest volume, RSI ≈ 65; could test the previous‑day high (₹410) if buying pressure resumes.  \n- **NIFTY** – still above EMA‑20; a clean break above the prior‑day high (₹25 974.95) with strong volume could signal a bullish continuation.\n\n*No trade recommendation is made; these are observational watch‑list items.*\n\n---\n\n### 10. BEARISH WATCHLIST  \n- **SHRIRAMFIN** – price under EMA‑20/50/200, falling 4 % on the day, high volume; a break below the prior‑day low (₹956.65) could open a short‑term downside.  \n- **BANKNIFTY** – price below prior close, high RSI (71) suggesting possible short‑term exhaustion; a break below the prior‑day low (₹63 332.30) would confirm a bearish move.\n\n---\n\n### 11. TRAP / PRICED‑IN CHECK  \n\n| Symbol | Potential Trap | Priced‑in Assessment |\n|--------|----------------|----------------------|\n| NIFTY | Breakout above prior‑day high with **weak volume** would be a trap (no volume data, but current volume = 0). | **CANNOT DETERMINE** – missing volume/OI data. |\n| BANKNIFTY | Break below prior‑day low with **low volatility** could be a false breakdown; ATR is high (₹1 229) indicating volatility, reducing trap risk. | **PARTIALLY PRICED‑IN** – macro news already priced in some downside. |\n| SHRIRAMFIN | Sharp fall could be a **panic sell‑off** if not supported by OI; OI data unavailable → cannot confirm. | **DATA INSUFFICIENT**. |\n| BEL | Rally could be a **short‑covering bounce**; OI missing, so cannot verify. | **DATA INSUFFICIENT**. |\n\n---\n\n### 12. QUALIFIED TRADE SETUPS  \n\n**Result:** No candidate meets the **SUPER SETUP** threshold (≥ 90 / 100) **and** passes the **Data Quality Gate** (complete option‑chain, OI, volume, LTP, expiry).  \n\n**Therefore:**  \n\n> **NO CLEAR F&O TRADE SETUP — WAIT FOR CONFIRMATION.**  \n\nAll potential trades are blocked by missing option‑chain information; proceeding without OI/volume confirmation would violate the hard rules.\n\n---\n\n### 13. POSITION / RISK  \n\n- Capital available: **₹25,000**.  \n- No position recommended; risk of any speculative entry would be **unquantifiable** given the data gaps.\n\n---\n\n### 14. NO‑TRADE CONDITIONS  \n\n- **Option‑chain data unavailable** for all top‑ranked candidates and for NIFTY / BANKNIFTY (expiry, OI, volume, LTP missing).  \n- **Setup‑quality scores** are below the required 90 / 100 for a “SUPER SETUP”.  \n- **Critical fields** (expiry, OI, change‑in‑OI, volume, option LTP) are absent → **DATA INSUFFICIENT** per the Data Quality Gate.  \n\nHence, the system must **not** generate a trade.\n\n---\n\n### 15. FINAL SUMMARY  \n\n- The market is reacting to **higher oil prices and rising bond yields**, feeding expectations of an RBI rate hike.  \n- Both **NIFTY** and **BANKNIFTY** are modestly lower on the day but remain above short‑term EMAs, indicating a **cautious, possibly range‑bound environment**.  \n- **No F&O trade** can be justified because **option‑chain information is missing** for all high‑scoring candidates, and none achieve the required **setup‑quality score**.  \n- Traders should **monitor the watch‑list stocks** (BEL, SHRIRAMFIN) and the indices for a **clear price‑action trigger** (break of key support/resistance with confirmed volume and OI) before considering any option entry.  \n\n*Stay disciplined – wait for a fully qualified setup before risking capital.*"
+    }
+  ],
+  "ai_status": "SINGLE_AI_AVAILABLE",
+  "available_models": [
+    "GROQ"
+  ]
 }
