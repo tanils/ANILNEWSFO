@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "final_session",
-  "generated_at_utc": "2026-11-27T19:09:10.283753+00:00",
+  "phase": "night",
+  "generated_at_utc": "2026-11-27T23:44:49.178983+00:00",
   "news": [
     {
       "headline": "India bonds slump as oil spike adds to RBI hike bets",
@@ -147,7 +147,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T19:09:24.452037+00:00",
+      "chain_fetched_at_utc": "2026-11-27T23:45:04.234441+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -163,7 +163,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T19:09:24.910286+00:00",
+      "chain_fetched_at_utc": "2026-11-27T23:45:04.692275+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
@@ -179,7 +179,7 @@
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T19:09:25.477048+00:00",
+      "chain_fetched_at_utc": "2026-11-27T23:45:05.207240+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
