@@ -1,7 +1,7 @@
 {
   "app_version": 1,
-  "phase": "live_scan",
-  "generated_at_utc": "2026-11-27T18:25:33.859244+00:00",
+  "phase": "final_session",
+  "generated_at_utc": "2026-11-27T19:09:10.283753+00:00",
   "news": [
     {
       "headline": "India bonds slump as oil spike adds to RBI hike bets",
@@ -44,6 +44,16 @@
       "symbols": "MARKET/SECTOR"
     },
     {
+      "headline": "Copper sweeps higher as China offers stock market support",
+      "summary": "Copper prices experienced a notable increase after China's cabinet announced its support for the stock market, which positively impacted global equities. This rise follows a significant drop in copper prices earlier this month. Moreover, China's industrial profits recorded their highest growth in five months during October. The Yangshan premium for copper reflects a robust demand for imports, even in the face of recent downturns.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms",
+      "published": "Sat, 28 Nov 2026 00:13:45 +0530",
+      "freshness": "new",
+      "news_type": "catalyst",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
       "headline": "Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month",
       "summary": "Six BSE 1000 stocks, including Dishman Carbogen Amcis, Happiest Minds and TCI Express, touched fresh 52-week lows on Friday amid weakness in the broader market.",
       "source": "Economic Times Markets",
@@ -52,6 +62,26 @@
       "freshness": "new",
       "news_type": "context",
       "symbols": "BSE"
+    },
+    {
+      "headline": "OPEC+ set to keep oil production targets steady: Report",
+      "summary": "OPEC+ is expected to maintain its production targets for Q1 2027, despite complexities arising from conflicting member production estimates and the ongoing Iran conflict. As the group reassesses its capacity data, some members voice their concerns over the initial findings. Analysts foresee a potential global oil surplus next year, increasing pressure on OPEC+, further complicated by recent exits of nations like the United Arab Emirates and Angola, indicating internal frictions.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+      "published": "Sat, 28 Nov 2026 00:16:42 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
+    },
+    {
+      "headline": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+      "summary": "Gold prices have recently experienced a modest uptick after bottoming out at a 15-month low. Despite the robustness of the US dollar, surging Treasury yields are making investors wary. Following two weeks of declines, gold is now positioned for a weekly gain close to 2.5%. There has been a notable rise in physical gold demand, notably in India and China.",
+      "source": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136231951.cms",
+      "published": "Sat, 28 Nov 2026 00:09:27 +0530",
+      "freshness": "new",
+      "news_type": "context",
+      "symbols": "MARKET/SECTOR"
     },
     {
       "headline": "Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD",
@@ -107,49 +137,49 @@
   "fno_candidates": [
     {
       "rank": 1,
-      "symbol": "SHRIRAMFIN",
-      "price": 923.5,
-      "change_pct": -3.99,
-      "setup_quality_score": 62.98,
+      "symbol": "BSE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T18:25:44.700215+00:00",
+      "chain_fetched_at_utc": "2026-11-27T19:09:24.452037+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 2,
-      "symbol": "BEL",
-      "price": 411.45001220703125,
-      "change_pct": 1.72,
-      "setup_quality_score": 51.66,
+      "symbol": "RELIANCE",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T18:25:45.403902+00:00",
+      "chain_fetched_at_utc": "2026-11-27T19:09:24.910286+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     },
     {
       "rank": 3,
-      "symbol": "PERSISTENT",
-      "price": 6320.0,
-      "change_pct": 1.94,
-      "setup_quality_score": 47.91,
+      "symbol": "HDFCBANK",
+      "price": NaN,
+      "change_pct": NaN,
+      "setup_quality_score": NaN,
       "option_chain_available": false,
       "expiry": null,
       "option_summary": "Expiry: None | PCR OI: n/a | Call OI: n/a | Put OI: n/a | Highest Call OI: n/a | Highest Put OI: n/a",
       "calls": [],
       "puts": [],
       "chain_source": "unavailable",
-      "chain_fetched_at_utc": "2026-11-27T18:25:45.923754+00:00",
+      "chain_fetched_at_utc": "2026-11-27T19:09:25.477048+00:00",
       "chain_provider_timestamp": null,
       "chain_warning": null
     }
